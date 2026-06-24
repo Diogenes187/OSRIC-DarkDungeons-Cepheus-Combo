@@ -846,7 +846,39 @@ class RefereeTools:
         self.repo.conn.execute("UPDATE character SET gear_json=? WHERE id=?",
                                (json.dumps(gear), row["id"]))
         self.repo.conn.commit()
+        if found["category"] == "armour":
+            ac = self.recalc_ac(name)
+            if isinstance(ac, dict) and "ac_descending" in ac:
+                result["ac_descending"] = ac["ac_descending"]
         return result
+
+    def recalc_ac(self, name: str) -> Dict[str, Any]:
+        """Recompute and store a character's AC from worn armour + shield + DEX,
+        using the engine's own equipment and ability data. add_equipment calls
+        this automatically whenever armour or a shield is added."""
+        row = self._find_char(name)
+        if not row:
+            return {"error": "no character named {}".format(name)}
+        gear = json.loads(row.get("gear_json") or "[]")
+        classes = [c.get("class") for c in json.loads(row.get("classes_json") or "[]")]
+        dex = row.get("dex_score") or 10
+        dex_ac = 0 if "Monk" in classes else ab_mod.dexterity_mods(dex).get("ac_adj", 0)
+        armours = [equip_data.ARMOUR[g["item"]]["ac_desc"] for g in gear
+                   if g.get("item") in equip_data.ARMOUR
+                   and "ac_desc" in equip_data.ARMOUR[g["item"]]]
+        shields = [equip_data.ARMOUR[g["item"]]["ac_bonus"] for g in gear
+                   if g.get("item") in equip_data.ARMOUR
+                   and "ac_bonus" in equip_data.ARMOUR[g["item"]]]
+        base = min(armours) if armours else 10
+        shield = max(shields) if shields else 0
+        ac_desc = base + dex_ac - shield
+        ac_asc = 20 - ac_desc
+        self.repo.conn.execute(
+            "UPDATE character SET ac_descending=?, ac_ascending=? WHERE id=?",
+            (ac_desc, ac_asc, row["id"]))
+        self.repo.conn.commit()
+        return {"name": name, "ac_descending": ac_desc, "ac_ascending": ac_asc,
+                "armour_base": base, "shield_bonus": shield, "dex_adj": dex_ac}
 
     def encumbrance(self, name: str) -> Dict[str, Any]:
         row = self._find_char(name)
@@ -2421,6 +2453,10 @@ def specs() -> List[Dict[str, Any]]:
           "'3d6' | '4d6' (drop lowest) | '5d6' (drop two); default 4d6, count 6. "
           "Returns each score with kept and dropped dice. Use for chargen.",
           {"method": S, "count": I}),
+        t("recalc_ac", "Recompute and store a character's armour class from their "
+          "worn armour, shield, and DEX (engine-owned). Runs automatically when "
+          "armour is bought; call manually after dropping or swapping armour.",
+          {"name": S}, ["name"]),
         t("lookup_rule", "Search the OSRIC rules (authoritative; matches the "
           "engine) for a procedure, class ability, or spell effect.",
           {"query": S}, ["query"]),

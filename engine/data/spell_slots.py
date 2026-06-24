@@ -75,14 +75,15 @@ def _cleric_wisdom_bonus(wis: int) -> Dict[int, int]:
 def slots(char_class: str, char_level: int, wis: Optional[int] = None) -> List[int]:
     """Spells memorisable per spell level for a caster. Empty list for non-casters.
 
-    For clerics, pass `wis` to fold in the high-Wisdom bonus slots (granted only
-    for spell levels the cleric can already cast)."""
+    For Wisdom casters (clerics AND druids), pass `wis` to fold in the
+    high-Wisdom bonus slots (granted only for spell levels they can already
+    cast)."""
     grid = _GRIDS.get(char_class)
     if not grid:
         return []
     lvl = max(1, min(char_level, max(grid)))
     base = list(grid[lvl])
-    if char_class == "Cleric" and wis:
+    if char_class in ("Cleric", "Druid") and wis:
         bonus = _cleric_wisdom_bonus(wis)
         for spell_level, extra in bonus.items():
             idx = spell_level - 1
