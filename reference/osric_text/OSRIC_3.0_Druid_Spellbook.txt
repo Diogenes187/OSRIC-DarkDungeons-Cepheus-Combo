@@ -1,0 +1,2920 @@
+
+===== PAGE 1 =====
+DRUID SPELLBOOKDRUID SPELLBOOK
+
+===== PAGE 2 =====
+Authors: Stuart Marshall, Matthew Finch
+Contributing Authors: EoTB, Will Mistretta
+Initial Developers: David M. Prata and Allan 
+T. Grohe Jr
+Editors: Matt Finch, Gene Mayes, Dale Blatt, 
+Will Mistretta
+Contributing Authors and Editors to OSRIC 
+v2.2: John Adams, Nick Bogan, James Boney, 
+Chris Cain, Floyd Canaday, Mike Davison, 
+Mark Evans, Trent Foster, Vincent Fruge, Jer -
+emy Goehring, Chris Hopkins, B. Scot Hoover, 
+James D. Kramer, Fabrice Philibert-Caillat, Da-
+vid M. Prata, Daniel Proctor, Robert Ross, Bill 
+Silvey, Matthew James Stanham, and Matthew 
+Steward.
+Artists: Brett Barkley, Kennon James, JE 
+Shields, John Sumrow, Del Teigeler
+Layout & Design: Suzy Moseby
+Errata: Although we’ve done multiple edit -
+ing passes and crowdsourced proofreading 
+to thousands of backers, there will inevitably 
+be errors in a book of this size. The best way 
+to address these errors will be to add to the 
+fan-maintained lists online, which will be the 
+better place to maintain a record. This is a 
+matter of practicality; we aren’t set up to cu -
+rate and maintain an online errata list, and 
+the internet is extremely well set up for this 
+purpose. Please don’t send errata directly to 
+Mythmere Games.
+LEGAL NOTE:  Mythmere Games and the 
+authors of this document are not affiliated 
+in any way with Wizards of the Coast, Inc. 
+(WOTC) or HASBRO, the holders of the 
+trademarks “Dungeons & Dragons” and 
+“D&D”. Mentions of these trademarks 
+(including “AD&D”) in this book are solely 
+for accurate reference, and are not 
+intended as the use of, or as a claim to, 
+such trademarks.
+FOR FREE UPDATES AND OTHER OSRIC 
+SUPPORT, VISIT: 
+• mythmeregames.com
+• knights-n-knaves.com/osric
+This work includes material taken from the System 
+Reference Document 5.1 (“SRD 5.1”) by Wizards of 
+the Coast LLC and available at: https://dnd.wizards.
+com/resources/systems-reference-document. The 
+SRD 5.1 is licensed under the Creative Commons 
+Attribution 4.0 International License available at: 
+https://creativecommons.org/licenses/by/4.0/legal -
+code.
+Text © Stuart Marshall and Matthew Finch 2006–
+2025 or contributing author 2006–2025 and used 
+with permission.
+Stuart Marshall and Matt Finch assert their moral 
+right to be identified as the authors of this work.
+Illustrations and maps are copyright by the respec -
+tive artists 2006–2025, used with permission.
+“OSRIC”, “Osric” and “O.S.R.I.C.” are trademarks of 
+Matthew Finch and Stuart Marshall
+“OSRIC 3” is a trademark of Mythmere Games.
+OLD SCHOOL REFERENCE 
+AND INDEX COMPILATION
+979-8-88584-045-3 PDF
+===== PAGE 3 =====
+
+===== PAGE 4 =====
+TABLE OF CONTENTS
+1.8.3.1. FIRST LEVEL DRUID SPELLS ..............................5
+1.8.3.2. SECOND LEVEL DRUID SPELLS .........................9
+1.8.3.3. THIRD LEVEL DRUID SPELLS ...........................14
+1.8.3.4. FOURTH LEVEL DRUID SPELLS ....................... 20
+1.8.3.5. FIFTH LEVEL DRUID SPELLS ............................25
+1.8.3.6. SIXTH LEVEL DRUID SPELLS ...........................30
+1.8.3.7. SEVENTH LEVEL DRUID SPELLS ...................... 34
+
+===== PAGE 5 =====
+4 | OSRIC 3.0 -DRUID SPELLBOOK 
+ 1.8.3. DRUID  SPELLS BY LEVEL
+LEVEL ONE LEVEL TWO LEVEL THREE LEVEL FOUR
+1 Animal Friendship Barkskin Call Lightning Animal Summoning 
+I
+2 Detect Magic Charm Person or 
+Mammal Cure Disease Call Woodland 
+Beings
+3 Detect Pits/Snares Create Water Hold Animal Control Temp., 100ft 
+radius.
+4 Entangle Cure  Light Wounds Neutralise  Poison Cure Serious 
+Wounds
+5 Faerie Fire Feign  Death Plant Growth Dispel Magic
+6  Invisibility to 
+Animals Fire Trap Protection From Fire Hallucinatory Forest
+7 Locate Animals Heat Metal Pyrotechnics Hold Plant
+8 Pass Without Trace Locate Plants Snare Plant Door
+9 Predict Weather Obscurement Stone Shape Produce Fire
+10 Purify Water Produce Flame Summon Insects Protection from 
+Lightning
+11 Shillelagh Trip Tree Repel Insects
+12 Speak with Animals Warp Wood Water Breathing Speak with Plants
+LEVEL FIVE LEVEL SIX LEVEL SEVEN
+1 Animal Growth Animal Summoning III Animate Rock
+2 Animal Summoning II Anti-Animal Shell Chariot of Fire
+3 Anti-Plant Shell Conjure Fire Elemental Confusion
+4 Commune With Nature Cure Critical Wounds Conjure Earth Elemental
+5 Control Winds Feeblemind Control Weather
+6 Insect Plague Fire Seeds Creeping Doom
+7 Pass Plant Transport via Plants Finger of  Death
+8 Sticks to Snakes Turn Wood Fire Storm
+9 Transmute Rock to Mud Wall of Thorns Reincarnate
+10 Wall of Fire Weather Summoning Transmute Metal to Wood
+===== PAGE 6 =====
+ FIRST LEVEL DRUID SPELLS  | 5
+ 1.8.3.1. FIRST LEVEL 
+ DRUID  SPELLS
+ ANIMAL FRIENDSHIP
+Druidic enchantment, level 1
+RANGE 10ft
+DURATION Permanent 
+(Instantaneous)
+AREA OF EFFECT 1 creature
+COMPONENTS V, S, M
+CASTING TIME 6 turns
+SAVING THROW Yes (negates effect)
+This spell enchants a normal animal of neutral 
+alignment to become your faithful friend and 
+companion. 
+Details
+The spell only functions on creatures with ex -
+actly “animal” intelligence (1 Intelligence).
+A druid may only have animal friends with hit 
+dice totalling twice his or her level. (The total 
+hit dice can thus increase as the druid gains 
+levels.)
+The spell does not function on creatures with 
+magical capabilities, although it can function 
+on a giant animal subject to the hit die maxi -
+mum.
+The animal must attempt a saving throw vs. 
+spells at the beginning of the casting time, not 
+when the spell is cast. 
+If it fails the saving throw, it remains calm for 
+the remainder of the casting time, and the spell 
+will succeed as long as the casting is not inter -
+rupted. If it succeeds, the spell has no effect 
+and is lost.
+Once the spell is complete, the animal remains 
+with the druid and can learn tricks similar to 
+those that could be taught to a trained domes-
+tic pet. Each trick takes a week to learn, and 
+after the animal has been with the druid for 
+three months it will no longer be able to learn 
+new tricks. During this period, if the animal 
+is left alone by the druid for more than three 
+days, the enchantment will be broken and the 
+animal will revert to the wild. 
+ DETECT MAGIC
+Druidic divination, level 1
+RANGE Caster
+DURATION 12 rounds
+AREA OF EFFECT Path 10ft wide, 40ft 
+long
+COMPONENTS V, S, M
+CASTING TIME 3 segments
+SAVING THROW None
+You see an aura around each magical creature, 
+object, or place within the area of effect.
+If the creature, object, or place is invisible, then 
+you know where it is, but you still can’t see it. If 
+you make an attack roll against it, then the “to 
+hit” roll penalty for attacking an invisible target 
+is halved, so usually -2 instead of -4.
+Details
+Only you (the caster) can “see” the magical 
+auras. The spell reveals enchantments, not 
+powers, so it would detect a magic item but it 
+wouldn’t detect a druid (or other spellcaster) 
+unless they were using a spell.
+Solid material can block the spell. The spell 
+can only penetrate metal if it’s one inch thick 
+or less, and brick or stone if it’s one foot thick 
+or less.
+Unlike the magic-user version of this spell, you 
+can’t tell which school or schools of magic are 
+affecting the target.
+You must concentrate on maintaining the spell, 
+or it ends. See Section 1.8.1.5 (Concentration) 
+for how this works.
+===== PAGE 7 =====
+6 | OSRIC 3.0 -DRUID SPELLBOOK 
+ DETECT PITS/SNARES
+Druidic divination, level 1
+RANGE Caster
+DURATION 4 rounds per druid 
+level
+AREA OF EFFECT Path 10ft wide, 40ft 
+long
+COMPONENTS V, S, M
+CASTING TIME 3 segments
+SAVING THROW None
+This spell allows you to magically perceive vir -
+tually any form of trap while outdoors. While 
+indoors or underground, you can still detect 
+the presence of pit traps, but not other types 
+of traps.
+ ENTANGLE
+Druidic transmutation, level 1
+RANGE 80ft
+DURATION 1 turn
+AREA OF EFFECT 20ft radius around 
+target point
+COMPONENTS V, S, M
+CASTING TIME 3 segments
+SAVING THROW Yes (lessens effect)
+This spell causes all plants in a 20ft radius of 
+the targeted location to begin writhing violent -
+ly about, whipping around and entangling any 
+creature in the area.
+Details
+Creatures in the area of effect may attempt a 
+saving throw vs. spells. 
+If the saving throw succeeds, the creature’s 
+movement rate is slowed to half normal while 
+in the area of effect. If the saving throw fails, 
+the creature is so securely held in the plants 
+that it cannot move, attack, or cast spells for 
+the duration of the spell. It is not, however, 
+considered to be completely paralysed/held.
+The targeted area must already contain plants; 
+plants are not created by the spell. However, 
+even small plants will grow slightly to allow the 
+spell effect.
+ FAERIE FIRE
+Druidic transmutation, level 1
+RANGE 80ft
+DURATION 4 rounds per druid 
+level
+AREA OF EFFECT 1 size M or 2 size S 
+creatures/caster level
+COMPONENTS V
+CASTING TIME 3 segments
+SAVING THROW None
+This spell ignites a fiery-looking aura of bright 
+light around the enemies you designate, mak -
+ing them easier to hit with attacks.
+Details
+The aura is visible at a range of 80ft if the ob -
+server stands in darkness, and at 40ft if he or 
+she stands near another light source. 
+The light itself is harmless, but a creature lit by 
+faerie fire is easier to hit; any attacks against it 
+are made with a bonus of +2.
+   INVISIBILITY TO ANIMALS
+Druidic transmutation, level 1
+RANGE Touch
+DURATION 1 turn + 1 round per 
+druid level
+AREA OF EFFECT One creature
+COMPONENTS S, M
+CASTING TIME 4 segments
+SAVING THROW None
+The person on whom this spell is cast becomes 
+invisible, scentless, and silent to normal ani -
+mals.
+Details
+Creatures with magical abilities are not affect -
+ed by this spell, which affects only ordinary 
+creatures and giant versions of them.
+Creatures with intelligence of 6+ are not affect-
+ed by the spell.
+This powerful form of invisibility is not dispelled 
+if the druid attacks.
+===== PAGE 8 =====
+ FIRST LEVEL DRUID SPELLS  | 7
+Druids will not use this spell to attack animals 
+except in unusual circumstances. It is normally 
+used to sneak past them, or escape.
+ LOCATE ANIMALS
+Druidic divination, level 1
+RANGE Caster
+DURATION 1 round per druid 
+level
+AREA OF EFFECT
+Path 20ft wide, and 
+20ft per druid level in 
+length
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+This spell allows you to detect the presence of 
+a specific type of animal you choose to locate.
+Details
+You must concentrate for a full round in a par -
+ticular direction in order to gain the insight 
+granted by the spell. 
+The divination is not blocked by any interven -
+ing substance, of any thickness, so it can “see” 
+through walls, thick growths of trees, and into 
+burrows.
+ PASS WITHOUT TRACE
+Druidic enchantment/charm, level 1
+RANGE Touch
+DURATION 1 turn/ druid level
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+This spell allows the targeted creature to move 
+through any sort of terrain without leaving be -
+hind any sign of its passage. It leaves no foot -
+prints, no scent, and no other telltales of move-
+ment.
+Details
+The path taken by the target creature radiates 
+magic for 6d6 turns, so the only way to detect 
+the path taken is with a detect magic spell. 
+ PREDICT WEATHER
+Druidic divination, level 1
+RANGE Nil
+DURATION Instantaneous
+AREA OF EFFECT Surrounding 9 square 
+miles
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+This spell predicts the weather as it will natu -
+rally occur within the surrounding nine square 
+miles for the next two hours per caster level. 
+The prediction extends two hours per druid 
+level of the caster. Example: a second level dru-
+id can predict the weather four hours into the 
+future with this spell.
+Details
+The spell is cast upon virtually any nearby 
+substance: bones, leaves, powders, etc. The 
+pattern of the substance after the spell is cast 
+reveals what the weather will be if it remains 
+unaffected by magic.
+ PURIFY WATER
+Druidic transmutation, level 1
+RANGE 40ft
+DURATION Instantaneous
+AREA OF EFFECT 1 cubic ft per druid 
+level
+COMPONENTS V, S
+CASTING TIME 1 round
+SAVING THROW None
+This spell removes all impurities from water, 
+making it clear and drinkable.
+Details
+Both holy 
+water and 
+unholy water 
+are turned to 
+normal water 
+by this spell.
+
+===== PAGE 9 =====
+8 | OSRIC 3.0 -DRUID SPELLBOOK 
+REVERSIBLE AS CONTAMINATE WATER:
+ CONTAMINATE WATER
+Druidic transmutation, level 1
+RANGE 40ft
+DURATION Instantaneous
+AREA OF EFFECT 1 cubic ft per druid 
+level
+COMPONENTS V, S
+CASTING TIME 1 round
+SAVING THROW None (see below)
+This spell makes water unsafe to drink.
+Details
+Both holy water and unholy water are turned 
+to normal water by this spell.
+Contaminated water is obviously fouled and 
+dangerous to drink. Anyone who does so must 
+make a saving throw versus poison, and if it 
+fails, the person suffers from a mild disease for 
+2d6 days. This disease reduces 3 ability scores 
+(randomly determined by the GM) by 1d4 
+points each until the disease has run its course.
+ SHILLELAGH
+Druidic transmutation, level 1
+RANGE Touch
+DURATION 1 round per druid 
+level
+AREA OF EFFECT One oak-club
+COMPONENTS V, S, M
+CASTING TIME Fast
+SAVING THROW None
+This spell temporarily enchants a club of oak-
+wood, making it +1 “to hit” and capable of in -
+flicting 2d4 points of damage against small and 
+medium-sized opponents, 1d4+1 against large 
+opponents.
+Details
+The shillelagh must be wielded by the druid in 
+order for it to possess these magical proper -
+ties; in the hands of any other person it will be 
+no more than an ordinary wooden club.
+ SPEAK WITH ANIMALS
+Druidic transmutation, level 1
+RANGE 40ft
+DURATION 2 rounds/druid level
+AREA OF EFFECT One creature
+COMPONENTS V, S
+CASTING TIME 3 segments
+SAVING THROW None
+This spell gives you the power to communicate 
+with a nearby animal.
+Details
+When you speak to the animal, you speak in 
+any language you know, and it magically under-
+stands you. It speaks in whatever way its spe -
+cies naturally communicates, and the words 
+are translated into your mind (other people do 
+not hear the translation). You can try to per -
+suade, deceive, or bargain with the creature 
+into performing a service for you.
+This spell affects normal, non-fantastic crea -
+tures such as wolves, badgers, and bears. It 
+also affects giant versions of these creatures as 
+long as the giant version doesn’t have addition-
+al, fantastic-type abilities. Example: a giant liz -
+ard would be affected, but not a basilisk (which 
+is much like a giant lizard but has magical prop-
+erties as well).
+Mindless animals (INT “non” or 0) are not af -
+fected by the spell, and the animal must have 
+an intelligence of animal, semi-, or low in order 
+for the spell to function. Example: a giant lynx 
+(“very” intelligent) would not be affected. With 
+apologies to any evolutionary biologists who 
+might read this, humans aren’t considered ani-
+mals for the purposes of this spell.
+The affected creature usually won’t begin com-
+bat with you while the spell is in effect, but if 
+you or your companions have attacked the 
+creature, it isn’t forced to stop fighting by the 
+spell.
+This spell doesn’t compel the affected creature 
+to tell the truth.
+===== PAGE 10 =====
+ SECOND LEVEL DRUID SPELLS  | 9
+ 1.8.3.2. SECOND LEVEL  
+DRUID  SPELLS
+ BARKSKIN
+Druidic transmutation, level 2
+RANGE Touch
+DURATION 4 rounds+1 round/
+druid level
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 3 segments
+SAVING THROW None
+The barkskin spell magically toughens a crea -
+ture’s skin, making it as strong as tree bark.
+Details
+The recipient 
+of the spell im -
+proves their ar -
+mour class by 
+one point and 
+also gains a +1 
+bonus on all 
+saving throws, 
+with the excep -
+tion of saving 
+throws against 
+Spells.
+ CHARM PERSON/MAMMAL
+Druidic enchantment/charm, level 2
+RANGE 80ft
+DURATION See below
+AREA OF EFFECT One person or 
+mammal
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW Yes (negates effect)
+This spell causes the target to view the caster 
+as a trusted friend, if the target fails a saving 
+throw vs. spells.
+Details
+This spell will affect any “person,” meaning 
+character ancestries and other small to medi -
+um-sized bipeds analogous to persons (orcs, 
+goblins, etc.). 
+The spell also affects mammalian animals of 
+any kind, even those that are supernatural, gi -
+ant, or monstrous. 
+If the target creature fails a saving throw, it will 
+view you as a trusted friend, interpreting your 
+every word in its most positive light. Charmed 
+creatures will place themselves into moderate 
+danger, including combat, on your behalf, but 
+will not undertake risks beyond those the crea-
+ture might ordinarily take. You must be able 
+to talk to the charmed creature if you are to 
+make any sort of complex “request”. Charmed 
+creatures are allowed periodic saving throws to 
+break the charm, based on intelligence:
+INT FREQUENCY OF SAVING 
+THROWS
+19+ one saving throw/day
+18 one saving throw/2 days
+17 one saving throw/3 days
+15–16 one saving throw/week
+13–14 one saving throw/2 weeks
+10–12 one saving throw/3 weeks
+7–9 one saving throw/month
+4–6 one saving throw/2 months
+3 or less one saving throw/3 months
+The charm will be broken automatically if you 
+obviously try to harm the charmed creature.
+
+===== PAGE 11 =====
+10 | OSRIC 3.0 -DRUID SPELLBOOK 
+ CREATE WATER
+Druidic transmutation, level 2
+RANGE 10ft
+DURATION Instantaneous
+AREA OF EFFECT Up to 1 cubic foot/
+caster level
+COMPONENTS V, S
+CASTING TIME 1 turn
+SAVING THROW None
+For each level you have in the druid class, you 
+can conjure up to 1 cubic foot (about sixteen 
+litres) of water from the Elemental Plane of Wa-
+ter. You can limit the amount of water created 
+if you choose.
+Details
+Unless the target point is inside a receptacle, 
+the water immediately spills.
+The target point can’t be inside a creature.
+Unlike the cleric version, the druidic version of 
+this spell is not reversible.
+ CURE  LIGHT WOUNDS
+Druidic necromancy, level 2
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 4 segments
+SAVING THROW None
+The target creature regains 1d8 hit points, up 
+to its normal maximum. Any healing over the 
+creature’s normal maximum is wasted.
+Details
+This spell can’t cure diseases, reattach limbs, 
+bring back the dead, or heal any other afflic -
+tion that isn’t an injury measured in hit points. 
+These more serious injuries must be healed 
+with more powerful spells.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+REVERSIBLE AS CAUSE LIGHT WOUNDS:
+ CAUSE  LIGHT WOUNDS
+Druidic necromancy, level 2
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 4 segments
+SAVING THROW None
+The touched target creature takes 1d8 hit 
+points of magical damage, even if it is immune 
+to mundane weapons. Touching the creature 
+requires a successful to-hit roll, but no saving 
+throw is allowed.
+Details
+If you miss the to-hit roll on the target, no dam-
+age is inflicted and the spell is lost.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+ FEIGN  DEATH
+Druidic necromancy, level 2
+RANGE 10ft
+DURATION 4 rounds + 2 rounds 
+per druid level
+AREA OF EFFECT 1 creature
+COMPONENTS V, S, M
+CASTING TIME 3 segments
+SAVING THROW None
+This spell magically slows the recipient’s me -
+tabolism. It is impossible to tell that they aren’t 
+actually dead. 
+Details
+The recipient can hear, smell, and think, but the 
+senses of touch and sight no longer function.
+Damage caused to the pseudo-corpse is re -
+duced by one half, and the spell’s recipient 
+will not even know that the damage has been 
+caused—potentially a dangerous situation. 
+===== PAGE 12 =====
+ SECOND LEVEL DRUID SPELLS  | 11
+A person under the influence of this spell is not 
+subject to level draining by the undead and will 
+not be affected by poisons until the spell wears 
+off or is otherwise removed.
+The caster can remove the catalepsy at will, 
+and the spell is subject to being dispelled.
+ FIRE TRAP
+Druidic evocation, level 2
+RANGE Touch
+DURATION Permanent until 
+tripped
+AREA OF EFFECT 1 object
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW Yes (half damage)
+This spell enchants any item that can be 
+opened or closed (such as a door or chest) with 
+a magical trap. When the item is opened by any 
+person other than the caster, magical fire ex -
+plodes in an area 5ft in radius around the fire 
+trapped object, causing fire damage of 1d4 plus 
+the caster’s level to all creatures in this area. 
+A successful saving throw is allowed for each 
+victim, indicating half damage. 
+Details
+The item upon which this spell is cast suffers 
+no damage from the explosion. Detecting a fire 
+trap is extraordinarily difficult; attempts to find 
+traps are reduced by one-half in efficacy if the 
+trap is a fire trap, and the trap will detonate if 
+an attempt to remove traps fails.
+ HEAT METAL
+Druidic transmutation, level 2
+RANGE 40ft
+DURATION 7 rounds
+AREA OF EFFECT
+All metal worn by one 
+size Medium creature 
+per druid level, or 50 lbs 
+weight/druid level
+COMPONENTS V,S,M
+CASTING TIME 4 segments
+SAVING THROW None
+This extremely powerful spell causes metal to 
+heat up to searing temperatures. It affects all 
+metal worn by one size Medium creature per 
+druid level, or 50 lbs weight/druid level if the 
+metal is not worn by creatures. Magic armour, 
+if metal, is entitled to a saving throw against 
+magical fire, which negates the effect on the 
+armour if successful. Elfin chain mail is entirely 
+unaffected by the spell.
+Details
+Damage from contact with the metal changes 
+over time as the metal heats and then cools.
+Round 1 No effect other than 
+discomfort
+Round 2 1d4 hp fire damage
+Rounds 3–5
+2d4 hp fire damage, 
+severe blistering to 
+extremities (hands, feet), 
+and unconsciousness if 
+the metal is a helmet
+Round 6 1d4 hp fire damage
+Round 7 No effect other than 
+discomfort
+Immersion in water will negate the effects of 
+the spell.
+
+===== PAGE 13 =====
+12 | OSRIC 3.0 -DRUID SPELLBOOK 
+REVERSIBLE AS CHILL METAL:
+ CHILL METAL
+Druidic transmutation, level 2
+RANGE 40ft
+DURATION 7 rounds
+AREA OF EFFECT
+All metal worn by one 
+size M creature per 
+caster level, or 50 lbs 
+weight/caster level, as 
+applicable
+COMPONENTS V,S,M
+CASTING TIME 4 segments
+SAVING THROW None
+This extremely powerful spell causes metal to 
+become dangerously cold. It affects all metal 
+worn by one size Medium creature per druid 
+level, or 50 lbs weight/druid level if the metal is 
+not worn by creatures.
+Details
+Damage from contact with the metal changes 
+over time as the metal cools and then returns 
+to normal.
+Round 1 No effect other than 
+discomfort
+Round 2 1d2 hp cold damage
+Rounds 3–5
+1d4 hp cold damage, 
+severe frostbite (possible 
+need for amputation 
+of extremities such as 
+fingers, ears)
+Round 6 1d4 hp cold damage
+Round 7 No effect other than 
+discomfort
+ LOCATE PLANTS
+Druidic divination, level 2
+RANGE Caster
+DURATION 1 round/druid level
+AREA OF EFFECT Radius 5ft /druid 
+level
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+This spell allows you to detect the presence of 
+a specific type of plant you choose to locate.
+Details
+You must concentrate in order to gain the in -
+sight granted by the spell. 
+The divination is not blocked by any interven -
+ing substance, of any thickness, so it can “see” 
+through walls, thick growths of trees, and into 
+burrows.
+ OBSCUREMENT
+Druidic transmutation, level 2
+RANGE Nil
+DURATION 4 rounds/ druid level
+AREA OF EFFECT 10ft x 10ft cube per 
+druid level
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW None
+This spell causes an enchanted mist to billow 
+out from the area where the druid stands, rap-
+idly filling the area of effect and reducing visibil-
+ity therein to 1d4×2ft.
+Details
+The spell is affected by natural conditions such 
+as strong winds, which will reduce the spell’s 
+effective duration.
+===== PAGE 14 =====
+ SECOND LEVEL DRUID SPELLS  | 13
+ PRODUCE FLAME
+Druidic transmutation, level 2
+RANGE Caster
+DURATION 2 rounds/ druid level
+AREA OF EFFECT Small flame
+COMPONENTS V, S, M
+CASTING TIME 4 segments
+SAVING THROW Indirectly (see below)
+This spell ignites an eldritch flame in the palm 
+of the druid’s hand. It causes no harm to the 
+druid but is otherwise equivalent to the flame of 
+a torch. It can be used to set fires and may also 
+be thrown as a missile.
+ Details
+The throwing range of the flame is 40ft, and 
+when the flame hits an object it will explode, 
+potentially igniting all combustible material in 
+a radius of 15ft. Materials are entitled to saving 
+throws against normal fire. The flash-flame in -
+flicts 1d3 hit points of fire damage (equivalent 
+to a torch) on creatures.
+The druid may banish the magical flame at will, 
+but fires set by it must be extinguished by nor-
+mal means.
+ TRIP
+Druidic enchantment, level 2
+RANGE Touch
+DURATION 1 turn/druid level
+AREA OF EFFECT 1 object up to 10ft in 
+length
+COMPONENTS V, S, M
+CASTING TIME 4 segments
+SAVING THROW See below
+This spell turns an appropriate object into a 
+magical trap of sorts. 
+Details
+The object rises from the ground and trips any 
+creature crossing over it, even if they are aware 
+of it.
+The object is 80% undetectable and will affect 
+even the caster.
+A saving throw vs spells is allowed to avoid the 
+effect, at a +4 bonus if the potential victim is 
+aware of the object’s presence. 
+The trap causes falls to be much worse than 
+normal: a running creature will suffer 1d6 
+points of damage and be stunned for 1d4+1 
+rounds, or will merely be stunned if they fall 
+onto a soft surface such as grass. Creatures 
+larger than size Medium are not affected by 
+the spell.
+ WARP WOOD
+Druidic transmutation, level 2
+RANGE 10ft per druid level
+DURATION Instantaneous 
+(permanent)
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 4 segments
+SAVING THROW None
+This spell permanently warps wood and may 
+be used to destroy arrows, spears, doors, etc. 
+Details
+The druid may affect a volume of wood roughly 
+fifteen inches long by one inch thick per caster 
+level, about the volume of an axe handle. Mul -
+tiple items may be affected; four arrows have 
+about the same volume as an axe handle. A 
+fifth-level druid could effectively destroy a nor-
+mal door with this spell.
+===== PAGE 15 =====
+14 | OSRIC 3.0 -DRUID SPELLBOOK 
+ 1.8.3.3. THIRD LEVEL  
+DRUID  SPELLS
+ CALL LIGHTNING
+Druidic transmutation, level 3
+RANGE Caster
+DURATION 1 turn per druid level
+AREA OF EFFECT 360ft radius around 
+caster
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW Yes (Half damage)
+This spell may only be cast outside, and only if 
+there is already significant cloud cover in the 
+area. Under these circumstances, you may use 
+this spell to call down a slow but shattering 
+barrage of lightning bolts from the sky to the 
+ground.
+Details
+One bolt may be called every turn (10 minutes) 
+and must land within the area of effect. 
+The bolts inflict 2d8 points of electrical dam -
+age, plus another d8 per level of the caster. 
+Any creature within 10ft of a bolt’s impact (or 
+along its downward path if airborne) will sus -
+tain damage.
+After the spell is cast, you do not need to main-
+tain concentration except in the round when 
+you call down another bolt of lightning.
+ CURE DISEASE
+Druidic necromancy, level 3
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW Permitted (negates 
+effect)
+The target creature is cured of all diseases (see 
+details, below), although full recovery may take 
+up to a week.
+Details
+Many diseases are described in terms of “the 
+victim will die within X days”, and this spell 
+stops that counting process; the target of the 
+spell is no longer at any risk of dying from a 
+disease. The fact that they may not have made 
+a “full recovery” yet simply means that they are 
+not yet at full strength.
+This spell cures physical pathologies and re -
+moves physical parasites. It can’t cure genetic 
+conditions or birth defects, and it only affects 
+mental health conditions to the extent that cur-
+ing any underlying pathology or parasite could.
+The spell only affects normally living creatures, 
+so does not affect constructs, elementals, go -
+lems, or undead.
+This spell can only cure lycanthropy if it’s cast 
+before the first time the affected creature 
+changes into lycanthrope form. After the crea -
+ture has changed into lycanthrope form, its ly -
+canthropy becomes a complex condition that’s 
+part disease, part curse, and partly a magical 
+alteration to its essential nature. 
+The target creature can choose to attempt a 
+saving throw vs spells and other effects, and if 
+it passes, one or more diseases of its choice are 
+not cured by this spell.
+This spell also has some special uses where it 
+cures other effects that aren’t precisely diseas-
+es. These special uses are listed in the relevant 
+creature or object’s descriptions elsewhere in 
+OSRIC.
+===== PAGE 16 =====
+ THIRD LEVEL DRUID SPELLS  | 15
+REVERSIBLE AS CAUSE DISEASE:
+ CAUSE DISEASE
+Druidic necromancy, level 3
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW Yes (negates effect)
+The creature you touch is infected by a disease 
+(details below).
+Details
+A touch is required, which means the caster 
+must make a to-hit roll if the target is resisting 
+and not immobilised. Even with a successful 
+touch, the target creature is allowed a saving 
+throw vs spells. If it passes the saving throw, it 
+isn’t affected by this spell.
+The spell only affects normally living creatures, 
+so does not affect constructs, elementals, go -
+lems, or undead.
+• The spell takes effect 1d6 turns after you 
+cast it. The creature takes 1 hp of disease 
+damage every turn (10 rounds) after the 
+spell takes effect, and each time it takes this 
+damage, its hp maximum is reduced by 1. 
+This damage can’t reduce the creature be-
+low 1 hp, and it can’t reduce the creature’s 
+hp maximum below 8 hp.
+• Every hour after this spell takes effect, the 
+creature takes a penalty of -1 on its attack 
+rolls and damage rolls. This penalty is cumu-
+lative, but it can’t reduce the creature’s 
+attack damage below 1 hp of damage.
+You can choose to end this spell at any time, 
+and if you’re killed, the target creature is cured.
+ HOLD ANIMAL
+Druidic enchantment, level 3
+RANGE 80ft
+DURATION 2 rounds per druid 
+level
+AREA OF EFFECT Up to 4 animals
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW Yes (see below)
+This spell paralyses up to 4 animals.
+Details
+If the animal fails its saving throw, it is para -
+lysed (see 1.6.10, “Conditions”) for the duration 
+of the spell.
+You decide how many animals you will target 
+with the spell: if there is only one target, the 
+saving throw is made at -4; if two, each makes 
+the saving throw at -2; if three, the saving throw 
+is at -1; and if you seek to hold four animals, 
+each makes its saving throw with no penalty.
+Creatures with magical abilities are not affect -
+ed by this spell, which affects only ordinary 
+creatures and giant versions of them. Humans, 
+demi-humans, and humanoids are not consid -
+ered animals.
+Creatures with intelligence of 6+ are not affect-
+ed by the spell.
+Note: “Animal” is a term that is defined differ -
+ently in different places in the original rules. We 
+have used invisibility to animals  as the model 
+here, rather than animal friendship.
+===== PAGE 17 =====
+16 | OSRIC 3.0 -DRUID SPELLBOOK 
+ NEUTRALISE  POISON
+Druidic transmutation, level 3
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW None
+This spell is targeted upon a single creature, on 
+a place, or on an object containing poison. It 
+makes a venom, toxin, or contaminant (usually 
+inside a creature) harmless. As a result, it can 
+potentially bring someone who has recently 
+“died” from poison “back to life.”
+Details
+This spell doesn’t affect diseases or contamina-
+tion caused by disease.
+Gods, demigods, artifacts, relics, and other 
+things of equivalent power aren’t affected by 
+this spell, but your GM might choose to say 
+that some effects caused by such things are 
+affected.
+If your target is a toxic or contaminated place, 
+then all toxins and contaminants are purged 
+from the affected area.
+Using the spell to de-venom an opponent
+If your target is a creature, then when you 
+cast this spell, it can choose to attempt a sav -
+ing throw vs spells and other magical effects. 
+If it passes the saving throw, it isn’t affected. 
+If a creature with a venomous attack fails the 
+save, then the venom component of its attack 
+is temporarily nullified. The venom is restored 
+at dawn the next day.
+Using the spell to revive someone “dead by poi-
+son”
+If your target is a creature that’s been poisoned, 
+then all venoms, toxins, or contaminants af -
+fecting that creature are purged from its sys -
+tem, but any damage the poison has already 
+inflicted remains. This spell can also affect 
+creatures that have recently died of poison. A 
+creature has “recently died of poison” if it died 
+either from poison damage, or because it failed 
+a saving throw vs poison, within a number of 
+turns equal to one turn for each level you have 
+in the druid class.
+REVERSIBLE AS POISON:
+   POISON
+Druidic transmutation, level 4
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT
+A 1ft cube for every 2 
+druid levels, including 
+no more than one 
+creature
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW Depends on use of 
+spell (see below)
+When you complete the words and gestures 
+of this spell, your touch becomes deadly poi -
+son. An alternative use of the spell is to make a 
+consumable substance poisonous. In both case 
+you must touch the target.
+Details
+If your target is a creature, then when you cast 
+this spell, it can choose to attempt a saving 
+throw vs poison. If it passes the saving throw, 
+it isn’t affected. 
+
+===== PAGE 18 =====
+ THIRD LEVEL DRUID SPELLS  | 17
+Creatures that are immune to poison aren’t af-
+fected by this spell.
+Gods, demigods, artifacts, relics, and other 
+things of equivalent power aren’t affected by 
+this spell.
+• If your target is a creature and it fails its 
+saving throw, it dies.
+• If your target is an edible or potable, it 
+becomes lethally poisonous. The first crea-
+ture to eat or drink from it must attempt a 
+saving throw vs poison or die, unless that 
+creature is immune to poison. When a crea-
+ture passes or fails this saving throw, the 
+remaining poison is nullified.
+ PLANT GROWTH
+Druidic transmutation, level 3
+RANGE 160ft
+DURATION Permanent
+AREA OF EFFECT 20x20ft square per 
+druid level
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+This spell causes plants and vines to grow with 
+unbelievable speed, forming a tangled barrier 
+of thick vegetation.
+Details
+The enchantment may be dispelled, or the 
+plants cleared by normal means. Chopping a 
+way through the barrier is possible, but move -
+ment is restricted to 10ft/turn (20ft for size L 
+creatures).
+There must be some sort of plants already 
+growing in the area of effect, even if they are 
+sparse. The spell does not create plants, it just 
+causes them to grow.
+ PROTECTION FROM FIRE
+Druidic abjuration, level 3
+RANGE Touch
+DURATION See below
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW None
+This spell protects the recipient from fire. It has 
+a greater effect if you cast it on yourself than it 
+does when cast on others. 
+Details
+The spell lasts until the target has been attacked 
+by total potential fire damage of 12 hp/druid 
+level, at which time the spell will be dissipated, 
+and if it is not dissipated by damage, it ends af-
+ter 1 turn per druid level. Making a successful 
+saving throw does not reduce the “total poten-
+tial fire damage” count.
+If you cast the spell upon yourself:
+• You become immune to damage from 
+normal fire.
+• You become immune to damage from magi-
+cal fire (dragon breath, fireball, etc.).
+If the spell is cast upon another creature:
+• The recipient becomes immune to normal 
+fire. 
+• The recipient gains a saving throw bonus of 
++4 against magical fire-based attacks, spells, 
+and effects.
+• Damage caused by magical fire attacks 
+inflicts only half damage.
+===== PAGE 19 =====
+18 | OSRIC 3.0 -DRUID SPELLBOOK 
+ PYROTECHNICS
+Druidic transmutation, level 3
+RANGE 160ft
+DURATION See below
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW None
+The pyrotechnics spell may be used to produce 
+two entirely different effects: a bright display of 
+fiery light or a massive pall of smoke. Both pos-
+sible uses of the spell require an existing fire 
+source (which may be anywhere in the spell’s 
+range), and the spell’s area of effect depends on 
+the size of the originating fire.
+Details
+• If the spell is used to produce fireworks, 
+the flashing display will temporarily blind 
+(for 1d4+1 rounds) all creatures in the area 
+of effect and 120ft beyond—provided that 
+the display is not obstructed from view, of 
+course. The fireworks fill an area ten times 
+the volume of the original fire source and 
+persist for 1 segment/druid level.
+• If the spell is used to produce smoke, a bil-
+lowing cloud emanates from the fire source, 
+obscuring vision beyond 20ft in an area 100 
+times the volume of the fire source. The 
+smoke remains in place for 1 round per 
+druid level of the caster.
+Whatever fire is used as the spell’s source is 
+extinguished immediately as the spell is cast.
+ SNARE
+Druidic enchantment, level 3
+RANGE Touch
+DURATION Permanent (until 
+triggered)
+AREA OF EFFECT 10ft radius + 6ft per 
+druid level
+COMPONENTS V, S, M
+CASTING TIME 3 rounds
+SAVING THROW None
+This spell is used to enchant a normal snare, 
+making it hard to detect and supernaturally 
+effective. The spell is cast upon a rope, vine, 
+or cord, which then blends perfectly with the 
+surroundings, becoming 90% undetectable to 
+normal (unenchanted) vision. 
+Details
+When any creature steps into the area bound -
+ed by the snare, the snare will whip closed and 
+bind the victim tightly (no saving throw). 
+If the snare is attached to a suitably flexible 
+tree, the spell magically bends the tree so that 
+when the trap is triggered it will snap the victim 
+into the air for 1d6 points of damage and hold 
+them suspended from the branches.
+Strength of 23 is required to break the snare 
+for one hour after the spell is triggered, and the 
+strength required falls by one point per hour 
+until 12 hours have elapsed, at which time the 
+spell ceases to have any effect. 
+ STONE SHAPE
+Druidic transmutation, level 3
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT 3 cubic ft + 1ft per 
+druid level
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+This spell allows you to shape stone by the 
+power of your will. You can form it into what -
+ever object or shape you desire, from a weap -
+on to a sculpture, to an ornate stone footstool. 
+Whether used to create gargoyle statues or to 
+make an escape hole from a stone prison, this 
+spell is extreme-
+ly versatile and 
+useful.
+
+===== PAGE 20 =====
+ THIRD LEVEL DRUID SPELLS  | 19
+ SUMMON INSECTS
+Druidic conjuration/summoning, level 3
+RANGE 30ft
+DURATION 1 round/caster level
+AREA OF EFFECT One enemy creature 
+at a time
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+When you finish casting this spell, a swarm of 
+insects appears from nearby, or from the thin 
+air to attack a single enemy. The swarm can be 
+redirected from one target to another. 
+Details
+There is a 70% chance that the swarm will be 
+composed of flying insects, 30% chance that 
+the insects will be ants or other non-airborne 
+biting vermin. 
+A flying swarm can move tremendously fast 
+(80ft/round), but a crawling swarm is limited to 
+movement of 12ft/round. 
+In either case, the insects automatically inflict 
+2 hp damage per round against their target, 
+and the unfortunate victim will be so thickly 
+covered as to be incapable of any action, in -
+cluding movement. The druid may redirect the 
+swarm to attack another opponent, but the 
+command will cause 1 round of confusion with-
+in the swarm as it reorients itself toward the 
+new target.
+ TREE
+Druidic transmutation, level 3
+RANGE Caster
+DURATION 6 turns +1 turn/druid 
+level
+AREA OF EFFECT Caster
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW None
+Casting this spell causes your shape to melt 
+and twist into that of a tree, the general ap -
+pearance determined by the caster. 
+Details
+The spell is neither an illusion nor a charm: you 
+are, for all intents and purposes, a tree. Howev-
+er, in tree shape you retain human senses and 
+will be fully aware of your surroundings. 
+You may shift back into human shape at will, 
+thereby ending the spell. Magical detections 
+will reveal your true form, but ordinary inspec-
+tions, no matter how detailed, will not.
+ WATER BREATHING
+Druidic transmutation, level 3
+RANGE Touch
+DURATION 6 turns/level
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW None
+This spell grants the ability to breathe under -
+water while the spell lasts. The recipient does 
+not lose the ability to breathe air.
+REVERSIBLE AS AIR BREATHING:
+ AIR BREATHING
+Druidic transmutation, level 3
+RANGE Touch
+DURATION 6 turns/level
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW None
+This spell allows a water-breathing creature to 
+breathe air for the spell’s duration. The recipi-
+ent does not lose the ability to breathe under -
+water.
+===== PAGE 21 =====
+20 | OSRIC 3.0 -DRUID SPELLBOOK 
+ 1.8.3.4. FOURTH LEVEL  
+DRUID  SPELLS
+ ANIMAL SUMMONING I
+Druidic conjuration/summoning, level 4
+RANGE 120ft/level
+DURATION See below
+AREA OF EFFECT Animals
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW None
+This spell calls normal or giant animals of a 
+specified type, of no more than 4 hit dice each, 
+to your aid. Assuming that the summoned type 
+of animal is within the spell’s range, up to 8 an-
+imals will appear. 
+Details
+The animals must be within the spell’s range 
+to be summoned. Up to three summoning at -
+tempts may be made if animals of the specified 
+type do not appear.
+These animals will assist you for a specifically 
+stated mission such as winning a battle or trav-
+elling to a specific location. The spell terminates 
+when the mission is achieved or abandoned (or 
+a dispel magic terminates it).
+Since the animals are summoned, they are 
+hedged out by protection from evil.
+ CALL WOODLAND BEINGS
+Druidic conjuration/summoning, level 4
+RANGE 360ft +30ft/druid 
+level
+DURATION See below
+AREA OF EFFECT Summoned creatures
+COMPONENTS V, S, M
+CASTING TIME 2 turns
+SAVING THROW See below
+This spell calls certain woodland creatures to 
+aid you, if any are near enough. 
+Details
+The GM will determine if creatures that will 
+respond to such a call are in the area. In an 
+area with woods nearby, it is reasonable to 
+use 20% as the likelihood of a response, and 
+in non-wooded areas the likelihood might be 
+closer to 5%. This, however, is a guideline for 
+the GM, not a rule.
+The creatures are entitled to a saving throw vs. 
+spells, at a penalty of -4. 
+If the creatures fail the saving throw and are 
+summoned to your aid, they will provide what-
+ever aid they are capable of, although their will-
+ingness to engage in combat is subject to their 
+overall reactions to you (see Table 1.6.2.8a: 
+NPC and Monster Reaction).
+If there is an evil character in the druid’s par -
+ty, the summoned creatures gain an additional 
+saving throw to avoid the effects of the spell, at 
+a bonus of +4. 
+Creatures that may be summoned by this spell 
+include:
+Centaurs 1d4
+Pixies 1d8
+Satyrs 1d4
+Treant 1
+Unicorn 1
+Since the creatures are summoned, they are 
+hedged out by protection from evil.
+
+===== PAGE 22 =====
+ THIRD LEVEL DRUID SPELLS  | 21
+ CONTROL TEMPERATURE,  
+10FT RADIUS
+Druidic transmutation, level 4
+RANGE Caster
+DURATION 4 turns +1 turn/druid 
+level
+AREA OF EFFECT 10ft radius
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW None
+This spell allows you to magically affect the 
+temperature of your immediate surroundings, 
+to a radius of 10ft. 
+Details
+The temperature may be raised or lowered by 
+9° Fahrenheit (4° Celsius) per druid level. Once 
+the temperature is “set,” the spell will attempt 
+to maintain that temperature unless you de -
+cide to change it.
+ CURE SERIOUS WOUNDS
+Druidic necromancy, level 4
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW None
+The target creature regains 2d8+1 hit points, 
+up to its normal maximum. Any healing over 
+the creature’s normal maximum is wasted.
+Details
+This spell can’t cure diseases, reattach limbs, 
+bring back the dead, or heal any other afflic -
+tion that isn’t an injury measured in hit points. 
+These more serious injuries must be healed 
+with more powerful spells.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+REVERSIBLE AS CAUSE SERIOUS WOUNDS:
+ CAUSE SERIOUS WOUNDS
+Druidic necromancy, level 4
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW None
+The touched target creature takes 2d8+1 hit 
+points of magical damage, even if it can only be 
+hit by magical weapons. Touching the creature 
+requires a successful to-hit roll, but no saving 
+throw is allowed.
+Details
+If you miss the to-hit roll on the target, no dam-
+age is inflicted and the spell is lost.
+This spell only affects creatures that are nat -
+urally living, so it does not affect golems, con -
+structs, elementals, or the undead.
+ DISPEL MAGIC
+Druidic abjuration, level 4
+RANGE 80ft
+DURATION Instantaneous
+AREA OF EFFECT 40ft cube
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW None
+Magical effects in the area of effect are re -
+moved or suppressed. The target point for the 
+spell’s effect centre may be a creature, object, 
+place, or point in space within the spell’s range.
+Details
+Gods, demigods, artifacts, relics, and other 
+things of equivalent power aren’t affected by 
+this spell.
+Psychic or psionic powers aren’t magical effects 
+and aren’t affected by this spell.
+When you finish casting this spell, if the area 
+of effect contains any ongoing magical effects 
+===== PAGE 23 =====
+22 | OSRIC 3.0 -DRUID SPELLBOOK 
+caused by a spell that you personally have cast, 
+then these end. If a creature within the area of 
+effect is casting a spell, then that spell is inter -
+rupted. 
+Then, for each dispellable magical effect within 
+the affected area, the GM rolls a d100—in se -
+cret, if the GM so wishes.
+Your base chance of successfully dispelling 
+each effect depends on caster level, both yours 
+and that of the caster of the magic to be dis -
+pelled. Your caster level is the number of levels 
+you have in the druid class. The target’s caster 
+level is the number of levels the caster has in 
+the class they used to cast the spell. If the tar -
+get is a potion or scroll, then its caster level is 
+12, unless it couldn’t have been created by a 
+12th level caster, in which case its caster level 
+is the minimum level to create it. Example: a 
+scroll of time stop is caster level 18.
+• If your caster level is the same or higher than 
+the target’s caster level, then your chance 
+of success is 50%, plus 5% (five percent) for 
+each level of the difference.
+• If your caster level is lower than the target’s 
+caster level, then your chance of success is 
+50%, minus 2% (two percent) for each level 
+of the difference.
+For each magical effect that’s dispelled:
+1. Spells whose area of effect is wholly within 
+the dispel magic’s area of effect end. This 
+includes innate spell-like powers used by 
+creatures or cast from magic items. 
+2. If a spell effect is only partly overlapped by 
+the dispel magic, then spell doesn’t end, but 
+the part within the dispel magic’s area of ef-
+fect is suppressed for 1 hour.
+3. Potions and scrolls are denatured. Potions 
+become inert, harmless liquids. Scrolls be-
+come blank pages.
+4. Other magic items’ powers (weapons, ar -
+mour, and other such permanent magic 
+items) are suppressed for 1 round. For 
+that round only, they become non-magical 
+items.
+5. Constructs, elementals, golems, or magi -
+cally summoned creatures within the area 
+of effect aren’t banished or suppressed, 
+but they could temporarily lose the power 
+to use spells or innate spell-like powers. 
+Example: a fire elemental’s burning touch 
+would still do fire damage, but an efreet 
+couldn’t use its spells or spell-like powers. 
+Affected spells or spell-like powers return 
+after 1d6 combat rounds.
+ HALLUCINATORY FOREST
+Druidic illusion, level 4
+RANGE 80ft
+DURATION Permanent
+AREA OF EFFECT 40ft square/druid 
+level
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW None
+This spell creates the illusion that a forest 
+stands in the spell’s area of effect (which may 
+be reduced in size if you choose). 
+Details
+Woodland fey and other druids will immediate-
+ly discern the forest’s illusory nature, but even 
+normal animals will be fooled by the forest’s 
+appearance. 
+The illusion is not tactile, only visual, so it is like-
+ly that intelligent beings entering the forest will 
+quickly realise they are walking in an illusion. 
+However, the mere realisation that the forest 
+is not real does not dispel the illusion, and it 
+will continue to limit vision and possibly create 
+other inconveniences; horses, for example, will 
+not walk a straight path through the illusion, 
+circling around the “trees” they perceive as real.
+===== PAGE 24 =====
+ FOURTH LEVEL DRUID SPELLS  | 23
+ HOLD PLANT
+Druidic enchantment, level 4
+RANGE 80ft
+DURATION 1 round/druid level
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW Negates effect
+This spell affects plants that can move, wheth -
+er naturally or as the result of a spell. Plants 
+affected by the spell are frozen in place for the 
+spell’s duration, and if the spell is cast upon 
+normal vegetation (such as dry leaves), these 
+will make no sound other than sounds caused 
+by the wind.
+Details
+In the case of plant creatures such as treants, 
+the spell affects between one and four crea -
+tures, at your option (it affects the saving 
+throw).
+In the case of moulds, fungi, and other plants 
+that cannot be considered as separate crea -
+tures, the spell affects 4–16 square yards 
+of space, at your option (it affects the saving 
+throw).
+• If one creature or 4 square yards of vegeta-
+tion is targeted, the saving throw against the 
+spell is made at a penalty of -4.
+• Two creatures or 8 square yards of vegeta-
+tion suffer a penalty of -2.
+• Three creatures or 12 square yards of vege-
+tation suffer a penalty of -1.
+• Four creatures or 16 square yards of vegeta-
+tion suffer no penalty on the saving throw.
+ PLANT DOOR
+Druidic transmutation, level 4
+RANGE Touch
+DURATION 1 turn/druid level
+AREA OF EFFECT
+Pathway up to 5ft 
+wide, 10ft high, and up 
+to 120ft/druid level in 
+length
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW None
+This spell allows you to travel effortless -
+ly through vegetation of any kind, stepping 
+through it as if it did not exist. 
+Details
+The pathway may also be travelled by a druid of 
+higher level than the caster, but no other crea-
+ture can take advantage of the spell’s effect. 
+You may move effortlessly through an area of 
+plants affected by a spell (such as entangle).
+You may even use the spell to shift inside a tree 
+(and you can remain there for the duration). If 
+you are within a tree that is attacked, you must 
+leave the tree before it is actually killed, or you 
+will die with the tree.
+ PRODUCE FIRE
+Druidic transmutation, level 4
+RANGE 40ft
+DURATION 1 round
+AREA OF EFFECT Square, 15x15ft
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW See below
+This spell instantly creates a normal fire within 
+its area of effect, a blazing conflagration lasting 
+only one minute (1 round) but causing 1d4 hit 
+points of damage to any creature in the area 
+and potentially igniting all combustible mate -
+rial. 
+===== PAGE 25 =====
+24 | OSRIC 3.0 -DRUID SPELLBOOK 
+Details
+Creatures do not receive a saving throw against 
+damage. 
+Items are allowed a saving throw against nor -
+mal fire.
+REVERSIBLE AS QUENCH FIRE:
+ QUENCH FIRE
+Druidic transmutation, level 4
+RANGE 40ft
+DURATION 1 round
+AREA OF EFFECT 60ft radius
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW None
+This spell extinguishes all normal fires within 
+the area of effect. It has no effect on magical 
+fire.
+ PROTECTION FROM LIGHTNING
+Druidic abjuration, level 4
+RANGE Touch
+DURATION See below
+AREA OF EFFECT One creature
+COMPONENTS V, S ,M
+CASTING TIME 6 segments
+SAVING THROW None
+This spell protects the recipient from lightning 
+and electrical damage. It has a greater effect if 
+you cast it on yourself than it does when cast 
+on others. 
+Details
+The spell lasts until the target has been attacked 
+by total potential electrical damage of 12 hp/
+druid level, at which time the spell will be dis -
+sipated, and if it is not dissipated by damage, it 
+ends after 1 turn per druid level. Making a suc-
+cessful saving throw does not reduce the “total 
+potential electrical damage” count.
+If you cast the spell upon yourself:
+• You become immune to electrical damage 
+(dragon breath, lightning bolt, etc.).
+If the spell is cast upon another creature:
+• The recipient gains a saving throw bonus of 
++4 against attacks, spells, and effects that 
+inflict electrical damage.
+• Electrical damage is reduced by half.
+ REPEL INSECTS
+Druidic abjuration, level 4
+RANGE Caster
+DURATION 1 turn/druid level
+AREA OF EFFECT Caster
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW See below
+This spell creates an invisible barrier around 
+you, warding you from insects.
+Details
+Only true insects are affected. The spell does 
+not repel spiders, scorpions, or centipedes. 
+Insects with less than 2 hit dice are completely 
+hedged out by the spell.
+Giant insects (2+ HD) must succeed in a saving 
+throw against spells to pass the barrier. Even 
+if a giant insect should manage to penetrate 
+the barrier, it sustains 1d6 hit points of magical 
+damage from doing so. Once it has penetrated 
+the barrier, it may attack in subsequent rounds 
+without further saving throws or damage.
+ SPEAK WITH PLANTS
+Druidic transmutation, level 4
+RANGE Caster
+DURATION 2 rounds/druid level
+AREA OF EFFECT 40ft radius around 
+caster
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW None
+===== PAGE 26 =====
+ FIFTH LEVEL DRUID SPELLS  | 25
+This spell grants you the power to communi -
+cate with a nearby plant and understand its 
+“speech”.
+Details
+Only you can hear the magical translation.
+When you speak to the plant, you speak in 
+Common, and it magically understands you. 
+It speaks in whatever way its species natural -
+ly communicates, and the spell translates its 
+words into your mind. Some plants in OSRIC 
+are mobile and potentially dangerous. You can 
+try to persuade, deceive, or bargain with such a 
+creature into performing a service for you.
+Your GM will determine if a creature is a “plant” 
+or not for the purposes of this spell.
+The affected plant usually won’t begin combat 
+with you until the spell ends, but if you or your 
+companions have attacked the plant in the last 
+turn, then it doesn’t have to stop fighting.
+This spell doesn’t compel the affected plant to 
+tell the truth.
+ 1.8.3.5. FIFTH LEVEL  
+DRUID  SPELLS
+ ANIMAL GROWTH
+Druidic transmutation, level 5
+RANGE 80ft
+DURATION 2 rounds/druid level
+AREA OF EFFECT Up to 8 animals in a 
+10ft radius
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell causes up to 8 animals in the area 
+of effect to grow to twice normal size, doubling 
+their hit dice and the damage they inflict. 
+Details
+The spell does not influence the animals’ atti -
+tude toward you, so it is advisable to ensure 
+ahead of time that they are friendly. 
+Creatures with magical abilities are not affect -
+ed by this spell, which affects only ordinary 
+creatures and giant versions of them. Humans, 
+demi-humans, and humanoids are not consid -
+ered animals.
+REVERSIBLE AS REDUCE ANIMAL
+ REDUCE ANIMAL
+Druidic transmutation, level 5
+RANGE 80ft
+DURATION 2 rounds/druid level
+AREA OF EFFECT Up to 8 animals in a 
+10ft radius
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell causes up to 8 animals in the area 
+of effect to shrink to half normal size, halving 
+their hit dice and the damage they inflict. 
+Details
+The spell does not influence the animals’ atti -
+tude toward you, but if they are hostile, at least 
+they are a lot smaller than they were.
+Creatures with magical abilities are not affect -
+ed by this spell, which affects only ordinary 
+creatures and giant versions of them. Humans, 
+demi-humans, and humanoids are not consid -
+ered animals.
+ ANIMAL SUMMONING II
+Druidic conjuration/summoning, level 5
+RANGE 180ft/druid level
+DURATION See below
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell calls normal or giant animals of a 
+specified type, to your aid, if the summoned 
+type of animal is within the spell’s range. If 
+the animals are 5-8 hit dice, up to 6 are sum -
+moned. If the animals are 4 hit dice or less, up 
+to 12 are summoned.
+===== PAGE 27 =====
+26 | OSRIC 3.0 -DRUID SPELLBOOK 
+Details
+The animals must be within the spell’s range 
+to be summoned. Up to three summoning at -
+tempts may be made if animals of the specified 
+type do not appear.
+These animals will assist you for a specifically 
+stated mission such as winning a battle or trav-
+elling to a specific location. The spell terminates 
+when the mission is achieved or abandoned (or 
+a dispel magic terminates it).
+Since the animals are summoned, they are 
+hedged out by protection from evil.
+ ANTI-PLANT SHELL
+Druidic abjuration, level 5
+RANGE Nil
+DURATION 1 turn/druid level
+AREA OF EFFECT 80ft radius sphere (or 
+hemisphere)
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell creates an invisible barrier in an 80ft 
+radius around the caster. It remains in place for 
+the spell’s duration and does not move with the 
+caster. No vegetable matter (including missiles 
+formed of vegetable matter, such as wooden 
+arrows) can penetrate the barrier.
+ COMMUNE WITH NATURE
+Druidic divination, level 5
+RANGE Caster
+DURATION
+1 round per fact 
+obtained through the 
+communion
+AREA OF EFFECT Caster (see below)
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW None
+To cast this spell, you enter a trance that brings 
+you into a state of oneness with the natural 
+surroundings. This gives you knowledge of the 
+area, learning one fact per druid level.
+Details
+The radius of the area with which you can com-
+mune is a half mile per druid level. 
+Facts that you may divine include the paths of 
+water, inhabitants in a part of the region, loca -
+tion of a specific inhabitant, location of a cave 
+or other feature, etc. You can ask the questions, 
+and the GM will decide if Nature can perceive 
+the relevant answers. Nature usually can; this 
+is a very powerful spell for information gather -
+ing since it isn’t as cryptic as clerical divination. 
+You are directly perceiving the information.
+ CONTROL WINDS
+Druidic transmutation, level 5
+RANGE Caster
+DURATION 1 turn/druid level 
+(see below)
+AREA OF EFFECT
+40ft/druid level 
+beyond the 40ft 
+radius of the “eye”
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell allows you to increase or decrease 
+the force of surrounding winds. 
+Details
+You may change the speed of the wind by 3 
+miles per hour per druid level. An eye of calm 
+with a radius of 40ft remains around you and 
+travels with you. The wind force outside the 
+eye, which extends 40ft per druid level in all di-
+rections beyond the eye, increases (or decreas-
+es) at a rate of 3 miles per hour every round 
+until the end of the spell’s duration, at which 
+time it will return to normal, also at a rate of 3 
+miles per hour per round.
+Winds can be extremely destructive; ships are 
+at great risk of sinking if wind speed reaches 60 
+miles per hour, and wind speeds of 75+ mph 
+are as a full-fledged hurricane.
+===== PAGE 28 =====
+ FIFTH LEVEL DRUID SPELLS  | 27
+ INSECT PLAGUE
+Druidic conjuration/summoning, level 5
+RANGE 320ft
+DURATION 1 turn/druid level
+AREA OF EFFECT Cloud of 160ft radius, 
+40ft high
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell conjures a swarm of biting or stinging 
+insects from a target point on the ground (with-
+in range) that you can see.
+Details
+The insects are wasps, clegs, midges, mos -
+quitoes, or biting locusts. At the start of each 
+round, each creature in the area of effect takes 
+1 point of piercing damage, and experiences 
+the following effects:
+1. If the creature is level 2 or lower, or has 2 
+or fewer hit dice, then it must flee until it’s 
+at least 240ft from the insect plague’s edge.
+2. If the creature is level 4 or lower, or has 4 
+or fewer hit dice, then it must check morale, 
+and if it fails, it must flee until it’s at least 
+120ft from the insect plague’s edge.
+Other Details
+• Fire or smoke will hold back the insects for 
+as long as it lasts, so a wall of fire would 
+keep them at bay for its duration, but a 
+fireball or flame strike would merely clear 
+an area of insects momentarily.
+• The insects can pass through a tiny space, 
+but not an impenetrable barrier, so for 
+example, they could pass through a blade 
+barrier or a wall of thorns, but not through 
+a wall of force.
+• The insects won’t enter water, and creatures 
+that are fully submerged in water at the 
+start of the round don’t take any damage.
+• Creatures that are immune to mundane 
+weapons are unaffected by this spell, re-
+gardless of how many hit dice they have.
+• Visibility within the area of effect is 30ft.
+ PASS PLANT
+Druidic transmutation, level 5
+RANGE Caster
+DURATION See below
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+By means of this spell, you step into one tree, 
+and step out from a distant tree of the same 
+type in the direction you specify. You may wait 
+inside the first tree for as long as 1 round per 
+druid level before making the “step” to the other 
+tree.
+Details
+You can determine the direction in which you 
+travel from one tree to another. Most trees per-
+mit a maximum distance of travel of 300 yards, 
+but trees sacred to druids allow travel of con -
+siderably greater distance; oak, yew, and rowan 
+trees permit you to travel as far as 600 yards. 
+If no tree of the same type is to be found in the 
+direction you designated, you emerge through 
+any tree of that species within the spell’s range 
+closest to the direction you specified. 
+You may remain in the first tree for as long as 
+one round per druid level before being forced 
+to leave, and in this case you are treated in the 
+same way as for a plant door spell. 
+If no appropriate tree is available for you to step 
+from, you may remain in the first tree for the 
+spell’s duration, but will not be able to use the 
+spell for travelling.
+===== PAGE 29 =====
+28 | OSRIC 3.0 -DRUID SPELLBOOK 
+ STICKS TO SNAKES
+Druidic transmutation, level 5
+RANGE 40ft
+DURATION 2 rounds/druid level
+AREA OF EFFECT 5ft radius
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell transforms dead wood into serpents. 
+The serpents don’t understand speech, but if 
+you mentally command them to attack a target, 
+they obey.
+For each snake you create, roll a d20. If the re -
+sult is equal to or less than the number of lev -
+els you have in the druid class, then the snake 
+is venomous. Otherwise, it is a constrictor.
+Details
+Unless you are in a forest, it’s a good idea to 
+bring your own sticks. This spell only affects 
+roughly cylindrical objects made of dead wood, 
+with a maximum of your druid level. The target 
+objects can’t be magical.
+Venomous Snake: AC 6, MV 90ft, HD 2, ATK 1, D 
+1 piercing, SpA poison (save vs poison or die, 
+apply CON modifier to save), Size: S, AL N.
+Constrictor Snake: AC 6, MV 90ft, HD 2, ATK 1, 
+D 1 blunt, SpA constrict (once hit, target is be-
+ing constricted until snake releases or is killed; 
+snake can only constrict one target at a time; 
+snake can choose to inflict 1d4 blunt damage 
+to a constricted target on its initiative segment 
+instead of attacking), Size: S, AL N.
+Killing or defeating snakes called by this spell 
+doesn’t award any xp.
+REVERSIBLE AS SNAKES TO STICKS:
+ SNAKES TO STICKS
+Druidic transmutation, level 5
+RANGE 40ft
+DURATION 2 rounds/druid level
+AREA OF EFFECT 5ft radius
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW Yes (negates effect)
+This spell transforms serpents into sticks, for a 
+limited time. The spell affects snakes, serpents, 
+couatls, nagas, and other ophidian creatures; a 
+maximum of one such creature for each level 
+you have in the druid class.
+Details
+Targeted creatures can choose to attempt a 
+saving throw vs spells and other magical ef -
+fects, and if they pass, this spell doesn’t affect 
+them.
+If there’s doubt about what creatures are af -
+fected, then they’re the creatures listed in the 
+general spell description
+ above, and any other reptilian creature that 
+didn’t have limbs when it hatched. Dragons, de-
+mons, devils and wyverns are not considered 
+to be snakes and are thus not affected by the 
+spell.
+Certain ophidian creatures, such as sea ser -
+pents or larger nagas, are too large to fit with -
+in the area of effect. Such creatures can’t be 
+turned to sticks by this spell. Large boa con -
+strictors, on the other hand, are definitely af -
+fected.
+While turned to wood, snakes can be broken, 
+burnt, or otherwise destroyed, in which case 
+they will be dead when the spell ends. The thin-
+ner the snake, the easier this is.
+
+===== PAGE 30 =====
+ FIFTH LEVEL DRUID SPELLS  | 29
+ TRANSMUTE ROCK TO MUD
+Druidic transmutation, level 5
+RANGE 160ft
+DURATION See below
+AREA OF EFFECT 20ft cube/druid level
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell transforms solid rock into mud, with 
+the volume depending on your level. 
+Details
+Any volume of mud will sink until its depth is 
+equal to about one half the pool’s diameter. 
+If this spell is cast upon a ceiling, the result -
+ing volume of mud will immediately collapse, 
+possibly trapping or suffocating those caught 
+beneath. Similarly, if a floor is turned to mud, 
+creatures standing in the area will sink and may 
+be trapped. 
+If dispel magic is cast upon the mud before it 
+eventually dries into dirt, the mud will return 
+to stone, but it does not return to its original 
+shape (so the duration isn’t exactly “instanta-
+neous” but it is close).
+REVERSIBLE AS TRANSMUTE MUD TO ROCK
+ TRANSMUTE MUD TO ROCK
+Druidic transmutation, level 5
+RANGE 160ft
+DURATION Instantaneous
+AREA OF EFFECT 20ft cube/druid level
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell transforms mud into sandstone or a 
+similar sedimentary rock.
+ WALL OF FIRE
+Druidic evocation, level 5
+RANGE 80ft (wall) or caster 
+(ring)
+DURATION Concentration plus 1 
+round/druid level
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIM 7 segments
+SAVING THROW None
+You may evoke a wall of fire in one of two 
+shapes: a wall or a ring. The size of a straight 
+wall is up to one 20ft (height and length) square 
+per caster level. A ring has a radius of up to 5ft 
+per caster level (with the caster in the centre) 
+and is 20ft high. If the druid manifests the spell 
+as a wall, the effect is stationary. The ring-
+shaped wall moves with the caster.
+Details
+One side of the wall of fire emits the searing 
+heat one would expect, but the other side 
+emits merely a gentle warmth. 
+• Passing through the flames inflicts 4d4 fire 
+damage + 1hp/druid level. 
+• Creatures as far as 10ft from the hot side of 
+the wall incur 2d4 hit points of fire damage
+• Creatures as far as 20ft from the hot side 
+are burned for 1d4 points of fire damage. 
+Undead creatures suffer worse from the power 
+of this druidic magic, taking twice the ordinary 
+damage the wall would inflict.
+The wall persists for as long as the druid con -
+centrates upon it, or, if the druid does not 
+choose to maintain concentration, will remain 
+for 1 round/druid level. The druid can end the 
+spell at any time. 
+===== PAGE 31 =====
+30 | OSRIC 3.0 -DRUID SPELLBOOK 
+ 1.8.3.6. SIXTH LEVEL  
+DRUID  SPELLS
+ ANIMAL SUMMONING III
+Druidic conjuration/summoning, level 6
+RANGE 240ft/druid level
+DURATION See below
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW None
+This spell calls normal or giant animals of a 
+specified type, to your aid, if the summoned 
+type of animal is within the spell’s range. If 
+the animals are 9-16 hit dice, up to 4 are sum -
+moned. If the animals are 5-8 hit dice, up to 8 
+are summoned. If the animals are 4 hit dice or 
+less, up to 16 are summoned.
+Details
+The animals must be within the spell’s range 
+to be summoned. Up to three summoning at -
+tempts may be made if animals of the specified 
+type do not appear.
+These animals will assist you for a specifically 
+stated mission such as winning a battle or trav-
+elling to a specific location. The spell terminates 
+when the mission is achieved or abandoned (or 
+a dispel magic terminates it).
+Since the animals are summoned, they are 
+hedged out by protection from evil.
+ ANTI-ANIMAL SHELL
+Druidic abjuration, level 6
+RANGE Nil
+DURATION 1 turn/druid level
+AREA OF EFFECT 10ft radius sphere (or 
+hemisphere)
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+This spell creates an immobile field of force that 
+hedges out all living animal matter. 
+Details
+Undead creatures are not living, so they are not 
+blocked.
+Creatures not of the material plane (djinn, ele -
+mentals, demons, etc.) are not blocked.
+“Animal” has its broadest meaning here, so hu-
+mans are blocked, creatures with intelligence 
+over 6 are blocked, and so on.
+ CONJURE FIRE ELEMENTAL
+Druidic conjuration/summoning, level 6
+RANGE 80ft
+DURATION 1 turn/druid level
+AREA OF EFFECT Elemental creature(s)
+COMPONENTS V, S, M
+CASTING TIME 6 rounds
+SAVING THROW None
+This spell summons forth and controls an ele -
+mental being from the plane of fire.
+Details
+Roll 1d100 to determine what appears:
+01-86 16HD Fire elemental
+87-94 1d4 Salamanders
+95-98 Efreet
+99-00 24 HD Fire elemental
+===== PAGE 32 =====
+ SIXTH LEVEL DRUID SPELLS  | 31
+The elemental will act as your ally, remaining 
+for the spell’s duration to assist you however 
+possible, including engaging in combat with 
+your enemies. Druids need no protective circle 
+to summon fire elementals and need not con -
+centrate upon the elemental in any way.
+REVERSIBLE AS DISMISS FIRE ELEMENTAL
+ DISMISS FIRE ELEMENTAL
+Druidic conjuration/summoning, level 6
+RANGE 80ft
+DURATION Instantaneous
+AREA OF EFFECT One elemental 
+creature
+COMPONENTS V, S, M
+CASTING TIME 6 rounds
+SAVING THROW None
+This spell returns one elemental creature to the 
+elemental plane of fire.
+Details
+This spell can affect any creature native to the 
+elemental plane of fire, including (but not limit-
+ed to) fire elementals, efreet, and salamanders.
+ CURE CRITICAL WOUNDS
+Druidic necromancy, level 6
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW None
+The target creature regains 3d8+3 hp up to its 
+normal maximum. Any healing over the crea -
+ture’s normal maximum is wasted.
+Details
+This spell can’t cure diseases, reattach limbs, 
+bring back the dead, or heal any other afflic -
+tion that isn’t an injury measured in hit points. 
+These more serious injuries must be healed 
+with more powerful spells.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+REVERSIBLE AS CAUSE CRITICAL WOUNDS:
+ CAUSE CRITICAL WOUNDS
+Druidic necromancy, level 6
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW None
+The touched target creature takes 3d8+3 hit 
+points of magical damage, even if it can only be 
+hit by magical weapons. Touching the creature 
+requires a successful to-hit roll, but no saving 
+throw is allowed.
+Details
+If you miss the to-hit roll on the target, no dam-
+age is inflicted and the spell is lost.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+ FEEBLEMIND
+Druidic enchantment, level 6
+RANGE 40ft
+DURATION Permanent
+AREA OF EFFECT One creature
+COMPONENTS V, S
+CASTING TIME 8 segments
+SAVING THROW Yes (see below)
+The insidious feeblemind spell affects only 
+those who can cast spells. If the victim fails the 
+saving throw, they are reduced to the intellect 
+of a child until the spell is removed by a heal, 
+wish, or restoration spell.
+Details
+The different types of spell casting ability are 
+not equally vulnerable to the feeblemind spell. 
+===== PAGE 33 =====
+32 | OSRIC 3.0 -DRUID SPELLBOOK 
+• Clerics and users of divine magic gain a 
+bonus of +1 to saving throws.
+• Druids and users of druidic magic have a -1 
+penalty to the saving throw.
+• Magic users and illusionists (and users of 
+arcane or phantasmal magic) have a -4 
+penalty to the saving throw. 
+• Those who can use more than one type of 
+magic must save using the average of their 
+modifiers.
+ FIRE SEEDS
+Druidic conjuration, level 6
+RANGE 40ft (see below)
+DURATION 1 turn/druid level
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 1 round/ seed
+SAVING THROW Depends on use (see 
+below)
+By casting this spell on either acorns or holly 
+berries, you give the seeds the ability to ex -
+plode with magical fire. Transformed acorns 
+may be used as missiles, and transformed holly 
+berries as delayed-action bombs. 
+Details
+The spell allows you to create 4 acorn fire seeds 
+or 8 holly berry fire seeds, or a proportionate 
+combination such as 2 acorns and 4 holly ber -
+ries. 
+Acorn Fire Seeds.  Acorns may be thrown at a 
+range of up to 40ft and cause 2d8 points of fire 
+damage in a radius of 5ft, igniting any combus-
+tibles that fail item saving throws versus mag -
+ical fire. A “to hit” roll is made, and the target 
+is not entitled to a saving throw if they are hit. 
+Even if the “to hit” roll misses, the target will be 
+caught in the blast area. All creatures caught 
+in the blast area may make a saving throw for 
+half damage.
+Holly Berry Fire Seeds. The holly berries may 
+be thrown no more than 6ft, or may be left 
+in place to ignite upon a command word. The 
+range of the command word is 40ft. Holly ber -
+ries create an explosion in an area of 5ft x 5ft, 
+inflicting 1d8 points of fire damage and caus -
+ing combustible items to make saving throws 
+against magical fire. As with the acorn seeds, a 
+successful saving throw against the explosion 
+of a holly berry fire seed reduces the damage 
+inflicted by one-half.
+ TRANSPORT VIA PLANTS
+Druidic transmutation, level 6
+RANGE Touch
+DURATION See below
+AREA OF EFFECT See below
+COMPONENTS V, S
+CASTING TIME 3 segments
+SAVING THROW None
+Upon casting this spell, you may travel almost 
+instantly from one plant to another through 
+the mystic oneness that joins all life forms. The 
+spell operates in much the same fashion as 
+pass plant, but with an unlimited range.
+Details
+When the spell is cast, you step into a large 
+plant of any kind and disappear into it. You may 
+remain in the first plant for up to 24 hours, but 
+at any time you may step forth from another 
+plant of the same species in any location. You 
+may know of a specific plant from which you 
+want to emerge, or may simply specify a dis -
+tance and a direction. If you do not know of a 
+specific destination plant, your arrival may be 
+off by 1d100 miles from the desired point of 
+arrival, at the GM’s discretion.
+The plant where you emerge must be on the 
+same plane of existence as the starting plant, 
+but it can be as far away as a distant planet, 
+and can be in a pocket dimension or sub-plane 
+in the material plane of existence.
+===== PAGE 34 =====
+ SIXTH LEVEL DRUID SPELLS  | 33
+ TURN WOOD
+Druidic transmutation, level 6
+RANGE Nil
+DURATION 4 rounds/druid level
+AREA OF EFFECT 120ft wide path, 20ft 
+long/druid level
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW None
+At the completion of this spell, you hold your 
+palm outstretched, and with the final word of 
+the spell a tremendous burst of power rolls 
+forth, forcing back all wooden objects. 
+Details
+Even very large wooden structures that are 
+not affixed to the ground will be affected, al -
+though objects fixed to the ground will manage 
+to withstand the spell’s awesome power. A sap-
+ling-sized or smaller piece of wood will splinter 
+and break even if it is firmly affixed. 
+You do not need to concentrate on maintaining 
+the waves of force, and you cannot change the 
+direction of the flow of eldritch power once the 
+spell is cast.
+ WALL OF THORNS
+Druidic conjuration/summoning, level 6
+RANGE 80ft
+DURATION 1 turn/ druid level
+AREA OF EFFECT One 10ft cube/druid 
+level
+COMPONENTS V, S
+CASTING TIME 8 segments
+SAVING THROW None
+When you cast this spell, a tangled wall of 
+tough vines erupts from the ground, covered 
+with sharp, deadly thorns. You can “arrange” 
+the 10ft cubes of thorn growth in any configu -
+ration you choose; it can be a line of 10ft cubes 
+if you want to guard a wide space, but you can 
+also “place” cubes behind others to make the 
+wall thicker.
+Details
+A creature may be caught within the wall of 
+thorns when the spell is cast, and if this is the 
+case it will take damage immediately and must 
+break out (taking damage a second time) to es-
+cape any 10 foot thickness of thorns. If the wall 
+was created with multiple “cubes” of thickness, 
+it might be wider than 10ft. If you were caught 
+in the wall, you can decide which direction to 
+break out of it.
+Attempting to break out of the thorns inflicts 
+18 hp piercing damage minus 1 per point that 
+your armour class differs from 10 [10]. Exam -
+ple 1: If you are using descending armour class 
+and your AC is 4, that is 6 points away from 10. 
+You subtract 6 from the 18 damage. Example 
+2: If you are using ascending armour class and 
+your AC is [17], that is 7 points away from [10]. 
+You subtract 7 points from the 18 damage.
+A creature can break through any 10 foot 
+thickness of thorns in one round, by taking the 
+damage described above. This does not leave a 
+path for others to follow.
+If a creature decides not to take damage by 
+breaking through, and chooses to cut through 
+the thorns, it takes one turn to cut through a 
+10ft thickness of a wall of thorns. Unless you are 
+caught within it, you do not take damage from 
+this. The weapon must be able to inflict slash -
+ing damage.
+Normal fire has no effect upon a wall of thorns, 
+but magical fire can ignite the entire growth, 
+creating a wall of fire (as per the spell) that 
+burns away to nothing in two turns.
+===== PAGE 35 =====
+34 | OSRIC 3.0 -DRUID SPELLBOOK 
+ WEATHER SUMMONING
+Druidic conjuration/summoning, level 6
+RANGE Nil
+DURATION 4d12 hours
+AREA OF EFFECT 1d100 square miles
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW None
+This spell allows you to control precipitation, 
+temperature, and wind speed in a large area. 
+The new weather takes 10d4 minutes to reach 
+full strength.
+Details
+This spell won’t generate weather conditions 
+that don’t occur naturally where you are. For 
+example, it can’t generate a snowstorm in the 
+tropics, nor a monsoon in the tundra.
+This spell only works on the Prime Material 
+Plane, the Elemental Plane of Air, or the Ele -
+mental Plane of Water; or in some other part 
+of the multiverse where your DM says there is 
+weather. This spell can’t affect the rare forms 
+of weather on the Astral or Ethereal Planes. In 
+the Outer Planes, the weather is usually under 
+the direct control of a god or other power.
+This spell affects the weather, not the geolog -
+ical or astronomical conditions. You can’t use 
+this spell to create an earthquake or eclipse.
+ 1.8.3.7. SEVENTH LEVEL 
+ DRUID  SPELLS
+ ANIMATE ROCK
+Druidic transmutation, level 7
+RANGE 40ft
+DURATION 1 round/druid level
+AREA OF EFFECT 2ft cube/druid level
+COMPONENTS V, S, M
+CASTING TIME 9 segments
+SAVING THROW None
+This spell allows you to animate and command 
+a stone object, which becomes a temporary 
+creature that does your bidding. The object to 
+be animated cannot be part of a larger stone 
+structure. When the spell ends, the stone be -
+comes inanimate again.
+Details
+The animated object has no sense of self-pres-
+ervation and obeys all your commands, even if 
+obviously self-destructive.
+If you cast this spell on an object that’s too 
+large, then the spell ends without effect and 
+your spell slot is still used up.
+The animated object can’t speak and doesn’t 
+know any languages, but this spell makes it un-
+derstand your spoken word commands.
+The spell ends when the animated object is 
+killed; when you’re killed; when you use your 
+action to dismiss it; or when you leave the 
+plane on which you cast this spell.
+Note: Commanding the animated object 
+doesn’t use your action in combat, so for ex -
+ample you can speak to it while you fight; but 
+in the round when you give it a command, you 
+can’t cast spells that have a verbal component.
+===== PAGE 36 =====
+ SEVENTH LEVEL DRUID SPELLS  | 35
+ CHARIOT OF FIRE
+Druidic evocation, level 7
+RANGE 10ft
+DURATION 6 turns +1 turn/druid 
+level
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW None
+When you finish casting this spell, a chariot 
+of fire, drawn by two flaming steeds, appears 
+with an echoing thunderclap. The horses follow 
+your commands, and you and up to 8 people 
+you choose, are immune to the chariot’s fire.
+Details
+Anyone not protected by the spell who comes 
+within five feet of the horses or the chariot will 
+sustain 2d4 hp of fire damage per round. 
+The chariot can travel over land at a speed of 
+240ft/round and can fly at a speed of 480ft/
+round, obeying your shouted instructions. 
+It is possible for the chariot and horses to sus -
+tain damage from magical weapons or from 
+water (which does only 1 hp of damage). Char -
+iot and horses each have 30 hp and are AC 
+2 [18]; if a single horse is dispelled by taking 
+physical damage, the chariot’s speed will be 
+halved. The chariot prevents normal fire from 
+affecting its passengers, but they may take 
+damage from magical fire attacks. The chariot 
+and horses are themselves immune to all fire, 
+magical or otherwise.
+ CONFUSION
+Druidic enchantment, level 7
+RANGE 80ft
+DURATION 1 round/ druid level
+AREA OF EFFECT Up to a 20ft radius
+COMPONENTS V, S, M
+CASTING TIME 9 segments
+SAVING THROW See below
+This spell causes creatures to behave strangely 
+and unpredictably. A certain number of crea -
+tures in the spell’s area of effect when the spell 
+is cast must make a saving throw each round in 
+order to avoid becoming confused. The effect 
+persists after they leave the area of effect until 
+the spell’s duration expires.
+Details
+The base number of creatures targeted by 
+the spell is 2d4, but additional creatures may 
+be targeted. Take the hit dice of the strongest 
+creature in the area of effect, and compare it to 
+your druid level. If your druid level is higher by 
+any number, add that number to the base 2d4, 
+and if it is lower, subtract it. The result is the 
+maximum number of creatures in the area of 
+effect that must make a saving throw. If there 
+are more creatures in the area than this, the 
+ones closest to the caster are affected first.
+All saving throws are made with a penalty of -2.
+A saving throw is made for each creature each 
+round unless they “meander away,” which con-
+tinues for a full turn but probably takes them 
+out of the area of effect during that time.
+A creature that succeeds at the saving throw 
+but stays in the area of effect must continue to 
+make saving throws each round until the spell 
+ends.
+Creatures that fail their saving throws act ran -
+domly. Roll 1d100 for each creature:
+01–10 Attacks you or your allies (but 
+not with spells)
+11–20 Acts normally
+21–50 Babbles incoherently and takes 
+no action
+51–70 Meanders away from caster for 
+a full turn at normal speed
+71–00 Attacks nearest creature 
+regardless of allegiance
+===== PAGE 37 =====
+36 | OSRIC 3.0 -DRUID SPELLBOOK 
+ CONJURE EARTH ELEMENTAL
+Druidic conjuration/summoning, level 7
+RANGE 40ft
+DURATION 1 turn/ druid level
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW None
+This spell summons forth and controls an ele -
+mental being from the plane of earth.
+Details
+The elemental is a 16 HD elemental from the 
+plane of earth. 
+The elemental will act as your ally, remaining 
+for the spell’s duration to assist you however 
+possible, including engaging in combat with 
+your enemies. Druids need no protective cir -
+cle to summon earth elementals and need not 
+concentrate upon the elemental in any way.
+REVERSIBLE AS DISMISS EARTH ELEMENTAL
+ DISMISS EARTH ELEMENTAL
+Druidic conjuration/summoning, level 7
+RANGE 40ft
+DURATION 1 turn/ druid level
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW None
+This spell returns one elemental creature to the 
+elemental plane of earth.
+Details
+This spell can affect any creature native to the 
+elemental plane of fire, including (but not limit-
+ed to) earth elementals and xorn.
+ CONTROL WEATHER
+Druidic transmutation, level 7
+RANGE Nil
+DURATION 8d12 hours
+AREA OF EFFECT 4d8 square miles
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW None
+The control weather spell brings about a rapid 
+change in the weather of several square miles 
+surrounding the point where the spell is cast. 
+Details
+It requires no more than 10–40 minutes for 
+the spell to take its full effect across the vast 
+area it covers. The spell affects precipitation, 
+temperature, and wind speed. Existing weath -
+er conditions cannot be utterly changed by 
+the force of this spell, but druids are able to 
+cause more of a change than clerics can with 
+the same spell; effectively twice the amount of 
+change is possible for a druid.
+This spell may be cast more than once in suc -
+cession to bring about a dramatic change.
+You can use the spell to move two steps on the 
+precipitation and wind speed columns from 
+whatever the current conditions might be. 
+Temperature can be altered by no more than 
+1d10 + 10 degrees Fahrenheit.
+Precipitation:
+Clear
+Light clouds
+Cloudy
+Light precipitation
+Medium precipitation
+Heavy precipitation
+Wind Speed:
+Calm
+Light breeze
+Wind
+Strong wind
+Gale
+===== PAGE 38 =====
+ SEVENTH LEVEL DRUID SPELLS  | 37
+ CREEPING DOOM
+Druidic conjuration/summoning, level 7
+RANGE Nil
+DURATION 4 rounds/ druid level
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 9 segments
+SAVING THROW None
+The terrifying creeping doom  spell causes a 
+massive swarm of insects, spiders, and centi -
+pedes to boil forth from the ground in front of 
+you, marching in whatever direction you order, 
+destroying and killing all that stands in their 
+way. 
+Details
+The swarm is composed of (1d6+4)×100 nonfly-
+ing vermin, each of which inflicts 1 hp damage 
+against an opponent before dying. 
+Only as many insects as are needed to kill an 
+opponent will die, and once the target is dead 
+the swarm will move on. 
+If you allow the swarm to get more than 80ft 
+away from you, 50 insects for every 10ft be -
+yond this range will depart the swarm. 
+You can order the swarm to attack specific tar-
+gets and/ or to change direction. 
+Although this spell can be devastating (poten -
+tially causing as much as 1,000 hp of damage 
+in total), many means can be used to counter 
+it—the most obvious being a fireball or other 
+area-of-effect damage spell.
+The swarm does not have a designated size or 
+area of effect because it targets opponents one 
+by one.
+ FINGER OF  DEATH
+Druidic enchantment, level 7
+RANGE 60ft
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW Negates effect
+The casting of this spell culminates when you 
+point a finger at your chosen victim. If the tar -
+get fails a saving throw, it dies.
+Details
+The spell only affects normally living creatures, 
+so it does not affect constructs, elementals, go-
+lems, or undead.
+ FIRE STORM
+Druidic evocation, level 7
+RANGE 150ft
+DURATION 1 round
+AREA OF EFFECT 20ft×20ft×20ft area 
+per druid level
+COMPONENTS V, S, M
+CASTING TIME 9 segments
+SAVING THROW Yes (Half damage)
+The fire storm invocation calls forth magical 
+fire. The spell lasts for only a single round, but 
+the huge area of effect (and the ability to con -
+trol where the fire appears) makes it quite dev-
+astating.
+Details
+Any creature in the area of effect suffers 2d8 
+fire damage + 1hp/druid level. Making a saving 
+throw indicates half damage, and equipment 
+need not make a saving throw. Failing the 
+saving throw indicates full damage, and items 
+must make a saving throw vs. magical fire.
+Undead creatures suffer worse from the power 
+of this druidic magic, taking twice the ordinary 
+damage the wall would inflict.
+===== PAGE 39 =====
+38 | OSRIC 3.0 -DRUID SPELLBOOK 
+REVERSIBLE AS FIRE QUENCH:
+ FIRE QUENCH
+Druidic evocation, level 7
+RANGE 150ft
+DURATION 1 round
+AREA OF EFFECT Two 20ft×20ft×20ft 
+areas per druid level
+COMPONENTS V, S, M
+CASTING TIME 9 segments
+SAVING THROW None
+This spell extinguishes all normal fire in the 
+area of effect (which is twice that of a fire storm). 
+Magical fire has a 5% chance per druid level of 
+the caster to be extinguished by the spell.
+ REINCARNATE
+Druidic necromancy, level 7
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW None
+Provided that a body has been dead for no 
+more than a week, you can recall its spirit from 
+the dead—but into another body. The form of 
+the new body is not subject to your control, and 
+is determined by means of the tables below. 
+Details
+The new body will appear within 1d6 turns near 
+the soul’s former body. 
+There is a 35% chance that the new incarnation 
+will be from the “humanoid” table and a 65% 
+chance that the new incarnation will be from 
+the animal table. The new incarnation (if sa -
+pient) will retain the original character’s expe -
+rience points, but will have new physical (Str, 
+Dex, Con) ability scores randomly rolled and 
+adjusted for the new ancestry. The character 
+will retain their original mental ability scores 
+(Int, Wis, Cha).
+Elves may be brought back to life by reincar -
+nation.
+ HUMANOID TABLE
+D100 NEW INCARNATION
+01–02 Bugbear
+03–05 Dwarf
+06–16 Elf
+17–18 Gnoll
+19–31 Gnome
+32–33 Goblin
+34–36 Half-elf
+37–39 Halfling
+40–42 Half-orc
+43–44 Hobgoblin
+45–88 Human
+89–91 Kobold
+92–93 Ogre
+94–95 Ogre Mage
+96–98 Orc
+99–00 Troll
+
+===== PAGE 40 =====
+ SEVENTH LEVEL DRUID SPELLS  | 39
+   ANIMAL TABLE
+D100 NEW INCARNATION
+01–05 Badger
+06–18 Bear
+19–24 Boar
+25–29 Centaur
+30–35 Dryad
+36–43 Eagle
+44–46 Fox
+47–52 Hawk
+53–57 Lynx
+58–62 Owl
+63–68 Pixie
+69–71 Raccoon
+72–76 Faun
+77–84 Stag
+85–92 Wolf
+93–00 Wolverine
+ TRANSMUTE METAL TO WOOD
+Druidic transmutation, level 7
+RANGE 80ft
+DURATION Instantaneous
+AREA OF EFFECT One metal object
+COMPONENTS V, S, M
+CASTING TIME 9 segments
+SAVING THROW See below
+Using this spell, you may select a single object 
+of metal and change its substance to wood. 
+Details
+The spell affects up to 8 lbs of metal per druid 
+level. The item is not entitled to a saving throw, 
+but magic items have a flat 90% chance of be -
+ing unaffected by the spell.
+===== PAGE 41 =====
+40 | OSRIC 3.0 -DRUID SPELLBOOK 
+SPELLS
+Air Breathing ............................................19
+Animal Friendship......................................5
+Animal Growth .........................................25
+Animal Summoning I ...............................20
+Animal Summoning II ..............................25
+Animal Summoning III .............................30
+Animate Rock ...........................................34
+Anti-Animal Shell .....................................30
+Anti-Plant Shell .........................................26
+Barkskin ......................................................9
+Call Lightning ............................................14
+Call Woodland Beings .............................20
+Cause Critical Wounds ............................31
+Cause Disease ..........................................15
+Cause Light Wounds ...............................10
+Cause Serious Wounds ...........................21
+Chariot of Fire ..........................................35
+Charm Person/Mammal ...........................9
+Chill Metal .................................................12
+Commune with Nature ...........................26
+Confusion..................................................35
+Conjure Earth Elemental ........................36
+Conjure Fire Elemental ...........................30
+Contaminate Water ...................................8
+Control Temperature,  
+10ft radius ...............................................21
+Control Weather ......................................36
+Control Winds ..........................................26
+Create Water ............................................10
+Creeping Doom ........................................37
+Cure Critical Wounds ..............................31
+Cure Disease ............................................14
+Cure Light Wounds ..................................10
+Cure Serious Wounds .............................21
+Detect Magic ...............................................5
+Detect Pits/Snares .....................................6
+Dismiss Earth Elemental .........................36
+Dismiss Fire Elemental ............................31
+Dispel Magic .............................................21
+Entangle ......................................................6
+Faerie Fire ...................................................6
+Feeblemind ...............................................31
+Feign Death ..............................................10
+Finger of Death ........................................37
+Fire Quench ..............................................38
+Fire Seeds .................................................32
+Fire Storm .................................................37
+Fire Trap ....................................................11
+Hallucinatory Forest ................................22
+Heat Metal ................................................11
+Hold Animal ..............................................15
+Hold Plant .................................................23
+Insect Plague ............................................27
+Invisibility to Animals ................................6
+Locate Animals ...........................................7
+Locate Plants ............................................12
+===== PAGE 42 =====
+ SEVENTH LEVEL DRUID SPELLS  | 41
+Neutralise Poison ....................................16
+Obscurement ...........................................12
+Pass Plant .................................................27
+Pass Without Trace ....................................7
+Plant Door .................................................23
+Plant Growth ............................................17
+Poison ........................................................16
+Predict Weather .........................................7
+Produce Fire .............................................23
+Produce Flame .........................................13
+Protection from Fire ................................17
+Protection from Lightning ......................24
+Purify Water ................................................7
+Pyrotechnics .............................................18
+Quench Fire ..............................................24
+Reduce Animal .........................................25
+Reincarnate ..............................................38
+Repel Insects ............................................24
+Shillelagh .....................................................8
+Snakes to Sticks .......................................28
+Snare .........................................................18
+Speak with Animals ...................................8
+Speak with Plants ....................................24
+Sticks to Snakes .......................................28
+Stone Shape .............................................18
+Summon Insects ......................................19
+Transmute Mud to Rock .........................29
+Transmute Rock to Mud .........................29
+Transport via Plants ................................32
+Tree ............................................................19
+Trip .............................................................13
+Turn Wood ................................................33
+Wall of Fire ................................................29
+Wall of Thorns ..........................................33
+Warp Wood ...............................................13
+Water Breathing .......................................19
+Weather Summoning ..............................34
+===== PAGE 43 =====
+OSRIC THIRD-PARTY LICENSE VERSION 1.1
+1. Terms. If you adhere to these terms, you may 
+publish third-party material stating compatibility 
+with OSRIC 3.0 (Player Guide and GM Guide) for 
+free or for sale and keep 100% of the profits.
+2. Content. You may freely use and reference the 
+general concepts of OSRIC 3.0, such as the rules 
+and game mechanics. You may use the names of 
+the game’s beings, locations, spells, and items. 
+You may not use the game’s art. You may not print 
+verbatim passages of text (no matter the length) 
+from the game, with the exception of monsters, 
+spells, and magic items.
+3. Logos and Branding. You may use the “Com -
+patible with OSRIC 3.0” logo, although it’s not re -
+quired. You may use the term OSRIC 3.0 in refer -
+ence to compatibility (stating, for example, “This 
+game is compatible with OSRIC 3.0” or another 
+similar phrase). You will not challenge or misuse 
+the trademarked terms “Mythmere Games” or 
+“OSRIC.” You may not use the term “Mythmere 
+Games” in any way that suggests your product is 
+approved or reviewed by Mythmere Games. You 
+may not imply that your publication is an official 
+Mythmere Games product or that you or your 
+publication are affiliated or associated with or 
+approved, sponsored, or endorsed by Mythmere 
+Games.
+4. Legal. Mythmere Games LLC takes no respon -
+sibility for any legal claims against your product 
+and will not be liable to you on any legal theory 
+(including, without limitation, negligence) or oth -
+erwise for any losses, costs, expenses, or damag -
+es arising out of this license or use of the licensed 
+material.
+This license shall be governed by, and interpreted 
+and construed in accordance with, the domestic 
+law of the State of Texas without giving effect to 
+any choice of law provision or rule that would 
+cause the application of laws of any jurisdiction 
+other than the State of Texas. The exclusive ven -
+ue for any dispute related to this license shall be 
+in Houston, Texas. You irrevocably consent to the 
+exercise of personal jurisdiction over you by the 
+state courts of Texas, and federal courts located 
+in Texas. 
+Unless stated otherwise herein, copyright rights 
+and moral rights, such as the right of integrity, are 
+not licensed under this license, nor are publicity, 
+privacy, and/or other similar personality rights. 
+Patent and trademark rights are not licensed un -
+der this license. Mythmere Games LLC reserves all 
+rights not expressly granted herein.
+If any provision of this license is deemed unen -
+forceable, it shall be automatically reformed to 
+the minimum extent necessary to make it en -
+forceable or, if not reformable, severed from this 
+license without affecting the enforceability of the 
+remaining provisions. Nothing in this license is a 
+limitation upon, or waiver of, any privileges and 
+immunities that apply to Mythmere Games LLC, 
+including from the legal processes of any jurisdic -
+tion or authority.
+You must include the following in your publica-
+tion: “[Product Name] is an independent product 
+published under the OSRIC 3.0 Third-Party License 
+and is not affiliated with Mythmere Games LLC.”
+It is also good practice to include the follow -
+ing, to draw in legal protection:  This work in -
+cludes material taken from the System Reference 
+Document 5.1 (“SRD 5.1”) by Wizards of the Coast 
+LLC and available at: https://dnd.wizards.com/
+resources/systems-reference-document. The 
+SRD 5.1 is licensed under the Creative Commons 
+Attribution 4.0 International License available at: 
+https://creativecommons.org/licenses/by/4.0/le -
+galcode.
+===== PAGE 44 =====

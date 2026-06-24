@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# OS / editor cruft
+.DS_Store
+.fuse_hidden*
+.write_test_tmp
+
+# 1e reference CORPUS -- large and copyrighted (scraped rulebooks). NEVER commit.
+adnd_1e.db
+
+# Per-player campaign SAVE state (regenerable; each solo game is private)
+campaign.db
+campaign.db.bak*
+*.db-journal
+*.db-wal
+ventures.json
+games/
+
+# Built installer with machine-specific absolute paths baked in
+*.mcpb

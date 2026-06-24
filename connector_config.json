@@ -1,0 +1,17 @@
+{
+  "_comment": "Values for the tkw-dnd (The Known World) connector. This is a SEPARATE MCP server from greyhawk-dnd: its own name, its own campaign database, and its own world canon. It shares only the read-only 1e rules corpus (adnd_1e.db) with the Greyhawk install. Add this through the same place you added your existing greyhawk servers, then restart Claude Desktop so the new server loads.",
+  "mcpServers": {
+    "tkw-dnd": {
+      "command": "C:\\Users\\Raymond\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+      "args": [
+        "C:\\Users\\Raymond\\Documents\\dndCampaign\\dndTKW\\server\\mcp_server.py"
+      ],
+      "env": {
+        "GREYHAWK_MCP_DB": "C:\\Users\\Raymond\\Documents\\dndCampaign\\dndTKW\\campaign.db",
+        "GREYHAWK_MCP_NAME": "tkw-dnd",
+        "GREYHAWK_CORPUS": "C:\\Users\\Raymond\\Documents\\dndCampaign\\greyhawk\\adnd_1e.db",
+        "ANTHROPIC_API_KEY": "(your ANTHROPIC_API_KEY — same one your other servers use)"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "manifest_version": "0.3",
+  "name": "tkw-dnd",
+  "display_name": "The Known World — OSRIC + Dark Dungeons + Cepheus",
+  "version": "0.1.0",
+  "description": "AI-refereed AD&D 1e / OSRIC game in The Known World, a fresh setting forked from the Greyhawk engine. Shares the same machinery — the engine owns the math, the database owns the truth, the model narrates — but runs an independent campaign database and its own world canon. The 1e rules corpus is shared read-only with the Greyhawk install.",
+  "author": { "name": "Raymond" },
+  "server": {
+    "type": "binary",
+    "entry_point": "server/launch.py",
+    "mcp_config": {
+      "command": "C:\\Users\\Raymond\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+      "args": ["${__dirname}/server/launch.py"],
+      "env": {
+        "GREYHAWK_MCP_DB": "C:\\Users\\Raymond\\Documents\\dndCampaign\\dndTKW\\campaign.db",
+        "GREYHAWK_MCP_NAME": "tkw-dnd",
+        "GREYHAWK_CORPUS": "C:\\Users\\Raymond\\Documents\\dndCampaign\\greyhawk\\adnd_1e.db",
+        "ANTHROPIC_API_KEY": "${user_config.anthropic_api_key}"
+      }
+    }
+  },
+  "tools_generated": true,
+  "user_config": {
+    "anthropic_api_key": {
+      "type": "string",
+      "title": "Anthropic API key (optional)",
+      "description": "Enables Pass-2 (Haiku) narration validation. Leave blank to run the local checks only — the game works either way.",
+      "sensitive": true,
+      "required": false
+    }
+  },
+  "compatibility": {
+    "claude_desktop": ">=0.10.0",
+    "platforms": ["win32"]
+  }
+}

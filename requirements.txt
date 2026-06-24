@@ -1,0 +1,9 @@
+# Runtime deps for the Greyhawk/OSRIC campaign server.
+# Tier 1 (engine + state) needs only the Python stdlib; these are for the web
+# layer that lands in Tier 1 step 6.
+fastapi
+uvicorn[standard]
+pydantic
+websockets
+mcp>=1.2.0
+anthropic>=0.40.0   # only needed for Pass-2 validation

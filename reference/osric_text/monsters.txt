@@ -1,0 +1,270 @@
+ACHAIYERAI | 10 (body); 15hp (per each leg) | 8 [12] or -1 [21] (see below) | 1 bite (1d10 piercing) and 2 claws (1d8 | 90 | Huge | 1d6 | 1,400 +14/hp | Average (8-10) | Chaotic evil | 180ft
+AERIAL SERVANT | 16 | 3 [17] | 1 slam (8d4 blunt) | 125 | Large | 1 | 5,250 +20/hp | Semi (2-4) | Neutral | 240ft flying
+AL-MI’RAJ | 1 | 7 [13] | 1 horn (1d4 piercing) | 50 | Small | 2d10 | 5 +1/hp | Animal (1) | Neutral | 180ft
+SMALL OBJECT MEDIUM OBJECT LARGE OBJECT | 4 5 6 |  | 1 slam (1d6 blunt) 1 slam (2d4 blunt) 1 slam (3d6 blunt) | N/A (fights to the death) N/A (fights to the death) N/A (fights to the death) | Small Medium Large | 1 1 1 | 105 +3/hp 155 +4/hp 230 +6/hp | Non- (0) Non- (0) Non- (0) | Neutral Neutral Neutral | 90ft 60ft 30ft
+ANKHEG | 3 to 8 (GM decides, or roll 1d6+2) | 2 [18] | 1 bite (3d6 piercing) | N/A | Large | 1d6 | Varies by HD: | Non- (0) | Neutral | 120ft; 60ft burrowing
+ANNIS HAG | 9 | 0 [20] | 2 claws (1d8+1 slashing) and 1 bite | 90 | Large | 1d3 | 1,300 +12/hp | Exceptional (15-16) | Chaotic evil | 150ft
+WORKER SOLDIER QUEEN | 2 3 10 | 3 [17] 3 [17] 4 [16] | 1 bite (1d6 piercing) 1 bite (2d4 piercing & 3d4 | 55 60 N/A | Small Medium Large | 1d100 1/5 the number of workers 1 | 30 +1/hp 50 +2/hp 700 +13/hp | Animal (1) Animal (1) Low (5-7) | Neutral Neutral Neutral | 180ft 180ft Can’t move
+GORILLA CARNIVOROUS GIANT | 4 5 25 | 6 [14] 6 [14] 6 [14] | 2 fists (1d3 blunt), 1 bite (1d6 | 65 70 150 | Medium Large Gigantic | 3d6 2d4 1 | 110 +4/hp 125 +4/hp 10,000 +50/hp | Low (5-7) Low (5-7) Low (5-7) | Neutral Neutral Neutral | 120ft 120ft 180ft
+AURUMVORAX | 12 | 0 [20] | 1 bite (2d4 piercing) | 105 | Small | 1 | 2,250 +16/hp | Animal (1) | Neutral | 90ft; 30ft burrowing
+AXE BEAK (PHORUSRHACID) | 3 | 6 [14] | 2 claws (1d3) 1 beak (2d4) | 60 | Large | 1d6 | 50 +2/hp | Animal (1) | Neutral | 180ft
+AZER | 2+1 | 2 [18] | 1 spear (1d6+2 piercing and 1d3 fire) | 60 | Medium | 1d4 | 40 +3/hp | Very (11-12) | Lawful neutral | 90ft
+BABBLER | 5 | 6 [14] | 2 claws (1d6 slashing), 1 bite (1d8 | 70 | Large | 1d4 | 100 +5/hp | Average (8-10) | Chaotic evil | 120ft
+BABOON | 1+1 | 7 [13] | 1 bite (1d4 piercing) | 50 | Small | 10d4 | 30 +1/hp | Low (5-7) | Neutral | 120ft
+ORDINARY GIANT | 1+2 3 | 4 [16] 4 [16] | 2 claws (1d2), 1 bite | 55 60 | Small Medium |  | 30 +1/hp 50 +2/hp | Semi- (2-4) Semi- (2-4) | Neutral Neutral | 60ft; 30ft burrowing 60ft; 30ft burrowing
+BANSHEE (GROANING SPIRIT) | 7 | 0 [20] | 1 touch (1d8 cold) | 80 | Medium | 1 | 665 +8/hp | Exceptional (15-16) | Chaotic evil | 150ft
+BARRACUDA | 1 to 3 | 6 [14] | 1 bite (2d4 piercing) | N/A | Small | 2d6 | 1HD: 10 +1/hp | Non- (0) | Neutral | 300ft swimming
+BASILISK | 6 | 4 [16] | 1 bite (1d10 piercing) | 75 | Medium | 1d4 | 1,000 +8/hp | Animal (1) | Neutral | 60ft
+BAT, MOBAT | 4-6 | 2 [18] or 10 [10] | 1 bite (2d4) | 65, 70 or 75 | Medium | 1d8 |  | Low (5-7) | Neutral evil | 30ft; 150ft flying (AA:IV)
+BATRACHIAN TADPOLE | 1 1d2  hit points | 6 [14] (4 [16] for advanced types) 8 [12] | 1 spear (1d6 + poison) or 1 bite | 50 50 | Medium Small |  | 18 +1/hp 1 +0/hp | Low to average (5-10) Animal (1) | Chaotic evil Neutral | 30ft hop; 150ft swimming 30ft hop; 150ft
+BLACK BROWN | 3+3 5+5 | 7 [13] 6 [14] | 3 (1d3/1d3/1d6) 3 (1d6/1d6/1d8) | 65 75 | Medium Large (9ft) | 1d3 1d6 | 75 +3/hp 160 +6/hp | Semi- (2-4) Semi- (2-4) | Neutral Neutral | 120ft 120ft
+CAVE POLAR | 6+6 8+8 | 6 [14] 6 [14] | 1d8/1d8/1d12 1d10/1d10/2d6 | 80 95 | Large (12ft) Large (14ft) | 1d2 1d6 | 225 +8/hp 600 +12/hp | Semi- (2-4) Semi- (2-4) | Neutral Neutral | 120ft 120ft; 90ft
+WORKER SOLDIER | 3+1 4+2 | 6 [14] 5 [15] | 1 sting (1d3 + | 60 65 | Medium Medium |  | 100 +4/hp 150 +5/hp | Semi- (2-4) Semi- (2-4) | Neutral Neutral | 90ft; 300ft flying 120ft; 300ft flying
+BUMBLEBEE QUEEN | 6+4 9 | 5 [15] 5 [15] | 1 sting (1d6 + | 80 80 | Medium Medium |  | 300 +8/hp 900 +12/hp | Semi- (2-4) Semi- (2-4) | Neutral Neutral | 60ft; 240ft flying 60ft; 240ft flying
+FIRE BEETLE BOMBARDIER WATER | 1+2 2+2 4 | 4 [16] 4 [16] 3 [17] | 1 bite (2d4) 1 bite (2d6) 1 bite (3d6) | N/A N/A N/A | Small Medium Medium |  | 30 +1/hp 65 +2/hp 75 +3/hp | Non- (0) Non- (0) Non- (0) | Neutral Neutral Neutral | 120ft 90ft 30ft; 120ft
+BORING DEATH WATCH RHINOCEROS STAG | 5 9+1 12 7 | 3 [17] 3 [17] 2 [18] 3 [17] | 1 bite (5d4) 1 bite (3d4) 1 bite (2d8) and 1 horn | N/A N/A N/A N/A | Large Large Large Large | 3d6 1 1d6 2d6 | 110 +4/hp 1,100 +12/hp 1,300 +6/hp 225 +8/hp | Non- (0) Non- (0) Non- (0) Non- (0) | Neutral Neutral Neutral Neutral | 60ft 120ft 60ft 60ft
+BEHIR | 12 | 4 [16] | 1 bite (2d4) or bite plus 6 claws (1d6) | 105 | Huge | Encountered: 1d2 | 2,750 +16/hp | Low (5-7) | Neutral evil | 150ft
+NORMAL GIANT | 1 4 | 6 [14] 7 [13] | 1 bite (1hp) and 2 | 50 65 | Small Medium | 1d20 1 | 15 +1/hp 105 +3/hp | Animal (1) Animal (1) | Neutral Neutral | 30ft; 360ft flying
+BLINDHEIM | 4+2 | 3 [17] | 1 bite (1d8 piercing) | 70 | Small | 1d4 | 110 +5/hp | Semi- (2-4) | Chaotic evil | 90ft
+BLINK DOG | 4 | 5 [15] | 1 bite (1d6 piercing) | 65 | Medium | 4d4 | 175 +5/hp | Average (8-10) | Lawful good | 120ft
+BOAR | 3+3 7 | 7 [13] 6 [14] | 1 (3d4) 1 (3d6) | N/A (fights to the | Medium Large | 1d12 2d4 | 75+3/hp 225+8/hp | Animal (1) Animal (1) | Neutral Neutral | 150ft 120ft
+BOAR, WARTHOG | 3 | 7 [13] | 2 (2d4/2d4) | 60 | Small | 1d6 | 50 +2/hp | Animal (1) | Neutral | 120ft
+BROWNIE | 1d4 hp | 3 [17] | 1 (1d3) | 50 | Small | 4d4 | 50 +1/hp | High (13-14) | Lawful good | 120ft
+BUGBEAR | 3+1 | 5 [15] | 1 (2d4 or by weapon) | 65 | Large (7ft) | 6d6 (9d6 in lair) | 135 +4/hp | Low to average (5-10) | Chaotic evil | 90ft
+BULETTE | 9 | -2 [22] (see below) | 3 (3d6/3d6/4d12) | N/A (fights to the death) | Large | 1d2 | 2,000 +12/hp | Animal (1) | Neutral | 140ft; 30ft burrowing
+CAMEL | 3 | 7 [13] | 1 (1d4) | 60 | Large | 1d12 | 50 +2/hp | Animal (1) | Neutral | 210ft dromedary / 180ft bactrian
+CARBUNCLE | 1 | 2 [18] | None | 50 | Small | 1 | 5 +1/hp | Average (8-10) | Chaotic neutral | 30ft
+CARCASS CREEPER | 3+1 | 3 [17] or 7 [13] (see below) | 8 (paralysis) | N/A (fights to the death) | Large | 1d6 | 105 +3/hp | Non- (0) | Neutral | 120ft
+CARYATID COLUMN | 5 | 5 [15] | 1 (2d4) | N/A (fights to the death) | Medium | 1d12 | 110 +3/hp | Non- (0) | Neutral | 60ft
+DOMESTIC WILD | 1d2 hp 1d6 hp | 6 [14] 5 [15] | 1 (1d2-1) 3 (1/1/1d2) | 50 50 | Small Small | 1 or 2d6 1 or 1d4+1 | 3 +1/hp 10 +1/hp | Animal (1) Animal (1) | Neutral Neutral | 50ft 180ft
+CATERWAUL | 4+2 | 6 [14] (see below) | 2 claws (1d4) and 1 bite (1d6) | 70 | Medium | 1 | 400 +5/hp | Low (5-7) | Chaotic evil | 180ft or 240ft
+BISON (BUFFALO) BULL CATTLE | 5 4 3 | 3 [17] or 7 [13] 7 [13] 7 [13] | 2 horns (1d8 piercing) 2 horns (1d6 piercing) 1 head butt (1d6 blunt) | 70 65 60 | Large Large Large | 4d6 1, plus 50% chance of 3d6 cattle 20d10 | 110 +4/hp 75 +3/hp 50 +2/hp | Animal (1) Animal (1) Animal (1) | Neutral Neutral Neutral | 150ft 150ft 150ft
+CENTAUR | 4 | 5 [15] or 4 [16] | 2 hooves (1d6) and weapon | 65 | Large | 4d6 | 75 +3/hp | Average (8-10) | Neutral good or Chaotic good | 180ft
+BIG BIGGER BIGGEST | 1 hp 1 to 2 hp 3 | 9 [11] 9 [11] 5 [15] | 1 bite (poison only) 1 bite (poison only) 1 bite (1d3 piercing + poison) | N/A N/A N/A | Small Small Medium | 5d6 2d12 1d4 | 31 +1/hp 30 +1/hp 125 +3/hp | Non- (0) Non- (0) Non- (0) | Neutral Neutral Neutral | 210ft 150ft 180ft
+CHIMERA GORGIMERA | 9 10+1 | 4 [16] 3 [17] | 2 lion claws (1d4), 2 goat horns (1d3), 1 lion bite | 90 95 | Large Large | 1d4 1 | 1,300 +12/hp 2,250 +14/hp | Semi- (2-4) Semi- (2-4) | Chaotic evil Chaotic evil | 90ft; 180ft flying (AA:II) 120ft; 150ft flying (AA:II)
+COCKATRICE | 5 [15] | 6 [14] | 1 bite (1d3 + petrifaction) | 70 | Small | 1d6 | 170 +4/hp | Animal (1) | Neutral | 60ft; 180ft flying (AA:IV)
+COFFER CORPSE | 2 | 8 [12] | 1 claw (1d6 + strangle) or by weapon | N/A (fights to the death) | Medium | 1 | 30 +2/hp | Low (5-7) | Chaotic evil | 60ft
+COUATL | 9 | 5 [15] | 1 bite (1d3+ poison) and 1 constrict | 90 | Medium | 1d4 | 2,000 +12/hp | Genius (17-18) | Lawful good | 60ft; 180ft flying (AA:VI)
+CRABMAN | 3 | 4 [16] | 2 pincers (1d4) | 60 | Large (9ft) | 2d6 | 40 +2/hp | Low to average (5-10) | Neutral | 90ft; 60ft swimming
+GIANT CRAB GIANT CRAYFISH | 3 4+4 | 3 [17] 4 [16] | 2 pincers (2d4 | N/A N/A | Large Large |  | 75 +3/hp 110 +4/hp | Non- (0) Non- (0) | Neutral Neutral | 90ft 60ft; 120ft
+CRYPT THING | 6 | 3 [17] | 1 clawed hand (1d8 slashing) | 75 | Medium | 1 | 160 +4/hp | Very | Neutral | 120ft
+CYCLOPS | 13 | 2 [18] | 1 club (6d6) | 110 | Large (20ft) | 1d2 | 3,300 +17/hp | Low (5-7) | Chaotic evil | 150ft
+DAKON | 1+1 | 5 [15] | 2 claws (1d10 slashing) | 55 | Medium | 6d10 | 25 +2/hp | Average (8-10) | Lawful neutral | 60ft
+DARK CREEPER | 1+1 | 0 [20] (or 8 [12]; see below | 1 dagger (1d4) | 55 | Small (4ft) | 1 (or 20d4) | 50 +2/hp | Average (8-10) | Chaotic neutral | 90ft
+DARK STALKER | 2+1 | 0 [20] (or 8 [12]; see below | 1 short sword (1d6) | 60 | Medium | 1 (see below) | 200 +3/hp | Average (8-10) | Chaotic neutral | 90ft
+CLASS A DEMON (VROCK) | 8 | 0 [20] | 2 talons (1d4), 2 claws (1d8) | 85 | Large (9ft) | 1d3 or 1d6 (in the Abyss) | 1,275 +10/hp | Low (5-7) | Chaotic evil | 120ft; 180ft flying (AA:IV)
+CLASS B DEMON (HEZROU) | 9 | -2 [22] | 2 claws (1d3) and 1 bite (4d4) | 90 | Large (8ft) | 1d3 or 1d6 (in the Abyss) | 2,000 +12/hp | Low (5-7) | Chaotic evil | 60ft; 120ft hopping
+CLASS C DEMON (GLABREZU) | 10 | -4 [24] | 2 pincers (2d6 piercing), 2 claws (1d3 | 95 | Large (10ft) | 1d3 or 1d6 (in the Abyss) | 2,400 +14/hp | Average (8-10) | Chaotic evil | 90ft
+CLASS D DEMON (NALFESHNEE AND OTHERS) | 11 | -1 [21] | 1 claw (1d4) and 1 bite (2d4) | 100 | Large (11ft) | 1d3 or 1d6 (in the Abyss) | 3,000 +16/hp | Very (11-12) | Chaotic evil | 90ft; 120ft flying (AA:II)
+CLASS E DEMON (MARILITH AND OTHERS) | 7+7 | -7 [27] | 6 arms (2d4) and 1 constriction (1d6) | 90 | Large | 1d3 or 1d6 (in the Abyss) | 3,000 +12/hp | High (13-14) | Chaotic evil | 120ft
+CLASS F DEMON (BALOR AND OTHERS) | 8+8 | -2 [22] | 1 weapon/sword (+1) (1d12) or 1 whip | 95 | Large (12ft) | 1d3 or 1d6 (in the Abyss) | 3,600 +12/hp | High (13-14) | Chaotic evil | 60ft; 150ft flying (AA:III)
+ALUU-DEMON (HALF-DEMON) | 6+1d6  hit points | 5 [15] | 1 weapon (weapon + strength bonus) | 75 | Medium | 1 | 4,050 +14/hp | Very (11-12) to genius (17-18) | Chaotic evil (See below) | 120ft; 120ft flying (AA:IV)
+BABAU | 7+14 | -3 [23] | 2 claws (1d4+1) and 1 bite (2d4) or 1 | 95 | Medium (7ft) | 1d3 or 1d6 (in the Abyss) | 2,000 +12/hp | Very | Chaotic evil | 150ft
+MINOR NOBLE | 5 to 8 (1d4+4) 9 to 16 (1d8+8) | 6 [14] (base) 2 [18] (base) | 2 (By weapon type) 2 (By weapon type) | 70 to 85 90 to 125 | Medium (6-7ft) Medium (7-8ft) |  | 1,275 +10/hp 4,410 +15/hp | Average to | Chaotic evil Chaotic evil | 150ft 150ft
+DRETCH | 4 | 2 [18] | 2 claws (1d4) and 1 bite(1d4+1) | 65 | Small | 2d4 or 5d4 (in the Abyss) | 175 +4/hp | Low (5-7) | Chaotic evil | 90ft
+EKIVU (FLY DEMON) (KHASME) | 7+2 | -1 [21] | 2 claws (2d4) and 1 bite (1d4) | 85 | Medium | 1d3 or 1d6 (in the Abyss) | 1,275 +10/hp | Average (8-10) | Chaotic evil | 50ft; 210ft flying (AA:III)
+MANIS | 1 | 7 [13] | 2 claws (1d2 slashing) and 1 bite (1d4 | 50% | Small | 4d4 | 18 +1/hp | Semi- (2-4) | Chaotic Evil | 30ft
+QUASIT | 3 | 2 [18] | 2 claws (1d2) and 1 bite (1d4) | 60 | Tiny | 1 | 325 +3/hp | Low (5-7) | Chaotic evil | 150ft
+SHUB (RUTTERKITH) | 5+1 | 1 [19] | 2 claws (1d6+1) or 1 weapon | 70 | Medium | 1d4 or 3d4 (in the Abyss) | 425 +6/hp | Average (8-10) | Chaotic evil | 120ft
+SUCCUBUS/INCUBUS | 6 | 0 [20] | 2 claws (1d3) | 75 | Medium | 1 | 2,100 +6/hp | Exceptional (15-16) | Chaotic evil | 120ft; 180ft flying (AA:IV)
+UDUK (BAR-IGURA) | 6+6 | -3 [23] | 2 claws (1d6) and 1 bite (2d6) | 80 | Medium | 1d3 or 1d6 (in the Abyss) | 1,725 +10/hp | Very (11-12) | Chaotic evil | 90ft; 150ft in trees
+ASSAGIM (NIPHERIBU, NUPERIBBO) | 1 | 9 [11] | 2 claws (1d2) or 1 weapon | 50 | Medium | 10d10 | 18 +1/hp | Semi- (2-4) | Lawful evil | 60ft
+BARBED DEVIL | 8 | 0 [20] | 2 claws (2d4) and 1 tail (3d4) | 85 | Medium | 1d2 or 3d4 | 1,425 +10/hp | Very (11-12) | Lawful evil | 120ft
+BEARDED DEVIL | 6+6 | 1 [19] | 1 glaive (1d3 + entangle) or 2 claws | 80 | Medium (7ft) | 1d2 or 1d6+4 | 1,125 +10/hp | Average (8-10) | Lawful evil | 150ft
+BONE DEVIL | 9 | -1 [21] | 1 bone hook (3d4) | 90 | Large (9ft) | 1d2 or 2d4 | 1,000 +10/hp | Average (8-10) | Lawful evil | 150ft
+ERINYES | 6+6 | 2 [18] | 1 dagger (2d4+poison) | 80 | Medium (6ft) | 1d3 or 4d4 | 875 +8/hp | Average (8-10) | Lawful evil | 60ft; 210ft flying (AA:IV)
+HELLCAT (DEVILCAT) | 7+2 | 6 [14] | 2 claws (1d4+1) and 1 bite (2d6) | 85 | Large | 1 | 1,000 +10/hp | Average (8-10) | Lawful evil | 120ft
+HORNED DEVIL | 5+5 | -5 [25] | 2 claws (1d4) and 1 bite (1d4+1) and 1 | 75 | Large (9ft) | 1d2 or 1d4+1 | 1,320 +6/hp | High (13-14) | Lawful evil | 90ft; 180ft flying (AA:III)
+ICE DEVIL (GREATER DEVIL) | 11 | -4 [24] |  | 100 | Large (11ft) | 1 or 1d4 | 4,400 +16/hp | High (13-14) | Lawful evil | 60ft
+IMP (LESSER DEVIL) | 2+2 | 2 [18] | Tail (1d4 + poison) | 60 | Tiny | 1 | 275 +3/hp | Average (8-10) | Lawful evil | 60ft; 180ft flying (AA:V)
+LEMURE (LEAST DEVIL) | 3 | 7 [13] | 1 pseudopod (1d3) | 60 | Medium | 5d6 | 65 +3/hp | Semi- (2-4) | Lawful evil | 30ft
+BLACK BLUE GREEN RED WHITE | 8 5+1 6 4+2 7 | 2 [18] 3 [17] 3 [17] 1 [19] 3 [17] | Halberd (1d10+4) |  | Large (8ft) Medium (5ft) Medium (6ft) Small (4ft) Medium (7ft) |  |  |  | : Lawful evil Lawful evil Lawful evil Lawful evil Lawful evil | 90ft, 120ft flying
+PIT FIEND (GREATER DEVIL) | 13 | –3 [23] | 1 scimitar (1d8+6) and 1 spiked club | 110 | Large (12ft) | 1 or 1d3 | 7,900 +18/hp | Exceptional (15-16) | Lawful evil | 60ft; 150ft flying (AA:III)
+SAURUS | 15 12 9 8 10 4 | 7 [13] 6 [14] 7 [13] 7 [13] 6 [14] 9 [11] | 1 (2d8) 1 (1d12) 1 (1d6) 1 (1d8) 1 (1d10) 1 (1d6) | N/A N/A N/A N/A N/A N/A | Large Large Large Large Large Large |  | 2,000 +16/hp 1,200 +16/hp 750 +10/hp 500 +10/hp 1,500 +14/hp 75 +4/hp | Non- (0) Non- (0) Non- (0) Non- (0) Non- (0) Non- (0) | Neutral Neutral Neutral Neutral Neutral Neutral | 150ft 150ft 150ft 150ft 150ft 150ft
+DISENCHANTER | 5 | 5 [15] | 1 (special) | 70 | Medium (5ft at shoulder) | 1d2 | 225 +5/hp | Average (8-10) | Neutral | 120ft
+DJINNI NOBLE DJINNI | 7+3 10 | 4 [16] 4 [16] | 1 slap (2d8) 1 slap (3d8) | 85 95 | Large (8ft) Large (8ft) |  | 650 +10/hp 1200 +13/hp | Average (8-10) to | Chaotic good Chaotic good | 90ft; 240ft flying
+DOG | 2+2 1 | 6 [14] (or by | 1 bite (2d4) 1 bite (1d4) | N/A 50 | Medium Small |  | 50 +2/hp 10 +1/hp | Semi- (2-4) Semi- (2-4) | Neutral Neutral | 120ft 150ft
+DRACOLISK | 7+3 | 3 [17] | 3 (1d6/1d6/3d4) | 85 | Huge | 1d2 | 1,000 +10/hp | Low to average (5-10) | Chaotic evil | 90ft; 150ft flying (AA:II)
+DRAGON, BLACK | 6 to 8 | 3 [17] | 2 claws (1d4) and 1 bite (3d6) | 75, 80, or 85 (by HD) | Varies by age | 1d4 | Varies by hit dice and age | Average (8-10) | Chaotic evil | 120ft; 240ft flying (AA:II)
+DRAGON, BLUE | 8 to 10 | 2 [18] | 2 claws (1d6) and 1 bite (3d8) | 85, 90, or 95 (by HD) | Varies by age | 1d4 | Varies by hit dice and age | Very (11-12) | Lawful evil | 90ft; 240ft flying (AA:II)
+DRAGON, BRASS | 6 to 8 | 3 [17] | 2 claws (1d4) and 1 bite (4d4) | 75, 80, or 85 (by HD) | Varies by age | 1d4 | Varies by hit dice and age | High (13-14) | Chaotic good or Chaotic neutral | 120ft; 240ft flying (AA:II)
+DRAGON, BRONZE | 8 to 10 | 2 [18] | 3 (1d6/1d6/4d6) | 85, 90, or 95 (by HD) | Varies by age | 1d4 | Varies by hit dice and age | Exceptional (15-16) | Lawful good | 90ft; 240ft flying (AA:II)
+DRAGON, COPPER | 7 to 9 | 1 [19] | 2 claws (1d4) and 1 bite (3d6+2) | 80, 85, or 90 (by HD) | Varies by age | 1d4 | Varies by hit dice and age | High (13-14) | Chaotic good | 90ft; 240ft flying (AA:II)
+DRAGON, GOLD | 10 to 12 | -2 [22] | 2 claws (1d8) and 1 bite (6d6) | 95, 100 or 105 (by HD) | Varies by age | 1d3 | Varies by hit dice and age | Genius (17-18) | Lawful good | 120ft; 300ft flying (AA:II)
+DRAGON, GREEN | 7 to 9 | 2 [18] | 2 claws (1d6) and 1 bite (2d10) | 80, 85, or 90 (by HD) | Varies by age | 1d4 | Varies by hit dice and age | Average (8-10) to very (11-12) | Lawful evil | 90ft; 240ft flying (AA:II)
+DRAGON, RED | 9 to 11 | -1 [21] | 3 (1d8/1d8/3d10) | 90, 95, or 100 (by HD) | Varies by age | 1d4 | Varies by hit dice and age | Exceptional (15-16) | Chaotic evil | 90ft; 240ft flying (AA:II)
+DRAGON, SILVER | 9 to 11 | -1 [21] | 3 (1d6/1d6/5d6) | 90, 95, or 100 (by HD) | Varies by age | 1d4 | Varies by hit dice and age | Exceptional (15-16) | Lawful good | 90ft; 240ft flying (AA:II)
+DRAGON, WHITE | 5 to 7 | 3 [17] | 2 claws (1d4) and 1 bite (2d8) | 70, 75, or 80 (by HD) | Varies by age | 1d4 | Varies by hit dice and age | Low (5-7) | Chaotic evil | 120ft; 300ft flying (AA:II)
+DRAGON TURTLE | 12 to 15 | 0 [20] | 2 claws (2d6) and 1 bite (4d8) | Depends on HD | Huge | 1 |  | Very (11-12) | Neutral | 30ft; 90ft swimming
+DRYAD | 2 | 10 [10] | 1 (1d2) | 55 | Medium | 1d6 | 100 +3/hp. | High (13-14) | Neutral | 120ft
+DWARF | 1 | 4 [16] | By weapon | 50 | Small (4ft) | 4d100 | 30 +1/hp | Very (11-12) | Lawful good | 60ft
+EEL WEED EEL | 5 2 1d6 hp | 6 [14] 9 [11] 8 [12] | 3d6 1d4 1 + poison | N/A N/A N/A | Large Medium Small |  | 110 +4/hp 40 +2/hp 30 +1/hp | Non- (0) Non- (0) Non- (0) | Neutral Neutral Neutral | 90ft swimming 120ft
+EFREET | 10 | 2 [18] | 1 fist (1d8 blunt plus 2d8 fire) | 95 | Large | 1 | 7,000 +12/hp | Very (11-12) | Lawful evil | 90ft; 240ft flying
+AIR EARTH FIRE WATER | 8, 12, or 16 8, 12, or 16 8, 12, or 16 8, 12, or 16 | 2 [18] 2 [18] 2 [18] 2 [18] | 1 strike (2d10) 1 strike (4d8 or 4d6; see | N/A N/A N/A N/A | Large Large Large Large | 1 1 1 1 |  | Low (5-7) Low (5-7) Low (5-7) Low (5-7) | Neutral Neutral Neutral Neutral | 360ft flying (AA:VI) 60ft 120ft 60ft; 180ft swimming
+AFRICAN ASIAN MAMMOTH MASTODON | 11 10 13 12 | 6 [14] 5 [15] 6 [14] 6 [14] |  | 100 95 110 105 | Huge Huge Huge Huge | 1d12 1d12 1d12 1d12 | 1,400 +14/hp 1,100 +13/hp 2,300 +17/hp 1,900 +16/hp | Animal (1) Animal (1) Animal (1) Animal (1) | Neutral Neutral Neutral Neutral | 150ft 150ft 150ft 150ft
+ELF | 1+1 | 5 [15] | By weapon | 50 | Medium | 20d10 | 30 +1/hp | High (13-14) | Chaotic good | 120ft
+ETTERCAP | 5+1 | 6 | 3 (1d4/1d4/1d8) | 70 | Medium | 1d2 | 150 +5/hp | Semi- (2-4) | Neutral evil | 120ft
+ETTIN | 10 | 3 [17] | 1 club (2d8) and 1 other club (3d6) | 95 | Large (13ft) | 1d4 | 1,370 +14/hp | Low (5-7) | Chaotic evil | 120ft
+EXECUTIONER’S HOOD | 3 to 6 hit dice | 6 [14] | 1 (1d4) | N/A | Small | 1 | 250 +4/hp | Semi- (2-4) | Neutral evil | 60ft
+EYE OF THE DEEP | 11 | 5 | 2 pincers (2d4) and bite (1d6) | 100 | Large | 1 | 3,000 +16/hp | Very (11-12) | Lawful evil | 60ft swimming
+GIANT GAR GIANT PIKE LEVIATHAN | 8 4 24 | 3 [17] 5 [15] 6 [14] | 1 bite (2d10) 1 bite (3d6) 1 bite (5d4) | N/A N/A N/A | Large Large Huge | 1d6 1d8 1 | 575 +4/hp 90 +10/hp 5,000 +24/hp | Non- (0) Non- (0) Non- (0) | Neutral Neutral Neutral | 300ft
+HORSEFLY | 3 6 | 6 [14] 5 [15] | 1d8+1 2d6 | N/A N/A | Medium Large |  | 40 +3/hp 165 +6/hp | Non- (0) Non- (0) | Neutral Neutral | 90ft; 300ft flying
+FROG, GIANT | 1 to 3 | 7 [13] | 1 (1d3, 1d6 or 2d4) | N/A | Small to Medium | 5d8 |  | Non- (0) | Neutral | 30ft; 90ft swimming
+FUNGI, VIOLET | 3 | 7 [13] | 1d4 branches (special) | N/A | Small to Medium | 1d4 | 110 +2/hp | Non- (0) | Neutral | 10ft
+GARGOYLE | 4+4 | 5 [15] | 2 claws (1d3), 1 horn (1d4) | 70 | Medium | 2d8 | 155 +4/hp | Low (5-7) | Chaotic evil | 90ft; 150ft flying (AA:IV)
+GELATINOUS CUBE | 4 | 8 [12] | 1 (2d4) | N/A | Large | 1 | 150 +4/hp | Non- (0) | Neutral | 60ft
+GHAST | 4 | 4 [16] | 2 claws (1d4) and 1 bite (1d8) | 65 | Medium | 1d6 | 195 +4/hp | Very (11-12) | Chaotic evil | 150ft
+GHOST | 10+4 | 0 [20] when manifest/special | 1 (Wither) | 100 | Medium | 1 | 4,200 +14/hp | High (13-14) | Any evil | 90ft floating
+GHOUL | 2 | 6 [14] | 1d3/1d3/1d6 | 55 | Medium | 4d6 | 70 +2/hp | Low (5-7) | Chaotic evil | 90ft
+GIANT, CLOUD | 12 (+1d6 hp) | 2 [18] | 1 weapon (6d6) | 110 | Large (18ft tall) | 1d6 | 3,520 +16/hp | Average (8-10) up to very (11-12) | Neutral good (50%) or Neutral evil | 150ft
+GIANT, FIRE | 11 (+1d4 hp) | 3 [17] | 1 weapon (5d6) | 105 | Large (12ft) | 1d8 | 2,720 +16/hp | Low up to average (5-10) | Lawful evil | 120ft
+GIANT, FROST | 10 (+1d4 hp) | 4 [16] | 1 weapon (4d6) | 100 | Large (15ft) | 1d8 | 1,820 +14/hp | Low up to average (5-10) | Chaotic evil | 120ft
+GIANT, HILL | 8+1d2 | 4 [16] | 1 (2d8) | 85 | Large (10.5ft) | 1d10 | 1,200 +12/hp | Low (5-7) | Chaotic evil | 120ft
+GIANT, STONE | 9+1d4 | 0 [20] | 1 (3d6) | 90 | Large (12ft) | 1d8 | 1,500 +14/hp | Average (8-10) | Neutral | 120ft
+GIANT, STORM | 15 (+1d6  hit points) | 1 [19] | 1 (7d6) | 125 | Huge (21ft) | 1d4 | 6,000 +20/hp | Exceptional (15-16) | Chaotic good | 150ft
+FLIND | 2+3 | 5 [15] | 2d4 or by weapon | 55 | Medium (6.5ft) | 2d12 | 40 +4/hp | Average (8-10) | Chaotic evil | 120ft
+GNOLL | 2 | 5 [15] | 2d4 or by weapon | 55 | Large (7ft) | 20d10 | 30 +2/hp | Low to average (5-10) | Chaotic evil | 90ft
+GNOME | 1 | 5 [15] | 1d6 or by weapon | 50 | Small | 40d10 | 10 +1/hp | Very (11-12) | Neutral good or Lawful good | 60ft
+GOBLIN | 1d8-1  hit points | 6 [14] | 1d6 or by weapon | 50 | Small (4ft) | 40d10 | 10 +1/hp | Average (low) (8-10) | Lawful evil | 60ft
+GORGON | 8 | 2 [18] | 1 gore (2d6) | 85 | Large | 1d4 | 1,500 +10/hp | Animal (1) | Neutral | 120ft
+GREY OOZE | 3+3 | 8 [12] | 1 pseudopod (2d8) | N/A | Medium to Large | 1d3 | 75 +3/hp | Animal (1) | Neutral | 10ft
+GRIFFON | 7 | 3 [17] | 2 claws (1d4) and 1 bite (2d8) | 80 | Large | 2d6 | 225 +8/hp | Semi- (2-4) | Neutral | 120ft; 300ft flying (AA:IV)
+GRIMLOCK | 2 | 5 [15] | 1d6 or by weapon | 55 | Medium | 20d10 | 28 +2/hp | Average (8-10) | Neutral evil | 120ft
+HALFLING | 1d6 hp | 7 [13] | 1d6 or by weapon | 50 | Small | 30d10 | 5 +1/hp | Very (11-12) | Lawful good | 90ft
+HARPY | 3 | 7 [13] | 2 claws (1d3) and 1 club (1d6) | 60 | Medium | 2d6 | 50 +3/hp | Low (5-7) | Chaotic evil | 60ft; 150ft flying (AA:IV)
+HELL HOUND | 4 to 7 | 4 [16] | 1 bite (1d10) | 70 | Medium | 2d4 |  | Low (5-7) | Lawful evil | 120ft
+HIPPOGRIFF | 3+3 | 5 [15] | 1d6/1d6/1d10 | 65 | Large | 2d8 | 150 +3/hp | Semi- (2-4) | Neutral | 180ft; 360ft flying (AA:IV)
+HOBGOBLIN | 1+1 | 5 [15] | 1d8 or by weapon | 50 | Medium (6.5ft) | 20d10 | 20 +2/hp | Average (8-10) | Lawful evil | 90ft
+HOMUNCULUS | 2 | 6 [14] | 1 bite (1d3 + sleep) | N/A | Tiny (1.5ft) | 1 | 81 +2/hp | By creator | Any | 60ft; 180ft flying (AA:V)
+DRAFT HEAVY LIGHT MEDIUM PONY WILD | 3 3+3 2 2+2 1+1 2 | 7 [13] 7 [13] 7 [13] 7 [13] 7 [13] 7 [13] | 1 bite (1d3) 2 hooves (1d8) | 60 60 55 55 50 55 | Large Large Large Large Large Large |  | 20 +2/hp 20 +2/hp 20 +2/hp 20 +2/hp 20 +2/hp 20 +2/hp | Animal (1) Animal (1) Animal (1) Animal (1) Animal (1) Animal (1) | Neutral Neutral Neutral Neutral Neutral Neutral | 120ft 150ft 240ft 180ft 120ft 240ft
+HIPPOCAMPUS | 4 | 5 [15] | 1 bite (1d4 piercing) | 65 | Large | 2d4 | 60 +4/hp | Average (8-10) | Chaotic good | 240ft swimming
+HIPPOPOTAMUS | 8 | 6 [14] | 1 bite (3d6 or 2d6 piercing) | 85 | Large | 2d6 | 600 +12/hp | Animal (1) | Neutral | 90ft; 120ft swimming
+FOOTMAN ARCHER LIGHT CAVALRY MEDIUM CAVALRY | 1d6 hp 1d6 hp 1d6 hp 1d6 hp | 7 [13] 7 [13] 7 [13] 4 [15] | 1 sword (1d8) Longbow (1d6) or | 50 (60) 50 (60) 50 (60) 50 (60) | Medium Medium Medium Medium | 50% of base number 20% of base number 20% of base number 10% of base number | 5 +1/hp 5 +1/hp 10 +1/hp 10 +1/hp | Average (8-10) to very | Neutral (chaotic evil) Neutral (chaotic evil) Neutral (chaotic evil) Neutral (chaotic evil) | 120ft 120ft 240ft (mounted) 240ft (mounted)
+BERSERKER | 1d6+1 hp | 7 [13] | By weapon | N/A | Medium | 10d10 | 10 +1/hp | Average (8-10) to very | Neutral | 12ft
+BUCCANEER (PIRATE) | 1d6 hp | By  armour type | Axe or sword (1d8) | 50 | Medium | 50d6 | Varies | Mean (average to very) (8-12) | Neutral (Chaotic evil) | 120ft
+CAVEMAN | 2 | 8 [12] | 1 club or spear (1d6) | 40 | Medium | 10d10 | 20 +2/hp | Low (5-7) | Neutral | 120ft
+TRIBAL WARRIORS | 1 | 7 [13] | 1 sword (1d8) or spear (1d6) | 50 | Medium | 10d12 | 10 +1/hp | Average (8-10) | Neutral | 120ft
+MYSTIC NOMAD | 1d6 hp | Usually 7 [13] | By weapon | N/A | Medium | 30d10 | Varies | Average (8-10) | Any lawful | 120ft
+MOUNTED NOMADS | 1d6 hp | 7 [13] | By weapon | 50 | Medium | 30d10 | Varies | Average (8-10) | Neutral | 120ft
+PILGRIM | 1d6 hp | 8 [12] | Staff (1d6) | 50 | Medium | 10d10 | 5 +1/hp | Very (11-12) to High (13-14) | See below | 120ft
+NORMAL BIG GIANT | 2 3 4 | 7 [13] 6 [14] 5 [15] | 1 bite (2d4) 1 bite (2d4+1) 1 bite (2d6) | 55 60 65 | Medium Medium Large |  | 50 +2/hp 75 +3/hp 160 +6/hp | Animal (1) Animal (1) Animal (1) | Neutral Neutral Neutral | 120ft 120ft 180ft
+INVISIBLE STALKER | 8 | 3 [17] | 1 strike (2d8) | N/A | Large (8ft) | 1 | 1,100 +10/hp | High (13-14) | Neutral | 120ft
+NORMAL HUGE GIANT | 1 2 4 | 7 [13] 6 [14] 5 [15] | 1 bite (1d4 1 bite (1d4+1) 1 bite (1d8) | 50 55 65 | Small Small Medium |  | 10 +1/hp 30 +1/hp 75 +3/hp | Animal (1) Animal (1) Animal (1) | Neutral Neutral Neutral | 120ft 150ft 180ft
+JACKALWERE | 4 | 4 [16] | 2d8 or by weapon | 65 | Medium (small) | 1d4 | 75 +4/hp | Very (11-12) | Chaotic evil | 120ft
+KOBOLD | 1d4 hp | 7 [13] | 1d4 or by weapon | 45 | Small (3ft) | 40d10 | 5 +1/hp | Average or Low (8-10) | Lawful evil | 60ft
+KRAKEN | 20 | 5 [15]/0 [20] |  | 145 | Huge | 1 | 17,500 +30/hp | Genius (17-18) | Neutral evil | 210ft swimming
+LAMIA | 9 | 3 [17] | 1 dagger (1d4) | 90 | Large | 1 | 1,500 +12/hp | High (13-14) | Chaotic evil | 240ft
+LAMMASU | 7+7 | 6 [14] | 2 claws (1d6+1) | 85 | Large | 1d8 | 875 +10/hp | Genius (17-18) | Lawful good | 120ft; 240ft flying (AA:III)
+LARVAL FIEND | 1 | 7 [13] | 1 bite (1d4+1) | 50 | Medium | 10d4 | 10 +1/hp | Low (5-7) | Any evil | 60ft
+LEECH, GIANT | 1–4 HD | 9 [11] | 1 bite. Damage: 1d4 (1 HD), | N/A | Small | 4d4 | 50 +3/hp | Non- (0) | Neutral | 30ft
+LEPRECHAUN | 1d4+1hp | 8 [12] | Nil | 50 | Tiny (2ft) | 1d20 | 50 +3/hp | Exceptional (15-16) | Neutral | 150ft
+LICH | 12 or more | 0 [20] | 1 strike (2d6+paralysation) | 95 | Medium | 1 | at least 10,000 +16/hp | Genius (17-18) or higher | Any evil | 60ft
+LION COUGAR PREHISTORIC | 5+3 3+2 6+3 | 5 [15] 6 [14] 5 [15] | 2 claws (1d6) and 1 bite (1d10) 2 claws (1d4) and 1 bite (1d6) 2 claws (2d4) and 1 bite (2d6) | 75 65 80 | Large Medium Large | 2d6 1d2 2d4 | 250 +6/hp 100 +3/hp 300 +6/hp | Semi- (2-4) Semi- (2-4) Semi- (2-4) | Neutral Neutral Neutral | 120ft 150ft 120ft
+FIRE GIANT MONITOR CAVE | 10 3+1 8 6 | 3 [17] 5 [15] 5 [15] 5 [15] | 2 claws (1d8) and 1 bite | 95 N/A N/A N/A | Huge (30ft long) Large (20ft long) Huge (40ft long) Large (20ft long) | 1d4 2d6 1d6 1d6 | 1,500 +14/hp 120 +4/hp 925 +10/hp 375 +6/hp | Animal (1) Non- (0) Non- (0) Non- (0) | Neutral Neutral Neutral Neutral | 90ft 150ft 60ft 120ft
+LIZARD MAN | 2+1 | 5 [15] or 4 [16] with shield | 2 claws (1d2) and 1 bite (1d8) | 55 | Medium (7ft tall) | 10d4 | 20 +2/hp | Low (average) | Neutral | 60ft; 120ft swimming
+LOCATHAH | 2 | 6 [14] | 1 (By weapon) | 55 | Medium | 20d10 | 30 +1/hp | Very (11-12) | Neutral | 120ft
+LURKER ABOVE | 10 | 6 [14] | 1 (Smother) | N/A | Large | 1 | 1,500 +10/hp | Non- (0) | Neutral | 10ft; 90ft flying (AA:I)
+LYNX, GIANT | 2+2 | 5 [15] | 2 claws (1d2) and 1 bite (1d4) | 60 | Medium | 1d4 | 90 +3/hp | Very (11-12) | Neutral | 120ft
+MANTICORE | 6+3 | 4 [16] | 3 (1d3/1d3/1d8) | 80 | Large | 1d4 | 525 +8/hp | Low (5-7) | Lawful evil | 120ft; 180ft flying (AA:II)
+MEDUSA | 6+1 | 5 [15] | 1 snakebite (1d6 + poison) | 75 | Medium | 1d3 | 750 +6/hp | Very (11-12) to High (13-14) | Neutral evil | 90ft
+FIRE LAVA SMOKE STEAM | 3+1 3 3 3+3 | 5 [15] 6 [14] 4 [16] 7 [13] | 2 claws (1d3 piercing +1 | 60 60 60 65 | Medium (5ft tall) Medium (5ft tall) Medium (5ft tall) Medium (5ft tall) | 1 1 1 1 | 155 +4/hp 110 +3/hp 100 +3/hp 170 +4/hp | Average (8-10) Average (8-10) Average (8-10) Average (8-10) | Any evil Any evil Any evil Any evil | 120ft; 240ft flying (AA:
+MERMAN | 1+1 | 7 [13] | 1 (By weapon) | 50 | Medium | 20d10 | 30 +1/hp | Average (8-10) | Neutral | 10ft; 180ft swimming
+MINOTAUR | 6+3 | 6 [14] | 1 gore (2d4) or 1 bite (1d4), or | 80 | Large | 1d8 | 225 +6/hp | Low (5-7) | Chaotic evil | 120ft
+BROWN YELLOW | N/A N/A | 10 [10] 10 [10] | Nil Nil | N/A N/A | Small to Large Small to Large |  | None None | Non- (0) Non- (0) | Neutral Neutral | 0 0
+MULE | 3 | 7 [13] | 1 bite (1d2) or 2 kicks (1d6) | 60 | Large | 1 | 20 +2/hp | Semi- (2-4) | Neutral | 120ft
+MUMMY | 6+3 | 3 [17] | 1 (1d12) | N/A | Medium | 2d4 | 985 +8/hp | Low (5-7) | Lawful evil | 60ft
+GUARDIAN SPIRIT WATER | 11 to 12 9 to 10 7 to 8 | 3 [17] 4 [16] 5 [15] | 1 bite (1d6) and tail lash (2d8) 1 bite (1d3) 1 bite (1d4) | 100 to 105 90 to 95 80 to 85 | Large (20ft long) Large (15ft long) Medium (10ft long) | 1d2 1d3 1d4 | 3,500 +10/hp 2,750 +14/hp 1,350 +10/hp | Exceptional (15-16) High (13-14) Very (11-12) | Lawful good Chaotic evil Neutral | 150ft 120ft 90ft swimming
+NECROPHIDIUS | 2 | 2 [18] | 1 bite (1d8 + paralysis) | N/A | Large (15ft long) | 1 | 125 +2/hp | Average (8-10) | Neutral | 90ft
+NEREID | 4 | 10 [10] | None | 65 | Medium | 1d4 | 150 +4/hp | Very (11-12) | Chaotic neutral | 120ft
+NIGHT HAG | 8 | 10 [10] | 1 (2d6) | 85 | Medium | 1d2 | 1,850 +10/hp | Exceptional (15-16) | Neutral evil | 90ft
+NIGHTMARE | 6+6 | -4 [24] | 2 hooves (1d6+4) and 1 bite | 80 | Large | 1 | 525 +8/hp | Very (11-12) | Neutral evil | 150ft; 360ft flying (AA:IV)
+NIXIE | 1d4 hp | 7 [13] | 1 (by weapon) | 50 | Small (4ft tall) | 10d10 | 35 +1/hp | Very (11-12) | Neutral | 60ft; 120ft swimming
+NYMPH | 3 | 9 [11] | 1 (1d2 or by weapon) | 60 | Medium | 1d4 | 350 +3/hp | Exceptional (15-16) | Neutral | 120ft
+OCTOPUS, GIANT | 8 | 7 [13] | 8 tentacles (1d4) and 1 bite | N/A | Large | 1 | 500 +10/hp | Non- (0) | Neutral | 180ft swimming
+COMMON OGRE MAGE (ONI) | 4+1 5+2 | 5 [15] 4 [16] | 1d10 or weapon 1d12 or by weapon | 70 75 | Large (9ft+) Large (9ft+) |  | 95 +5/hp 750 +6/hp | Low (5-7) Average (8-10) to | Chaotic evil Chaotic evil | 90ft 90ft; 150ft flying
+ORC | 1 | 6 [14] | 1 weapon | 50 | Medium (6ft tall) | 30d10 | 10 +1 per hp | Average or Low (5-10) | Lawful evil | 90ft
+OWLBEAR | 5+2 | 5 [15] | 2 claws (1d6) and 1 bite (1d4) | N/A | Large (8ft tall) | 1d4+1 | 225 +8/hp | Low (5-7) | Neutral | 120ft
+LESSER GREATER | 6 to 8 10 to 12 | 3 [17] 0 [20] | 2 tentacles (1d8) | 75 to 85 90 to 105 | Medium Large |  |  | Low (5-7) Average (8-10) | Neutral Neutral | 60ft 60ft
+PEGASUS | 4 | 6 [14] | 2 hooves (1d8 blunt) and 1 | 65 | Large | 1d10 | 75 +3/hp | Average (8-10) | Chaotic good | 240ft; 480ft flying (AA:IV)
+PHASE CAT (COEURL) | 6+6 | 2 [18] | 2 tentacles (2d4) | 80 | Large | 1d4 | 400 +6/hp | Average (8-10) | Neutral | 150ft
+PIERCER | 1 to 4 | 3 [17] | 1 pierce (1d6, 2d6, 3d6 or 4d6) | N/A | Small to Medium | 3d6 |  | Non- (0) | Neutral | 10ft
+PIXIE | 1d4hp | 5 [15] | 1 dagger (1d4) or short bow | 50 | Tiny (2ft) | 5d4 | 50 +1/hp | Exceptional (15-16) | Neutral | 60ft; 120ft flying (AA:V)
+POLTERGEIST | 1d4  hit points | 10 [10] | Nil | N/A | Medium | 1d8 | 35 +1/hp | Low (5-7) | Lawful evil | 60ft
+PORTUGUESE MAN O’ WAR, GIANT | 1 to 4 | 9 [11] | 1 (1d10 poison damage + paralysis) | N/A | Variable | 1d10 |  | Non- (0) | Neutral | 10ft swimming
+PSEUDO-DRAGON | 2 | 2 [18] | 1 bite (1d3) and 1 sting | 55 | Small (18-in) | 1 | 200 +2/hp | Average (8-10) | Neutral good | 60ft; 240ft flying (AA:V)
+PURPLE WORM | 15 | 6 | 1 bite (2d12 piercing) and 1 tail sting | N/A | Huge | 1d2 | 5,000 +20/hp | Non- (0) | Neutral | 90ft
+RAKSHASA | 7 | -4 [24] | 2 claws (1d3 slashing) and 1 | 80 | Medium | 1d4 | 1,000 +8/hp | Very (11-12) | Lawful evil | 150ft
+BIG BIGGER | 1 hp 1d4 hp | 8 [12] 7 [13] | 1 (1 hp) 1 (1d3) | 45 50 | Tiny Tiny |  | 5 +1/hp 7 +1/hp | Semi- (2-4) Semi- (2-4) | Neutral Neutral | 120ft 120ft
+REMORHAZ | 7 to 14 (roll 1d8+6) | Body 0 [20]; head 2 [18]; underside 4 | 1 (6d6) | 80+ | Huge (21ft to 42ft length) | 1 |  | Animal (1) | Neutral | 120ft
+COMMON WOOLLY | 8 or 9 10 | 6 [14] 5 [15] | 1 (2d4 or 2d6) 1 (2d6) | N/A 95 | Large Large |  | 550 +10/hp 900 +12/hp | Animal (1) Animal (1) | Neutral Neutral | 120ft 120ft
+ROC | 18 | 4 [16] | 1 bite (4d6) or 2 talons (3d6) | 135 | Huge (60ft+ wingspan) | 1d2 | 3,010 +25/hp | Animal (1) | Neutral | 30ft; 300ft flying (AA:II)
+NORMAL QUARTZ | 11 6 | 0 [20] 0 [20] | 6 tentacles (grab) | 100 N/A | Large Medium (5ft) |  | 2,700 +16/hp 525 +6/hp | Exceptional (15-16) High (13-14) | Chaotic evil Chaotic evil | 30ft 10ft
+ROT GRUB | 1 hit point | 9 [11] | 0 (See below) | N/A | Small | 5d4 | 5 +1/hp | Non- (0) | Neutral | 10ft
+RUST MONSTER | 5 | 2 [18] | 2 (Special) | N/A | Medium (5ft long) | 1d2 | 185 +4 per hp | Animal (1) | Neutral | 180ft
+NORMAL HATCHLING GUARD WARCHIEF | 2+2 1 3+3 4+4 | 5 [15] 7 [13] 5 [15] 4 [16] | 1 (By weapon) 1 (1d4) 1 (By weapon) 1 (By weapon) | 55 50 60 70 | Medium Small Medium Medium | 1d100 x2 10d4 3d6 1 | 30 +3/hp 10 +1/hp 50 +4/hp 100 +5/hp | High (13-14) High (13-14) High (13-14) High (13-14) | Lawful evil Lawful evil Lawful evil Lawful evil | 120ft; 240ft swimming 120ft; 240ft swimming 120ft; 240ft swimming 120ft; 240ft swimming
+PRIESTESS BARON PRINCE KING | 2 to 6 6+6 8+8 10+10 | 5 [15] 3 [17] 2 [18] 1 [19] | 1 (By weapon) 1 (By weapon) 2 (By weapon) 4 (By weapon) | By HD 80 95 120 | Medium Medium Medium Medium | 1d4+1 1 1 1 | Variable 300 +8/hp 500 +12/hp 1,250 +14/hp | Exceptional (15-16) High (13-14) High (13-14) Exceptional (15-16) | Lawful evil Lawful evil Lawful evil Lawful evil | 120ft; 240ft swimming 120ft; 240ft swimming 20ft; 240ft swimming 120ft; 240ft swimming
+SATYR (FAUN) | 5 | 5 [15] | 1 gore (2d4 piercing) | 70 | Medium | 2d4 | 110 +4/hp | Very (11-12) | Neutral | 180ft
+SEA HAG | 3 | 7 [13] | 2 claws (1d3+3) or 1 weapon | 60 | Medium | 1d3 | 410 +2/hp | Average (8-10) | Chaotic evil | 90ft; 150ft swimming
+SEA LION | 6 | 5 [15] or 3 [17] | 2 claws (1d6) and 1 bite (2d6) | 75 | Large | 3d4 | 150 +6/hp | Semi (2-4) | Neutral | 180ft swimming
+SEA SERPENT | 10 | 5 [15] | 1 bite (1d6 + poison) and 1 | 95 | Huge (50ft long) | 1d2 | 1,000 +12/hp | Animal (1) | Neutral | 120ft swimming
+SEAHORSE, GIANT | 2, 3, or 4 | 7 [13] | 1 head-butt (1d4, 1d4+1, or 2d4) | 55, 60, or 65 | Large | 1d20 | 20 +4/hp | Semi (2-4) | Neutral | 210ft swimming
+SHADOW | 3+1 | 7 [13] | 1 (1d6 + special) | 65 | Medium | 2d10+1 | 250 +4/hp | Low (5-7) | Chaotic evil | 120ft
+SHAMBLING MOUND | 8 to 11 | 0 [20] | 2 strikes (2d8 blunt) | By HD | Large | 1d3 | Variable according to hit dice | Low (5-7) | Neutral | 60ft
+SHEDU | 9+9 | 4 [16] | 2 hooves (1d6 blunt) | 100 | Large | 2d4 | 1,950 +14/hp | Exceptional (15-16) | Lawful good | 120ft; 240ft flying (AA:IV)
+SHRIEKER | 3 | 7 [12] | Nil | N/A | Small to large | 2d4 | 50 +2/hp | Non- (0) | Neutral | 10ft
+SKELETON | 1 | 7 [13] | 1 (1d6) | N/A | Medium | 3d10 | 15 +1/hp | Non- (0) | Neutral | 120ft
+SKELETON WARRIOR | 9+2 or higher | 2 [18] | 1 By weapon (+3 to hit) | 90 | Medium | 1 | 2,000 +16/hp | Exceptional (15-16) | Neutral evil | 60ft
+SLITHERING TRACKER | 5 | 5 [15] | Special | 70 | Small | 1 | 250 +5/hp | Average (8-10) | Neutral | 120ft
+SLIME, GREEN | 2 | 10 [10] | Special | N/A | Small | 1d4 | 20 +2/hp | Non- (0) | Neutral | None
+SLUG, GIANT | 12 | 8 [12] | 1 bite (1d12) | N/A | Large | 1 | 2,000 +16/hp | Non- (0) | Neutral | 60ft
+BOA ADDER COBRA AMPHISBAENA | 6+1 4+2 4+2 6 | 5 [15] 5 [15] 5 [15] 3 [17] | 1 bite (1d4) and 1 | 75 65 65 75 | Large Large Large Medium (6ft long) | 1d2 1d6 1d4 1d3 | 345 +8/hp 155 +4/hp 190 +4/hp 475 +6/hp | Animal (1) Animal (1) Animal (1) Animal (1) | Neutral Neutral Neutral Neutral | 90ft 150ft 120ft 120ft
+SPECTRE | 7+3 | 2 [18] | 1 (1d8) | N/A | Medium | 1d6 | 1,815 +10/hp | High (13-14) | Lawful evil | 150ft hovering; 300ft flying
+SPHINX, ANDRO- | 10 | -1 [21] | 2 claws (2d6) | 95 | Large (12ft long) | 1 | 1,500 +4/hp | Very (11-12) | Neutral/Neutral good | 180ft; 240ft flying (AA:III)
+SPHINX, CRIO– | 9 | -2 [22] | 2 claws (2d4) and 1 head-butt | 90 | Large (9ft long) | 1d2 | 900 +4/hp | Average (8-10) | Neutral | 160ft; 240ft flying (AA:III)
+SPHINX, GYNO– | 7 | 0 [20] | 2 claws (2d4) | 80 | Large (10ft long) | 1 | 650 +8/hp | Very (11-12) | Chaotic neutral or Chaotic | 150ft; 240ft flying (AA:III)
+SPHINX, HIERACO– | 8 | 0 [20] | 2 claws (2d4) and 1 bite (1d10) | 85 | Large (7ft long) | 1 | 600 +12/hp | Average (8-10) | Chaotic neutral/Chaotic evil | 140ft; 220ft flying (AA:III)
+SPIDER, GIANT WATER | 3+3 | 7 [13] | 1 (1d4+1+poison) | 60 | Large | 1 | 200 +4/hp | Semi- (2-4) | Neutral | 140ft underwater
+SPIDER, PHASE | 5+5 | 7 [13] | 1 bite (1d4+1 + poison) | 75 | Large | 1 | 700 +6/hp | Low (5-7) | Neutral | 60ft; 120ft in web
+SPRITE | 1 | 6 [14] | 1 (by weapon) | 50 | Tiny (1ft) | 10d10 | 50 +1/hp | Very (11-12) | Neutral good | 90ft; 180ft flying (AA:III)
+SQUID, GIANT | 12 | 3 [17] / 7 [13] | 8 tentacles (1d6) and 1 bite | N/A | Huge | 1 | 2,000 +16/hp | Non- (0) | Neutral | 180ft swimming
+STIRGE | 1+1 | 8 [12] | 1 (1d3) | 50 | Small | 3d10 | 35 +2/hp | Animal (1) | Neutral | 30ft; 180ft flying (AA:IV)
+STUNJELLY | 4 | 8 [12] | 1 tendril (2d4 + paralysis) | N/A | Large | 1 | 150 +4/hp | Non- (0) | Neutral | 30ft
+SYLPH | 3 | 10 [10] | Nil | 60 | Medium | 1 | 100 +3/hp | Exceptional (15-16) | Neutral | 120ft; 360ft flying (AA:V)
+TICK, GIANT | 3 | 4 [16] | 1 (1d4) | N/A | Small | 3d4 | 50 +2/hp | Non- (0) | Neutral | 30ft
+TIGER SMILODON | 5+5 7+2 | 6 [14] 6 [14] | 2 claws (1d6) and 1 | 75 80 | Large Large |  | 250 +6/hp 525 +10/hp | Animal (1) Animal (1) | Neutral Neutral | 120ft 120ft
+TITAN | 17–22 | Depends on HD (see below) | 1 (See below) | Depends on HD (see below) | Huge (18ft or more) | 1 | Variable | Genius (17-18) or Supra– | Chaotic good | Depends on HD (see below)
+TITANOTHERE | 12 | 6 [14] | 1 gore (4d4) | 105 | Huge | 1d12 | 2,000 +16/hp | Semi- (2-4) | Neutral | 120ft
+POISONOUS | 2+4 2 | 6 [14] 7 [13] | 2d4 1d4+1 + poison | 60 55 | Medium Medium |  | 20 +2/hp 50 +2/hp | Animal (1) Animal (1) | Neutral Neutral | 60ft; 60ft leaping 60ft; 60ft leaping
+TRAPPER | 12 | 3 [17] | 1 (special) | 105 | Large | 1 | 3,000 +16/hp | High (13-14) | Neutral | 30ft
+TREANT | 7–12 (1d6+6 if randomly determined) | 0 [20] | 2 (fists). See below | See below | Large | 1d20 |  | Very (11-12) | Chaotic good | 120ft
+TREE, ANIMATED | 12 | 0 [20] | 2 (fists) (4d6) | N/A | Large | 1d2 | 1,300 +16/hp | Non- (0) | Neutral | 30ft
+TRITON | 3 | 4 [15] | 1 (weapon) | 60 | Medium | 10d6 (10–60) |  | High+ (13-14+) | Neutral good | 150ft; 150ft swimming
+TROGLODYTE | 2 | 5 [15] | 2 claws (1d3) and 1 bite (1d4+1) or by | 55 | Medium | 10d10 | 20 +2/hp | Low (5-7) | Chaotic evil | 120ft
+TROLL | 6+6 | 4 [16] | 2 claws (1d4+4) and 1 bite (2d6) | 80 | Large (9ft+ tall) | 1d12 | 525 +8/hp | Low (5-7) | Chaotic evil | 120ft
+TROLL, GIANT | 8 | 4 [16] | 1 club (2d8) or 2 claws (1d6) | 85 | Large (10ft tall) | 1d12 | 750 +10/hp | Low (5-7) | Chaotic evil | 120ft
+TROLL, GIANT TWO–HEADED | 10 | 4 [16] | 2 claws (1d6) and 2 bites (1d10) | 95 | Large (10ft tall) | 1d3 | 1,750 +15/hp | Average (8-10) | Chaotic evil | 120ft
+TROLL, ICE | 2 | 8 | 2 claws (1d8) | 55 | Large (9ft tall) | 1d6 | 45 +2/hp | Semi- (2-4) | Chaotic evil | 90ft
+TROLL, SPECTRAL | 5+5 | 2 | 2 claws (1d3 + special) and 1 | 75 | Large (8ft tall) | 1d2 | 625 +6/hp | Very (11-12) | Chaotic evil | 150ft
+GIANT SEA GIANT SNAPPING | 15 10 |  | 1 bite (4d4) 1 bite (6d4) | 120 95 | Large Large |  | 2,400 + 20/hp 1,500 +14/hp | Animal (1) Animal (1) | Neutral Neutral | 10ft; 150ft
+UNICORN | 4+4 | 2 [18] | 2 hooves (1d6) and 1 horn (1d12) | 70 | Large | 1d4+1 | 440 +4/hp | Average (8-10) | Chaotic good | 240ft
+VAMPIRE | 8+3 | 1 [19] | 1 strike (1d6+4) | 90 | Medium | 1d4 | 3,810 +12/hp | Exceptional (15-16) | Chaotic evil | 120ft; 180ft flying (AA:V)
+VILSTRAAK | 1d6  hit points | 2 [18] | 1d4+1/1d4+1 | 50 | Medium | 2d10 | 5 +1/hp | Low (5-7) | Neutral evil | 90ft
+VOLT | 2+1 | 3 [17] | 1 (1d4 + shock) | 55 | Small | 2d12 | 50 +3/hp | Animal (1) | Neutral | 60ft levitating (AA:II)
+VULCHLING | 1 | 7 [12] | 1 bite (1d4+1) or 2 claws (1d4) | 50 | Medium | 2d8 | 10 +1/hp | Low (5-7) | Chaotic evil | 60ft; 30ft flying (AA:IV)
+WALRUS | 6 | 5 [15] | 3 (1d6/1d6/2d12) | 75 | Large | 3d6 | 160 +6/hp | Animal (1) | Neutral | 60ft; 180ft swimming
+WASP, GIANT | 4 | 4 [16] | 1 bite (1d4) and 1 sting (2d4 + poison) | N/A | Medium | 1d20; 1d20+20 in lair | 300 +3/hp | Non- (0) | Neutral | 60ft; 210ft flying (AA:V)
+WHALE | 12 to 36 | 4 [16] | 1 bite or 1 tail. 5–15 d4 (bite), | Varies by HD | Huge | 1d8 | Varies according to hit dice | Low (5-7) | Neutral | 180ft to 240ft swimming
+WIGHT | 4+3 | 5 [15] | 1 claw (1d4+level drain) | 70 | Medium | 2d8 | 590 +4/hp | Average (8-10) | Lawful evil | 120ft
+WILL–O–THE–WISP | 9 | –8 [28] | 1 electric shock (2d8) | 90 | Small | 1d3 | 1,400 +12/hp | Exceptional (15-16) | Chaotic evil | 180ft flying (AA:VI)
+NORMAL DIRE | 2+2 3+3 | 7 [13] 6 [14] | 1 bite (1d4+1) 1 bite (2d4) | 60 65 | Small Medium |  | 50 +2/hp 75 +3/hp | Semi- (2-4) Semi- (2-4) | Neutral Neutral | 180ft 180ft
+WOLF, WINTER | 6 | 5 [15] | 1 bite (2d4) | 75 | Large | 2d4 | 245 +5/hp | Average (8-10) | Neutral evil | 180ft
+WORG | 4+4 | 6 [14] | 1 bite (2d4) | 70 | Large | 3d4 | 75 +3/hp | Low (5-7) | Neutral evil | 180ft
+WRAITH | 5+3 | 4 [16] | 1 touch (1d6+level drain) | 75 | Medium | 2d6 | 550 +6/hp | Very (11-12) | Lawful evil | 120ft; 240ft flying (AA:IV)
+WYVERN | 7+7 | 3 [17] | 1 bite (1d6) and 1 sting (2d8 +poison) | 85 | Huge (30ft to 40ft long) | 1d6 | 850 +10/hp | Low (5-7) | Neutral evil | 60ft; 240ft flying (AA:III)
+XORN | 7+7 | -2 [22] | 3 claws (1d3) and 1 bite (6d4) | 85 | Medium | 1d4 | 1,350 +10/hp | Average (8-10) | Neutral | 90ft
+YELLOWMUSK VINE | 3 | 7 [13] | Entwine | N/A (fights to the death) | Large | 1 | 75 +3/hp | Non- (0) | Neutral | Nil
+YELLOWMUSK VINE ZOMBIE | 2 | Naturally 8 [12], some wear | 1 slam (1d8 blunt), or weapon | N/A (fights to the death) | Medium | 1d3 | 40 +2/hp | Non- (0) |  | 60ft
+YETI | 4+4 | 6 [14] | 2 claws (1d6) | 70 | Large (8ft tall) | 1d6 | 435 +5/hp | Average (8-10) | Neutral | 150ft
+ZOMBIE MONSTER ZOMBIE | 2 6 | 8 [12] 6 [14] | 1 strike (1d8) 1 attack (2d8) | N/A N/A | Medium Large |  | 30 +1/hp 145+6/hp | Non- (0) Non- (0) | Neutral Neutral | 60ft 90ft
+ZOMBIE, JUJU | 3+12hp | 6 [14] | 1 strike (2d6+1) | N/A | Medium | 1d6 | 115 +4/hp | Low (5-7) | Neutral (evil) | 90ft
+DREAD WRAITH | 16 | 1 [19] | 1 (2d6 + level drain) | 125 | Large | 2d6 | 9/5,900 +23/hp | Very (11-12) | Lawful Evil | 120ft; 240ft flying

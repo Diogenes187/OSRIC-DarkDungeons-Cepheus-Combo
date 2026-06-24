@@ -1,0 +1,106 @@
+Prime Requisite: In a character class, the most important attri-
+
+### ASSASSIN
+Minimum Scores: STR 12, DEX 12, CON 6, INT 11, WIS 6
+Hit Die Type: d6 (max 15)
+Alignment: Any evil
+Prime Requisite Bonus: None
+Armour/Shield Allowed: Leather or studded leather armour only;
+Weapons Allowed: Any
+Weapon Proficiencies: 3 (additional proficiency at level 4, 8, and 12)
+Initial Gold Pieces: 2d6 x 10
+
+### CLERIC
+Minimum Scores: STR 6, CON 6, INT 6, WIS 9, CHA 6
+Hit Die Type: d8 (max 9)
+Alignment: Any
+Prime Requisite Bonus: 10% bonus to XP if WIS is 16+
+Armour/Shield Allowed: Any
+Weapons Allowed: Club, flail, hammer, mace, staff, and torch. Some
+Weapon Proficiencies: 2 (additional proficiency at level 4, 7, 10,
+Initial Gold Pieces: 3d6 x 10
+
+### DRUID
+Minimum Scores: STR 6, CON 6, INT 6, WIS 12, CHA 15
+Hit Die Type: d8 (max 14)
+Alignment: Neutral only
+Prime Requisite Bonus: 10% bonus to XP if WIS and CHA are both 16+
+Armour/Shield Allowed: Leather armour and wooden shields only
+Weapons Allowed: Club, dagger, dart, hammer, scimitar, sling, spear,
+Weapon Proficiencies: 2 (additional proficiency at level 4, 7, 10, and 13)
+Initial Gold Pieces: 3d6 x 10
+
+### FIGHTER
+Minimum Scores: STR 9, DEX 6, CON 7, INT 3, WIS 6,
+Hit Die Type: d10 (max 9)
+Alignment: Any
+Prime Requisite Bonus: 10% bonus to XP if STR is 16+
+Armour/Shield Allowed: Any
+Weapons Allowed: Any
+Weapon Proficiencies: 4 (additional proficiency at
+Initial Gold Pieces: 5d4 x 10
+
+### ILLUSIONIST
+Minimum Scores: STR 6, DEX 16, INT 15, WIS 6, CHA 6
+Hit Die Type: d4 (max 10)
+Alignment: Any
+Prime Requisite Bonus: None
+Armour/Shield Allowed: None
+Weapons Allowed: Dagger, dart, oil, staff
+Weapon Proficiencies: 1 (additional proficiency at level 6, 11, and 16)
+Initial Gold Pieces: 2d4 x 10
+
+### MAGIC-USER
+Minimum Scores: DEX 6, CON 6, INT 9, WIS 6, CHA 6
+Hit Die Type: d4 (max 10)
+Alignment: Any
+Prime Requisite Bonus: 10% bonus to XP if INT is 16+
+Armour/Shield Allowed: None
+Weapons Allowed: Dagger, dart, oil, staff
+Weapon Proficiencies: 1 (additional proficiency at level 6, 11, and 16)
+Initial Gold Pieces: 2d4 x 10
+
+### MONK
+Minimum Scores: STR 10, WIS 10, DEX 15. Characters that
+Hit Die Type: d4 (max 18)
+Alignment: Any Lawful
+Prime Requisite Bonus: None
+Armour /Shield Allowed: None
+Weapon Proficiencies: 1 (additional proficiency at level 3, 5,
+Initial Gold Pieces: 5d4 (this is not x10)
+Armour Class Improvement:  Although you cannot wear ar -
+
+### PALADIN
+Minimum Scores: STR 12, DEX 6, CON 9, INT 9, WIS 13,
+Hit Die Type: d10 (max 9)
+Alignment: Lawful  Good only
+Prime Requisite Bonus: 10% bonus to XP if both STR
+Armour/ Shield Allowed: Any
+Weapon Proficiencies: 3 (additional proficiency at
+Initial Gold Pieces: 5d4 x 10
+
+### RANGER
+Minimum Scores: STR 13, DEX 6, CON 14, INT 13, WIS 14, CHA 6
+Hit Die Type: d8 (max 11 at 10th level)
+Alignment: Any good
+Prime Requisite Bonus: 10% to XP if all of STR, INT and WIS are
+Armour/ Shield Allowed: Any
+Weapon Proficiencies: 3 (additional proficiency at level 5, 8, 11,
+Initial Gold Pieces: 5d4 x 10
+
+### THIEF
+Minimum Scores: STR 6, DEX 9, CON 6, INT 6, CHA 6
+Hit Die Type: d6 (max 10)
+Alignment: Neutral or evil
+Prime Requisite Bonus: 10% bonus to XP if DEX is 16+
+Armour/ Shield Allowed: Leather, padded, or studded leather armour
+Weapon Proficiencies: 2 (additional proficiency at level 6, 10, 14, and 18)
+Initial Gold Pieces: 2d6 x 10
+
+### MULTI-CLASSING
+
+### DUAL-CLASSING
+Armour Class is a measure of how difficult it is to damage you
+Armour Modifiers
+Armour  5, 29, 32, 33, 36, 37, 40, 41, 43,
+Armour Class  5, 32, 36, 40, 43, 46, 50,

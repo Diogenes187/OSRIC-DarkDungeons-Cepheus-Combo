@@ -1,0 +1,4402 @@
+
+===== PAGE 1 =====
+CLERIC SPELLBOOKCLERIC SPELLBOOK
+
+===== PAGE 2 =====
+Authors: Stuart Marshall, Matthew Finch
+Contributing Authors: EoTB, Will Mistretta
+Initial Developers: David M. Prata and Allan 
+T. Grohe Jr
+Editors: Matt Finch, Gene Mayes, Dale Blatt, 
+Will Mistretta
+Contributing Authors and Editors to OSRIC 
+v2.2: John Adams, Nick Bogan, James Boney, 
+Chris Cain, Floyd Canaday, Mike Davison, 
+Mark Evans, Trent Foster, Vincent Fruge, Jer -
+emy Goehring, Chris Hopkins, B. Scot Hoover, 
+James D. Kramer, Fabrice Philibert-Caillat, Da-
+vid M. Prata, Daniel Proctor, Robert Ross, Bill 
+Silvey, Matthew James Stanham, and Matthew 
+Steward.
+Artists: Brett Barkley, Kennon James, JE 
+Shields, John Sumrow, Del Teigeler
+Layout & Design: Suzy Moseby
+Errata: Although we’ve done multiple edit -
+ing passes and crowdsourced proofreading 
+to thousands of backers, there will inevitably 
+be errors in a book of this size. The best way 
+to address these errors will be to add to the 
+fan-maintained lists online, which will be the 
+better place to maintain a record. This is a 
+matter of practicality; we aren’t set up to cu -
+rate and maintain an online errata list, and 
+the internet is extremely well set up for this 
+purpose. Please don’t send errata directly to 
+Mythmere Games.
+LEGAL NOTE:  Mythmere Games and the 
+authors of this document are not affiliated 
+in any way with Wizards of the Coast, Inc. 
+(WOTC) or HASBRO, the holders of the 
+trademarks “Dungeons & Dragons” and 
+“D&D”. Mentions of these trademarks 
+(including “AD&D”) in this book are solely 
+for accurate reference, and are not 
+intended as the use of, or as a claim to, 
+such trademarks.
+FOR FREE UPDATES AND OTHER OSRIC 
+SUPPORT, VISIT: 
+• mythmeregames.com
+• knights-n-knaves.com/osric
+This work includes material taken from the System 
+Reference Document 5.1 (“SRD 5.1”) by Wizards of 
+the Coast LLC and available at: https://dnd.wizards.
+com/resources/systems-reference-document. The 
+SRD 5.1 is licensed under the Creative Commons 
+Attribution 4.0 International License available at: 
+https://creativecommons.org/licenses/by/4.0/legal -
+code.
+Text © Stuart Marshall and Matthew Finch 2006–
+2025 or contributing author 2006–2025 and used 
+with permission.
+Stuart Marshall and Matt Finch assert their moral 
+right to be identified as the authors of this work.
+Illustrations and maps are copyright by the respec -
+tive artists 2006–2025, used with permission.
+“OSRIC”, “Osric” and “O.S.R.I.C.” are trademarks of 
+Matthew Finch and Stuart Marshall
+“OSRIC 3” is a trademark of Mythmere Games.
+OLD SCHOOL REFERENCE 
+AND INDEX COMPILATION
+979-8-88584-043-9 PDF
+===== PAGE 3 =====
+
+===== PAGE 4 =====
+TABLE OF CONTENTS
+1.8.2.1. FIRST LEVEL CLERIC SPELLS ............................. 5
+1.8.2.2. SECOND LEVEL CLERIC SPELLS ...................... 13
+1.8.2.3. THIRD LEVEL CLERIC SPELLS ..........................20
+1.8.2.4. FOURTH LEVEL CLERIC SPELLS ...................... 30
+1.8.2.5. FIFTH LEVEL CLERIC SPELLS ...........................39
+1.8.2.6. SIXTH LEVEL CLERIC SPELLS ...........................45
+1.8.2.7. SEVENTH LEVEL CLERIC SPELLS ..................... 50
+
+===== PAGE 5 =====
+4 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ 1.8.2.  CLERIC  SPELLS BY LEVEL
+LEVEL 1 LEVEL 2 LEVEL 3 LEVEL 4
+1 Bless Augury Animate Dead Cure Serious 
+Wounds
+2 Command Chant Continual  Light Detect Lie
+3 Create Water Detect Charm Create Food & 
+Water Divination
+4 Cure  Light 
+Wounds Find  Traps Cure Blindness Exorcise
+5 Detect  Evil Hold Person Cure Disease Lower Water
+6 Detect Magic Know Alignment Dispel Magic Neutralise  Poison
+7  Light Resist Fire Feign  Death Protection from  Evil 
+10ft radius
+8 Protection from 
+ Evil Silence 15ft Radius Glyph of Warding Speak with Plants
+9 Purify Food & 
+Drink Slow  Poison Locate Object Sticks to Snakes
+10 Remove Fear Snake Charm Prayer Tongues
+11 Resist Cold Speak With Animals Remove Curse
+12 Sanctuary Spiritual Weapon Speak With Dead
+LEVEL 5 LEVEL 6 LEVEL 7
+1 Atonement Aerial Servant Astral Spell
+2 Commune Animate Object Control Weather
+3 Cure Critical Wounds Blade Barrier Earthquake
+4 Dispel  Evil Conjure Animals Gate
+5 Flame Strike Find the Path Holy Word
+6 Insect Plague Heal Regenerate
+7 Plane Shift Part Water Restoration
+8 Quest Speak with Monsters Resurrection
+9  Raise Dead Stone Tell Symbol
+10 True Seeing Word of Recall Wind Walk
+===== PAGE 6 =====
+ FIRST LEVEL CLERIC SPELLS  | 5
+ 1.8.2.1. FIRST LEVEL  
+CLERIC  SPELLS
+ BLESS
+Divine transmutation, level 1
+RANGE 60ft
+DURATION 6 rounds
+AREA OF EFFECT Cube, 50ft x 50ft x 50ft
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+The selected creatures in the area of effect can 
+choose to add +1 to their “to hit” rolls in combat 
+and +5% to their morale checks. 
+Details
+This spell can target creatures within the area 
+of effect that aren’t in melee when the spell is 
+cast (must be 10ft distant from enemies). When 
+you cast the spell, you can choose any number 
+of creatures and decide they aren’t affected.
+This spell is normally used as a blessing on your 
+allies (and yourself), granting bonuses in com -
+bat and morale checks.
+An alternative use for this spell is to bless an 
+object or a place, which can be done even if 
+you memorised the spell for blessing people. 
+This doesn’t usually have any game mechanical 
+effects, but can influence events outside the 
+ordinary rules (such as undoing the effects of 
+a wicked action in the past, or laying the dead 
+fully to rest). Part of the ritual for making holy 
+water is to bless the water to be affected, and 
+in some cases blessed missiles might do spe -
+cial harm to some kinds of evil creature.
+REVERSIBLE AS CURSE:
+ CURSE
+Divine transmutation, level 1
+RANGE 60ft
+DURATION 6 rounds
+AREA OF EFFECT Cube, 50ft x 50ft x 50ft
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW Yes (negates effect)
+Chosen creatures in the area of effect must 
+take a penalty of -1 to their “to hit” rolls in com-
+bat and -5% to their morale checks. 
+Details
+This spell can target creatures within the area 
+of effect that aren’t in melee when the spell is 
+cast (must be 10ft distant from enemies). When 
+you cast the spell, you can choose any number 
+of creatures and decide they aren’t affected.
+Like a bless spell, a curse spell can be used to 
+curse an object or place, but the effect is too 
+minor to have any rules-based consequence.
+ COMMAND
+Divine enchantment. level 1
+RANGE 10ft
+DURATION 1 round
+AREA OF EFFECT One creature
+COMPONENTS V
+CASTING TIME Fast
+SAVING THROW See below
+You issue a one-word command to the target -
+ed creature, and they might be forced to obey 
+for one round. The command must be very 
+clear (unambiguous), so only a few commands 
+are normally used. 
+Details
+The creature must be able to hear you, and 
+doesn’t have to obey unless the command is in 
+a language it understands. 
+This spell is considered in the nature of a charm 
+and of mental domination, so many creatures 
+such as golems, constructs, elementals, and 
+undead are immune.
+===== PAGE 7 =====
+6 | OSRIC 3.0 -CLERIC SPELLBOOK 
+The target creature doesn’t have to obey un -
+less the command is a verb.
+The target creature may roll a saving throw 
+against spells and other magical effects  only if 
+it meets one or more of the following criteria. 
+Otherwise, the spell takes automatic effect, as-
+suming the command is clear.
+• If it is a character, its Intelligence score is 13 
+or greater;
+• If it is a monster, its Intelligence stat is High 
+or greater;
+• If it is level 6 or more; or
+• If it has 6 or more hit dice.
+The target creature applies its Wisdom save 
+modifier, if it has one, to this saving throw. If 
+it succeeds at the saving throw, then it doesn’t 
+have to obey.
+Some typical commands, with their effects, are:
+• Approach. The target moves up to its full 
+movement directly towards you. The spell 
+ends as soon as it moves within 5ft of you.
+• Die. The target falls to the ground in a 
+catatonic state for one round. Although it 
+recovers at the start of the next round, it 
+remains prone until it can act.
+• Dive. If there’s a body of liquid within 5ft of 
+the target, it jumps in. If there isn’t, it falls 
+prone. Although it recovers at the start of 
+the next round, it remains prone until it can 
+act.
+• Flee. The target moves its full movement 
+such that when it’s finished moving, it’s at 
+the maximum possible distance away from 
+you. If there are several destination points 
+that are equally distant, it can choose which 
+one it moves to.
+• Grovel. The target falls prone and grovels. 
+It can’t do anything else for one round. 
+Although it recovers at the start of the next 
+round, it remains prone until it can act.
+• Halt. The target stops moving and can’t 
+move again this round. If it’s flying, it can 
+choose to hover. If it’s on foot, it can choose 
+to remain standing.
+You can give other commands as well. If you 
+do, your GM decides how the target reacts.
+ CREATE WATER
+Divine conjuration, level 1
+RANGE 10ft
+DURATION Instantaneous
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+For each level you have in the cleric class, you 
+can conjure up to sixteen litres of water from 
+the Elemental Plane of Water, from a targeted 
+point. You can limit the amount of water creat-
+ed if you choose.
+Details
+Unless the target point is inside a receptacle, 
+the water immediately spills.
+The target point can’t be inside a creature.
+REVERSIBLE AS DESTROY WATER:
+ DESTROY WATER
+Divine conjuration, level 1
+RANGE 10ft
+DURATION Instantaneous
+AREA OF EFFECT Up to 30 cubic feet
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+For each level you have in the cleric class, you 
+can dispel up to sixteen litres of water, ice, 
+steam, or fog, causing it to vanish from exis -
+tence into the Elemental Plane of Water in the 
+area around a targeted point. You can limit the 
+amount of water to be destroyed if you choose.
+Details
+Any impurities remain on the Prime Material, 
+so for example, dispelled seawater leaves a 
+crust of salt behind it.
+The target point can’t be inside a creature.
+===== PAGE 8 =====
+ FIRST LEVEL CLERIC SPELLS  | 7
+ CURE  LIGHT WOUNDS
+Divine necromancy, level 1
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW None
+The target creature regains 1d8 hit points, up 
+to its normal maximum. Any healing over the 
+creature’s normal maximum is wasted. You 
+must be able to see and touch the target crea -
+ture.
+Details
+This spell can’t cure diseases, reattach limbs, 
+bring back the dead, or heal any other afflic -
+tion that isn’t an injury measured in hit points. 
+These more serious injuries must be healed 
+with more powerful spells.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+REVERSIBLE AS CAUSE LIGHT WOUNDS:
+ CAUSE  LIGHT WOUNDS
+Divine necromancy, level 1
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW None
+The touched target creature takes 1d8 hit 
+points of magical damage, even if it is immune 
+to mundane weapons. You must be able to see 
+and touch the target creature.
+Details
+If you miss the to-hit roll on the target, no dam-
+age is inflicted and the spell is lost.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+ DETECT EVIL 
+Divine divination, level 1
+RANGE Caster
+DURATION 1 turn, plus 5 rounds 
+per cleric level
+AREA OF EFFECT Path 10ft wide and 
+120ft long
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+You see an aura around each evil-aligned crea-
+ture, object, or place within the area of effect. 
+If the creature, object, or place is invisible, then 
+you know where it is (surrounding aura), but 
+you still can’t see details of the actual invisible 
+thing. If you make an attack roll against it, then 
+the “to hit” roll penalty for attacking an invisible 
+target is halved, so usually -2 instead of -4.
+Details
+Only the caster “sees” the aura of evil presenc-
+es. This spell reveals evil alignments, not dan -
+ger, so you won’t necessarily spot a mindless 
+trap or a poisoned wineglass. The spell doesn’t 
+necessarily detect curses, although some of 
+the most atrocious curses do make the cursed 
+item inherently evil.
+Opaque materials can interfere with the spell. 
+The spell can only penetrate metal if it’s one 
+inch thick or less, and brick or stone if it’s one 
+foot thick or less.
+This spell only detects a creature, object, or 
+place if it has an evil alignment or if something 
+in the rules specifically describes it as evil, 
+fiendish, demonic, or devilish. Otherwise, this 
+spell doesn’t detect it.
+You must concentrate on maintaining the spell, 
+or it ends. See Section 1.8.1.5 (Concentration) 
+for how this works.
+===== PAGE 9 =====
+8 | OSRIC 3.0 -CLERIC SPELLBOOK 
+REVERSIBLE AS DETECT GOOD:
+ DETECT  GOOD
+Divine divination, level 1
+RANGE Caster
+DURATION 1 turn, plus 5 rounds 
+per cleric level
+AREA OF EFFECT Path 10ft wide and 
+120ft long
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+You see an aura around each good-aligned 
+creature, object, or place within the area of ef -
+fect. 
+If the creature, object, or place is invisible, then 
+you know where it is (surrounding aura), but 
+you still can’t see details of the actual invisible 
+thing. If you make an attack roll against it, then 
+the “to hit” roll penalty for attacking an invisible 
+target is halved, so usually -2 instead of -4.
+Details
+Only the caster “sees” the aura of good pres -
+ences. This spell reveals good alignments, not 
+safety or benefit, so you won’t necessarily spot 
+a healing potion or helpful item. 
+Opaque materials can interfere with the spell. 
+The spell can only penetrate metal if it’s one 
+inch thick or less, and brick or stone if it’s one 
+foot thick or less.
+This spell only detects a creature, object, or 
+place if it has a good alignment or if something 
+in the rules specifically describes it as good or 
+holy. Otherwise, this spell doesn’t detect it.
+You must concentrate on maintaining the spell, 
+or it ends. See Section 1.8.1.5 (Concentration) 
+for how this works.
+ DETECT MAGIC
+Divine divination, level 1
+RANGE Caster
+DURATION 1 turn
+AREA OF EFFECT Path 10ft wide and 30ft 
+long
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+You see an aura around each magical creature, 
+object, or place within the area of effect.
+If the creature, object, or place is invisible, then 
+you know where it is, but you still can’t see it. If 
+you make an attack roll against it, then the “to 
+hit” roll penalty for attacking an invisible target 
+is halved, so usually -2 instead of -4.
+Details
+Only you (the caster) can “see” the magical 
+auras. The spell reveals enchantments, not 
+powers, so it would detect a magic item but it 
+wouldn’t detect a druid (or other spellcaster) 
+unless they were using a spell.
+Solid material can block the spell. The spell 
+can only penetrate metal if it’s one inch thick 
+or less, and brick or stone if it’s one foot thick 
+or less.
+Unlike the magic-user version of this spell, you 
+can’t tell which school or schools of magic are 
+affecting the target.
+You must concentrate on maintaining the spell, 
+or it ends. See Section 1.8.1.5 (Concentration) 
+for how this works.
+===== PAGE 10 =====
+ FIRST LEVEL CLERIC SPELLS  | 9
+   LIGHT
+Divine transmutation, level 1
+RANGE 60ft
+DURATION 6 turns + 1 turn per 
+cleric level
+AREA OF EFFECT 20ft radius sphere
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW See below
+You create a magical light, centred on the tar -
+get, which may be a point in space, a creature, 
+or an object. You can extinguish the light at will.
+If your target is an area of magical darkness, 
+then the darkness is nullified for the spell’s du-
+ration but there is no additional magical light 
+created; the spells cancel each other.
+Details
+The light is stationary, unless you cast it on a 
+creature or object that moves, in which case it 
+moves with that creature or object.
+If your target is a creature, then it can choose 
+to roll a saving throw vs spells. The target crea-
+ture applies its Dexterity save modifier, if it has 
+one, to this saving throw. 
+• If it passes the saving throw, then your spell 
+produces a stationary light in the air just 
+behind your target creature, rather than 
+affecting the creature itself. 
+• If it fails the saving throw and the target was 
+its eyes or light-sensing organs, the target is 
+blinded for the spell’s duration. If the spell 
+was just targeted on the creature in general, 
+there is no blinding effect.
+REVERSIBLE AS DARKNESS:
+ DARKNESS
+Divine transmutation, level 1
+RANGE 60ft
+DURATION 3 turns + 1 turn per 
+two cleric levels
+AREA OF EFFECT 20ft radius sphere
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW See below
+You create magical darkness, centred on a tar -
+get location, which can be a creature, object, or 
+even a location in thin air. You can eliminate the 
+darkness at will. Light sources, including magi -
+cal light such as from a glowing sword, do not 
+illuminate the area affected by the spell, but an 
+actual light spell may counteract this spell.
+Details
+If your target is a light source, then the light is 
+extinguished for the spell’s duration but no ad-
+ditional magical darkness is created. The light 
+source is simply cancelled.
+The darkness is stationary, unless you cast it on 
+a creature or object that moves (you cannot or-
+der the spell effect to move after casting).
+If your target is a creature, then it can choose 
+to roll a saving throw vs spells. The target crea-
+ture applies its Dexterity save modifier, if it has 
+one, to this saving throw. If it passes the saving 
+throw, then your spell produces a stationary 
+point of darkness in the air just behind your 
+target creature, rather than affecting the crea -
+ture itself.
+As an optional rule, some GMs rule that in -
+fravision can see through the divine version of 
+Darkness spells. This optional rule only affects 
+Darkness spells cast using a cleric spell slot.
+
+===== PAGE 11 =====
+10 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ PROTECTION FROM EVIL 
+Divine abjuration, level 1
+RANGE Touch
+DURATION 3 rounds per cleric 
+level
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 4 segments
+SAVING THROW None
+This spell creates an invisible barrier against 
+evil and summoned creatures, protecting you 
+or one creature you touch. The spell com -
+pletely prevents any direct touch attack by a 
+summoned or conjured creature , and provides 
+penalties on attacks and spells by evil creatures. 
+Creatures that are both evil and conjured, such 
+as demons, suffer both types of penalties from 
+the ward, but many creatures are only affected 
+by one type of penalty.
+Details
+You can’t cast this spell on a hostile creature, 
+on an object, or on a place or point in space.
+The target creature is warded (in different 
+ways) against all of the following:
+1. Creatures that have an evil alignment must 
+take a penalty of -2 on their attack rolls vs 
+the warded creature. The warded creature 
+may add +2 to any saving throws that are 
+caused by an evil creature (or an effect it 
+causes, such as a spell).
+2. Effects that the rules specifically describe as 
+evil, fiendish, demonic, or devilish allow a +2 
+to saving throws. This is not cumulative with 
+the +2 for effects caused by evil creatures.
+3. All conjured or summoned creatures regard-
+less of alignment cannot attack the warded 
+creature by touch (claws, teeth, etc.). How -
+ever, they are not subject to the penalties 
+described in (1) unless they are actually evil. 
+Example: a djinni is a summoned creature, 
+and thus cannot touch a warded person. 
+However, since it is not evilly-aligned, it can 
+attack with a weapon with no penalty.
+Ghouls have this additional penalty: They are 
+kept at bay. This means the ghoul can’t make 
+any move that would reduce the distance be -
+tween the ghoul and the warded creature, but 
+if the warded creature approaches the ghoul, 
+the ghoul doesn’t have to retreat.
+Some GMs rule that Protection from Evil keeps 
+other creatures, as well as ghouls, at bay.
+REVERSIBLE AS PROTECTION FROM 
+GOOD:
+ PROTECTION FROM  GOOD
+Divine abjuration, level 1
+RANGE Touch
+DURATION 3 rounds per cleric 
+level
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 4 segments
+SAVING THROW None
+This spell creates an invisible barrier protect -
+ing you or one creature you touch. The spell 
+completely prevents any direct touch attack by 
+a summoned or conjured creature, and provides 
+penalties on attacks and spells by good-aligned 
+creatures. Creatures that are both good-aligned 
+and conjured, such as djinn, suffer both types 
+of penalties from the ward, but many creatures 
+are only affected by one type of penalty.
+Details
+You can’t cast this spell on a hostile creature, 
+on an object, or on a place or point in space.
+The target creature is warded (in different 
+ways) against all of the following:
+1. Creatures that have a good alignment must 
+take a penalty of -2 on their attack rolls vs 
+the warded creature. The warded creature 
+may add +2 to any saving throws that are 
+caused by a good-aligned creature (or an ef-
+fect it causes, such as a spell).
+2. Effects that the rules specifically describe as 
+holy allow a +2 to saving throws. This is not 
+cumulative with the +2 for effects caused by 
+good creatures.
+3. All conjured or summoned creatures regard-
+less of alignment cannot attack the warded 
+creature by touch (claws, teeth, etc.). How -
+ever, they are not subject to the penalties 
+===== PAGE 12 =====
+ FIRST LEVEL CLERIC SPELLS  | 11
+described in (1) unless they are actually 
+good-aligned. Example: an efreeti is a sum -
+moned creature, and thus cannot touch 
+a warded person. However, since it is not 
+good-aligned, it can attack with a weapon 
+with no penalty.
+ PURIFY FOOD AND DRINK
+Divine transmutation, level 1
+RANGE 30ft
+DURATION Instantaneous
+AREA OF EFFECT 1 cubic foot per cleric 
+level
+COMPONENTS V, S
+CASTING TIME 1 round
+SAVING THROW None
+You detoxify a volume of food and drink, re -
+moving all spoilage, disease, and poisons. This 
+spell also neutralises unholy water.
+Details
+This spell only affects objects, not creatures. 
+So for example, while a venomous snake might 
+be edible, this spell has no effect on the snake 
+while it’s still alive.
+This spell makes a substance safe to eat for 
+you, the caster (and anyone with an identical 
+metabolism). It doesn’t remove things that you 
+don’t experience as poison. When cast by cler-
+ics of some religions, it denatures alcohol, but 
+clerics of other religions leave the alcohol un -
+touched.
+REVERSIBLE AS SPOIL FOOD AND DRINK:
+ SPOIL FOOD AND DRINK
+Divine transmutation, level 1
+RANGE 30ft
+DURATION Instantaneous
+AREA OF EFFECT 1 cubic foot per cleric 
+level
+COMPONENTS V, S
+CASTING TIME 1 round
+SAVING THROW None
+This spell causes food and drink to become 
+spoiled and inedible, and it neutralises holy 
+water.
+Details
+The food and drink is detectably spoiled, and 
+most creatures will know not to eat or drink it 
+by the smell. A creature that does consume a 
+substance tainted by this spell must attempt a 
+saving throw vs poison. If it passes, it vomits 
+up the tainted substance before it takes any 
+damage. If it fails, it takes 3d6 points of poison 
+damage, and then suffers a penalty of -2 on its 
+“to hit” rolls and saving throws for 24 hours.
+This spell only affects objects, not creatures. So 
+for example, casting it on an undead creature 
+doesn’t cause rotting damage, even if you ar -
+gue that the undead creature is edible. The au-
+thor (Stuart) is still slightly appalled about that 
+preceding sentence, but it’s a question that’s 
+needed settling in game.
+ REMOVE FEAR
+Divine abjuration, level 1
+RANGE Touch
+DURATION
+1 turn or 
+instantaneous (see 
+below)
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW None
+This spell adds to the targeted creature’s cour-
+age, allowing new saving throws versus fear 
+
+===== PAGE 13 =====
+12 | OSRIC 3.0 -CLERIC SPELLBOOK 
+(see below) or granting a bonus to future sav -
+ing throws against fear. The targeted creature 
+must be normally living, so not a construct, ele-
+mental, golem, or undead.
+Details
+If the target is already affected by fear, then the 
+duration of this spell is instantaneous, allowing 
+the target to roll a new saving throw (immedi -
+ately and only once) against each fear effect 
+they’re currently suffering, even if they’ve al -
+ready failed a saving throw against the same 
+effect before. This new saving throw is against 
+spells and other magical effects, and the target 
+can choose to add a bonus of +1 to this saving 
+throw for each level you have in the cleric class.
+If the target isn’t already affected by fear, then 
+the duration of this spell is 1 turn. The target 
+is warded against fear. Each time they make a 
+saving throw against a fear effect during this 
+time, they can add +4 to their saving throw.
+This spell can’t overcome the fear caused by 
+deities or other creatures of similar power. 
+The psychic damage caused by illusions and 
+enchantments isn’t a fear effect for the pur -
+poses of this spell, so for example, remove fear 
+doesn’t counter phantasmal killer.
+This spell counters supernatural fear, so it does 
+not affect morale (unless morale is used to cal-
+culate a spell’s effect).
+REVERSIBLE AS CAUSE FEAR:
+ CAUSE FEAR
+Divine enchantment, level 1
+RANGE Touch
+DURATION 1 round per cleric level
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW Negates effect
+This spell creates fear in a targeted creature 
+unless it succeeds at a saving throw. The tar -
+geted creature must be normally living, so not 
+a construct, elemental, golem, or undead. A to-
+hit roll is usually required to touch the target.
+Details
+The target creature applies its Wisdom save 
+modifier, if it has one, to the saving throw.
+Until the spell ends, the target always moves 
+its full movement such that when it’s finished 
+moving, it’s at the greatest possible distance 
+away from you. If there are several destination 
+points that are equally distant, it can choose 
+which one it moves to. 
+A creature can’t cast spells while it’s affected by 
+fear. 
+An affected creature can’t attack unless both 
+(a) the target of the attack is between it and an 
+exit route, and (b) it has no other way round the 
+creature. If it attacks a creature while afraid, it 
+has a penalty of -4 on its attack roll.
+ RESIST COLD
+Divine abjuration, level 1
+RANGE Touch
+DURATION 1 turn per cleric level
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M 
+CASTING TIME 1 round
+SAVING THROW None
+This spell protects you or one targeted crea -
+ture from cold, which includes certain protec -
+tions against magical cold in combat situations.
+Details
+The warded creature is safe from non-magical 
+cold, and is comfortable in lightweight clothing 
+at low temperatures. If the temperature drops 
+below arctic levels, the target creature begins 
+to feel chilly.
+The warded creature gains all of the following 
+benefits:
+1. All cold damage the warded creature takes 
+is halved. If the damage is already halved, 
+for example because the warded creature 
+passed a saving throw, then it’s halved again. 
+Round fractions down.
+2. The warded creature can choose to attempt 
+a saving throw against any magical effect 
+===== PAGE 14 =====
+ SECOND LEVEL CLERIC SPELLS  | 13
+that deals cold damage, even if that effect 
+doesn’t normally allow a saving throw. If 
+there’s doubt about which kind of saving 
+throw to use, it’s against spells and other 
+magical effects.
+3. When the warded attempts a saving throw 
+against cold damage, it can choose to add +3 
+to its saving throw.
+ SANCTUARY
+Divine abjuration, level 1
+RANGE Touch
+DURATION 2 rounds plus 1 round 
+per cleric level
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 4 segments
+SAVING THROW See below
+You can cast this spell on yourself or one other 
+creature. To enemies, the protected creature 
+seems like a low priority target who is of little 
+threat.
+For the duration of the spell, any creature try -
+ing to make an attack (or cast a spell) that spe -
+cifically targets the protected creature must 
+attempt a saving throw vs spells. If it passes 
+the saving throw, it can attempt the attack or 
+cast the spell. If it fails, it cannot target the pro-
+tected creature, although it may attack or cast 
+the spell at an alternative target. If there’s an 
+alternative target within range, then this effect 
+doesn’t delay the attack or interrupt the cast -
+ing: all it does is divert the attack to the other 
+target.
+Details
+If the protected creature makes a weapon at -
+tack or an unarmed attack, or uses a spell that 
+affects an enemy, then the spell ends.
+Creatures can still make attacks and effects 
+that don’t specifically target the protected crea -
+ture. For example, if an enemy magic-user 
+casts a fireball whose target point is 5ft in front 
+of the spell’s recipient, they can do so without a 
+saving throw: the protected creature isn’t con-
+sidered the specific target of that spell.
+ 1.8.2.2. SECOND LEVEL  
+CLERIC  SPELLS
+ AUGURY
+Divine divination, level 2
+RANGE Caster
+DURATION Instantaneous
+AREA OF EFFECT Caster
+COMPONENTS V, S, M
+CASTING TIME 2 rounds
+SAVING THROW None
+Instruments of divination, which are required 
+for the spell, respond to a question about what 
+might happen in the near future based on a 
+proposed course of action. The results are 
+vague, and there is also a chance that you will 
+make an inaccurate reading.
+Details
+When you finish casting this spell, your GM se -
+cretly rolls to see if you interpret the omen cor-
+rectly. Your chance of success is 70% plus 1% 
+for each level you have in the cleric class. If you 
+don’t interpret the omen correctly, then your 
+GM will give you random inaccurate answer in-
+stead of the accurate one.
+You can’t cast this spell unless you have in -
+struments of divination. These could be a set 
+of sticks made from dragon’s bone or gold; a 
+crystal ball; the entrails of a sacrificial animal; 
+a set of tarot cards; or any other means that 
+your GM says is appropriate for your religion 
+and culture. These instruments of divination 
+must be worth at least 100 gp.
+When you cast the spell, you ask about the 
+results of a specific course of action that you 
+plan to take within the next 30 minutes. The in-
+struments of divination will respond with one 
+of the following:
+• “Weal”, for results that are generally favour-
+able to you and your allies.
+• “Woe”, for results that are generally unfa-
+vourable to you and your allies.
+• “Weal and woe”, for both good and bad 
+results.
+===== PAGE 15 =====
+14 | OSRIC 3.0 -CLERIC SPELLBOOK 
+• “Nothing”, for results that aren’t especially 
+favourable or unfavourable.
+The worlds of OSRIC aren’t deterministic. Any 
+creature’s fate depends partly on its own choic-
+es and decisions, and partly on the actions of 
+others. Therefore, the future isn’t preordained. 
+The divination power knows what’s likely to 
+happen, not what will happen.
+ CHANT
+Divine abjuration, level 2
+RANGE Nil
+DURATION Continuing
+AREA OF EFFECT
+30ft radius around the 
+point where you were 
+standing when you 
+finished casting this 
+spell
+COMPONENTS V, S
+CASTING TIME 1 round
+SAVING THROW None
+You chant holy words and prayers. After the 
+first round (casting time), and for as long as you 
+continue to remain stationary and chant, your 
+friends and allies (including you) receive minor 
+divine assistance, and enemies are obstructed. 
+Details
+Casting this spell makes a moderate amount of 
+sound: it is heard within 30ft, and can be heard 
+as far as 60ft away on a die roll of 5 or 6 (on 
+1d6).
+The spell effects are cumulative with the effects 
+of a prayer spell.
+Until the spell ends, all the following modifiers 
+apply within the area of effect:
+1. You and your allies can choose to add a bo -
+nus of +1 to your attack rolls, damage rolls, 
+and saving throws; and
+2. Your enemies must subtract a penalty of -1 
+to their attack rolls, damage rolls, and saving 
+throws.
+ DETECT CHARM
+Divine divination, level 2
+RANGE 30ft
+DURATION 1 turn
+AREA OF EFFECT Up to 10 creatures 
+within range
+COMPONENTS V, S
+CASTING TIME 1 round
+SAVING THROW See below
+An aura, visible only to the caster, forms around 
+any creature within the area of effect who is be-
+ing magically influenced or controlled. In some 
+cases, a saving throw is made.
+Details
+This spell reveals magical control or influence. 
+It doesn’t tell you when a creature has been 
+affected by non-magical propaganda, persua -
+sion, or deception.
+If the target creature has been affected by a 
+charm spell, there is no saving throw, but if 
+it has been dominated by a monster using a 
+mental domination ability other than a charm, 
+then the target creature must attempt a sav -
+ing throw vs spells. If it passes, the charm isn’t 
+revealed.
+A few creatures can control, influence, or dom-
+inate another creature using psychic or psionic 
+powers. Your GM decides whether these psy -
+chic or psionic powers are “magical” in their 
+campaign.
+If the creature is invisible, then you know where 
+it is, but you still can’t see it. If you make an attack 
+roll against it, then the “to hit” roll penalty for at-
+tacking an invisible target is halved, so usually -2 
+instead of -4.
+===== PAGE 16 =====
+ SECOND LEVEL CLERIC SPELLS  | 15
+REVERSIBLE AS CONCEAL CHARM:
+ CONCEAL CHARM
+Divine enchantment, level 2
+RANGE 30ft
+DURATION 1 turn
+AREA OF EFFECT One creature within 
+range
+COMPONENTS V, S
+CASTING TIME 1 round
+SAVING THROW None
+Until this spell ends, detect charm, detect magic, 
+and other magical divinations don’t reveal this 
+or any other enchantment spells that you cast 
+on the spell’s target. Such spells still reveal any 
+enchantment spells cast by others.
+Details
+This spell protects your enchantment spells 
+from magical detection. Non-magical question-
+ing or testing isn’t affected. No saving throw 
+applies to the spell. The actual charm might be 
+cast before or after the concealment, but the 
+duration of the spell begins running out im -
+mediately, even if the actual charm has not yet 
+been cast.
+A few creatures can explore another creature’s 
+mind using psychic or psionic powers. Your GM 
+decides whether these psychic or psionic pow -
+ers are “magical” in their campaign.
+ FIND  TRAPS
+Divine divination, level 2
+RANGE 30ft
+DURATION 3 turns
+AREA OF EFFECT 10ft wide path 
+originating from you
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW None
+This spell reveals the presence of magical and 
+mechanical traps within the area of effect. You 
+(and only you) can perceive the exact location 
+of each trap; if the trigger mechanism is in the 
+area of effect, you see that as well. You also 
+learn the basic threat that the trap represents.
+Details
+If there’s doubt, then for the purposes of this 
+spell, a trap is anything that would have an un-
+expected effect that you would consider unde-
+sirable, as long as that thing isn’t a creature. So, 
+find traps would reveal a poison needle trap in 
+a lock, a tripwire that’s linked to a warning bell, 
+a natural weakness in the floor, or a glyph of 
+warding. 
+Since only the basic nature of the trap is re -
+vealed, you might not learn the exact type of 
+poison, quantity of rocks that would fall, depth 
+of a pit, and so on. This is a matter for the GM 
+to decide.
+If the trap is magical or if it’s concealed by mag-
+ic, then for each level you have in the cleric 
+class, there’s a 10% chance that you can detect 
+the school of magic that’s involved.
+The spell doesn’t detect creatures, so it wouldn’t 
+reveal a kobold ambush or a venomous spider 
+lurking in a skull. It doesn’t tell you how to avoid 
+or disarm the trap.
+ HOLD PERSON
+Divine enchantment level 2
+RANGE 60ft
+DURATION
+4 rounds, plus 1 
+round for each level 
+you have in the cleric 
+class
+AREA OF EFFECT
+1, 2, or 3 creatures 
+of your choice within 
+the range
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW Negates
+The selected creatures must make a saving 
+throw against spells or be paralysed. The diffi -
+culty of the saving throw depends on the num-
+ber of creatures targeted (see below).
+===== PAGE 17 =====
+16 | OSRIC 3.0 -CLERIC SPELLBOOK 
+Details
+Creatures aren’t affected if they are not bipedal 
+(human, demi-human, or humanoid-like) and 
+size Medium or smaller.
+An affected creature is allowed a saving throw 
+vs spells. The target creature applies its Wis-
+dom save modifier, if it has one, to this saving 
+throw. There’s a further modifier that depends 
+on how many creatures you chose to affect:
+• If you chose to affect only one creature, it 
+saves at -2
+• If you chose to affect two creatures, there’s 
+no modifier
+• If you chose to affect three creatures, each 
+creature saves at +2.
+Held creatures can’t move their voluntary mus-
+cles, but their hearts keep beating and they can 
+choose to continue to breathe. If the creature 
+has a psychic or psionic power that it can use 
+without moving any voluntary muscles, then it 
+can still use that power.
+COMBAT EFFECTS
+This is a reminder about the rules applicable to 
+paralyzed creatures, so the word “you” applies 
+to everyone, not just to the caster of the spell. 
+Held creatures are physically helpless. If you’re 
+holding a hand weapon and not in melee, then 
+you can use your hand weapon to automatical-
+ly kill one held creature each round. If you’re 
+not in melee and you’re holding a rope, chain, 
+or other means of binding, then instead of at -
+tacking, you can bind one held creature each 
+round.
+In some cases (if you are still in melee with oth-
+ers, have multiple attacks, or if your objective is 
+to cast a touch spell) you might choose to make 
+normal attacks rather than the automatic kill 
+approach. If you attack a held creature with a 
+weapon attack, unarmed attack, or touch spell, 
+then you always hit it unless you choose to 
+miss. When you hit it with a weapon attack or 
+unarmed attack, you can choose to inflict the 
+maximum possible damage instead of rolling 
+it, and if every creature you’re attacking is held, 
+then your number of attacks this round is dou-
+bled.
+ KNOW ALIGNMENT
+Divine divination, level 2
+RANGE Caster
+DURATION 1 turn
+AREA OF EFFECT 1 creature, object, or 
+place per round
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+After casting this spell, you can focus on one 
+target (a creature, object, or place) per round 
+that is within 10ft of you, and learn its align -
+ment.
+Details
+This spell reveals alignments, not danger, so 
+you won’t necessarily spot a mindless trap or 
+poisoned wineglass. The spell doesn’t neces -
+sarily detect curses, although some of the most 
+atrocious curses do make the cursed item in -
+herently evil (typically neutral evil).
+Opaque materials can interfere with the spell. 
+The spell can only penetrate metal if it’s one 
+inch thick or less, and brick or stone if it’s one 
+foot thick or less.
+Most places don’t have alignments, except for 
+temples (which have the god’s alignment, un -
+less the temple’s been desecrated), portals to 
+outer planes (which have the target plane’s 
+alignment), and places that are specifically de -
+scribed as good, evil, holy, or unholy.
+REVERSIBLE AS CONCEAL ALIGNMENT:
+ CONCEAL ALIGNMENT
+Divine abjuration, level 2
+RANGE Touch
+DURATION Up to 1 turn
+AREA OF EFFECT From 1 to 10 creatures, 
+objects, or places
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+When this spell is cast, you obscure the align -
+ments of a certain number of creatures, ob -
+===== PAGE 18 =====
+ SECOND LEVEL CLERIC SPELLS  | 17
+jects, or places (see below), causing detect evil, 
+detect good, and know alignment to perceive the 
+creatures as neutral.
+Details
+This spell also affects special abilities. Thus, if 
+a monster has the ability to know alignments, 
+it would be fooled by this spell even though it 
+does not have to cast a know alignment spell. A 
+paladin’s detect evil ability is also fooled by the 
+spell.
+The duration depends on how many creatures, 
+objects, or places you decide to affect, accord -
+ing to this table:
+TARGET DURATION
+1 1 turn
+2 5 rounds
+3 3 rounds
+4 or 5 2 rounds
+6 to 10 1 round
+ RESIST FIRE
+Divine abjuration, level 2
+RANGE Touch
+DURATION
+1 turn for each level 
+you have in the cleric 
+class
+AREA OF EFFECT 1 creature
+COMPONENTS V, S, M 
+CASTING TIME 1 round
+SAVING THROW None
+This spell protects the target against fire dam -
+age and heat as described below.
+Details
+The warded creature is safe from non-magical 
+fire. Example: not damaged by torches.
+The warded creature is immune from ill-affects 
+caused by normal heat temperatures (up to 
+boiling).
+The warded creature gains all of the following 
+benefits against magical or very hot fire:
+• Provides Saving Throw. The warded creature 
+can attempt a saving throw against any 
+magical effect that deals fire damage, even 
+if that effect doesn’t normally allow a saving 
+throw. If there’s doubt about which kind of 
+saving throw to use, it’s against spells and 
+other magical effects.
+• Improves Saving Throw. When the warded 
+is already allowed a saving throw against 
+fire damage, it can choose to add +3 to its 
+saving throw.
+• Reduces Damage. All fire damage the warded 
+creature takes is halved. If the damage is 
+already halved, for example because the 
+warded creature passed a saving throw, 
+then it’s halved again. Round fractions 
+down.
+ SILENCE 15 FT RADIUS
+Divine transmutation, level 2
+RANGE 120ft
+DURATION
+2 rounds for each level 
+you have in the cleric 
+class
+AREA OF EFFECT 15ft radius sphere 
+around the target
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW See below
+This spell may be targeted on a creature, ob -
+ject, or point in space. It creates a zone of si -
+lence in the area of effect. Within the area of 
+effect:
+• No sound can be produced at all; and
+• No sound can be heard, even if that sound 
+originates from outside the zone.
+Details
+Objects and points in space don’t get a saving 
+throw. 
+If the target is a creature, it can choose to at -
+tempt a saving throw vs spells and other mag -
+ical effects. If it makes the saving throw, then 
+the spell’s target is no longer that creature, but 
+the 5ft square the creature is standing in (the 
+===== PAGE 19 =====
+18 | OSRIC 3.0 -CLERIC SPELLBOOK 
+creature can leave the area of effect). If the 
+creature fails the saving throw, then it remains 
+the target, so the area of effect originates from 
+the creature and moves with it.
+The spell has the following combat effects:
+1. Nobody can cast spells that have a verbal 
+component within the area of effect; and
+2. Attempts to sneak or move quietly always 
+succeed if the attempting creature is within 
+the area of effect; and
+3. Creatures that use echolocation as their pri -
+mary sense, such as bats and dolphins, are 
+blinded. Such creatures suffer a penalty of -4 
+on their “to hit” rolls.
+ SLOW  POISON
+Divine necromancy, level 2
+RANGE Touch
+DURATION
+6 turns for each level 
+you have in the cleric 
+class
+AREA OF EFFECT 1 creature
+COMPONENTS V, S, M
+CASTING TIME Fast
+SAVING THROW None
+This spell slows the effect of poison, and is 
+used to keep someone alive until the poison 
+can be neutralised by other means, such as a 
+neutralise poison spell or an antidote.
+Details
+Poison is often described as “save or die”, disre-
+garding the fact that death isn’t instantaneous. 
+When a person fails a saving throw against 
+poison, there is a window of time “after death” 
+during which this spell can slow the poison and 
+keep the victim alive. The length of the time 
+window depends on your level as a cleric.
+1. If your target is a creature that’s been poi -
+soned but hasn’t died of the poison, then 
+any poison damage it has taken is slowed. 
+(This can arise when a poison deals dam -
+age over several rounds). Record how much 
+poison damage it had taken when this spell 
+was cast. This is the slowed damage. Slowed 
+damage is healed when the spell is cast. 
+During the spell’s duration, the poisoned 
+creature takes 1 hp of poison damage every 
+10 rounds, but this damage can’t take the 
+poisoned creature below 1 hp until the spell 
+ends. Other damage affects the poisoned 
+creature as normal.
+2. This spell can also affect creatures that have 
+recently “died” from poison. A creature has 
+“recently died of poison” if it died either from 
+poison damage, or because it failed a saving 
+throw vs poison, within a number of turns 
+equal to one turn for each level you have in 
+the cleric class.
+If your target is a creature that has recently 
+died of poison, then that creature is “restored” 
+to life. It has the number of hit points it had 
+before the poison affected it. During the spell’s 
+duration, the poisoned creature takes 1 hp of 
+poison damage every 10 rounds, but this dam-
+age can’t take the poisoned creature below 1 
+hp until the spell ends. Other damage affects 
+the poisoned creature as normal.
+In either case, if the poisoned creature takes 
+any additional poison damage before the spell 
+ends, then that poison damage isn’t applied 
+to its hit points yet, but record it as additional 
+slowed damage. If the poisoned creature fails a 
+saving throw vs poison, then the poison effects 
+aren’t applied until the spell ends.
+If the poison isn’t cured (by antidote or neu-
+tralise poison) by the time this spell expires at 
+the end of its duration, then all the poisons that 
+were slowed by this spell take full effect, and 
+the poisoned creature takes the full effect of 
+any slowed damage at that time.
+
+===== PAGE 20 =====
+ SECOND LEVEL CLERIC SPELLS  | 19
+ SNAKE CHARM
+Divine enchantment, level 2
+RANGE 30ft
+DURATION Varies, see below
+AREA OF EFFECT
+Snakes and snake-
+like creatures you 
+designate within the 
+spell’s range
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW None
+This spell can affect snakes, serpents, couatls, 
+nagas, and other ophidian or serpentine crea -
+tures, which rear up and sway slowly back and 
+forth without otherwise moving when affected. 
+They do not attack or take any other action 
+until the spell’s duration ends. When the spell 
+ends, these snakes forget everything that hap -
+pened while they were affected.
+Details
+The total hit points of the snakes affected can’t 
+exceed your own hit points (when you are unin-
+jured). If you try to target creatures with more 
+than your uninjured hp total, then the GM will 
+decide or randomly select creatures that aren’t 
+affected, until the total hp affected is less than 
+your uninjured hp.
+If there’s doubt about what creatures are af -
+fected, then they’re the creatures listed in the 
+general spell description above, and any other 
+reptilian creature that didn’t have limbs when it 
+hatched. Dragons, demons, devils and wyverns 
+are not considered to be snakes and are thus 
+not affected by the spell.
+The spell’s duration depends on the snakes’ 
+emotional state when the spell takes effect. 
+Snakes that were asleep or unconscious are af-
+fected for 1d4+2 turns. Snakes that were alert 
+are affected for 1d3 turns. Snakes that were an-
+gry or attacking are affected for 1d4+4 rounds.
+Any attack on a charmed snake breaks the 
+charm on that one snake, but not on others af-
+fected by the spell.
+ SPEAK WITH ANIMALS
+Clerical transmutation, level 2
+RANGE 30ft
+DURATION
+2 rounds for each level 
+you have in the cleric 
+class
+AREA OF EFFECT One animal within 
+range
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW None
+This spell gives you the power to communicate 
+with a nearby animal (see below for definition).
+Details
+When you speak to the animal, you speak in 
+Common, and it magically understands you. 
+It speaks in whatever way its species naturally 
+communicates, and the words are translated 
+into your mind (other people do not hear the 
+translation). You can try to persuade, deceive, 
+or bargain with the creature into performing a 
+service for you.
+This spell affects normal, non-fantastic crea -
+tures such as wolves, badgers, and bears. It 
+also affects giant versions of these creatures as 
+long as the giant version doesn’t have addition-
+al, fantastic-type abilities. Example: a giant liz -
+ard would be affected, but not a basilisk (which 
+is much like a giant lizard but has magical prop-
+erties as well).
+Mindless animals (INT “non” or 0) are not af -
+fected by the spell, and the animal must have 
+an intelligence of animal, semi-, or low in order 
+for the spell to function. Example: a giant lynx 
+(“very” intelligent) would not be affected. With 
+apologies to any evolutionary biologists who 
+might read this, humans aren’t considered ani-
+mals for the purposes of this spell.
+The affected creature usually won’t begin com-
+bat with you while the spell is in effect, but if 
+you or your companions have attacked the 
+creature, it isn’t forced to stop fighting by the 
+spell.
+This spell doesn’t compel the affected creature 
+to tell the truth.
+===== PAGE 21 =====
+20 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ SPIRITUAL WEAPON
+Divine conjuration, level 2
+RANGE 30ft
+DURATION
+1 round for each level 
+you have in the cleric 
+class
+AREA OF EFFECT 30ft radius around you
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW None
+This spell creates a magical force shaped like 
+a weapon (usually a hammer, but if your dei -
+ty has a sacred weapon associated with it, the 
+force will be shaped like that weapon). The 
+spiritual weapon cannot move more than 30ft 
+from you, but in that radius it attacks wherever 
+you tell it to.
+Details
+Each round until the spell ends, you can attack 
+one creature within the area of effect with the 
+Spiritual Weapon. Roll to hit as if you were at -
+tacking with a regular weapon. If you hit, your 
+target takes 1d6 hit points of magical damage 
+(thus, it can damage creatures immune to 
+mundane weapons, since the damage is not 
+blunt, piercing, or slashing). It is also not con -
+sidered a “weapon” for such purposes.
+The Spiritual Weapon is not a physical object 
+and it can pass through obstacles, including 
+walls, as long as it remains within the area of 
+effect. If you use the Spiritual Weapon to attack 
+a target you can’t see, then you’re blinded with 
+respect to that target. If the Spiritual Weapon 
+can attack an enemy from behind, it receives 
+that bonus (usually +2).
+You must concentrate on maintaining the spell, 
+or it ends. See Section 1.8.1.4 (Concentration) 
+for how this works.
+ 1.8.2.3. THIRD LEVEL  
+ CLERIC  SPELLS
+ ANIMATE DEAD
+Divine necromancy, level 3
+RANGE 10ft
+DURATION Instantaneous
+AREA OF EFFECT
+Up to 1 corpse for each 
+level you have in the 
+cleric class
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+When the spell is cast, a certain number of 
+dead bodies (depending on your level and the 
+number of bodies available) are animated to 
+serve you. The undead are either skeletons or 
+zombies depending on the level of decompo -
+sition. Larger undead can be created, but this 
+reduces the number of bodies the spell can af-
+fect (see below).
+Details
+The undead creatures obey your simple ver -
+bal commands. They understand your words 
+in any language as long as it is spoken aloud. 
+Control cannot be delegated (you cannot tell 
+the undead to follow someone else’s orders, al-
+though you can tell them specifically what to do 
+when another person says something).
+You can’t animate a corpse that’s already un -
+dead.
+When the undead haven’t been commanded, 
+they do nothing. They don’t experience pain 
+or fear and have no sense of self-preservation, 
+and while doing nothing, they don’t defend 
+themselves against attacks.
+The affected undead can only understand com-
+mands if they’re issued loud and clear, com -
+pletely unambiguous, and don’t involve deduc-
+tion, interpretation or reasoning. For example, 
+they would understand “Attack the elf in the 
+blue robe”, but they wouldn’t understand “At-
+===== PAGE 22 =====
+ THIRD LEVEL CLERIC SPELLS  | 21
+tack the wizard”, because identifying the said 
+elf as a wizard involves too much deduction. 
+If there were two elves in blue robes, then the 
+undead would do nothing because the com -
+mand is ambiguous.
+The affected undead can’t perceive creatures 
+that are more than 60ft away from them.
+If you haven’t given the undead a command, 
+they do nothing. After they’ve completed a 
+command, they do nothing until commanded 
+again. If you don’t issue a command to them 
+for 7 consecutive days, they become free-willed 
+skeletons or zombies. Free-willed skeletons or 
+zombies defend themselves against attacks, 
+and typically attack any living creatures larg -
+er than an insect that they can perceive. Over 
+time, they tend to migrate towards dark places 
+and places where evil deeds have been done.
+Monster Type
+• Corpses of humans, demi-humans and 
+humanoids rise as zombies, or as skeletons if 
+their bones are mostly exposed. They fight 
+as standard zombies or skeletons. They can 
+use hand weapons if they have them. Zom-
+bies lack the manual dexterity to use bows, 
+crossbows, or slings, but can use thrown 
+weapons if they have them. Skeletons can 
+use missile weapons without restriction.
+• Corpses of creatures that are roughly hu-
+man-sized, but not human-like in shape, rise 
+as animal skeletons or animal zombies. They 
+can’t use weapons, and they can only move 
+by walking. So for example, even if you raise 
+winged beings as skeletons or zombies, they 
+can’t fly.
+• Corpses of creatures that are human-like in 
+shape, but larger than human size, rise as 
+mighty skeletons or zombies. These stron-
+ger creatures have the hit dice they had in 
+life. Example: if you raise the zombie of an 
+ogre, it has 4 hit dice, and if you raise the 
+zombie of a stone giant, it has 9 hit dice. 
+Each additional hit dice counts as a “corpse” 
+in this spell’s area of effect, so if you have 9 
+levels in the cleric class, you could raise the 
+zombie of a hill giant (8 hit dice) and one 
+other human-sized creature.
+• If a corpse is both larger than human-sized 
+and unlike a human in shape, then you can’t 
+animate it using this spell. Example: this 
+spell isn’t powerful enough to animate a 
+dragon skeleton.
+Most good-aligned religions ban their clerics 
+from casting this spell. Others allow their cler -
+ics to cast it only at times of great need. In most 
+civilised lands, both casting this spell and being 
+in control of undead are criminal acts.
+ CONTINUAL  LIGHT
+Divine transmutation, level 3
+RANGE 120ft
+DURATION Permanent
+AREA OF EFFECT A globe of 60ft radius
+COMPONENTS V, S
+CASTING TIME 6 segments
+SAVING THROW See below
+A divine light is created, illuminating the target 
+(a creature, object, or point in space) and ev -
+erything in a 60ft radius around the target.
+Details
+If your target is an area of magical darkness, 
+both spells (darkness and light) are cancelled.
+The light is stationary, unless you cast it on a 
+creature or object that moves, in which case it 
+moves with that creature or object.
+If your target is a creature’s eyes or other sense 
+organs, then it can roll a saving throw vs spells. 
+The target creature applies its Dexterity save 
+modifier, if it has one, to this saving throw. If 
+it passes the saving throw, then your spell pro-
+duces a stationary light in the air just behind 
+your target creature, rather than affecting the 
+creature itself. If it fails the saving throw it is 
+effectively blinded until the spell ends or is dis-
+pelled.
+You can’t have more than three instances of 
+this spell running at the same time. If you cast 
+it again, your earliest-cast Continual Light spell 
+that’s still in effect ends.
+===== PAGE 23 =====
+22 | OSRIC 3.0 -CLERIC SPELLBOOK 
+At the end of every complete month the spell 
+has been running, there is a 1 in 12 chance that 
+the spell ends.
+REVERSIBLE AS CONTINUAL DARKNESS:
+ CONTINUAL DARKNESS
+Divine transmutation, level 3
+RANGE 120ft
+DURATION Permanent
+AREA OF EFFECT A globe of 60ft radius
+COMPONENTS V, S
+CASTING TIME 6 segments
+SAVING THROW See below
+A divine darkness is created, emanating from 
+the target (a creature, object, or point in space). 
+Light, including sunlight, does not illuminate 
+anything within 60ft of the target. 
+Details
+If your target is in an area of magical light (such 
+as the radius of a light spell), both spells ( dark-
+ness and light) are cancelled.
+The darkness is stationary, unless you cast it on 
+a creature or object that moves, in which case it 
+moves with that creature or object.
+You can choose to target a creature’s eyes or 
+other sense organs. If it fails its saving throw, 
+or if it chooses not to attempt a saving throw, 
+then the creature is blinded for the spell’s du -
+ration. The target creature applies its Dexterity 
+save modifier, if it has one, to this saving throw. 
+If it passes the saving throw, then your spell 
+produces a stationary point of darkness in the 
+air just behind the target creature, rather than 
+affecting the creature itself.
+This spell has the same limitations on concur -
+rent castings and chance of ending as continual 
+light.
+As an optional rule, some GMs rule that in -
+fravision can see through the divine version of 
+darkness spells. This optional rule only affects 
+darkness spells cast using a cleric spell slot.
+ CREATE FOOD AND WATER
+Divine conjuration, level 3
+RANGE 10ft
+DURATION Instantaneous
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+This spell allows you to conjure food and water 
+from thin air. You can choose what form the 
+food takes, although it is basic fare, not fancy.
+Details
+The food is safe to eat when conjured but will 
+spoil at the normal rate.
+For each level you have in the cleric class, you 
+can conjure up to one day’s rations for one hu-
+man-sized creature.
+The target point can’t be inside a creature.
+ CURE BLINDNESS
+Divine transmutation, level 3
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 8 segments
+SAVING THROW None
+Subject to the details below, this spell cures 
+blindness in one living creature. Given the 
+limitations, it  usually  only works on magical -
+ly-induced blindness (such as curses and cause 
+blindness).
+Details
+This spell restores sight to the maximum ex -
+tent the creature’s eyes allow, but it doesn’t 
+heal damaged eyes. So, for example, a creature 
+whose eyes have been put out gets no benefit 
+from this spell.
+This spell restores sight to the target creature’s 
+eyes, but doesn’t heal blindness that’s in its 
+mind. So for example, a creature blinded by 
+an illusion of a blindfold still can’t see, because 
+===== PAGE 24 =====
+ THIRD LEVEL CLERIC SPELLS  | 23
+it believes it can’t see. Similarly, it does not re-
+move the hallucinations caused by false seeing.
+The spell doesn’t remove environmental ef -
+fects, so for example if there’s fog or darkness 
+preventing the creature from seeing, then the 
+creature must leave the fog or darkness before 
+it can see. This spell does, however, remove the 
+effects of a continual light or light spell cast on 
+the eyes.
+REVERSIBLE AS CAUSE BLINDNESS:
+ CAUSE BLINDNESS
+Divine transmutation, level 3
+RANGE Touch
+DURATION Permanent
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 8 segments
+SAVING THROW Yes (negates effect)
+This spell causes the target to become blind. 
+The blindness is potentially permanent; it lasts 
+until the spell is removed by the caster, dis-
+pelled, or removed by cure blindness.
+Details
+A miss on the to-hit roll means the spell is lost.
+This spell only affects living creatures (not un -
+dead) and has no effect on creatures that don’t 
+rely on vision.
+Some good-aligned religions ban their clerics 
+from casting this spell. Others allow their cler -
+ics to cast it only at times of great need.
+ CURE DISEASE
+Divine transmutation, level 3
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 10 rounds
+SAVING THROW None
+The target creature is cured of all diseases (see 
+details, below), although full recovery may take 
+up to a week.
+Details
+Many diseases are described in terms of “the 
+victim will die within X days”, and this spell 
+stops that counting process; the target of the 
+spell is no longer at any risk of dying from a 
+disease. The fact that they may not have made 
+a “full recovery” yet simply means that they are 
+not yet at full strength.
+This spell cures physical pathologies and re -
+moves physical parasites. It can’t cure genetic 
+conditions or birth defects, and it only affects 
+mental health conditions to the extent that cur-
+ing any underlying pathology or parasite could.
+The spell only affects normally living creatures, 
+so does not affect constructs, elementals, go -
+lems, or undead.
+This spell can only cure lycanthropy if it’s cast 
+before the first time the affected creature 
+changes into lycanthrope form. After the crea -
+ture has changed into lycanthrope form, its ly -
+canthropy becomes a complex condition that’s 
+part disease, part curse, and partly a magical 
+alteration to its essential nature. 
+The target creature can choose to attempt a 
+saving throw vs spells and other effects, and if 
+it passes, one or more diseases of its choice are 
+not cured by this spell.
+This spell also has some special uses where it 
+cures other effects that aren’t precisely diseas-
+es. These special uses are listed in the relevant 
+creature or object’s descriptions elsewhere in 
+OSRIC.
+REVERSIBLE AS CAUSE DISEASE:
+ CAUSE DISEASE
+Divine transmutation, level 3
+RANGE Touch
+DURATION Permanent
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 10 rounds
+SAVING THROW Negates effect
+The targeted creature is infected by a disease 
+(details below).
+===== PAGE 25 =====
+24 | OSRIC 3.0 -CLERIC SPELLBOOK 
+Details
+A touch is required, which means the caster 
+must make a to-hit roll if the target is resisting 
+and not immobilised. Even with a successful 
+touch, the target creature is allowed a saving 
+throw vs spells. If it passes the saving throw, it 
+isn’t affected by this spell.
+The spell only affects normally living creatures, 
+so does not affect constructs, elementals, go -
+lems, or undead.
+• The spell takes effect 1d6 turns after you 
+cast it. The creature takes 1 hp of disease 
+damage every turn (10 rounds) after the 
+spell takes effect, and each time it takes this 
+damage, its hp maximum is reduced by 1. 
+This damage can’t reduce the creature be-
+low 1 hp, and it can’t reduce the creature’s 
+hp maximum below 8 hp.
+• Every hour after this spell takes effect, the 
+creature takes a penalty of -1 on its attack 
+rolls and damage rolls. This penalty is cumu-
+lative, but it can’t reduce the creature’s 
+attack damage below 1 hp of damage.
+You can choose to end this spell at any time, 
+and if you’re killed, the target creature is cured.
+Most good-aligned religions ban their clerics 
+from casting this spell. Others allow their cler -
+ics to cast it only at times of great need.
+ DISPEL MAGIC
+Divine abjuration, level 3
+RANGE 60ft
+DURATION Instantaneous
+AREA OF EFFECT 30ft radius sphere
+COMPONENTS V, S
+CASTING TIME 6 segments
+SAVING THROW No (but see below for 
+failure chance)
+When you cast this spell, magical effects in the 
+area of effect are removed or suppressed. The 
+target point for the spell’s effect centre may be 
+a creature, object, place, or point in space with-
+in the spell’s range.
+Details
+Gods, demigods, artifacts, relics, and other 
+things of equivalent power aren’t affected by 
+this spell.
+Psychic or psionic powers aren’t magical effects 
+and aren’t affected by this spell.
+When you finish casting this spell, if the area 
+of effect contains any ongoing magical effects 
+caused by a spell that you personally have cast, 
+then these end. If a creature within the area of 
+effect is casting a spell, then that spell is inter -
+rupted. 
+Then, for each dispellable magical effect within 
+the affected area, the GM rolls a d100—in se -
+cret, if the GM so wishes.
+Your base chance of successfully dispelling 
+each effect depends on caster level, both yours 
+and that of the caster of the magic to be dis -
+pelled. Your caster level is the number of levels 
+you have in the cleric class. The target’s caster 
+level is the number of levels the caster has in 
+the class they used to cast the spell. If the tar -
+get is a potion or scroll, then its caster level is 
+12, unless it couldn’t have been created by a 
+12th level caster, in which case its caster level 
+is the minimum level to create it. Example: a 
+scroll of time stop is caster level 18.
+• If your caster level is the same or higher than 
+the target’s caster level, then your chance 
+of success is 50%, plus 5% (five percent) for 
+each level of the difference.
+• If your caster level is lower than the target’s 
+caster level, then your chance of success is 
+50%, minus 2% (two percent) for each level 
+of the difference.
+For each magical effect that’s dispelled:
+1. Spells whose area of effect is wholly within 
+the dispel magic’s area of effect end. This in -
+cludes innate spell-like powers used by crea-
+tures or cast from magic items. 
+2. If a spell effect is only partly overlapped by 
+the dispel magic, then spell doesn’t end, but 
+the part within the dispel magic’s area of ef -
+fect is suppressed for 1 hour.
+===== PAGE 26 =====
+ THIRD LEVEL CLERIC SPELLS  | 25
+3. Potions and scrolls are denatured. Potions 
+become inert, harmless liquids. Scrolls be -
+come blank pages.
+4. Other magic items’ powers (weapons, ar -
+mour, and other such permanent magic 
+items) are suppressed for 1 round. For that 
+round only, they become non-magical items.
+5. Constructs, elementals, golems, or magical -
+ly summoned creatures within the area of 
+effect aren’t banished or suppressed, but 
+they could temporarily lose the power to use 
+spells or innate spell-like powers. Example: 
+a fire elemental’s burning touch would still 
+do fire damage, but an efreet couldn’t use 
+its spells or spell-like powers. Affected spells 
+or spell-like powers return after 1d6 combat 
+rounds.
+ FEIGN  DEATH
+Divine necromancy, level 3
+RANGE Touch
+DURATION
+10 rounds plus 1 round 
+for each level you have 
+in the cleric class
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME Fast
+SAVING THROW None
+Your target becomes corpse-like, so they can 
+play possum. While corpse-like, they’re protect-
+ed from certain kinds of harm.
+Details
+This spell only affects willing creatures. You 
+can end this spell at any time, and the affected 
+creature can end this spell at any time.
+• Affected creatures don’t need to eat, drink, 
+breathe, or sleep.
+• Affected creatures can hear, smell, and 
+think, but they’re blinded and lose their 
+sense of touch. They don’t feel pain and 
+don’t know if they’re hurt. They’re unaffect-
+ed by undead creatures’ touch attacks, can’t 
+be poisoned, and can’t contract disease. If 
+the creature is already poisoned when this 
+spell is cast, then the poison’s effects are 
+suspended for the duration of the spell, but 
+return afterwards.
+• If an affected creature takes damage from 
+any other source, then that damage is 
+halved. Round any fractions down.
+When the spell ends, it takes the affected crea-
+ture one round to stand up and recover.
+ GLYPH OF WARDING
+Divine evocation, level 3
+RANGE Touch
+DURATION Until discharged
+AREA OF EFFECT
+Up to 25 square feet 
+for each level you have 
+in the cleric class
+COMPONENTS V, S, M
+CASTING TIME 1 segment per sq. ft to 
+be protected
+SAVING THROW When activated (save 
+for half)
+You mark a solid surface with a glyph, traced 
+by your fingertip. When the casting is complet -
+ed, the glyph remains invisible unless detect 
+magic is cast on it. After casting, a “forbidden 
+creature” as defined at the time of casting will 
+discharge the glyph if they perform a triggering 
+action.
+Details
+Defining the glyph requires the caster to de -
+fine a “forbidden creature”, which can be “any 
+living being”, “anyone but myself”, “a dwarf”, 
+“Richard the Necrophage”, or any other clear 
+description. The triggering action must also be 
+defined, which is usually either, “opening the 
+door on which the glyph is placed”, or “passing 
+through the warded area”. You must also spec-
+ify the exact area to be warded.
+When the spell is triggered, each creature with-
+in the area of effect can choose to attempt a 
+saving throw vs spells and spell-like effects. If it 
+passes, it takes half damage from the spell and 
+it can disregard the spell’s other effects, if any.
+===== PAGE 27 =====
+26 | OSRIC 3.0 -CLERIC SPELLBOOK 
+You can’t cast this spell unless you know the 
+associated glyph. The glyphs for fire, lightning, 
+ice, and acid are secrets of each clerical order, 
+which you can learn if you’re in good standing 
+with that order. You might be asked to perform 
+a task or make a donation. The glyphs for blind-
+ness and paralysis are lost secrets, which you 
+can only learn from ancient books, consulting 
+extraplanar powers, or speaking to certain li -
+ches. The glyphs for energy drain, petrifaction, 
+and banishment, are long-lost, secret, and 
+widely forbidden. Learning them will involve 
+considerable expense and a major quest. If the 
+area to be protected is greater than 50 sq. ft, 
+gems worth 2000 gp must be destroyed during 
+the casting as a material component.
+You can only use a glyph if you have enough 
+levels in the cleric class to use it (see table).
+ GLYPHS OF WARDING
+MINIMUM 
+CLERIC LEVEL GLYPH NOISE EFFECTS             
+3 Fire Noisy 2hp fire damage for each level you have in the 
+cleric class
+5 Lightning Loud 2hp lightning damage for each level you have in 
+the cleric class
+7 Ice Quiet 2hp cold damage for each level you have in the 
+cleric class
+9  Acid Quiet 2hp corrosion damage for each level you have 
+in the cleric class
+11 Blind Silent Save or be blinded for 3d6 rounds
+13 Paralysis Silent Save or be paralysed for 2d6 rounds
+15 Drain Silent Save or be drained of one life energy level (see 
+Chapter 3)
+17 Petrify Silent Save or be turned to stone
+20 Banish Silent Save or be sent to the plane associated with the 
+casting cleric’s deity
+
+===== PAGE 28 =====
+ THIRD LEVEL CLERIC SPELLS  | 27
+ LOCATE OBJECT
+Divine divination, level 3
+RANGE Caster
+DURATION
+1 round for each level 
+you have in the cleric 
+class
+AREA OF EFFECT
+A path 10ft wide 
+originating from you, 
+with a length of 60ft 
+plus 10ft for each level 
+you have in the cleric 
+class
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None
+When this spell is cast, you visualise an object. 
+This can be general (“a staircase”) or specific 
+(“my shield”). If an object fitting the description 
+is in the pathway-shaped area of effect (usual -
+ly the caster turns around in a circle once the 
+spell is cast), you will learn the exact distance of 
+the nearest object fitting the description. Once 
+an object is located, the spell ends.
+Details
+Opaque materials don’t interfere with the 
+spell, so you can perceive a target object even 
+through solid rock.
+The target must be an object, not a creature or 
+a place.
+If there are several target objects within the 
+area of effect, the spell only locates the near -
+est one. The spell doesn’t locate objects unless 
+they’re on the same plane as you.
+The spell tells you the object’s location, but 
+doesn’t tell you anything about the terrain 
+(or creatures) between you and the object. A 
+high-level cleric might detect an object that is 
+several rooms and hallways distant, and the 
+exact path required to reach the object’s room 
+will not be obvious.
+You can’t cast this spell unless you can visualise 
+the target object. For the purposes of this spell, 
+you can visualise the target object if you’re fa -
+miliar with all three of its form, function, and 
+material. 
+You must concentrate on maintaining the spell. 
+If your concentration is broken, the spell ends. 
+See Section 2.1.4.4b for how this works.
+ PRAYER
+Divine abjuration, level 3
+RANGE Nil
+DURATION
+1 round for each level 
+you have in the cleric 
+class
+AREA OF EFFECT 60ft radius
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW None
+The target location for this spell is where you 
+are standing when you finish casting. Until the 
+spell ends, all the following modifiers apply 
+within the area of effect:
+1. You and your allies can choose to add a bo -
+nus of +1 to your attack rolls, damage rolls, 
+and saving throws; and
+2. Your enemies must subtract a penalty of -1 
+to their attack rolls, damage rolls, and saving 
+throws.
+Details
+These effects are cumulative with the effects of 
+a chant spell, despite the similarity of the two 
+spells.
+===== PAGE 29 =====
+28 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ REMOVE CURSE
+Divine abjuration, level 3
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature, object, 
+or place
+COMPONENTS V, S
+CASTING TIME 6 segments
+SAVING THROW None
+This spell ends one curse that has been placed 
+on the targeted creature, object, or place. 
+Details
+Curses inflicted by gods, demigods, artifacts, or 
+relics aren’t affected by this spell.
+This spell doesn’t cure vampirism or lycanthro-
+py.
+If the target is a creature, then a curse on it 
+ends. If there are several curses, then you can 
+choose which one ends.
+If the target is a cursed object, then the curse 
+on it doesn’t end, but a creature that’s holding 
+the cursed object is allowed to drop the item 
+and be free of it.
+REVERSIBLE AS BESTOW CURSE:
+ BESTOW CURSE
+Divine conjuration, level 3
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT 1 Creature
+COMPONENTS V, S
+CASTING TIME 6 segments
+SAVING THROW Yes (negates effect)
+This spell places a curse on the targeted crea -
+ture.
+Details
+A creature can only be affected by one instance 
+of this spell at a time.
+Some good-aligned religions ban their clerics 
+from casting this spell. Others allow their cler -
+ics to cast it only at times of great need.
+When this spell takes effect, roll 1d8 to see 
+which curse is bestowed on your target crea -
+ture.
+ROLL EFFECT
+1-4 One of the creature’s ability scores 
+is reduced to 3.
+5-6
+Affected creature must take a 
+penalty of -4 on its attack rolls and 
+saving throws.
+7-8
+Affected creature becomes 
+clumsy. At the start of each round, 
+there’s a 50% chance it’ll drop 
+each object that it’s holding. If it 
+isn’t holding each object, then at 
+the start of each round, there’s a 
+50% chance that it can’t act that 
+round.
+The curse remains until it is removed by remove 
+curse, dispelled, or revoked by the caster.
+Optional rule: Clerics of certain religions might 
+be able to learn alternative curses. These curs-
+es might be cult secrets, which you can only 
+learn by making a donation and performing a 
+service; they might be lost secrets, which you 
+can only learn from ancient books, consulting 
+extraplanar powers, or speaking to certain li -
+ches; or they might be long-lost, secret, and 
+widely forbidden, in which case learning them 
+will involve considerable expense and a major 
+quest.
+If this rule is in play, then your GM decides 
+what alternative curses you can learn and what 
+their effects might be. 
+===== PAGE 30 =====
+ FOURTH LEVEL CLERIC SPELLS  | 29
+ SPEAK WITH DEAD
+Divine necromancy, level 3
+RANGE 10ft
+DURATION Varies, see below
+AREA OF EFFECT One corpse
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None
+This spell compels a dead body to answer 
+questions you ask. The corpse actually speaks, 
+so others are able to hear the answers.
+Details
+The duration of the spell, the maximum num -
+ber of questions you can ask, and the maxi -
+mum age of a corpse you can speak to are all 
+determined by your cleric level.
+The creature can only tell you things that it 
+knew in life.
+The creature only speaks the languages it knew 
+in life. If you ask it a question it doesn’t under-
+stand, then it can say “I don’t understand”, and 
+this uses one of your questions.
+This spell doesn’t make the creature friendly. If 
+the creature was hostile to you in life, and par -
+ticularly if it was you or your allies that killed it, 
+it will answer briefly and give you the minimum 
+information it can.
+If you ask the creature a multi-part question, 
+it only answers one of the parts. It can choose 
+which one.
+If your question is ambiguous, the creature 
+can choose any interpretation of your question 
+that your GM thinks is reasonable.
+If your target is an undead creature, it doesn’t 
+have to stop fighting while it answers.
+ LIMITATIONS ON SPEAK WITH DEAD
+YOUR CLERIC 
+LEVEL SPELL DURATION MAXIMUM # OF 
+QUESTIONS
+MAXIMUM TIME SINCE 
+ DEATH
+5-6 1 round 2 1 week
+7-8 3 rounds 3 1 month
+9-12 1 turn 4 1 year
+13-15 2 turns 5 1 decade
+16-19 3 turns 6 1 century
+20 1 hour 7 1 aeon
+
+===== PAGE 31 =====
+30 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ 1.8.2.4. FOURTH LEVEL 
+  CLERIC  SPELLS
+ CURE SERIOUS WOUNDS
+Divine necromancy, level 4
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 7 segments
+SAVING THROW None
+The target creature regains 2d8+1 hit points, 
+up to its normal maximum. Any healing over 
+the creature’s normal maximum is wasted.
+Details
+This spell can’t cure diseases, reattach limbs, 
+bring back the dead, or heal any other afflic -
+tion that isn’t an injury measured in hit points. 
+These more serious injuries must be healed 
+with more powerful spells.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+REVERSIBLE AS CAUSE SERIOUS WOUNDS:
+ CAUSE SERIOUS WOUNDS
+Divine necromancy, level 4
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 7 segments
+SAVING THROW None
+The touched target creature takes 2d8+1 hit 
+points of magical damage, even if it can only be 
+hit by magical weapons. Touching the creature 
+requires a successful to-hit roll, but no saving 
+throw is allowed.
+Details
+If you miss the to-hit roll on the target, no dam-
+age is inflicted and the spell is lost.
+This spell only affects creatures that are nat -
+urally living, so it does not affect golems, con -
+structs, elementals, or the undead.
+ DETECT LIE
+Divine divination, level 4
+RANGE 30ft
+DURATION
+1 round for each level 
+you have in the cleric 
+class
+AREA OF EFFECT The creature you 
+designate
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell is cast upon a specific creature. For 
+the duration of the spell, when the creature 
+speaks, you know if it is saying something it 
+does not believe to be true.
+Details
+The awareness of lies isn’t detectable by others. 
+The spell affects only the creature’s speech, not 
+telepathy or writing. You can only detect lies if 
+you can hear them. You can detect lies spoken 
+in languages you don’t know, but since you 
+don’t understand the language, you don’t know 
+what the lie actually was.
+REVERSIBLE AS GLIBNESS:
+ GLIBNESS
+Divine transmutation, level 4
+RANGE 30ft
+DURATION
+1 round for each level 
+you have in the cleric 
+class
+AREA OF EFFECT A creature
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+===== PAGE 32 =====
+ FOURTH LEVEL CLERIC SPELLS  | 31
+The spell counters detect lie on a specific crea -
+ture, and if detect lie isn’t in effect, then the af-
+fected creature’s lies become more convincing.
+Details
+A creature can only be affected by one instance 
+of this spell at a time.
+As with most targeted spells, you can cast this 
+on yourself as well as another target.
+A creatures being lied to will (obviously) only 
+believe lies that they can hear and understand.
+The GM decides how plausible the affected 
+creature’s lies are, according to the under -
+standing and belief of the creatures lied to. 
+Each creature lied to then rolls a special saving 
+throw on a d20.
+ SAVING THROW TARGETS FOR 
+GLIBNESS
+PLAUSIBILITY SAVING THROW
+Likely 20
+Plausible 18
+Possible 15
+Surprising 11
+Unlikely 7
+Obviously false 2
+The creature lied to can choose to add its Wis-
+dom saving throw modifier, if any, to this sav -
+ing throw. If it passes its saving throw, it doesn’t 
+believe the lie.
+ DIVINATION
+Divine divination, level 4
+RANGE Caster
+DURATION 1 round
+AREA OF EFFECT Caster
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None
+This spell gives you information about a place. 
+You perform a divination such as casting spe -
+cial bones or yarrow stalks, or reading tea 
+leaves or the entrails of a sacrificial beast. The 
+divination, or reading, gives you certain infor -
+mation—which you might misinterpret.
+Details
+The divination must be about a place, although 
+you don’t need to be there when you cast the 
+spell. All you need is the approximate location. 
+The divination cannot be about an object un -
+less the object is so large (such as a building) 
+that it can be considered a place.
+Your GM will secretly roll a d6. If the roll is 1-4, 
+you interpret the omens correctly. If it’s 5 or 6, 
+you don’t. If you choose to sacrifice a magical 
+item as part of the divination, then that item is 
+destroyed, and the GM’s d6 roll is modified by 
+-1. You can’t sacrifice artifacts, relics or other 
+items of similar power, and this spell can’t de -
+stroy them.
+The GM will tell you how your character inter -
+prets the reading for each point below:
+1. Whether the place is sacred to a god, demi -
+god, or power, and if so, which;
+2. Whether creatures inhabit the place;
+3. Whether those creatures are weak, equiva -
+lent, or strong compared to you;
+4. Whether treasure is to be found there; and
+5. Whether the treasure is poor, medium, or 
+rich.
+If you interpret the omens wrongly, then the 
+GM answers randomly, with a mixture of cor -
+rect and incorrect information.
+There are a very few legendary places that are 
+specially warded against scrying or divination 
+magic. If you attempt divination on those plac -
+es, you always misinterpret the omens.
+===== PAGE 33 =====
+32 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ EXORCISE
+Divine abjuration, level 4
+RANGE 10ft
+DURATION Instantaneous
+AREA OF EFFECT One creature, object, 
+or place
+COMPONENTS V, S, M
+CASTING TIME 10 rounds, continuing
+SAVING THROW Depends on use of 
+spell (see below)
+Note: The original AD&D version of this spell is 
+widely considered to be unworkable, and it is 
+“repaired” in OSRIC 3.0.
+This is a multi-purpose ritual that can cast out 
+a supernatural creature or influence (such as 
+a fiend or ghost) that has possessed another 
+creature or object. You can also use this spell 
+to remove a curse or end a charm or enchant -
+ment. The casting and the effect of this spell 
+are both loud.
+Details
+Using the spell to remove curses and end en -
+chantment spells
+If you use this spell to remove a curse or end 
+a charm or enchantment, then the spell au -
+tomatically succeeds when you finish the first 
+turn’s casting. Unwilling targets do not receive 
+a saving throw when this spell is used to re -
+move a charm/enchantment or a curse.
+Using the spell to cast out supernatural creatures 
+and influences
+If you use this spell on a good-aligned outer 
+plane, then the spell automatically succeeds 
+when you finish the first turn’s casting. If you 
+use it on an evil-aligned outer plane, then it au-
+tomatically fails.
+Otherwise, each turn you spend casting the 
+spell, the supernatural creature or influence 
+must attempt a special saving throw on a d20. 
+If it fails the saving throw, it’s exorcised.
+ SAVING THROWS VERSUS EXORCISM
+CREATURE OR INFLUENCE STRENGTH BASE SAVING THROW
+Weak influence, dretch, spiked devil 10
+Moderate influence, class A demon, shub demon, bearded devil, 
+erinyes, scaly devil 8
+Class B demon, uduk demon, ekivu demon, ghost, succubus, 
+barbed devil 7
+Class C demon, babau demon, bone devil 6
+Strong influence, class D demon, horned devil 5
+Class E demon, ice devil, night hag 4
+Class F demon, pit fiend, shaitan devil 3
+Modify the creature’s saving throw by -1 for 
+each level you have in the cleric class above 
+8. If you’re holding a relevant artifact or relic 
+when you cast this spell, your GM may assign 
+a further modifier of -1 to -4 depending on the 
+item’s strength, aptness, and general inclina -
+tion to help you.
+The target creature can’t use its magic resis -
+tance against this spell.
+If the creature rolls a natural 20 on its saving 
+throw, you suffer an ill effect, such as a curse 
+or the loss of a point from a randomly-deter -
+mined ability score.
+===== PAGE 34 =====
+ FOURTH LEVEL CLERIC SPELLS  | 33
+This spell can’t exorcise artifacts, relics, deities, 
+or other creatures or effects of similar power.
+Effect of Exorcism
+A creature that’s cast out returns to its own 
+body, or its nearest body if it has several. If it 
+doesn’t have a body, then it appears on the 
+Prime Material Plane right next to the former -
+ly-possessed creature, object, or place. If there 
+are several places where it could appear, your 
+GM either chooses or randomly determines 
+which.
+ LOWER WATER
+Divine transmutation, level 4
+RANGE 120ft
+DURATION 1 turn per cleric level
+AREA OF EFFECT
+Up to 10ft squared 
+in water surface per 
+cleric level
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None
+Water level in the affected area sinks by 5ft. 
+If you’re high enough level to affect the same 
+area twice or more, then you can choose to 
+lower it by another 5ft for each iteration.
+Example: A dungeon contains a square pool, 
+30ft on a side and 50ft deep. You cast Lower 
+Water. You can affect a 30ft square area once 
+for every 3 levels you have in the cleric class, 
+so if you’re 7th or 8th level then you can lower 
+it by 10ft; if you’re 9th, 10th, or 11th level then 
+you can lower it by 15ft; if you’re 12th, 13th or 
+14th level then you can lower it by 20ft; and so 
+on.
+Displaced water is held in a magical interdi -
+mensional space for the duration of the spell, 
+and returns when the spell ends. It will be 
+slightly chilled.
+Details
+The target body of liquid must be a non-mag -
+ical fluid of reasonably similar viscosity to wa -
+ter, so a pool of blood might well be affected 
+but flowing lava wouldn’t.
+If the target is a creature (e.g. a water weird or 
+water elemental), it is considered held unless 
+this spell is mentioned in the monster descrip -
+tion. See “1.6.10: Paralysis (Held)” for details.
+
+===== PAGE 35 =====
+34 | OSRIC 3.0 -CLERIC SPELLBOOK 
+REVERSIBLE AS RAISE WATER:
+ RAISE WATER
+Divine transmutation, level 4
+RANGE 120ft
+DURATION 1 turn per cleric level
+AREA OF EFFECT
+Up to 10ft squared 
+in water surface per 
+cleric level
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None
+Water level in the affected area rises by 5ft. 
+If you’re high enough level to affect the same 
+area twice or more, then you can choose to 
+raise it by another 5ft for each iteration.
+Details
+The additional water comes from the Elemen -
+tal Plane of Water for the duration of the spell, 
+and returns when the spell ends. It will be 
+about room temperature.
+The target body of liquid must be a non-mag -
+ical fluid of reasonably similar viscosity to wa -
+ter, so a pool of blood might well be affected, 
+but flowing lava wouldn’t.
+If the target is a creature (e.g. a water weird or 
+water elemental), it’s affected as if by an en-
+large spell.
+ NEUTRALISE  POISON
+Divine transmutation, level 4
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT
+A 1ft cube for every 
+2 cleric levels, or one 
+creature
+COMPONENTS V, S
+CASTING TIME 7 segments
+SAVING THROW Depends on use of 
+spell (see below)
+This spell is targeted upon a single creature, on 
+a place, or on an object containing poison. It 
+makes a venom, toxin, or contaminant (usually 
+inside a creature) harmless. As a result, it can 
+potentially bring someone who has recently 
+“died” from poison “back to life.”
+Details
+This spell doesn’t affect diseases or contamina-
+tion caused by disease.
+Gods, demigods, artifacts, relics, and other 
+things of equivalent power aren’t affected by 
+this spell, but your GM might choose to say 
+that some effects caused by such things are 
+affected.
+If your target is a toxic or contaminated place, 
+then all toxins and contaminants are purged 
+from the affected area.
+Using the spell to de-venom an opponent
+If your target is a creature, then when you 
+cast this spell, it can choose to attempt a sav -
+ing throw vs spells and other magical effects. 
+If it passes the saving throw, it isn’t affected. 
+If a creature with a venomous attack fails the 
+save, then the venom component of its attack 
+is temporarily nullified. The venom is restored 
+at dawn the next day.
+Using the spell to revive someone “dead by poi-
+son”
+If your target is a creature that’s been poi -
+soned, then all venoms, toxins, or contami -
+nants affecting that creature are purged from 
+its system, but any damage the poison has 
+already inflicted remains. This spell can also 
+affect creatures that have recently died 
+of poison. A creature has “recent -
+ly died of poison” if it died either 
+from poison damage, or be -
+cause it failed a saving throw 
+vs poison, within a number 
+of turns equal to one turn 
+for each level you have in 
+the cleric class.
+
+===== PAGE 36 =====
+ FOURTH LEVEL CLERIC SPELLS  | 35
+REVERSIBLE AS POISON:
+   POISON
+Divine transmutation, level 4
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT
+A 1ft cube for every 2 
+levels you have in the 
+cleric class, including 
+no more than one 
+creature
+COMPONENTS V, S
+CASTING TIME 7 segments
+SAVING THROW Depends on use of 
+spell (see below)
+When you complete the words and gestures of 
+this spell, your touch becomes deadly poison. 
+An alternative use of the spell is to make a con-
+sumable substance poisonous. In both cases 
+you must touch the target.
+Details
+If your target is a creature, then when you cast 
+this spell, it can choose to attempt a saving 
+throw vs poison. If it passes the saving throw, 
+it isn’t affected. 
+Creatures that are immune to poison aren’t af-
+fected by this spell.
+Gods, demigods, artifacts, relics, and other 
+things of equivalent power aren’t affected by 
+this spell.
+• If your target is a creature and it fails its 
+saving throw, it dies.
+• If your target is an edible or potable, it 
+becomes lethally poisonous. The first crea-
+ture to eat or drink from it must attempt a 
+saving throw vs poison or die, unless that 
+creature is immune to poison. When a crea-
+ture passes or fails this saving throw, the 
+remaining poison is nullified.
+ PROTECTION FROM EVIL 
+10 FT RADIUS
+Divine abjuration, level 4
+RANGE Touch
+DURATION
+10 rounds for each 
+level you have in the 
+cleric class
+AREA OF EFFECT 10ft radius around the 
+creature touched
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+You can cast this spell on another willing 
+creature or on yourself. This spell creates an 
+invisible barrier against evil and summoned 
+creatures, with a radius of 10ft around the 
+protected creature. The spell completely pre -
+vents any direct touch attack by a summoned 
+or conjured creature, and provides penalties on 
+attacks and spells by evil creatures. 
+Creatures that are both evil and conjured, such 
+as demons, suffer both types of penalties from 
+the ward, but many creatures are only affected 
+by one type of penalty.
+Details
+You can’t cast this spell on a hostile creature, or 
+on an object, or a place.
+A creature can only be affected by one instance 
+of this spell at a time, and if the creature is al -
+ready warded by the first level divine spell pro-
+tection from evil, then this spell doesn’t affect it.
+1. Evil Creatures. Creatures that have an evil 
+alignment must take a penalty of -2 on their 
+attack rolls into the warded area. Anyone in 
+the warded area may add +2 to any saving 
+throws that are caused by an evil creature 
+(or an effect it causes, such as a spell).
+2. Evil Effects (these are rare). Effects that the 
+rules specifically describe as evil, fiendish, 
+demonic, or devilish allow a +2 to saving 
+throws.
+3. Conjured and Summoned Creatures. All con-
+jured or summoned creatures regardless 
+of alignment cannot attack into the warded 
+===== PAGE 37 =====
+36 | OSRIC 3.0 -CLERIC SPELLBOOK 
+area by touch (claws, teeth, etc.). However, 
+they are not subject to the penalties de -
+scribed in (1) unless they are actually evil. 
+Example: a djinni is a summoned creature, 
+and thus cannot reach into the warded area. 
+However, since it is not evilly-aligned, it can 
+attack with a weapon (if it is long enough) 
+with no penalty.
+Ghouls have this additional penalty: They are 
+kept at bay. This means the ghoul can’t make 
+any move that would reduce the distance be -
+tween the ghoul and the warded area, but 
+if the warded area approaches the ghoul be -
+cause the target is moving, the ghoul doesn’t 
+have to retreat.
+Some GMs rule that Protection from Evil keeps 
+other creatures, as well as ghouls, at bay.
+REVERSIBLE AS PROTECTION FROM GOOD 
+10 FT RADIUS:
+ PROTECTION FROM  GOOD  
+10 FT RADIUS
+Divine abjuration, level 4
+RANGE Touch
+DURATION
+10 rounds for each 
+level you have in the 
+cleric class
+AREA OF EFFECT 10ft radius around the 
+creature touched
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+You can cast this spell on another willing 
+creature or on yourself. This spell creates an 
+invisible barrier against good-aligned and 
+summoned creatures, with a radius of 10ft 
+around the creature you touch. The spell com -
+pletely prevents any direct touch attack by a 
+summoned or conjured creature , and provides 
+penalties on attacks and spells by good-aligned 
+creatures. Creatures that are both good-aligned 
+and conjured, such as a djinni, suffer both types 
+of penalties from the ward, but many creatures 
+are only affected by one type of penalty.
+Details
+You can’t cast this spell on a hostile creature, or 
+on an object, or a place.
+A creature can only be affected by one instance 
+of this spell at a time, and if the creature is al -
+ready warded by the first level divine spell pro-
+tection from good, then this spell doesn’t affect 
+it.
+1. Good Creatures. Creatures that have a good 
+alignment must take a penalty of -2 on their 
+attack rolls into the warded area. Anyone in 
+the warded area may add +2 to any saving 
+throws that are caused by a good creature 
+(or an effect it causes, such as a spell).
+2. Good Effects (these are rare). Effects that the 
+rules specifically describe as “holy” allow a +2 
+to saving throws.
+3. Conjured and Summoned Creatures. All con-
+jured or summoned creatures regardless of 
+alignment cannot attack into the warded area 
+by touch (claws, teeth, etc.). However, they 
+are not subject to the penalties described in 
+(1) unless they are actually good-aligned. Ex-
+ample: an efreeti is a summoned creature, 
+and thus cannot reach into the warded area. 
+However, since it is not good-aligned, it can 
+attack with a weapon (if it is long enough) 
+with no penalty.
+ SPEAK WITH PLANTS
+Divine transmutation, level 4
+RANGE 30ft
+DURATION
+1 round for each level 
+you have in the cleric 
+class
+AREA OF EFFECT One plant within range
+COMPONENTS V, S
+CASTING TIME 10 rounds
+SAVING THROW None
+This spell grants you the power to communi -
+cate with a nearby plant and understand its 
+“speech”.
+Details
+Only you can hear the magical translation.
+===== PAGE 38 =====
+ FOURTH LEVEL CLERIC SPELLS  | 37
+When you speak to the plant, you speak in 
+Common, and it magically understands you. 
+It speaks in whatever way its species natural -
+ly communicates, and the spell translates its 
+words into your mind. Some plants in OSRIC 
+are mobile and potentially dangerous. You can 
+try to persuade, deceive, or bargain with such a 
+creature into performing a service for you.
+Your GM will determine if a creature is a “plant” 
+or not for the purposes of this spell.
+The affected plant usually won’t begin combat 
+with you until the spell ends, but if you or your 
+companions have attacked the plant in the last 
+turn, then it doesn’t have to stop fighting.
+This spell doesn’t compel the affected plant to 
+tell the truth.
+ STICKS TO SNAKES
+Divine transmutation, level 4
+RANGE 30ft
+DURATION
+2 rounds for each level 
+you have in the cleric 
+class
+AREA OF EFFECT A 10ft cube; maximum 
+of 1 stick per cleric level
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell transforms dead wood into serpents. 
+The serpents don’t understand speech, but if 
+you mentally command them to attack a target, 
+they obey.
+For each snake you create, roll a d20. If the re -
+sult is equal to or less than the number of lev -
+els you have in the cleric class, then the snake 
+is venomous. Otherwise, it is a constrictor.
+Details
+Unless you are in a forest, it’s a good idea to 
+bring your own sticks. This spell only affects 
+roughly cylindrical objects made of dead wood, 
+with a maximum of your cleric level. The target 
+objects can’t be magical.
+Venomous Snake: AC 6, Mv 90ft, HD 2, #AT 1, 
+dam 1 piercing, SA poison (save vs poison or 
+die, apply CON modifier to save), Size S, AL N.
+Constrictor Snake:  AC  6, Mv 90ft,  HD 2, #AT 
+1, dam 1 blunt, SA constrict (once hit, target 
+is being constricted until snake releases or is 
+killed; snake can only constrict one target at 
+a time; snake can choose to inflict 1d4 blunt 
+damage to a constricted target on its initiative 
+segment instead of attacking), Size S, AL N.
+Killing or defeating snakes called by this spell 
+doesn’t award any xp.
+REVERSIBLE AS SNAKES TO STICKS:
+ SNAKES TO STICKS
+Divine transmutation, level 4
+RANGE 30ft
+DURATION
+2 rounds for each level 
+you have in the cleric 
+class
+AREA OF EFFECT A 10ft cube
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW Yes (negates effect)
+This spell transforms serpents into sticks, for a 
+limited time. The spell affects snakes, serpents, 
+couatls, nagas, and other ophidian creatures; a 
+maximum of one such creature for each level 
+you have in the cleric class.
+Details
+Targeted creatures can choose to attempt a 
+saving throw vs spells and other magical ef -
+
+===== PAGE 39 =====
+38 | OSRIC 3.0 -CLERIC SPELLBOOK 
+fects, and if they pass, this spell doesn’t affect 
+them.
+If there’s doubt about what creatures are af -
+fected, then they’re the creatures listed in the 
+general spell description above, and any other 
+reptilian creature that didn’t have limbs when it 
+hatched. Dragons, demons, devils and wyverns 
+are not considered to be snakes and are thus 
+not affected by the spell.
+Certain ophidian creatures, such as sea ser -
+pents or larger nagas, are too large to fit with -
+in the area of effect. Such creatures can’t be 
+turned to sticks by this spell. Large boa con -
+strictors, on the other hand, are definitely af -
+fected.
+While turned to wood, snakes can be broken, 
+burnt, or otherwise destroyed, in which case 
+they will be dead when the spell ends. The thin-
+ner the snake, the easier this is.
+ TONGUES
+Divine divination, level 4
+RANGE Caster
+DURATION 1 turn
+AREA OF EFFECT 30ft radius around you
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+This spell magically translates spoken language 
+for you. It also magically translates your words 
+for other creatures within the area of effect.
+Details
+Only you can hear the magical translation when 
+other creatures speak, and only if the words 
+are spoken within the area of effect. Everyone 
+within the area of effect can hear the magical 
+translation of your words.
+Only spoken words are affected. Writing, and 
+non-verbal communication such as hand sig -
+nals, are not.
+Creatures only understand you if they naturally 
+speak at least one language.
+REVERSIBLE AS BLITHER:
+ BLITHER
+Divine enchantment, level 4
+RANGE Touch
+DURATION 1 turn
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+NOISE Casting quiet, effect 
+quiet
+CASTING TIME 7 segments
+SAVING THROW Yes (negates effect)
+This spell renders a creature’s words meaning-
+less. It can’t communicate via spoken word for 
+the duration of the spell.
+Details
+The creature you touch can apply its Wisdom 
+saving throw modifier to the saving throw. If 
+it fails, although the creature’s spoken words 
+become meaningless, it can still gesture, write, 
+and otherwise communicate.
+Note: The affected creature can’t cast spells that 
+have a verbal component until the spell ends.
+===== PAGE 40 =====
+ FIFTH LEVEL CLERIC SPELLS  | 39
+ 1.8.2.5. FIFTH LEVEL  CLERIC 
+ SPELLS
+ ATONEMENT
+Divine abjuration, level 5
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None
+Through this spell, you request forgiveness for 
+the target’s past sins and transgressions. Any 
+punishments the gods or spirits have imposed 
+on the target are removed (see details, below). 
+The spell can only be cast on a willing creature.
+Details
+This spell ends without effect if:
+1. Your alignment is chaotic and your target’s 
+is lawful;
+2. Your alignment is lawful and your target’s 
+is chaotic;
+3. Your alignment is good and your target’s 
+is evil; or
+4. Your alignment is evil and your target’s is 
+good.
+If your target’s transgressions were involun -
+tary, unwilling, or unwitting, and the target is 
+truly sorry, then the punishments are lifted un-
+conditionally.
+If your target’s transgressions were involun -
+tary, unwilling, or unwitting, and the target is 
+not truly sorry, then the gods or spirits assign 
+a penance or quest. The punishments are lifted 
+when the penance or quest is complete.
+If the transgressions occurred while your tar -
+get’s mind or brain were disturbed, such as by 
+a charm, domination, mind control, or posses -
+sion, and the disturbance is ongoing, then the 
+punishments are lifted unconditionally regard-
+less of whether the target is sorry, and the dis -
+turbance ends.
+If the transgressions were voluntary but your 
+target honestly believed they were for the 
+greater good, then the GM decides whether 
+the gods or spirits will accept the target’s re -
+pentance depending on the circumstances. If 
+the gods or spirits accept the repentance, then 
+they assign a penance or quest, and the pun -
+ishments are lifted when the penance or quest 
+is complete.
+ COMMUNE
+Divine divination, level 5
+RANGE Self
+DURATION 3 rounds
+AREA OF EFFECT You
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None
+You pray for enlightenment, and an invisible 
+divine power answers your questions.
+Details
+Gods or spirits who are pestered too often 
+might choose not to respond to this spell.
+The divine emissary knows what the gods or 
+spirits you petitioned know. It isn’t omniscient, 
+but its knowledge of the Prime Material Plane is 
+likely excellent. It never lies to you.
+You can ask the divine emissary one question 
+for each level you have in the cleric class. You 
+must ask each question promptly and respect -
+fully or the divine emissary will depart; this 
+ends the spell without further effect. The divine 
+emissary answers each question by saying “O 
+mortal, the answer to your question is...” and 
+then the words “yes”, “no”, “I don’t know”, or 
+“it’s complicated”. Before the word “mortal”, 
+the divine emissary can choose to add the ad -
+jective of its choice. Commonly it says “puny” 
+or “insignificant”, but also “annoying”, “stupid” 
+or worse if the emissary’s patience is growing 
+thin.
+Perhaps fortunately, only you can hear the di -
+vine emissary’s responses.
+===== PAGE 41 =====
+40 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ CURE CRITICAL WOUNDS
+Divine necromancy, level 5
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 8 segments
+SAVING THROW None
+The target creature regains 3d8+3 hp up to its 
+normal maximum. Any healing over the crea -
+ture’s normal maximum is wasted.
+Details
+This spell can’t cure diseases, reattach limbs, 
+bring back the dead, or heal any other afflic -
+tion that isn’t an injury measured in hit points. 
+These more serious injuries must be healed 
+with more powerful spells.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+REVERSIBLE AS CAUSE CRITICAL WOUNDS:
+ CAUSE CRITICAL WOUNDS
+Divine necromancy, level 5
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 8 segments
+SAVING THROW None
+The touched target creature takes 3d8+3 hit 
+points of magical damage, even if it can only be 
+hit by magical weapons. Touching the creature 
+requires a successful to-hit roll, but no saving 
+throw is allowed.
+Details
+If you miss the to-hit roll on the target, no dam-
+age is inflicted and the spell is lost.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+ DISPEL EVIL 
+Divine abjuration, level 5
+RANGE Touch
+DURATION
+1 round for each level 
+you have in the cleric 
+class
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW Yes (lessened effect)
+This spell banishes an evil-aligned extraplanar 
+creature. It disappears with an audible “pop” as 
+the air rushes in to fill the space the creature 
+formerly occupied.
+Details
+The target must apply its Wisdom saving throw 
+modifier (if any) to the saving throw. 
+If the target fails the saving throw, it’s banished 
+to its home plane. If it passes, it isn’t banished, 
+but for the spell’s duration, when the creature 
+attacks you with a melee, missile, or touch at -
+tack, you can choose to apply a penalty of -7 to 
+its attack roll.
+This spell only works on evil creatures from oth-
+er planes, such as demons, devils, or efreets.
+A banished creature returns to its home plane 
+immediately. It takes with it any items that it’s 
+wearing or carrying, but no creatures go with it, 
+even if it’s carrying them.
+REVERSIBLE AS DISPEL GOOD:
+ DISPEL  GOOD
+Divine abjuration, level 5
+RANGE Touch
+DURATION
+1 round for each level 
+you have in the cleric 
+class
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW Yes (lessened effect)
+This spell banishes a good-aligned extraplanar 
+creature. It disappears with an audible “pop” as 
+===== PAGE 42 =====
+ FIFTH LEVEL CLERIC SPELLS  | 41
+the air rushes in to fill the space the creature 
+formerly occupied.
+Details
+The target must apply its Wisdom saving throw 
+modifier (if any) to the saving throw. 
+If the target fails the saving throw, it’s banished 
+to its home plane. If it passes, it isn’t banished, 
+but for the spell’s duration, when the creature 
+attacks you with a melee, missile, or touch at -
+tack, you can choose to apply a penalty of -7 to 
+its attack roll.
+This spell only works on good creatures from 
+other planes, such as celestials or genies.
+A banished creature returns to its home plane 
+immediately. It takes with it any items that it’s 
+wearing or carrying, but no creatures go with it, 
+even if it’s carrying them.
+ FLAME STRIKE
+Divine evocation, level 5
+RANGE 60ft
+DURATION Instantaneous
+AREA OF EFFECT
+A column 5ft radius 
+from the target point 
+and 30ft high
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW Yes (half damage)
+This spell is cast at a target point on the ground; 
+you must be able to see the target point. A pil -
+lar of flame from the sky (or ceiling) strikes the 
+target point with a deadly inferno. The spell’s 
+effect is extremely loud, and will be heard with-
+in 300ft of the spell’s discharge.
+Details
+Creatures within the area of effect take 6d8 fire 
+damage. If there are any fiends or celestials 
+within the area of effect, these creatures suffer 
+6d8 points of magical damage instead of fire 
+damage.
+Creatures within the area of effect may attempt 
+a saving throw vs spells and magical effects. A 
+creature that passes takes half damage, and 
+any objects it’s wearing or carrying are undam-
+aged. A creature that fails, or that chooses not 
+to save, takes full damage. It must roll item 
+saving throws vs fire for objects it’s wearing or 
+carrying. Objects that fail are damaged or de -
+stroyed.
+Your GM rolls saving throws vs fire for objects 
+within the area of effect that aren’t being worn 
+or carried. Objects that fail are damaged or de-
+stroyed.
+If you are using 5ft squares for spacing, this 
+spell can hit as many as 4 squares (target the 
+intersection).
+When the spell ends, the affected area is 
+charred and sooty, and filled with a lingering 
+scent appropriate to the gods or spirits you in -
+voked (incense, brimstone, etc.)
+ INSECT PLAGUE
+Divine conjuration, level 5
+RANGE 360ft
+DURATION 10 rounds per cleric 
+level
+AREA OF EFFECT A column 180ft 
+radius and 60ft high
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None
+This spell conjures a swarm of biting or stinging 
+insects from a target point on the ground (with-
+in range) that you can see.
+Details
+If you have 18 or fewer levels in the cleric class, 
+then the insects are wasps, clegs, midges, mos-
+quitoes, or biting locusts. In this case, at the 
+start of each round, each creature in the area 
+of effect takes 1 point of piercing damage, and 
+experiences the following effects:
+1. If the creature is level 2 or lower, or has 2 
+or fewer hit dice, then it must flee until it’s 
+at least 240ft from the insect plague’s edge.
+2. If the creature is level 4 or lower, or has 4 
+or fewer hit dice, then it must check morale, 
+and if it fails, it must flee until it’s at least 
+120ft from the insect plague’s edge.
+===== PAGE 43 =====
+42 | OSRIC 3.0 -CLERIC SPELLBOOK 
+If you have 19 or more levels in the cleric class, 
+then you can choose to conjure insects from 
+other planes—three-inch hornets from the 
+Hells, savage horseflies from the swamps of 
+the Abyss, etc. In this case, at the start of each 
+round, each creature in the area of effect takes 
+2 points of piercing damage, and suffers the 
+following other effects:
+1. If the creature is level 4 or lower, or has 4 
+or fewer hit dice, then it must flee until it’s 
+at least 240ft from the insect plague’s edge.
+2. If the creature is level 7 or lower, or has 7 
+or fewer hit dice, then it must check morale, 
+and if it fails, it must flee until it’s at least 
+120ft from the insect plague’s edge.
+Other Details
+• Fire or smoke will hold back the insects for 
+as long as it lasts, so a wall of fire would 
+keep them at bay for its duration, but a 
+fireball or flame strike would merely clear 
+an area of insects momentarily.
+• The insects can pass through a tiny space, 
+but not an impenetrable barrier, so for 
+example, they could pass through a blade 
+barrier or a wall of thorns, but not through 
+a wall of force.
+• The insects won’t enter water, and creatures 
+that are fully submerged in water at the 
+start of the round don’t take any damage.
+• Creatures that are immune to mundane 
+weapons are unaffected by this spell, re-
+gardless of how many hit dice they have.
+• Visibility within the area of effect is 30ft.
+ PLANE SHIFT
+Divine conjuration, level 5
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creatures touched
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW Depends on use of 
+spell (see below)
+One unwilling creature, or up to 7 willing crea -
+tures whose hands are joined in a circle, plus, 
+optionally, the caster, are instantly transported 
+to one of the Outer Planes such as the Heavens 
+or the Abyss. If the creature is native to an Out-
+er Plane, it’s returned to its plane of origin. If 
+it isn’t native to an Outer Plane, the caster can 
+choose which Outer Plane it’s sent to.
+Details
+If you successfully touch a creature who does 
+not want to be affected by the spell, it can 
+choose to attempt a saving throw vs spells and 
+magical effects. It must apply its Wisdom saving 
+throw modifier to this saving throw. If it passes, 
+the spell doesn’t affect it.
+
+===== PAGE 44 =====
+ FIFTH LEVEL CLERIC SPELLS  | 43
+ QUEST
+Divine enchantment, level 5
+RANGE 60ft
+DURATION Until completed
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW Yes (negates effect)
+This spell allows you to set a quest for one tar -
+get creature, which they are compelled to per -
+form. The target must be a human, demi-hu -
+man, or humanoid.
+Details
+The target can choose to attempt a saving 
+throw vs spells and other effects, and must add 
+its Wisdom saving throw modifier to the roll. If 
+it passes, the spell ends without effect.
+The quest can’t be one that would change the 
+target’s alignment if completed. It must be 
+within the target creature’s power to complete, 
+and it must be possible to complete it within a 
+year and a day.
+You can end the spell at any time, and any cler-
+ic of higher level than you can end the spell by 
+touching the target and willing it to end.
+The spell also ends when your target creature 
+returns to you with proof that the quest has 
+been completed; or, if it doesn’t know where 
+you are, to the place where you cast the spell 
+on it; or when the target dies; or if it becomes 
+impossible to complete the quest. For exam -
+ple, if the quest was to kill a creature, and that 
+creature somehow dies; or if the quest was to 
+retrieve an object, and that object is destroyed.
+At the end of each 24 hours your target pro -
+crastinates or avoids the quest, it suffers a cu -
+mulative penalty of -1 to all its saving throws. 
+These 24 hour periods don’t have to be contin-
+uous. The target is allowed to rest, eat, drink, 
+sleep, prepare spells, and maintain its equip -
+ment as part of its daily activities, as long as it’s 
+trying in good faith to perform the quest.
+   
+ RAISE DEAD
+Divine necromancy, level 5
+RANGE 30ft
+DURATION Instantaneous
+AREA OF EFFECT One corpse or undead 
+creature
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW Depends on use of 
+spell (see below)
+This spell returns a recently-killed person to 
+life, or in some cases it may be used to kill an 
+undead creature. An undead creature must 
+have a physical body to be affected (the spell 
+works on zombies but not on ghosts).
+Details
+You can’t return a creature to life if its death oc-
+curred longer ago than one day for each level 
+you have in the cleric class. But you can still use 
+this spell to kill an undead creature that died 
+longer ago than this.
+The slain creature’s body must be complete 
+enough for life to be restored, so for example, 
+if its head or heart are missing, the spell fails.
+The slain creature must pass a Resurrection 
+Success roll, which depends on its Constitution 
+stat. See table 1.1.4a. If it fails, it isn’t returned 
+to life.
+The target of the spell remembers that they 
+died, but it doesn’t remember anything from 
+the period of time during which they were 
+dead.
+Unless your GM says otherwise, this spell 
+works on humans, half-elves, gnomes, dwarfs, 
+and halflings, but not elves or half-orcs.
+When your target is returned to life, it has 1 hp, 
+and feels very weak and sick. It can’t fight, cast 
+spells, or work until it’s rested in bed for at least 
+one full day for each day it spent dead.
+Any body parts that were missing when this 
+spell was cast, are still missing.
+If your target is an undead creature rather than 
+a dead body, it must attempt a saving throw 
+vs spells and other magical effects. If it passes, 
+then it takes 2d8+1 corrosion damage, and the 
+===== PAGE 45 =====
+44 | OSRIC 3.0 -CLERIC SPELLBOOK 
+spell has no other effect. If it’s a lich, or if it’s a 
+vampire older than a century, then it automat -
+ically passes this saving throw. If it fails, then 
+it’s returned to life if it died recently enough for 
+this to be possible, and otherwise, it crumbles 
+to dust.
+REVERSIBLE AS SLAY LIVING:
+ SLAY LIVING
+Divine necromancy, level 5
+RANGE 30ft
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW Yes (negates effect)
+You utter a dark incantation, and then speak 
+an Abominable Word. You point at a creature. 
+Your target may attempt a saving throw vs 
+spells and other magical effects. If it passes, 
+then it takes 2d8+1 corrosion damage, and 
+the spell has no other effect. If it fails, then the 
+creature dies instantly.
+Details
+In some GMs’ campaigns, the Abominable 
+Words are lost secrets, which you can only 
+learn from ancient books, consulting extrapla -
+nar powers, or speaking to certain liches.
+Unless your GM says otherwise, this spell 
+works on humans, half-elves, gnomes, dwarfs, 
+and halflings, but not elves or half-orcs.
+ TRUE SEEING
+Divine divination, level 5
+RANGE Touch
+DURATION
+1 round for each level 
+you have in the cleric 
+class
+AREA OF EFFECT 120ft radius around 
+the creature you touch
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW None
+This spell has a broad set of effects. The tar -
+get can see things as they truly are within the 
+area of effect. The target knows where illusions 
+and displacements are, but can choose to see 
+through them as if they were translucent or 
+transparent (target’s choice). The target can 
+perceive astral or ethereal creatures and ob -
+jects, and things that are hidden, concealed, or 
+secret. The target can see auras around crea -
+tures, so it knows their alignments. The target 
+knows if any creatures are polymorphed or 
+shapechanged, and can choose whether to see 
+their polymorphed or real forms.
+The target can also see through obfuscations 
+such as darkness, bright light, fog, or mist.
+Details
+Gods and god-like beings, artifacts, and relics, 
+can produce effects that are immune to this 
+spell.
+REVERSIBLE AS FALSE SEEING:
+ FALSE SEEING
+Divine divination, level 5
+RANGE Touch
+DURATION 1 round per cleric 
+level
+AREA OF EFFECT
+120ft radius around 
+the creature you 
+touch
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW Yes (negates effect)
+This spell affects one creature. The target sees 
+wild hallucinations. It is blinded for the spell’s 
+duration, and must attempt a morale check 
+each round or flee screaming in a random di -
+rection.
+Details
+The target must add its Wisdom saving throw 
+modifier to the saving throw attempt.
+===== PAGE 46 =====
+ SIXTH LEVEL CLERIC SPELLS  | 45
+ 1.8.2.6. SIXTH LEVEL  
+CLERIC  SPELLS
+ AERIAL SERVANT
+Divine conjuration, level 6
+RANGE 10ft
+DURATION 1 day per cleric level
+AREA OF EFFECT Nil
+COMPONENTS V, S, M
+CASTING TIME 9 segments
+SAVING THROW None
+This spell summons an aerial servant, an invis -
+ible elemental being, and binds it to your ser -
+vice.
+Unless either you or the aerial servant travels 
+to another plane, the aerial servant magically 
+knows the direction and distance both to the 
+place where you summoned it and to where 
+you are now.
+Details
+This spell will fail unless you’re on the Prime 
+Material Plane, the Elemental Plane of Air, the 
+ethereal plane, or the astral plane.
+The aerial servant can’t speak and doesn’t 
+know any languages, but this spell makes it un-
+derstand your spoken word commands.
+The aerial servant hates being controlled in this 
+way and doesn’t want to serve. The spell com-
+pels it to do exactly as you say.
+The aerial servant doesn’t have to obey a com-
+mand that’s obviously self-destructive, and it 
+doesn’t have to obey a command to attack a 
+creature.
+The aerial servant is dismissed, and the spell 
+ends, when the aerial servant is killed; when 
+you’re killed; when you use your action to dis -
+miss the aerial servant; when you leave the 
+plane on which you cast this spell; or when the 
+aerial servant leaves the plane.
+The aerial servant isn’t evil, but it can’t cross 
+the boundary of a Protection from Evil  spell. It 
+also can’t cross the boundary of a magic circle. 
+It must recoil from a holy symbol held out by a 
+cleric or paladin.
+Nothing in this spell stops the aerial servant 
+from attacking you, so it’s best to stand in a 
+protected area until you’ve finished giving the 
+creature its commands.
+If the aerial servant’s mission can’t be complet-
+ed, the spell ends, and the aerial servant is no 
+longer commanded. It will usually return to you 
+and attack you.
+ ANIMATE OBJECT
+Divine transmutation, level 6
+RANGE 30ft
+DURATION 1 round per cleric 
+level
+AREA OF EFFECT
+An object up to one 
+cubic foot per cleric 
+level
+COMPONENTS V, S
+CASTING TIME 9 segments
+SAVING THROW None
+This spell infuses a spirit into an inanimate 
+object, which becomes a temporary creature 
+that does your bidding. When the spell ends, 
+the object becomes inanimate again. If it took 
+damage while it was a creature, the damage 
+remains.
+Details
+The animated object has no sense of self-pres-
+ervation and obeys all your commands, even if 
+obviously self-destructive.
+The temporary creature’s statblock is given un-
+der “animated object” in the OSRIC GM Guide.
+If you cast this spell on an object that’s too 
+large, then the spell ends without effect and 
+your spell slot is still used up.
+The animated object can’t speak and doesn’t 
+know any languages, but this spell makes it un-
+derstand your spoken word commands.
+The spell ends when the animated object is 
+killed; when you’re killed; when you use your 
+action to dismiss it; or when you leave the 
+plane on which you cast this spell.
+Note: Commanding the animated object 
+doesn’t use your action in combat, so for ex -
+ample you can speak to it while you fight; but 
+===== PAGE 47 =====
+46 | OSRIC 3.0 -CLERIC SPELLBOOK 
+in the round when you give it a command, you 
+can’t cast spells that have a verbal component.
+ BLADE BARRIER
+Divine evocation, level 6
+RANGE 30ft
+DURATION 3 rounds per cleric 
+level
+AREA OF EFFECT
+Sphere of varying 
+radius around the 
+target point
+COMPONENTS V, S
+CASTING TIME 9 segments
+SAVING THROW None
+This spell creates a sphere of whirling blades 
+around the targeted point in space. You define 
+the radius of the blade barrier as 5ft, 10ft, 15ft, 
+or 20ft when you cast the spell, and you cannot 
+change the radius or move the target point af -
+ter casting the spell. You must be able to see 
+the target point to cast the spell.
+Details
+The blades can’t penetrate rock or brick. If the 
+area of effect includes rock or brick, the blades 
+won’t appear in that part of the area of effect.
+The spell ends if you are killed or when you use 
+your action to dismiss the blades.
+The blades aren’t magical, so creatures that 
+can only be hit by magical weapons take no 
+damage.
+The whirling blades deal 8d8 points of slashing 
+damage on contact, with no “to-hit” roll or sav-
+ing throw. Each creature that enters or reaches 
+through the barrier of blades from either side  
+takes this damage. If a creature is standing in 
+the barrier when it is created, that creature 
+takes damage. If a creature remains standing 
+in the barrier, damage is inflicted at the begin -
+ning of each round. The barrier is actually quite 
+narrow, so standing adjacent to it does not in -
+flict damage, but any attempt to make a melee 
+attack through the barrier causes damage.
+When a creature tries to fire a physical mis -
+sile or throw a physical projectile through the 
+barrier, apply a penalty of -3 to the attack roll. 
+Magical attacks and energy attacks don’t take 
+this penalty.
+ CONJURE ANIMALS
+Divine conjuration, level 6
+RANGE 30ft
+DURATION 2 rounds per cleric 
+level
+AREA OF EFFECT
+Up to 1 creature for 
+each level you have in 
+the cleric class
+COMPONENTS V, S
+CASTING TIME 9 segments
+SAVING THROW None
+This spell “conjures” animal allies from thin air. 
+You must be able to see the target point.
+Details
+When you cast this spell, you decide the rela -
+tive strength of the creatures you want to call 
+(Weak, Medium, Strong, or Mighty). The stron -
+ger the creature type, the fewer creatures that 
+appear. Your GM then rolls or decides what 
+kinds of creature appear. Some animals appear 
+on more than one table, and this is deliberate.
+ 
+
+===== PAGE 48 =====
+ SIXTH LEVEL CLERIC SPELLS  | 47
+WEAK
+1 creature for each level you have in the cleric 
+class
+D20 CREATURE
+1-3 Baboon
+4-9 Dog
+10-16 Giant rat
+17-20 Jackal
+ MEDIUM
+1 creature for every 2 levels you have in the 
+cleric class, rounding down
+D20 CREATURE
+1-4 Badger
+5-14 Herd animal
+15-20 Horse
+ STRONG
+1 creature for every 3 levels you have in the 
+cleric class, rounding down
+D20 CREATURE
+1-2 Boar
+3-5 Camel
+6-7 Giant goat
+8-9 Horse
+10-11 Hyena
+12-13 Leopard
+14-15 Phorusrhacid (Axe Beak)
+16-17 Stag
+18-20 Wolf
+ MIGHTY
+1 creature for every 4 levels you have in the 
+cleric class, rounding down
+D20 CREATURE
+1-3 Ape
+4-5 Bear
+6-7 Boar
+8-9 Bull
+10-12 Dire wolf
+13-14 Leopard
+15-16 Lion
+17-18 Sabretooth tiger
+19-20 Tiger
+This spell will fail unless you’re on the Prime 
+Material Plane.
+This spell makes the animals understand your 
+spoken word commands.
+The animals don’t have to obey a command 
+that’s obviously self-destructive.
+The conjured animals are dismissed, and the 
+spell ends, when they’re all killed; when you’re 
+killed; when you use your action to dismiss 
+them; when you leave the plane on which you 
+cast this spell; or when the conjured animals 
+leave the plane.
+Killing or defeating animals conjured by this 
+spell doesn’t award any xp.
+Note: If spacing is an issue on a battlemat or 
+VTT, the GM may determine the spacing of 
+the conjured animals when they appear. As a 
+general approach, each animal appears in an 
+unoccupied “square” of the caster’s choice, in 
+or adjacent to the square containing the tar -
+get point. If there are no unoccupied squares, 
+then the animal doesn’t appear until a suitable 
+square is vacated. If an animal doesn’t appear 
+immediately, the spell’s duration is extended 
+as appropriate for the late-arriving animals.
+===== PAGE 49 =====
+48 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ FIND THE PATH
+Divine divination, level 6
+RANGE Touch
+DURATION 1 turn per cleric level
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 3 rounds
+SAVING THROW None
+You (or another creature you touch to cast the 
+spell) magically know a route to one specific 
+destination of your choice. If there are several 
+routes, the shortest one is the only one known. 
+If there’s no route to the destination, you learn 
+this and the spell ends.
+Details
+The creature knows the route, but not exact 
+distances or directions, so it can’t for example 
+draw an accurate map. Although the route is al-
+ways one that the creature could use, it doesn’t 
+know about any dangers or hazards on the 
+route.
+REVERSIBLE AS HIDE THE PATH:
+ HIDE THE PATH
+Divine enchantment, level 6
+RANGE Touch
+DURATION 1 turn per cleric level
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 3 rounds
+SAVING THROW Yes (negates effect)
+The creature you touch loses all sense of direc-
+tion. If it tries to move, then its heading is ran -
+domly determined.
+Details
+The creature can make weapon attacks or un -
+armed attacks, and cast spells, as normal. Only 
+its directional movements are random.
+ HEAL
+Divine necromancy, level 6
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 1 round
+SAVING THROW None
+The target creature regains almost all lost hit 
+points, up to its normal total minus 1d4. All 
+blindness, deafness, diseases, madnesses, 
+and poisons it is suffering from are completely 
+cured. If your target has been affected by a fee-
+blemind spell, the feeblemind ends.
+Details
+This spell can’t bring back the dead, and does 
+not remove lycanthropy.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+REVERSIBLE AS HARM:
+ HARM
+Divine necromancy, level 6
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S
+CASTING TIME 1 round
+SAVING THROW Yes (negates effect)
+You utter a dark incantation, speak an Abomi -
+nable Word, and attempt to touch the target. If 
+the target fails a saving throw vs. spells, it takes 
+enough magical damage to reduce its hit points 
+to a die roll of 1d4.
+Details
+In some GMs’ campaigns, the Abominable 
+Words are lost secrets, which you can only 
+learn from ancient books, consulting extrapla -
+nar powers, or speaking to certain liches.
+===== PAGE 50 =====
+ SIXTH LEVEL CLERIC SPELLS  | 49
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+ PART WATER
+Divine transmutation, level 6
+RANGE 30ft per cleric level
+DURATION 1 turn per cleric level
+AREA OF EFFECT
+A path 10ft wide and 
+up to a mile deep, 
+whose length is 30ft 
+for each level you have 
+in the cleric class
+COMPONENTS V, S, M
+CASTING TIME  8 segments
+SAVING THROW Depends on use of 
+spell (see below)
+This spell opens a dry pathway through a body 
+of water (not exceeding a mile in depth). For 
+this use, there is no saving throw. It can be 
+used to destroy water elementals.
+Details
+Only bodies of water are affected. This spell 
+doesn’t function on the Elemental Plane of Wa-
+ter.
+If your target is a water elemental, or contains 
+water elementals, then each affected elemen -
+tal must attempt a saving throw vs spells and 
+other magical effects. Affected water elemen -
+tals that fail their saving throws are destroyed. 
+Those that succeed still take 6d6 points of raw 
+magical damage.
+ SPEAK WITH MONSTERS
+Divine divination, level 6
+RANGE Caster
+DURATION 1 turn
+AREA OF EFFECT 30ft radius around 
+you
+COMPONENTS V, S, M
+CASTING TIME 9 segments
+SAVING THROW None
+This spell is a universal translator for the cast -
+er, which works on any creature or plant intel -
+ligent enough to communicate. The spell magi-
+cally translates the “speech” of other creatures 
+into a language you can understand. It also 
+magically translates your words for other crea-
+tures within the area of effect.
+Details
+Creatures with less than animal intelligence (1) 
+cannot meaningfully communicate even under 
+the effect of this spell. 
+This spell doesn’t make an unfriendly creature 
+friendly.
+Example: You have cast the spell on yourself 
+and are speaking to a room filled with cr -
+ab-people and intelligent mushrooms. If you 
+speak to a crab-person, the other crab-people 
+will understand the speech, but you will have to 
+repeat yourself for the intelligent mushrooms 
+(because they don’t speak crab-person). You 
+can understand the claw-click speech of the 
+crab-people and the spore-exhalations of the 
+intelligent mushrooms. You can’t communicate 
+with the plant on the podium or the gelatinous 
+cube guarding the door (because they have 0 
+intelligence).
+
+===== PAGE 51 =====
+50 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ STONE TELL
+Divine divination, level 6
+RANGE Touch
+DURATION 1 turn
+AREA OF EFFECT Up to 10 cubic feet
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None
+This spell gives stone the ability to hear your 
+questions and mentally reply. It gives brief, 
+truthful answers to your questions, to the best 
+of its knowledge.
+Details
+Only you can hear the stone’s answers. The 
+stone only knows what has happened within 
+twenty feet of it (which is why the area of effect 
+is important).
+ WORD OF RECALL
+Divine transmutation, level 6
+RANGE Caster
+DURATION Instantaneous
+AREA OF EFFECT
+You, plus creatures and 
+objects weight up to 
+25lbs for each level you 
+have in the cleric class
+COMPONENTS V
+CASTING TIME Fast
+SAVING THROW None
+This spell takes you (and possibly others) to a 
+sanctuary that you have previously prepared. 
+Before you can cast Word of Recall, you must 
+first have designated a sanctuary. You must do 
+this by standing in the sanctuary and spending 
+ten minutes in private prayer.
+Details
+You can only have one sanctuary at a time. If 
+you designate a new sanctuary, then the old 
+one is no longer a sanctuary.
+This spell only transports willing creatures. Un-
+willing creatures are unaffected. 
+Anything held, worn, or carried by the crea -
+tures is transported, although this can’t be 
+used to add additional “creatures” unless they 
+are quite small (roughly 30 pounds or less).
+ 1.8.2.7. SEVENTH LEVEL  
+ CLERIC  SPELLS
+ ASTRAL SPELL
+Divine transmutation, level 7
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT
+Affected creatures, 
+with objects and 
+equipment worn 
+or carried by those 
+creatures
+COMPONENTS V, S
+CASTING TIME 3 turns
+SAVING THROW None
+This spell transports avatars of yourself and up 
+to five other creatures to the Astral Plane, leav-
+ing your physical bodies behind.
+Details
+This spell only transports willing creatures. Un-
+willing creatures are unaffected.
+Most magic items are weakened or suppressed 
+while on the Astral Plane, and some spells work 
+differently.
+Affected creatures retain their physical bodies 
+on the Prime Material Plane. The bodies are 
+unconscious and incapacitated until the spell 
+ends.
+This spell creates astral avatars, which look 
+exactly like your physical bodies on the Prime 
+Material. Each creature’s avatar is connected 
+to its physical body on the Prime Material by 
+a silver cord. The silver cord is invisible and in -
+vulnerable to most kinds of damage, but can 
+be severed by deities and creatures of similar 
+power, by certain rare weather effects on the 
+Astral Plane, and by a very limited number of 
+special weapons and powers. If the silver cord 
+===== PAGE 52 =====
+ SEVENTH LEVEL CLERIC SPELLS  | 51
+is cut, the creature’s astral avatar disappears 
+and its physical body dies.
+The astral avatar can enter other planes from 
+the Astral, but it can’t enter a plane where you 
+have a physical body (other than to return into 
+the original body).
+ CONTROL WEATHER
+Divine conjuration, level 7
+RANGE Nil
+DURATION 4d12 hours
+AREA OF EFFECT
+An area around the 
+target not exceeding 
+4d4 square miles
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None
+This spell allows you to control precipitation, 
+temperature, and wind speed in a large area. 
+The new weather takes 10d4 minutes to reach 
+full strength.
+Details
+This spell won’t generate weather conditions 
+that don’t occur naturally where you are. For 
+example, it can’t generate a snowstorm in the 
+tropics, nor a monsoon in the tundra.
+This spell only works on the Prime Material 
+Plane, the Elemental Plane of Air, or the Ele -
+mental Plane of Water; or in some other part 
+of the multiverse where your GM says there is 
+weather. This spell can’t affect the rare forms 
+of weather on the Astral or Ethereal Planes. In 
+the Outer Planes, the weather is usually under 
+the direct control of a god or other power.
+This spell affects the weather, not the geolog -
+ical or astronomical conditions. You can’t use 
+this spell to create an earthquake or eclipse.
+You can use the spell to move one step on the 
+precipitation and wind speed columns. Tem -
+perature can be altered by no more than 1d10 
++ 10 degrees Fahrenheit.
+Precipitation:
+Clear
+Light clouds
+Cloudy
+Light precipitation
+Medium precipitation
+Heavy precipitation
+Wind Speed:
+Calm
+Light breeze
+Wind
+Strong wind
+Gale
+ EARTHQUAKE
+Divine transmutation, level 7
+RANGE 360ft
+DURATION 1 round
+AREA OF EFFECT
+A contiguous area 
+of stone, up to 5ft 
+diameter per cleric 
+level
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW None (See below)
+This spell creates a minor earthquake. Yawning 
+cracks in the earth appear, and have a good 
+chance to swallow creatures in the area of ef -
+fect.
+Details
+Non-material creatures and that are flying or 
+levitating don’t fall into cracks. Your GM might 
+say that certain extremely large creatures are 
+too large to fall in. Elementals survive falling in 
+a crack and can return after 3d6 rounds.
+The chance of falling into such a crevice varies 
+by creature size: 1 in 4 (small creatures), 1 in 6 
+(medium-sized creatures), or 1 in 8 (large crea-
+tures). No saving throw applies.
+Creatures that are swallowed up take 12d10 
+points of blunt damage.
+===== PAGE 53 =====
+52 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ GATE
+Divine conjuration, level 7
+RANGE 30ft
+DURATION Instantaneous
+AREA OF EFFECT
+A two-dimensional 
+rectangle 10ft wide 
+and 20ft high that’s 
+contiguous with your 
+target point
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW None
+This spell draws the attention of an extra-pla -
+nar creature you specify by name or type, and 
+opens a portal at the target point through 
+which that creature can emerge into the cast -
+er’s plane of existence. The named creature is 
+not forced to step through the gate, but some-
+thing will (as determined by the GM).
+Details
+If you know the true name, or at least one of 
+the true names, of a being, you can try to call 
+on that individual being. It is still not forced to 
+emerge. In particular, if you call on a deity or 
+being of equivalent power, it doesn’t come in 
+person, but sends a minion.
+Casting this spell doesn’t give you any control 
+over the gated creature, and unless it’s pre -
+sented with a matter that obviously justifies its 
+time and attention, it may be irascible.
+The gate appears in an appropriate orienta -
+tion. For example, if you call on a celestial be -
+ing, then the gate appears above you and the 
+being descends. If you call on a fiend, then the 
+gate appears below you and the being crawls 
+up to the surface.
+Your GM controls the gated creature.
+ HOLY WORD
+Divine conjuration, level 7
+RANGE Nil
+DURATION Varies, see below
+AREA OF EFFECT 30ft radius
+COMPONENTS V
+CASTING TIME Fast
+SAVING THROW None (see below)
+You utter a holy word, and all non-good-aligned 
+creatures in the area of effect suffer consider -
+able harm.
+Details
+All fiends, and elementals of evil alignment, are 
+instantly banished to their home plane.
+Other creatures of non-good alignment suffer 
+various effects depending on their level or hit 
+dice:
+ HOLY WORD EFFECTS
+LEVEL OR HIT DICE EFFECT DURATION
+Less than 4 Killed Instantaneous
+Between 4 and 7 Paralyzed 10d4 rounds
+Between 8 and 11  Movement speed halved; -4 to attack 
+rolls 2d4 rounds
+More than 11 Reduce movement speed by 10ft; -2 to 
+attack rolls 1d4 rounds 
+===== PAGE 54 =====
+ SEVENTH LEVEL CLERIC SPELLS  | 53
+Deities and creatures of similar pow -
+er aren’t affected by this spell.  
+This spell doesn’t work in the Lower Outer 
+Planes.
+Note: The original description of this spell 
+notes that it affects creatures of “differing” 
+alignments. It was never clarified if this meant 
+“any non-good alignment” or simply “evil as op-
+posed to good.” The first interpretation would 
+apply the effects to Neutral-aligned creatures, 
+and the second would not. Your GM will decide 
+if holy word affects creatures of all non-good 
+alignments or if it only affects specifically evil 
+creatures. The author (Matt) believes the cor -
+rect interpretation is that it affects any non-
+good creature.
+REVERSIBLE AS UNHOLY WORD:
+ UNHOLY WORD
+Divine conjuration, level 7
+RANGE Nil
+DURATION Varies, see below
+AREA OF EFFECT 30ft radius
+COMPONENTS V
+CASTING TIME Fast
+SAVING THROW None (see below)
+You utter an unholy word , and all non-evil-
+aligned creatures in the area of effect suffer 
+considerable harm.
+Details
+All celestials, and elementals of good align -
+ment, are instantly banished to their home 
+plane.
+Other creatures of non-evil alignment suffer 
+various effects depending on their level or hit 
+dice:
+ UNHOLY WORD EFFECTS
+LEVEL OR HIT DICE EFFECT DURATION
+Less than 4 Killed Instantaneous
+Between 4 and 7 Paralyzed 10d4 rounds
+Between 8 and 11  Movement speed halved; -4 to attack 
+rolls 2d4 rounds
+More than 11 Reduce movement speed by 10ft; -2 to 
+attack rolls 1d4 rounds
+Deities and creatures of similar power aren’t affected by this spell. This spell doesn’t work in the 
+Upper Outer Planes.
+===== PAGE 55 =====
+54 | OSRIC 3.0 -CLERIC SPELLBOOK 
+ REGENERATE
+Divine necromancy, level 7
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 3 rounds
+SAVING THROW None
+This spell re-grows or re-attaches a lost body 
+part. It can also be used to heal damage to or -
+gans or other injuries that aren’t healed by a 
+heal spell or the cure spells, which mainly focus 
+on diseases and hit point damage. So, for ex -
+ample, this spell can restore eyesight to dam -
+aged eyes, whereas cure blindness does not.
+Details
+You can only restore a body part to a creature 
+that’s alive. You can’t restore a creature’s head 
+or brain, and if the head or brain are missing 
+when you cast this spell, then the spell ends 
+without effect.
+A severed body part that’s present when you 
+cast the spell is instantly reattached. If the body 
+part is elsewhere or has been destroyed, then 
+the body part regrows over the course of 2d4 
+combat rounds.
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+REVERSIBLE AS WITHER:
+ WITHER
+Divine necromancy, level 7
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S, M
+CASTING TIME 3 rounds
+SAVING THROW None
+This spell causes degeneration of living tissue, 
+the opposite of regeneration. 
+Details
+If you successfully touch a creature, it can 
+choose to roll a saving throw vs spells, and if it 
+passes, it takes half damage.
+Your target takes 8d12+32 corrosion damage, 
+or 4d12+16 if it passed its saving throw. If you 
+touched a creature’s limb and it failed its saving 
+throw, then the limb withers. 
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+ RESTORATION
+Divine necromancy, level 7
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S
+CASTING TIME 3 rounds
+SAVING THROW None
+Each casting of this spell restores one level that 
+was lost to an undead creature’s level drain, or 
+any other level draining effect. It also has gen -
+eral restorative effects that may be applied by 
+the GM.
+Details
+There is a window of time during which this 
+spell must be cast: one day per level you have 
+in the cleric class. If the experience level was 
+lost outside of that time window, you cannot 
+restore the lost level.
+Your target receives enough experience points 
+to place it at the start of the new level.
+If the creature has been affected by a feeble-
+mind spell or similar effect, its mind is restored. 
+===== PAGE 56 =====
+ SEVENTH LEVEL CLERIC SPELLS  | 55
+REVERSIBLE AS ENERGY DRAIN:
+ ENERGY DRAIN
+Divine necromancy, level 7
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT Creature touched
+COMPONENTS V, S
+CASTING TIME 3 rounds
+SAVING THROW None
+This spell drains one level of experience from 
+the target.
+Details
+You must touch your target, which may require 
+a to-hit roll. No saving throw is allowed.
+Your target loses one life energy level (level of 
+experience). If it’s level 1 or lower, or has 1 or 
+fewer hit dice, then it is killed. 
+In general, the spell only affects normally liv -
+ing creatures. It has no effect on golems, con -
+structs, elementals, or the undead.
+ RESURRECTION
+Divine necromancy, level 7
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT The piece of flesh or 
+bone you choose
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW Only when used vs. 
+undead
+The awesome power of a resurrection spell 
+brings the dead back to life by returning a soul 
+to a portion of its body and re-growing the rest 
+of the body if necessary. The creature remem -
+bers that it died, but it doesn’t remember what 
+happened between its death and its resurrec -
+tion.
+Details
+If all goes as planned, your target is returned to 
+life with full hit points. If it had spells prepared 
+and/or unused spell slots when it died, then it 
+retains them. Any body parts that were missing 
+when this spell was cast are restored.
+Unless your GM says otherwise, this spell only 
+works on humans, half-elves, gnomes, dwarfs, 
+and halflings, but not elves or half-orcs. This is 
+because the spell affects souls but not spirits; 
+per the original rules, elves and half-orcs have 
+spirits rather than souls.
+You can’t return a creature to life if its death oc-
+curred longer ago than ten years for each level 
+you have in the cleric class. You can still use this 
+spell to kill an undead creature that died longer 
+ago than this.
+You must have a piece of the creature’s flesh 
+and/or bone weighing at least 1 ounce before 
+you can resurrect it, so for example you can’t 
+resurrect a fingernail or a lock of hair.
+You can only resurrect a creature that’s de -
+ceased (you can’t use the arm of a living person 
+to create a second version of that person).
+The slain creature must pass a Resurrection 
+Success roll, which depends on its Constitution 
+stat. If it fails the roll, it isn’t returned to life and 
+is forever dead, unaffected by future castings 
+of this spell or raise dead.
+Using the Spell Against Undead
+If your target is an undead creature, it must 
+attempt a saving throw vs spells and other 
+magical effects. If it passes, then it takes 5d8+5 
+corrosion damage, and the spell has no other 
+effect. If it’s a lich, or if it’s a vampire older than 
+a century, then it gains a bonus of +4 on this 
+saving throw. If it fails, then it’s returned to life 
+if it died recently enough for this to be possible, 
+and otherwise, it crumbles to dust.
+===== PAGE 57 =====
+56 | OSRIC 3.0 -CLERIC SPELLBOOK 
+REVERSIBLE AS SURCEASE:
+ SURCEASE
+Divine necromancy, level 7
+RANGE Touch
+DURATION Instantaneous
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 10 rounds
+SAVING THROW Yes (lessened effect)
+This spell instantly kills the target if they fail a 
+saving throw, and damages them even if they 
+make the save. It involves the speaking of an 
+Abominable Word, which prevents future rais-
+ing or resurrection of the body.
+Details
+In some GMs’ campaigns, the Abominable 
+Words are lost secrets, which you can only 
+learn from ancient books, consulting extrapla -
+nar powers, or speaking to certain liches.
+Unless your GM says otherwise, this spell only 
+works on humans, half-elves, gnomes, dwarfs, 
+and halflings, but not elves or half-orcs. In oth-
+er words, it “removes” a soul from the body, 
+but does not affect spirit-ruled bodies such as 
+elves and half-orcs.
+Your target must be touched (which may re -
+quire a to-hit roll) and may attempt a saving 
+throw vs spells and other magical effects. If it 
+passes, then it takes 5d8+5 corrosion damage, 
+and the spell has no other effect. If it fails, then 
+it dies instantly and cannot be raised or resur -
+rected, except by a deity or creature of similar 
+power. 
+ SYMBOL
+Divine conjuration, level 7
+RANGE Touch
+DURATION 1 turn per cleric level
+AREA OF EFFECT
+Each creature within 
+100ft that can see the 
+symbol
+COMPONENTS V, S, M
+CASTING TIME 8 segments
+SAVING THROW Yes (negates effect)
+To cast this spell, you shape a glowing symbol 
+in the air. For the duration of the spell, any 
+creature seeing the symbol must make a sav -
+ing throw or suffer the effects of the particular 
+symbol you shaped.
+Details
+Creatures seeing the symbol can attempt a sav-
+ing throw vs spells and magical effects. If they 
+pass, they can still see the symbol, but they ar-
+en’t affected by it. Effects of seeing the symbol 
+may last beyond the spell’s duration, which is 
+the period of time the symbol is active and vis-
+ible.
+Clerics can use three symbols: Hopelessness, 
+Pain, and Persuasion. You can choose which 
+symbol to use when you cast the spell. 
+• Hopelessness: For the next 3d4 turns, the 
+creature suffers a -100 penalty on morale 
+checks. If attacked in melee, it must either 
+flee or surrender. It can choose which to do.
+• Pain: For the next 2d10 turns, the creature 
+experiences horrible pain. Its dexterity 
+score and armour class get 2 points worse, 
+and it takes a penalty of -4 on attack rolls.
+• Persuasion: For the next 1d20 turns, the 
+creature’s alignment changes to your align-
+ment, and it views you as a trusted friend.
+===== PAGE 58 =====
+ SEVENTH LEVEL CLERIC SPELLS  | 57
+ WIND WALK
+Divine transmutation, level 7
+RANGE Caster
+DURATION 1 hour per cleric level
+AREA OF EFFECT
+Creatures of your 
+choice within a 20ft 
+radius of you
+COMPONENTS V, S, M
+CASTING TIME 1 round
+SAVING THROW None
+This spell turns you, and other creatures you 
+designate, into magical vapour, resembling 
+clouds or steam. While you’re in this form, 
+you can fly, and you can pass through any gap 
+that’s more than half an inch wide.
+Details
+The spell must affect you, and can also include 
+up to 1 human-sized creature for every eight 
+levels you have in the cleric class.
+Unwilling creatures aren’t affected, and an af -
+fected creature can choose to end this spell on 
+itself at any time.
+Movement rate under the influence of this 
+spell is 60ft per round.
+Note: A creature that’s flying when the spell 
+ends will immediately fall. A creature that’s in 
+a narrow space when the spell ends takes 6d6 
+blunt damage and then appears in the nearest 
+unoccupied space, arriving prone.
+===== PAGE 59 =====
+58 | OSRIC 3.0 -CLERIC SPELLBOOK 
+SPELLS
+Aerial Servant ...........................................45
+Animate Dead ..........................................20
+Animate Object ........................................45
+Astral Spell ................................................50
+Atonement ................................................39
+Augury .......................................................13
+Bestow Curse ...........................................28
+Blade Barrier ............................................46
+Bless ............................................................5
+Blither ........................................................38
+Cause Blindness .......................................23
+Cause Critical Wounds ............................40
+Cause Disease ..........................................23
+Cause Fear ................................................12
+Cause Light Wounds .................................7
+Cause Serious Wounds ...........................30
+Chant .........................................................14
+Command ...................................................5
+Commune .................................................39
+Conceal Alignment ..................................16
+Conceal Charm .........................................15
+Conjure Animals ......................................46
+Continual Darkness .................................22
+Continual Light .........................................21
+Control Weather ......................................51
+Create Food and Water...........................22
+Create Water ..............................................6
+Cure Blindness .........................................22
+Cure Critical Wounds ..............................40
+Cure Disease ............................................23
+Cure Light Wounds ....................................7
+Cure Serious Wounds .............................30
+Curse ...........................................................5
+Darkness .....................................................9
+Destroy Water ............................................6
+Detect Charm ...........................................14
+Detect Evil ...................................................7
+Detect Good ...............................................8
+Detect Lie ..................................................30
+Detect Magic ...............................................8
+Dispel Evil ..................................................40
+Dispel Good ..............................................40
+Dispel Magic .............................................24
+Divination ..................................................31
+Earthquake ...............................................51
+Energy Drain .............................................55
+Exorcise .....................................................32
+False Seeing ..............................................44
+Feign Death ..............................................25
+Find the Path ............................................48
+Find Traps .................................................15
+Flame Strike ..............................................41
+Gate ...........................................................52
+Glibness ....................................................30
+Glyph of Warding .....................................25
+Harm..........................................................48
+Heal............................................................48
+Hide the Path ...........................................48
+Hold Person ..............................................15
+Holy Word .................................................52
+===== PAGE 60 =====
+ SEVENTH LEVEL CLERIC SPELLS  | 59
+Insect Plague ............................................41
+Know Alignment .......................................16
+Light .............................................................9
+Locate Object ...........................................27
+Lower Water .............................................33
+Neutralise Poison ....................................34
+Part Water .................................................49
+Plane Shift .................................................42
+Poison ........................................................35
+Prayer ........................................................27
+Protection from Evil .................................10
+Protection from Evil10 Ft Radius ...........35
+Protection from Good .............................10
+Protection from Good 10 Ft Radius ......36
+Purify Food and Drink .............................11
+Quest .........................................................43
+Raise Dead ................................................43
+Raise Water ..............................................34
+Regenerate ...............................................54
+Remove Curse ..........................................28
+Remove Fear ............................................11
+Resist Cold ................................................12
+Resist Fire..................................................17
+Restoration ...............................................54
+Resurrection .............................................55
+Sanctuary ..................................................13
+Silence 15 Ft Radius .................................17
+Slay Living .................................................44
+Slow Poison ..............................................18
+Snake Charm ............................................19
+Snakes to Sticks .......................................37
+Speak with Animals .................................19
+Speak with Dead ......................................29
+Speak with Monsters ...............................49
+Speak with Plants ....................................36
+Spiritual Weapon .....................................20
+Spoil Food and Drink ...............................11
+Sticks to Snakes .......................................37
+Stone Tell ..................................................50
+Surcease....................................................56
+Symbol ......................................................56
+Tongues ....................................................38
+True Seeing ...............................................44
+Unholy Word ............................................53
+Wind Walk .................................................57
+Wither ........................................................54
+Word of Recall ..........................................50
+===== PAGE 61 =====
+OSRIC THIRD-PARTY LICENSE VERSION 1.1
+1. Terms. If you adhere to these terms, you may 
+publish third-party material stating compatibility 
+with OSRIC 3.0 (Player Guide and GM Guide) for 
+free or for sale and keep 100% of the profits.
+2. Content. You may freely use and reference the 
+general concepts of OSRIC 3.0, such as the rules 
+and game mechanics. You may use the names of 
+the game’s beings, locations, spells, and items. 
+You may not use the game’s art. You may not print 
+verbatim passages of text (no matter the length) 
+from the game, with the exception of monsters, 
+spells, and magic items.
+3. Logos and Branding. You may use the “Com -
+patible with OSRIC 3.0” logo, although it’s not re -
+quired. You may use the term OSRIC 3.0 in refer -
+ence to compatibility (stating, for example, “This 
+game is compatible with OSRIC 3.0” or another 
+similar phrase). You will not challenge or misuse 
+the trademarked terms “Mythmere Games” or 
+“OSRIC.” You may not use the term “Mythmere 
+Games” in any way that suggests your product is 
+approved or reviewed by Mythmere Games. You 
+may not imply that your publication is an official 
+Mythmere Games product or that you or your 
+publication are affiliated or associated with or 
+approved, sponsored, or endorsed by Mythmere 
+Games.
+4. Legal. Mythmere Games LLC takes no respon -
+sibility for any legal claims against your product 
+and will not be liable to you on any legal theory 
+(including, without limitation, negligence) or oth -
+erwise for any losses, costs, expenses, or damag -
+es arising out of this license or use of the licensed 
+material.
+This license shall be governed by, and interpreted 
+and construed in accordance with, the domestic 
+law of the State of Texas without giving effect to 
+any choice of law provision or rule that would 
+cause the application of laws of any jurisdiction 
+other than the State of Texas. The exclusive ven -
+ue for any dispute related to this license shall be 
+in Houston, Texas. You irrevocably consent to the 
+exercise of personal jurisdiction over you by the 
+state courts of Texas, and federal courts located 
+in Texas. 
+Unless stated otherwise herein, copyright rights 
+and moral rights, such as the right of integrity, are 
+not licensed under this license, nor are publicity, 
+privacy, and/or other similar personality rights. 
+Patent and trademark rights are not licensed un -
+der this license. Mythmere Games LLC reserves all 
+rights not expressly granted herein.
+If any provision of this license is deemed unen -
+forceable, it shall be automatically reformed to 
+the minimum extent necessary to make it en -
+forceable or, if not reformable, severed from this 
+license without affecting the enforceability of the 
+remaining provisions. Nothing in this license is a 
+limitation upon, or waiver of, any privileges and 
+immunities that apply to Mythmere Games LLC, 
+including from the legal processes of any jurisdic -
+tion or authority.
+You must include the following in your publica-
+tion: “[Product Name] is an independent product 
+published under the OSRIC 3.0 Third-Party License 
+and is not affiliated with Mythmere Games LLC.”
+It is also good practice to include the follow -
+ing, to draw in legal protection:  This work in -
+cludes material taken from the System Reference 
+Document 5.1 (“SRD 5.1”) by Wizards of the Coast 
+LLC and available at: https://dnd.wizards.com/
+resources/systems-reference-document. The 
+SRD 5.1 is licensed under the Creative Commons 
+Attribution 4.0 International License available at: 
+https://creativecommons.org/licenses/by/4.0/le -
+galcode.
+===== PAGE 62 =====

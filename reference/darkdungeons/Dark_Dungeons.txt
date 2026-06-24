@@ -1,0 +1,258 @@
+book
+geometry
+xcolor
+
+enumitem,fancyhdr,floatrow,microtype,multicol,pdfpages,titlesec,tocloft,wrapfig,xltabular
+caption
+imakeidx
+librebaskerville
+newtxmath
+nth
+ebgaramond-maths
+fontenc
+adjustbox
+tcolorbox
+textpos
+parskip
+
+hyperref
+bookmark
+
+ ./Images/
+
+ pageattr/Group <</S /Transparency /I true /CS /DeviceRGB>>
+
+ =10000
+ =10000
+ = 
+ 
+ 
+ 
+
+T1EBGaramond(0)mn <-> ssub * EBGaramond(0)/T1/cmr/m/n 
+
+ 0.25in
+
+secnumdepth0
+
+\floatsep0pt 
+\textfloatsep0pt 
+\intextsep 
+\dbltextfloatsep0pt 
+\dblfloatsep0pt 
+\abovecaptionskip0pt 
+\belowcaptionskip0pt 
+
+ebgaramond
+
+ 
+\AddChapterPrefixInBookmarks
+ @mainmatter
+ level=0
+ >0
+ @text\@chapapp : 
+ 
+ 
+ 
+
+ 
+
+addtohook=\AddChapterPrefixInBookmarks
+
+blueHTML20395b
+greenHTML06330c
+purpleHTML330033
+redHTML660000
+darkbrownHTML5c4320
+darkerbrownHTML331900
+lightbrownHTMLecebde
+mediumbrownHTMLd3d1b3
+
+\chapter 2226 \pgcolor ~ : 0.5em 
+\chapter0pt-54pt0pt
+
+ []
+
+	#1
+ (.5in,270.4mm)Border/Top-center (\pgcolor)\headsep
+ (.5in,131.7mm)Chapters/#15.58in
+
+\section 1416 \pgcolor0pt[ ]
+\subsection 1214 darkbrown0pt[ ]
+\subsubsection 1012 0pt[ ]
+
+\section0pt.14in.08in
+\paragraph 0pt3.25ex plus 1ex minus .2ex0em
+
+fancy
+ 
+\chaptermark[1]\chaptername~\thechapter: #1
+\headrulewidth0pt 
+
+ (12.7mm,275.2mm)Border/Top (\pgcolor).pngtcolorbox[colback=lightbrown,colframe=darkerbrown,hbox,sharp corners,boxrule=3pt,height=.40in,valign=center,before=0.38in,after=0.39in] \pgcolor tcolorbox
+
+ label=\pgcolor ,parsep=0pt
+
+arabic
+
+ Border/Bottom-left (\pgcolor).png .132in \pgcolor Border/Bottom-right.png
+ 
+plain \headrulewidth0pt 
+
+\cftbeforetoctitleskip0pt
+\cftaftertoctitleskip.34in
+ \vskip.10in
+
+empty
+
+ multicols3 multicols
+
+\cfttoctitlefont blue
+\cftchapfont 
+\cftsecfont 
+\cftsubsecfont 
+
+\contentsname\fillTable of Contents\fill
+
+tocdepth1
+
+\cftdot
+
+ \@tocrmarg\@pnumwidth plus1fil 
+
+\cfttabindent0in
+
+ blue
+ 
+\chapter[1][blue]
+ @openright 
+	plain
+ #1
+ \@topnum @
+	\@afterindentfalse
+ \@chapter\@schapter
+ 
+
+\chapterautorefnameChapter
+ 
+ 
+ 
+ 
+\iref[2][Use brackets not braces for iref.]\itshape#2
+\ilink[2]#1 #2
+\fullref[1] #1: #1
+
+colback=lightbrown
+
+ [Example]tcolorbox[colback=lightbrown,colframe=darkerbrown,boxsep=.10mm,boxrule=1pt, fonttitle= , title=#1]#2tcolorbox
+
+ minipage #1minipage
+
+beforefloat.10in
+
+capposition=top,captionskip=0pt,font=footnotesize,precode=beforefloat
+
+Y> X
+M[1]> m#1
+
+\thead[1] =1 \pgcolor white#1
+
+2lightbrownmediumbrown
+
+ 
+\@ifundefinedc@rownum
+ @rownum 
+
+\@ifundefinedtherownum
+ \@arabic\rownum
+
+ 
+ \global\rownum=1\relax
+
+ [0]
+	tikzpicture
+ (0, #1) node[inner sep=0cm, outer sep=0cm] #2;
+ (0, 0) node[inner sep=0cm, outer sep=0cm] #3;
+	tikzpicture
+
+Dark Dungeons
+Peter J. Schroeder
+
+level=\section,toclevel=section
+ 
+ 
+ 
+ 
+ 
+ 
+
+document
+ 
+ 
+empty
+Images/Cover/Front.png
+margin=.5in
+"00 - Title Page.tex"
+"00 - Introduction1.tex"
+ 
+\contentsnametoc
+
+\numberline[1]Chapter~#1:~
+
+ 
+ 
+
+ 
+fancy
+"00 - Introduction2.tex"
+"01 - Character Creation.tex"
+"02 - Ability Scores.tex"
+"03 - Classes.tex"
+"04 - Alignment.tex"
+"05 - Skills.tex"
+"06 - Weapon Feats.tex"
+"07 - Equipment.tex"
+"08 - Spells and Spellcasting.tex"
+"09 - Experience.tex"
+"10 - Movement.tex"
+"11 - Encounters.tex"
+"12 - Combat.tex"
+"13 - Strongholds and Dominions.tex"
+"14 - Other Worlds.tex"
+"15 - Immortals.tex"
+"16 - Time Travel.tex"
+"17 - Monsters.tex"
+"18 - Treasure.tex"
+"19 - Game Master Advice.tex"
+
+ 
+
+Indices
+chap:Indices
+ 
+plain
+
+\listoftables \numberline[1]Table~#1:~ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ \@starttoclot 
+Tables
+multicols*2
+ 
+multicols*
+ 
+
+"20 - Open Game License.tex"
+
+Images/Cover/Back.png
+document

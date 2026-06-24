@@ -1,0 +1,278 @@
+
+son (Table 1.3.1.4C: Assassin Saving Throws ). If the player rolls
+a 13 or higher, the saving throw succeeds. Most poisons have
+no effect at all if the saving throw is successful. Lots of sav -
+ing throws are for the “lesser” of two bad outcomes, such as
+a fireball spell (where the saving throw reduces your damage
+by half), and others are like normal poisons, where making the
+saving throw means there’s no bad effect at all.
+Weapon Proficiency: Your character has a certain number of
+“weapons of proficiency” at first level. Your character receives
+extra proficiencies when they earn higher experience levels.
+A weapon proficiency is for an individual weapon type with its
+own entry on the weapons table (so for example, “longsword”,
+rather than “swords”). When a character fights with a weapon
+in which they aren’t proficient, the Non-Proficiency Penalty (for
+their class) is applied to their to hit rolls.
+10 | OSRIC 3.0 - PART ONE: CREATING A CHARACTER
+CREATING A CHARACTER
+In order, the key steps to create a player character for OSRIC
+are:
+
+Note: Assassin thief skills may be modified by Dexterity or Ancestry. See Table Table 1.3.10.4c (Thief Skills—Dexterity Adjustments) and Table
+1.3.10.4d (Thief Skills—Ancestry Adjustments).
+
+TABLE 1.3.1.4C: ASSASSIN SAVING THROWS
+LEVEL TYPE OF SAVING THROW
+AIMED MAGIC ITEMS
+(E.G., ROD, STAFF, WAND)
+BREATH
+WEAPONS
+DEATH/
+PARALYSIS/ POISON
+PETRIFACTION/
+POLYMORPH
+SPELLS FOR UNLISTED
+CATEGORIES
+1–4 14 16 13 12 15
+5–8 12 15 12 11 13
+9–12 10 14 11 10 11
+13–15 8 13 10 9 9
+
+TABLE 1.3.1.4D: ASSASSIN TO-HIT TABLE
+LEVEL ROLL REQUIRED TO HIT  ARMOUR CLASS (D20)
+10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+1–4 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25 26
+5–8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24
+9–12 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21
+13–15 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20
+CHAPTER THREE: CHARACTER CLASS  | 33
+1.3.2. CLERIC
+Clerics are moral and spiritual leaders: people of faith who
+preach the gods’ will, interpret omens and portents, and strike
+down the evil or unfaithful. A cleric must select either one pa -
+tron deity, or else one pantheon, that they represent. Your GM
+can tell you which gods and pantheons exist for you to choose
+from.
+In OSRIC’s worlds, force of arms often speaks louder than mor -
+al suasion, so clerics are trained to fight their gods’ enemies.
+Some clerics are fanatics or zealots, seeking converts or hunting
+
+TABLE 1.3.2.4C: CLERIC TO-HIT TABLE
+LEVEL ROLL REQUIRED TO HIT  ARMOUR CLASS (D20)
+10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+1–3 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25
+4–6 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23
+7–9 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21
+10–12 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20
+13–15 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20
+16–18 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+19+ 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+CHAPTER THREE: CHARACTER CLASS  | 37
+1.3.3. DRUID
+Druids are priests of nature or the natural world. Some worship
+nature gods; others are in touch with totem spirits or kami. They
+maintain and protect holy places, perform rites of passage, lead
+festivals, and protect and promote balance and harmony with
+nature. They have power over fire, stone, weather, plants, and
+
+TABLE 1.3.3.4C: DRUID TO-HIT TABLE
+LEVEL ROLL REQUIRED TO HIT  ARMOUR CLASS (D20)
+10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+1–3 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25
+4–6 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23
+7–9 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21
+10–12 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20
+13–14 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20
+CHAPTER THREE: CHARACTER CLASS  | 41
+1.3.4. FIGHTER
+When the clash of steel rings out in grim forests or gloomy dun-
+geons, it’s the fighter who bears the brunt of battle. Fighters
+are the backbone of an adventuring party; without fighters to
+hold the line, the other characters will likely be overrun before
+they can bring their own skills to bear. Together with the ranger
+and paladin, they have the most hit points, which reflects their
+hardiness and courage.
+Of all the classes, fighters have the best chance “to hit”, partic -
+
+TABLE 1.3.4.4C: FIGHTER TO-HIT TABLE
+LEVEL ROLL REQUIRED TO HIT  ARMOUR CLASS
+10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+0 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25 26
+1 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25
+2 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24
+3 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23
+4 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22
+5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21
+6 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20
+7 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20
+8 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20
+9 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20
+10 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20
+11 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+12 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+13 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+14 -3 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+
+TABLE 1.3.5.4C: ILLUSIONIST TO-HIT TABLE
+LEVEL ROLL REQUIRED TO HIT  ARMOUR CLASS
+10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+1–5 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25 26
+6–10 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24
+11–15 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21
+16–20 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20
+CHAPTER THREE: CHARACTER CLASS  | 47
+1.3.6. MAGIC-USER
+Magic-users, also called mages or wizards, practice arcane mag-
+ic. The full principles of arcane magic are beyond mortal un -
+derstanding—even the most brilliant magic-users struggle from
+momentary inklings to understand its complexity. Magic-users
+need spell books. As a magic-user, you can’t cast a spell unless
+you’ve memorised it from a spell book—or unless you’re using a
+magic item, such as a scroll, that lets you cast a spell.
+Wizard’s Tower
+When you reach 11th level in this class, you can establish a
+
+TABLE 1.3.6.4C: MAGIC-USER TO-HIT TABLE
+LEVEL ROLL REQUIRED TO HIT  ARMOUR CLASS
+10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+1–5 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25 26
+6–10 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24
+11–15 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21
+16–20 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20
+CHAPTER THREE: CHARACTER CLASS  | 51
+1.3.7. MONK
+As a Monk, you are a seeker after enlightenment, a member of
+an ascetic religious order pursuing mental, spiritual, and phys -
+ical perfection. You are deadly with all weapons, and an expert
+in complex forms of unarmed combat. Although Monks do not
+wear armour, they improve in armour class as they gain levels
+due to a higher and higher degree of both enlightenment and
+martial artistry. Monks are relatively weak at lower levels, but
+at higher levels they approach the power of higher-level Mag -
+
+Note: Monk thief skills may be modified by Dexterity. See Table 1.3.10.4c (Thief Skills—Dexterity Adjustments).
+
+TABLE 1.3.7.4C: MONK SAVING THROWS
+LEVEL TYPE OF SAVING THROW
+AIMED MAGIC ITEMS
+(E.G., ROD, STAFF, WAND)
+BREATH
+WEAPONS
+DEATH/
+PARALYSIS/ POISON
+PETRIFACTION/
+POLYMORPH
+SPELLS FOR UNLISTED
+CATEGORIES
+1–4 14 16 13 12 15
+5–8 12 15 12 11 13
+9–12 10 14 11 10 11
+13–16 8 13 10 9 9
+17 6 12 9 8 7
+
+TABLE 1.3.7.4D: MONK TO-HIT TABLE
+LEVEL ROLL REQUIRED TO HIT  ARMOUR CLASS (D20)
+10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+1–3 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25
+4–6 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23
+7–9 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21
+10–12 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20
+13–15 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20
+16–17 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+TABLE 1.3.7.4B: THIEF SKILLS FOR  MONKS CONTINUED
+56 | OSRIC 3.0 - PART ONE: CREATING A CHARACTER
+1.3.8. PALADIN
+A paladin is a holy knight, a paragon of righteousness sworn by
+sacred oaths to the cause of Lawful Good. As a paladin, if you
+ever break your vows, you lose your special paladin powers, so
+you become (possibly temporarily) a fighter character (of the
+same level). If you broke your vows by accident, then you can
+consult a senior NPC cleric of Lawful Good alignment, who will
+
+TABLE 1.3.8.4C: PALADIN TO-HIT TABLE
+LEVEL ROLL REQUIRED TO HIT  ARMOUR CLASS
+10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+1 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25
+2 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24
+3 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23
+4 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22
+5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21
+6 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20
+7 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20
+8 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20
+9 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20
+10 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20
+11 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+12 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+13 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+14 -3 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+15 -4 -3 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+TABLE 1.3.9.4C: RANGER TO-HIT TABLE
+LEVEL ROLL REQUIRED TO HIT  ARMOUR CLASS
+10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
+0 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25 26
+1 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24 25
+2 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23 24
+3 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22 23
+4 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21 22
+5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20 21
+6 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20
+7 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20
+8 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20
+9 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20
+10 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20
+11 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+12 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+13 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+14 -3 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+
+TABLE 1.3.10.4C: THIEF SKILLS—  DEXTERITY ADJUSTMENTS
+DEXTERITY CLIMB HIDE LISTEN PICK
+LOCKS
+PICK
+POCKETS
+MOVE
+QUIETLY  TRAPS READ
+LANGUAGES
+9 — -10% — -10% -15% -20% -15% —
+10 — -5% — -5% -10% -15% -10% —
+11 — — — — -5% -10% -5% —
+12 — — — — — -5% — —
+13 — — — — — — — —
+14 — — — — — — — —
+15 — — — — — — — —
+16 — — — +5% — — — —
+17 — +5% — +10% +5% +5% +5% —
+18 — +10% — +15% +10% +10% +10% —
+19 — +15% — +20% +15% +15% +15% —
+
+TABLE 1.3.10.4D: THIEF SKILLS—ANCESTRY ADJUSTMENTS
+ANCESTRY CLIMB HIDE LISTEN PICK
+LOCKS
+PICK
+POCKETS
+MOVE
+QUIETLY  TRAPS READ
+LANGUAGES
+Dwarf -10% — — +15% — -5% +15% -5%
+Elf -5% +10% +5% -5% +5% +5% +5% +10%
+Gnome -15% — +5% +10% — — — —
+Half-elf — +5% — –— +10% — — —
+Halfling -15% +15% +5% — +5% +15% — -5%
+Half-orc +5% — +5% +5% -5% — +5% -10%
+Human +5% — — +5% — — — —
+TABLE 1.3.10.4E: THIEF SAVING THROW TABLE
+LEVEL TYPE OF SAVING THROW
+AIMED MAGIC ITEMS
+(E.G., ROD, STAFF, WAND)

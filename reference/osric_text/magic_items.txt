@@ -1,0 +1,306 @@
+armour | Banded
+armour | Leather
+armour | Plate Mail
+armour | Ring Mail
+armour | Splinted
+armour | Scale Mail
+armour | Studded Leather
+armour | Shield
+weapon | Arrow
+weapon | Axe
+weapon | Bolt
+weapon | Bow
+weapon | Crossbow
+weapon | Dagger
+weapon | Flail
+weapon | Hammer
+weapon | Javelin
+weapon | Mace
+weapon | Military Pick
+weapon | Morning
+weapon | Pole Arm
+weapon | Staff
+weapon | Spear
+weapon | Trident
+weapon | Sling
+potion | Animal Control
+potion | Clairaudience
+potion | Clairvoyance
+potion | Climbing
+potion | Diminution
+potion | Dragon Control
+potion | ESP
+potion | Fire Resistance
+potion | Flying
+potion | Giant Control
+potion | Giant Strength
+potion | Growth
+potion | Healing
+potion | Heroism
+potion | Human Control
+potion | Invisibility
+potion | Invulnerability
+potion | Levitation
+potion | Longevity
+potion | Oil of
+potion | Philtre of Love
+potion | Philtre of Persuasiveness
+potion | Plant Control
+potion | Polymorph
+potion | Speed
+potion | Sweet Water
+potion | Treasure
+potion | Undead Control
+potion | Water Breathing
+ring | Charisma
+ring | Feather Falling
+ring | Fire Resistance
+ring | Free Action
+ring | Genie Summoning
+ring | Invisibility
+ring | Protection
+ring | Spell
+ring | Spell Turning
+ring | Swimming
+ring | Three
+ring | Warmth
+ring | Water Walking
+ring | Wizardry
+rod/staff/wand | Rod of Absorption
+rod/staff/wand | Rod of Cancellation
+rod/staff/wand | Rod of Captivation
+rod/staff/wand | Rod of Lordly Might
+rod/staff/wand | Rod of Rulership
+rod/staff/wand | Rod of Striking
+rod/staff/wand | Staff of
+rod/staff/wand | Staff of Healing
+rod/staff/wand | Staff of Power
+rod/staff/wand | Staff of the Serpent
+rod/staff/wand | Staff of Withering
+rod/staff/wand | Staff of Wizardry
+rod/staff/wand | Wand of Detecting Magic
+rod/staff/wand | Wand of Enemy Detection
+rod/staff/wand | Wand of Fear
+rod/staff/wand | Wand of Fire
+rod/staff/wand | Wand of Ice
+rod/staff/wand | Wand of Light
+rod/staff/wand | Wand of Illusion
+rod/staff/wand | Wand of Lightning
+rod/staff/wand | Wand of Magic Missiles
+rod/staff/wand | Wand of Negation
+rod/staff/wand | Wand of Paralysation
+rod/staff/wand | Wand of Polymorphing
+rod/staff/wand | Wand of
+rod/staff/wand | Wand of Wonder
+rod/staff/wand | Acid
+rod/staff/wand | Demons
+rod/staff/wand | Devils
+rod/staff/wand | Elementals
+rod/staff/wand | Lycanthropes
+rod/staff/wand | Magic
+rod/staff/wand | Petrifaction
+rod/staff/wand | Polymorph
+rod/staff/wand | Undead
+sword | Broadsword
+sword | Longsword
+sword | Bleeding Sword
+sword | Dancing Sword
+sword | Defender
+sword | Dragonbane
+sword | Flaming Blade
+sword | Frost Brand
+sword | Giantbane
+sword | Holy Sword
+sword | Keenblade
+sword | Luck Blade
+sword | Magebane
+sword | Nine Lives Stealer
+sword | Trollbane
+sword | Vampire Blade
+sword | Vorpal Blade
+sword | Werebane
+sword | Wyrmbane
+sword | Arrow of Slaying
+sword | Axe of Hurling
+sword | Crossbow of Accuracy
+sword | Crossbow of Range
+sword | Crossbow of Speed
+sword | Dagger of Venom
+sword | Hammer of the Dwarfs
+sword | Holy Mace
+sword | Sling of the Halfling
+sword | Trident/Fork
+misc | Javelin of the Raptor
+misc | Thunder Spear
+misc | Boots of Elvenkind
+misc | Candle of Invocation
+misc | Dust of Appearance
+misc | Dust of Disappearance
+misc | Rope of Climbing
+misc | Scarab of Protection
+misc | Slippers of Spider Climbing
+misc | Amulet of Natural Armour
+misc | Blessed Book
+misc | Brooch of Shielding
+misc | Hat of Disguise
+misc | Periapt of Proof Against Poison
+misc | Phylactery of Faithfulness
+misc | Robe of Blending
+misc | Pipes of the Sewers
+misc | Restorative Ointment
+misc | Robe of Useful Items
+misc | Vest of Escape
+misc | Cloak of Elvenkind
+misc | Wings of Flying
+misc | Cloak of Resistance
+misc | Arrow of Direction
+misc | Brazier of Commanding Fire
+misc | Cape of the Mountebank
+misc | Cloak of the Manta Ray
+misc | Decanter of Endless Water
+misc | Dust of Dryness
+misc | Elixir of Swimming
+misc | Gloves of Arrow Snaring
+misc | Gloves of Swimming and Climbing
+misc | Goggles of Night
+misc | Horseshoes of Speed
+misc | Necklace of Adaptation
+misc | Orb of Storms
+misc | Periapt of Health
+misc | Pipes of Haunting
+misc | Ring Gates
+misc | Robe of Bones
+misc | Unguent of Timelessness
+misc | Universal Solvent
+misc | Amulet of Proof Against Detection/
+misc | Boots of Speed
+misc | Boots of Striding and Springing
+misc | Candle of Truth
+misc | Cloak of the Bat
+misc | Dark Skull
+misc | Dust of Tracelessness
+misc | Elixir of Truth
+misc | Elixir of Vision
+misc | Glove of Storing
+misc | Horn of the Tritons
+misc | Periapt of Wound Closure
+misc | Phylactery of Undead Turning
+misc | Rope of Entanglement
+misc | Stone of Alarm
+misc | Sustaining Spoon
+misc | Wind Fan
+misc | Boots of Levitation
+misc | Bottle of Air
+misc | Broom of Flying
+misc | Crystal Ball
+misc | Elixir of Fire Breath
+misc | Elixir of Hiding
+misc | Handy Haversack
+misc | Harp of Charming
+misc | Helm of Comprehend Languages/
+misc | Helm of Underwater Action
+misc | Horn of Fog
+misc | Ahmek’s Copious Coin Purse
+misc | Alchemy Jug
+misc | Amulet of Health
+misc | Amulet of the Planes
+misc | Apparatus of the Lobster
+misc | Bead of Force
+misc | Boots of the Winterlands
+misc | Bowl of Commanding Water
+misc | Bracelet of Friends
+misc | Censer of Controlling Air
+misc | Chime of Interruption
+misc | Chime of Opening
+misc | Circlet of Persuasion
+misc | Cloak of Etherealness
+misc | Cloak of Arachnida
+misc | Cloak of Charisma
+misc | Cube of Force
+misc | Cube of Frost Resistance
+misc | Cubic Gate
+misc | Deck of Illusion
+misc | Dimensional Shackles
+misc | Drums of Panic
+misc | Dust of Illusion
+misc | Efficient Quiver
+misc | Eyes of the Eagle
+misc | Gauntlets of Ogre Power
+misc | Gauntlet of Rust
+misc | Gloves of Dexterity
+misc | Goggles of Minute Seeing
+misc | Headband of Intellect
+misc | Helm of Telepathy
+misc | Horn of Goodness/Evil
+misc | Horseshoes of the Zephyr
+misc | Instant Fortress
+misc | Iron Bands of Binding
+misc | Iron Flask
+misc | Lantern of Revealing
+misc | Mantle of Faith
+misc | Mantle of Magic Resistance
+misc | Mask of the Skull
+misc | Medallion of Thoughts
+misc | Pearl of Power
+misc | Pearl of the Sirines
+misc | Periapt of Wisdom
+misc | Pipes of Pain
+misc | Pipes of Sounding
+misc | Plentiful Vessel
+misc | Robe of Stars
+misc | Scabbard of Keen Edges
+misc | Scarab of Golem Bane
+misc | Silversheen
+misc | Sovereign Glue
+misc | Stone of Controlling Earth
+misc | Stone of Good Luck
+misc | Stone Salve
+misc | Well of Many Worlds
+misc | Efreet Bottle
+misc | Amulet of Life Protection
+misc | Amulet of Mighty Fists
+misc | Belt of Dwarfkind
+misc | Belt of Giant Strength
+misc | Boots of Teleportation
+misc | Brooch of Instigation
+misc | Eversmoking Bottle
+misc | Eyes of Charming
+misc | Eyes of Doom
+misc | Eyes of Petrifaction
+misc | Gem of Brightness
+misc | Gem of Seeing
+misc | Helm of Brilliance
+misc | Helm of Teleportation
+misc | Horn of Blasting
+ioun stone | Lyre of Building
+ioun stone | Manual of Bodily Health
+ioun stone | Manual of Gainful Exercise
+ioun stone | Manual of Quickness of Action
+ioun stone | Mattock of the Titans
+ioun stone | Maul of the Titans
+ioun stone | Mirror of Life Trapping
+ioun stone | Mirror of Mental Prowess
+ioun stone | Mirror of Opposition
+ioun stone | Oil of Famishing
+ioun stone | Portable Hole
+ioun stone | Robe of Eyes
+ioun stone | Robe of Scintillating Colours
+ioun stone | Robe of the Archmagi
+ioun stone | Sagacious Volume
+ioun stone | Shrouds of Disintegration
+ioun stone | Tome of Clear Thought
+ioun stone | Tome of Leadership and Influence
+ioun stone | Tome of Understanding
+ioun stone | Clear Spindle
+ioun stone | Dusty Rose Prism
+ioun stone | Deep Red Sphere
+ioun stone | Incandescent Blue Sphere
+ioun stone | Pale Blue Rhomboid
+ioun stone | Pink Rhomboid
+ioun stone | Dark Blue Rhomboid
+ioun stone | Vibrant Purple Prism
+ioun stone | Iridescent Spindle
+ioun stone | Pale Lavender Ellipsoid
+ioun stone | Pearly White Spindle
+ioun stone | Pale Green Prism
+ioun stone | Orange Prism

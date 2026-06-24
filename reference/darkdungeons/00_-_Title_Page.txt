@@ -1,0 +1,17 @@
+titlepage
+ 
+ Logos/Logo (Blue).png
+ \morrisromanMorrisRomanBlack
+ 3234 blue\ Edition
+ 
+ 
+ Written by Peter J. Schroeder and Blacky T. Blackball
+ Artwork by Julia Hutchinson, Mariana R. Villarreal, and Sierra R. Schroeder
+ Fonts by Impallari Type (Headings), Georg Duffner Octavio Pardo (Body Text), William Morris (Logo)
+ 
+ flushleft
+ Special Thanks to Aaron Allston, Allen Varney, Ann Dupuis, Anne C. Gray McCready, Anthony Herring, Blake Mobley, Bruce A. Heard, Bruce Nesmith, Carl Sargent, Carl Smith, Colin McComb, Dale Henson, David Cook, David James Ritchie, David Lance Arneson, Deborah Teramis Christian, Douglas Niles, Ed Greenwood, Frank Mentzer, Garry Spiegle, Gary Thomas, Graeme Davis, Graeme Morris, Jeff Grubb, Jim Bambra, John Nephew, John Terra, Julia Martin, Katharine Kerr, Ken Rolston, Kim Eastland, Merle Martin Rasmussen, Michael L. Gray, Michael S. Dobson, Mike Brunton, Newton Ewell, Paul Jaquays, Phil Gallagher, Robert J. Blake, Scott Haring, Skip Williams, Stephen Bourne, Steve Perrin, Teeuwynn Woodruff, Tim Beach, Tom Kirby, Tom Moldvay, William Carlson, William W. Connors, for the creation of our inspiration.
+ flushleft
+ 
+ Logos/PJS Games (Blue).png
+titlepage

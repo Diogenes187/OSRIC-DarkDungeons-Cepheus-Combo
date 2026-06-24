@@ -1,0 +1,192 @@
+
+TABLE 1.3.2.4A: CLERIC LEVEL ADVANCEMENT
+DIVINE SPELL SLOTS BY LEVEL
+LEVEL XP NEEDED HIT DICE (D8) WEAPON PROFICIENCIES 1 2 3 4 5 6 7
+1 0 1 2 1 — — — — — —
+2 1,500 2 2 2 — — — — — —
+3 3,000 3 2 2 1 — — — — —
+4 6,000 4 3 3 2 — — — — —
+5 13,000 5 3 3 3 1 — — — —
+6 27,000 6 3 3 3 2 — — — —
+7 55,000 7 4 3 3 2 1 — — —
+8 110,000 8 4 3 3 3 2 — — —
+9 220,000 9 4 4 4 3 2 1 — —
+10 450,000 9+2* 5 4 4 3 3 2 — —
+11 675,000 9+4* 5 5 4 4 3 2 1 —
+12 900,000 9+6* 5 6 5 5 3 2 2 —
+13 1,125,000 9+8* 6 6 6 6 4 2 2 —
+14 1,350,000 9+10* 6 6 6 6 5 3 2 —
+15 1,575,000 9+12* 6 7 7 7 5 4 2 —
+16 1,800,000 9+14* 6 7 7 7 6 5 3 1
+17 2,050,000 9+16* 6 8 8 8 6 5 3 1
+18 2,300,000 9+18* 6 8 8 8 7 6 4 1
+19 2,550,000 9+20* 6 9 9 9 7 6 4 2
+20 2,700,000 9+22* 6 9 9 9 8 7 5 2
+*After you reach 9th level, you don’t get any more hit dice or Constitution hp adjustments. Instead you get a fixed +2 hp per level.
+TABLE 1.3.2.4B: CLERIC SAVING THROWS
+LEVEL TYPE OF SAVING THROW
+AIMED MAGIC ITEMS
+(E.G., ROD, STAFF, WAND)
+BREATH
+WEAPONS
+DEATH/
+
+TABLE 1.3.3.4A: DRUID LEVEL ADVANCEMENT
+DRUIDIC SPELL SLOTS BY LEVEL
+LEVEL XP NEEDED HIT DICE (D8) WEAPON
+PROFICIENCIES NOTES 1 2 3 4 5 6 7
+1 0 1 2 2 — — — — — —
+2 2,000 2 2 2 1 — — — — —
+3 4,000 3 2 Druid’s Knowledge;
+Wilderness  Movement 3 2 1 — — — —
+4 8,000 4 3 4 2 2 — — — —
+5 12,000 5 3 4 3 2 — — — —
+6 20,000 6 3 4 3 2 1 — — —
+7 35,000 7 4 Immunity to Fey Charm;
+Shapeshift 4 4 3 1 — — —
+8 60,000 8 4 4 4 3 2 — — —
+9 90,000 9 4 5 4 3 2 1 — —
+10 125,000 10 5 5 4 3 3 2 — —
+11 200,000 11 5 5 5 3 3 2 1 —
+12 300,000 12 5 High Druid 5 5 4 4 3 2 1
+13 750,000 13 6 Archdruid 6 5 5 5 4 3 2
+14 1,500,000 14 6 Supreme Druid 6 6 6 6 5 4 3
+TABLE 1.3.3.4B: DRUID SAVING THROWS
+LEVEL TYPE OF SAVING THROW
+AIMED MAGIC ITEMS
+(E.G., ROD, STAFF, WAND)
+BREATH
+WEAPONS
+DEATH/
+PARALYSIS/ POISON
+PETRIFACTION/
+POLYMORPH
+SPELLS FOR UNLISTED
+
+TABLE 1.3.5.4A: ILLUSIONIST LEVEL ADVANCEMENT
+PHANTASMAL SPELL SLOTS BY LEVEL
+LEVEL XP NEEDED HIT DICE (D4) NOTES 1 2 3 4 5 6 7
+1 0 1 1 — — — — — —
+2 2,500 2 2 — — — — — —
+3 4,750 3 2 1 — — — — —
+4 9,000 4 3 2 — — — — —
+5 18,000 5 4 3 1 — — — —
+6 35,000 6 4 3 2 — — — —
+7 60,000 7 May Hire Followers; Phantasmal Craft 4 3 2 1 — — —
+8 95,000 8 4 3 2 2 — — —
+9 145,000 9 5 3 3 2 — — —
+10 220,000 10 Master of Phantasms 5 4 3 2 1 — —
+11 440,000 10+1* 5 4 3 3 2 — —
+12 660,000 10+2* 5 5 4 3 2 1 —
+13 880,000 10+3* 5 5 4 3 2 2 —
+14 1,100,000 10+4* Phantasmal Power 5 5 4 3 2 2 1
+15 1,320,000 10+5* 5 5 4 4 2 2 2
+16 1,540,000 10+6* 5 5 5 4 3 2 2
+17 1,760,000 10+7* 6 5 5 4 3 3 2
+18 1,980,000 10+8* 6 6 5 4 4 3 2
+19 2,200,000 10+9* 6 6 5 5 5 3 2
+20 2,420,000 10+10* 6 6 6 5 5 4 2
+*After you reach 10th level, you don’t get any more hit dice or Constitution hp adjustments. Instead you get a fixed +1 hp per level.
+TABLE 1.3.5.4B: ILLUSIONIST SAVING THROW TABLE
+LEVEL TYPE OF SAVING THROW
+AIMED MAGIC ITEMS (E.G.,
+ROD, STAFF, WAND)
+BREATH
+WEAPONS
+DEATH/
+
+TABLE 1.3.6.4A: MAGIC-USER LEVEL ADVANCEMENT
+ARCANE SPELL SLOTS BY LEVEL
+LEVEL XP NEEDED HIT DICE (D4) NOTES 1 2 3 4 5 6 7 8 9
+1 0 1 1 — — — — — — — —
+2 2,400 2 2 — — — — — — — —
+3 4,800 3 2 1 — — — — — — —
+4 10,250 4 3 2 — — — — — — —
+5 22,000 5 4 2 1 — — — — — —
+6 40,000 6 4 3 2 — — — — — —
+7 60,000 7 Eldritch Craft 4 3 2 1 — — — — —
+8 80,000 8 4 3 3 2 — — — — —
+9 140,000 9 4 4 3 2 1 — — — —
+10 250,000 10 4 4 3 2 2 — — — —
+11 375,000 11 Wizard 4 4 4 3 3 — — — —
+12 750,000 11+1* Eldritch Power 5 4 4 3 3 1 — — —
+13 1,125,000 11+2* 5 5 4 3 3 2 — — —
+14 1,500,000 11+3* 5 5 5 4 4 2 1 — —
+15 1,875,000 11+4* 5 5 5 4 4 3 2 — —
+16 2,250,000 11+5* 5 5 5 4 4 3 2 1 —
+17 2,625,000 11+6* 5 5 5 5 5 4 3 2 —
+18 3,000,000 11+7* Archmage 5 5 5 5 5 4 3 2 1
+19 3,375,000 11+8* 5 5 5 5 5 5 4 3 1
+20 3,750,000 11+9* 5 5 5 5 5 5 4 3 2
+*After you reach 10th level, you don’t get any more hit dice or Constitution hp adjustments. Instead you get a fixed +1 hp per level.
+50 | OSRIC 3.0 - PART ONE: CREATING A CHARACTER
+TABLE 1.3.6.4B: MAGIC-USER SAVING THROWS
+LEVEL TYPE OF SAVING THROW
+AIMED MAGIC ITEMS
+(E.G., ROD, STAFF, WAND)
+BREATH
+WEAPONS
+
+TABLE 1.3.8.4A: PALADIN LEVEL ADVANCEMENT
+LEVEL XP NEEDED HIT DICE (D10) NOTES SPELL CASTING LEVEL SPELLS BY LEVEL
+1 2 3 4
+1 0 1 0 — — — —
+2 2,550 2 0 — — — —
+3 5,500 3 Turn Undead 0 — — — —
+4 12,500 4 Warhorse 0 — — — —
+5 25,000 5 0 — — — —
+6 45,000 6 0 — — — —
+7 95,000 7 Melee Attack Combination (3/2) 0 — — — —
+8 175,000 8 0 — — — —
+9 325,000 9 Spell Casting 1 1 — — —
+10 600,000 9+3* 2 2 — — —
+11 1,000,000 9+6* 3 2 1 — —
+12 1,350,000 9+9* 4 2 2 — —
+13 1,700,000 9+12* Melee Attack Combination (2/1) 5 2 2 1 —
+14 2,050,000 9+15* 6 3 2 1 —
+15 2,400,000 9+18* 7 3 2 1 1
+16 2,750,000 9+21* 8† 3 3 1 1
+17 3,100,000 9+24* 8† 3 3 2 1
+18 3,450,000 9+27* 8† 3 3 3 1
+19 3,800,000 9+30* 8† 3 3 3 2
+20 4,150,000 9+33* 8† 3 3 3 3
+*After you reach 9th level, you
+don’t get any more hit dice or
+Constitution hp adjustments.
+Instead you get a fixed +3 hp per
+level.
+† You don’t gain further casting
+levels.
+CHAPTER THREE: CHARACTER CLASS  | 59
+
+TABLE 1.3.9.4A: RANGER LEVEL ADVANCEMENT
+LEVEL XP NEEDED HIT DICE
+(D8) NOTES SPELL CASTING
+LEVEL DRUID SPELLS MAGIC-USER
+SPELLS
+1 2 3 1 2
+1 0 2 0 — — — — —
+2 2,250 3 0 — — — — —
+3 4,500 4 0 — — — — —
+4 9,500 5 0 — — — — —
+5 20,000 6 0 — — — — —
+6 40,000 7 0 — — — — —
+7 90,000 8 0 — — — — —
+8 150,000 9
+May employ followers
+Melee Attack Combination
+(3/2);  Druidic Spell Casting
+1 1 — — — —
+9 225,000 10  Arcane Spell Casting 1 1 — — 1 —
+10 325,000 11 2 2 — — 1 —
+11 650,000 11+2* 2 2 — — 2 —
+12 975,000 11+4* 3 2 1 — 2 —
+13 1,300,000 11+6* 3 2 1 — 2 1
+14 1,625,000 11+8* 4 2 2 — 2 1
+15 1,950,000 11+10* Melee Attack Combination
+(2/1) 4 2 2 — 2 2
+16 2,275,000 11+12* 5 2 2 1 2 2
+17 2,600,000 11+14* 5 2 2 2 2 2
+18 2,925,000 11+16* 6† 3 2 2 2 2
+19 3,250,000 11+18* 6† 3 2 2 3 2
+20 3,575,000 11+20* 6† 3 3 2 3 2

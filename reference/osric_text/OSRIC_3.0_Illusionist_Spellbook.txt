@@ -1,0 +1,2309 @@
+
+===== PAGE 1 =====
+ILLUSIONIST SPELLBOOKILLUSIONIST SPELLBOOK
+
+===== PAGE 2 =====
+Authors: Stuart Marshall, Matthew Finch
+Contributing Authors: EoTB, Will Mistretta
+Initial Developers: David M. Prata and Allan 
+T. Grohe Jr
+Editors: Matt Finch, Gene Mayes, Dale Blatt, 
+Will Mistretta
+Contributing Authors and Editors to OSRIC 
+v2.2: John Adams, Nick Bogan, James Boney, 
+Chris Cain, Floyd Canaday, Mike Davison, 
+Mark Evans, Trent Foster, Vincent Fruge, Jer -
+emy Goehring, Chris Hopkins, B. Scot Hoover, 
+James D. Kramer, Fabrice Philibert-Caillat, Da-
+vid M. Prata, Daniel Proctor, Robert Ross, Bill 
+Silvey, Matthew James Stanham, and Matthew 
+Steward.
+Artists: Brett Barkley, Kennon James, JE 
+Shields, John Sumrow, Del Teigeler
+Layout & Design: Suzy Moseby
+Errata: Although we’ve done multiple edit -
+ing passes and crowdsourced proofreading 
+to thousands of backers, there will inevitably 
+be errors in a book of this size. The best way 
+to address these errors will be to add to the 
+fan-maintained lists online, which will be the 
+better place to maintain a record. This is a 
+matter of practicality; we aren’t set up to cu -
+rate and maintain an online errata list, and 
+the internet is extremely well set up for this 
+purpose. Please don’t send errata directly to 
+Mythmere Games.
+LEGAL NOTE:  Mythmere Games and the 
+authors of this document are not affiliated 
+in any way with Wizards of the Coast, Inc. 
+(WOTC) or HASBRO, the holders of the 
+trademarks “Dungeons & Dragons” and 
+“D&D”. Mentions of these trademarks 
+(including “AD&D”) in this book are solely 
+for accurate reference, and are not 
+intended as the use of, or as a claim to, 
+such trademarks.
+FOR FREE UPDATES AND OTHER OSRIC 
+SUPPORT, VISIT: 
+• mythmeregames.com
+• knights-n-knaves.com/osric
+This work includes material taken from the System 
+Reference Document 5.1 (“SRD 5.1”) by Wizards of 
+the Coast LLC and available at: https://dnd.wizards.
+com/resources/systems-reference-document. The 
+SRD 5.1 is licensed under the Creative Commons 
+Attribution 4.0 International License available at: 
+https://creativecommons.org/licenses/by/4.0/legal -
+code.
+Text © Stuart Marshall and Matthew Finch 2006–
+2025 or contributing author 2006–2025 and used 
+with permission.
+Stuart Marshall and Matt Finch assert their moral 
+right to be identified as the authors of this work.
+Illustrations and maps are copyright by the respec -
+tive artists 2006–2025, used with permission.
+“OSRIC”, “Osric” and “O.S.R.I.C.” are trademarks of 
+Matthew Finch and Stuart Marshall
+“OSRIC 3” is a trademark of Mythmere Games.
+OLD SCHOOL REFERENCE 
+AND INDEX COMPILATION
+979-8-88584-047-7 PDF
+===== PAGE 3 =====
+
+===== PAGE 4 =====
+TABLE OF CONTENTS
+1.8.4.1. FIRST LEVEL ILLUSIONIST SPELLS .................... 5
+1.8.4.2. SECOND LEVEL ILLUSIONIST SPELLS ...............9
+1.8.4.3. THIRD LEVEL ILLUSIONIST SPELLS ................13
+1.8.4.4. FOURTH LEVEL ILLUSIONIST SPELLS .............17
+1.8.4.5. FIFTH LEVEL ILLUSIONIST SPELLS ................. 20
+1.8.4.6. SIXTH LEVEL ILLUSIONIST SPELLS ................. 23
+1.8.4.7. SEVENTH LEVEL ILLUSIONIST SPELLS ........... 28
+
+===== PAGE 5 =====
+4 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+ 1.8.4. ILLUSIONIST  SPELLS BY LEVEL
+LEVEL ONE LEVEL TWO LEVEL THREE
+1 Audible Glamour Blindness Continual Darkness
+2 Change Self Blur Continual  Light
+3 Colour Spray Deafness Dispel Illusion
+4 Dancing Lights Detect Magic Fear
+5 Darkness Fog Cloud Hallucinatory Terrain
+6 Detect Illusion Hypnotic Pattern Illusory Script
+7 Detect  Invisibility Improved  Phantasmal 
+Force  Invisibility, 10ft radius
+8 Gaze Reflection  Invisibility Non-Detection
+9 Hypnotism Magic Mouth Paralysation
+10  Light Mirror Image Rope Trick
+11  Phantasmal Force Misdirection Spectral Force
+12 Wall of Fog Ventriloquism Suggestion
+LEVEL FOUR LEVEL FIVE LEVEL SIX LEVEL SEVEN
+1 Confusion  Chaos Conjure Animals Alter Reality
+2 Dispel Exhaustion Demi-Shadow 
+Monsters
+Demi-Shadow 
+Magic Astral Spell
+3 Emotion Major Creation Mass Suggestion Prismatic Spray
+4 Improved 
+ Invisibility Maze Permanent Illusion Prismatic Wall
+5 Massmorph Project Image Program. Illusion Vision
+6 Minor Creation Shadow Door Shades  Arcane  Spells 
+level 1
+7  Phantasmal Killer Shadow Magic True Sight
+8 Shadow Monsters Summon Shadow Veil
+===== PAGE 6 =====
+ FIRST LEVEL ILLUSIONIST SPELLS  | 5
+ 1.8.4.1. FIRST LEVEL  
+ILLUSIONIST  SPELLS
+ AUDIBLE GLAMOUR
+Phantasmal illusion, level 1
+RANGE 60ft+10ft/ illusionist 
+level
+DURATION 3 rounds/ illusionist 
+level
+AREA OF EFFECT Hearing range
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW See below
+This spell creates sounds from a point in space 
+you target within the spell’s range (the focal 
+point). You decide what sort of sound is creat -
+ed, but the loudness is limited by your illusion-
+ist level.
+Details
+You can move the focal point at will (within 
+range) until the spell’s duration expires. 
+The spell can create any type of sound, but the 
+maximum volume of the noise depends upon 
+your level. A third level caster can produce 
+the noise of 4 people shouting (or acting more 
+quietly). Each additional caster level allows the 
+caster to add the sound of four more people 
+into the illusion. As a benchmark, the sound of 
+an explosion or landslide would require a cast-
+er level of approximately 8th. 
+Listeners are only entitled to saving throws if 
+they have cause to doubt the apparent sounds. 
+Players must state such disbelief, while the GM 
+will make such determinations for monsters 
+and NPCs based on the believability of the 
+sounds.
+ CHANGE SELF
+Phantasmal illusion, level 1
+RANGE Caster
+DURATION
+2d6 rounds + 2 
+rounds/illusionist 
+level
+AREA OF EFFECT Caster
+COMPONENTS V, S
+CASTING TIME Fast
+SAVING THROW None
+By means of this spell, you change your ap -
+pearance into that of any bipedal humanoid 
+form you desire, such as an orc, or a particular 
+person you want to impersonate. 
+Details
+Your size and weight can only be altered by one 
+foot and 50 lbs, respectively. Your face may be 
+changed as desired, including alterations to 
+make you appear identical to an existing per -
+son.
+Your personal gear and clothing may also be 
+changed in appearance.
+ COLOUR SPRAY
+Phantasmal transmutation, level 1
+RANGE Caster
+DURATION 1 segment
+AREA OF EFFECT
+Cone, 5ft wide 
+at origin, 45o arc, 
+with length of 10ft/ 
+illusionist level
+COMPONENTS V, S, M
+CASTING TIME Fast
+SAVING THROW See below
+You fan out your fingers, and a sheet of un -
+earthly-coloured light springs forth to stun or 
+blind any creature caught in the cone-shaped 
+area of effect. 
+Details
+First limitation:  No more than 1d6 creatures 
+caught within the light may be affected.
+===== PAGE 7 =====
+6 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+Second limitation: Any creature with hit dice 
+exceeding the caster’s (and creatures or 6+ HD 
+regardless of the caster’s level) are entitled to 
+a saving throw. All others are not entitled to a 
+saving throw.
+Within those limitations, see what creatures 
+might be affected, starting with the lowest hit 
+dice creatures:
+• Creatures with HD equal to or less than the 
+caster’s are rendered unconscious for 2d4 
+rounds. 
+• If the creature’s hit dice exceed the caster’s 
+by 1–2, the creature is blinded for 1d4 
+rounds. 
+• If the creature has 3+ hit dice in excess of 
+the caster’s, it is merely stunned for 2d4 
+segments. 
+ DANCING LIGHTS
+Phantasmal transmutation, level 1
+RANGE 40ft + 10ft/ illusionist 
+level
+DURATION 2 rounds/illusionist 
+level
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME Fast
+SAVING THROW None
+This spell creates small lights at a chosen dis -
+tance, under your control. You may create 1–4 
+(at your option) torch-like lights, 1–4 (at your 
+option) spherical lights, or a single, faintly hu -
+man-like glow. 
+Details
+The lights move at your mental command, 
+without any particular concentration required. 
+If you allow the lights to move beyond the 
+spell’s range, the lights will disappear and the 
+spell will end.
+ DARKNESS
+Phantasmal transmutation, level 1
+RANGE 40ft + 10ft/illusionist 
+level
+DURATION 2d4 rounds + 1 
+round/illusionist level
+AREA OF EFFECT 15ft radius globe
+COMPONENTS V, S
+CASTING TIME Fast
+SAVING THROW None
+You create magical darkness, centred on a tar -
+get location, which can be a creature, object, 
+or even a location in thin air. You can eliminate 
+the darkness at will. Light sources, including 
+magical light such as from a glowing sword, do 
+not illuminate the area affected by the spell, 
+but an actual light spell may counteract this 
+spell. Infravision does not work in the affected 
+area.
+Details
+If your target is a light source, then the light is 
+extinguished for the spell’s duration but no ad-
+ditional magical darkness is created. The light 
+source is simply cancelled.
+The darkness is stationary, unless you cast it on 
+a creature or object that moves (you cannot or-
+der the spell effect to move after casting).
+If your target is a creature, then it can choose 
+to roll a saving throw vs spells. The target crea-
+ture applies its Dexterity save modifier, if it has 
+one, to this saving throw. If it passes the saving 
+throw, then your spell produces a stationary 
+point of darkness in the air just behind your 
+target creature, rather than affecting the crea -
+ture itself.
+===== PAGE 8 =====
+ FIRST LEVEL ILLUSIONIST SPELLS  | 7
+ DETECT ILLUSION
+Phantasmal divination, level 1
+RANGE Caster
+DURATION 3 rounds + 2 rounds/
+illusionist level
+AREA OF EFFECT Path 10ft wide, length 
+10ft/illusionist level
+COMPONENTS V, S, M
+CASTING TIME Fast
+SAVING THROW None
+When you cast this spell, you see any illusion for 
+what it truly is. By touching an illusion, the caster 
+can make its true form visible to any observer.
+Details
+You are able to see the illusion as a faint over -
+lay on top of the reality, so you know what oth-
+ers are seeing.
+ DETECT  INVISIBILITY
+Phantasmal divination, level 1
+RANGE Caster
+DURATION 5 rounds/illusionist 
+level
+AREA OF EFFECT Caster
+COMPONENTS V, S, M
+CASTING TIME Fast
+SAVING THROW None
+This spell allows you to see things that are in -
+visible or hidden, and also to see into the astral 
+and ethereal planes. 
+Details
+The spell’s sight is limited to a range of 10ft/
+illusionist level
+ GAZE REFLECTION
+Phantasmal transmutation, level 1
+RANGE Nil
+DURATION 1 round
+AREA OF EFFECT Air in front of caster
+COMPONENTS V, S
+CASTING TIME Fast
+SAVING THROW None
+The air immediately in front of you takes on a 
+mirror’s ability to reflect gaze attacks back to -
+ward an attacker, but the “mirror” is not reflec-
+tive to the normal eye. 
+Details
+The “mirror” can be seen through by the caster 
+and by other observers in both directions. Its 
+reflective property only affects gaze attacks, 
+not sight.
+If the user of a gaze attack is immune to its own 
+gaze attacks, the only effect of this spell is to 
+deflect the attack from the caster (or anyone 
+behind the “mirror”) toward the origin of the 
+gaze attack (where other vulnerable people 
+might also be standing). It does not remove 
+immunities.
+
+===== PAGE 9 =====
+8 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+ HYPNOTISM
+Phantasmal enchantment, level 1
+RANGE 30ft
+DURATION 1 round + 1 round/ 
+illusionist level
+AREA OF EFFECT 1d6 creatures
+COMPONENTS V, S
+CASTING TIME Fast
+SAVING THROW Negates effect
+The gestures of this spell weave a hypnotic 
+power into your words, affecting 1d6 creatures 
+with a suggestion you make. 
+Details
+Those not making their saving throws will 
+believe a suggestion you make. The only in -
+dication about whether a creature has been 
+affected by the hypnotism is whether or not it 
+responds to the suggestion.
+You can make factual suggestions (“These are 
+not the halflings you seek”), suggestions of a 
+course of action (“Don’t mention you saw us”), 
+or a combination of both. 
+Even a victim who has failed a saving throw 
+against the spell will not undertake a course 
+of action that is unreasonable, but the expe -
+rienced caster can easily phrase his or her re -
+quests in such a way as to avoid this problem. 
+Example: No creature will leap off a cliff for no 
+reason; but the caster might “need to scout 
+the bottom of a chasm” and promise to cast a 
+feather fall spell, or hand the victim a “magical” 
+torch that supposedly permits the power of 
+flight. 
+The creature to be influenced must be able to 
+hear and understand the language spoken by 
+the caster.
+ LIGHT
+Phantasmal transmutation, level 1
+RANGE 60ft
+DURATION 1 turn/illusionist level
+AREA OF EFFECT 20ft radius
+COMPONENTS V, S
+CASTING TIME Fast
+SAVING THROW None (see below)
+You create a magical light, centred on the tar -
+get, which may be a point in space, a creature, 
+or an object. You can extinguish the light at will.
+If your target is an area of magical darkness, 
+then the darkness is nullified for the spell’s du-
+ration but there is no additional magical light 
+created; the spells cancel each other.
+Details
+The light is stationary, unless you cast it on a 
+creature or object that moves, in which case it 
+moves with that creature or object.
+If your target is a creature, then it can choose 
+to roll a saving throw vs spells. The target crea-
+ture applies its Dexterity save modifier, if it has 
+one, to this saving throw. 
+• If it passes the saving throw, then your spell 
+produces a stationary light in the air just 
+behind your target creature, rather than 
+affecting the creature itself. 
+• If it fails the saving throw and the target was 
+its eyes or light-sensing organs, the target is 
+blinded for the spell’s duration. If the spell 
+was just targeted on the creature in general, 
+there is no blinding effect.
+   PHANTASMAL FORCE
+Phantasmal illusion, level 1
+RANGE 60ft + 10ft/illusionist 
+level
+DURATION See below
+AREA OF EFFECT
+40ft x 40ft square + 
+10ft x 10ft square/
+illusionist level
+COMPONENTS V, S, M
+CASTING TIME Fast
+SAVING THROW See below
+This extremely flexible spell allows you to craft 
+a visual illusion of virtually anything that can fit 
+within the spell’s area of effect. The spell cre -
+ates no sound whatsoever. You must maintain 
+your concentration upon the illusion, or it will 
+evaporate, but while concentrating you are 
+able to make the illusion move and respond to 
+events. 
+The illusion is dispelled if it is struck with a 
+blow, a falling person, etc.
+===== PAGE 10 =====
+ FIRST LEVEL ILLUSIONIST SPELLS  | 9
+Details
+There is no saving throw against the illusion if the 
+observer believes it, and the illusion can actually 
+cause damage to such a deceived victim.  A de -
+mon wielding a sword can attack and do dam -
+age, and the appearance of a pit full of spikes 
+can be fatal even though it is not real. 
+If the observer doubts the reality of the illusion, 
+they are permitted a saving throw to see the 
+illusion for what it really is. 
+If one observer disbelieves the illusion and this 
+disbelief is communicated to others, the others 
+will also gain a saving throw at a bonus of +4.
+Note that the spell relies purely on a visual ef -
+fect; it will have no effect upon a creature that 
+does not see it. Furthermore, the lack of any 
+audible component can make certain illusions 
+completely non-credible. An explosion, for ex -
+ample, is not likely to be believed by anyone if 
+it creates no sound. Various methods may be 
+used by the GM to determine if an NPC or mon-
+ster believes the effect of a phantasmal force, 
+common sense being the first thing to consid -
+er. A player who takes care to craft a believable 
+illusion should be rewarded for skilful use of 
+the spell, not forced into a table of random re -
+sults.
+ WALL OF FOG
+Phantasmal transmutation, level 1
+RANGE 30ft
+DURATION 2d4 rounds + 1 
+round/illusionist level
+AREA OF EFFECT 1 Cube (20ft)/
+illusionist level
+COMPONENTS V, S, M
+CASTING TIME Fast
+SAVING THROW None
+This spell creates a curtain of obscuring fog in 
+the area of effect. Vision of all kinds is reduced 
+to 2ft through the swirling vapour. 
+Details
+The fog can be affected by normal or magical 
+wind and breezes (usually shortening the du -
+ration).
+If you desire, you can reduce the size of the 
+area of effect.
+ 1.8.4.2. SECOND LEVEL 
+ILLUSIONIST  SPELLS
+ BLINDNESS
+Phantasmal illusion, level 2
+RANGE 30ft
+DURATION Permanent
+AREA OF EFFECT One creature
+COMPONENTS V, S
+CASTING TIME 2 segments
+SAVING THROW Negates effect
+This spell causes the target to become blind, 
+but causes no damage to the eyes themselves. 
+Details
+The effect cannot be removed by any spell 
+that restores physical health (such as a healing 
+spell, cure disease , etc), but may be dispelled 
+normally. This particular illusion can be re -
+moved with cure blindness  because it directly 
+causes blindness.
+The caster can end the condition at will.
+ BLUR
+Phantasmal illusion, level 2
+RANGE Caster
+DURATION 3 rounds + 1 round/
+illusionist level
+AREA OF EFFECT Caster
+COMPONENTS V, S
+CASTING TIME 2 segments
+SAVING THROW None
+Your outline becomes blurred, as if seen 
+through shimmering waves of heat. 
+Details
+You gain a bonus of +1 against any targeted 
+magical attack. 
+Any opponent’s first attack  against you has a 
+penalty of -4, and subsequent attacks incur a 
+===== PAGE 11 =====
+10 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+penalty of -2 (after one attack, the opponent 
+has become partially accustomed to the spell’s 
+distorting effect).
+ DEAFNESS
+Phantasmal illusion, level 2
+RANGE 60ft
+DURATION Permanent
+AREA OF EFFECT One creature
+COMPONENTS V, S, M
+CASTING TIME 2 segments
+SAVING THROW Negates effect
+This spell causes the target to become deaf, 
+but causes no damage to the ears themselves. 
+Details
+The effect cannot be removed by any spell 
+that restores physical health (such as a healing 
+spell, cure disease , etc), but may be dispelled 
+normally.
+The caster can end the condition at will.
+ DETECT MAGIC
+Phantasmal divination, level 2
+RANGE Caster
+DURATION 2 rounds/illusionist 
+level
+AREA OF EFFECT Path 10ft wide, 60ft 
+long
+COMPONENTS V, S
+CASTING TIME 2 segments
+SAVING THROW None
+You see an aura around each magical creature, 
+object, or place within the area of effect.
+If the creature, object, or place is invisible, then 
+you know where it is, but you still can’t see it. If 
+you make an attack roll against it, then the “to 
+hit” roll penalty for attacking an invisible target 
+is halved, so usually -2 instead of -4.
+Details
+Only you (the caster) can “see” the magical 
+auras. The spell reveals enchantments, not 
+powers, so it would detect a magic item but it 
+wouldn’t detect a druid (or other spellcaster) 
+unless they were using a spell.
+Solid material can block the spell. The spell 
+can only penetrate metal if it’s one inch thick 
+or less, and brick or stone if it’s one foot thick 
+or less.
+Unlike the magic-user version of this spell, you 
+can’t tell which school or schools of magic are 
+affecting the target.
+You must concentrate on maintaining the spell, 
+or it ends. See Section 1.8.1.5 (Concentration) 
+for how this works.
+ FOG CLOUD
+Phantasmal transmutation, level 2
+RANGE 10ft
+DURATION 4 rounds + 1 round/
+illusionist level
+AREA OF EFFECT 40ft×20ft×20ft cloud
+COMPONENTS V, S
+CASTING TIME 2 segments
+SAVING THROW None
+This spell creates a roiling mass of gas and va -
+pour, similar in appearance to a cloudkill spell. 
+The fog cloud moves away from you in the di -
+rection you indicate at a speed of 10ft/round. 
+Details
+Vision inside and into the fog is limited to 2ft.
+ HYPNOTIC PATTERN
+Phantasmal illusion, level 2
+RANGE Nil
+DURATION See below
+AREA OF EFFECT 30ft × 30ft square
+COMPONENTS S, M
+CASTING TIME 2 segments
+SAVING THROW Negates effect
+You trace magical patterns in the air with a lit 
+stick of incense or other small light source. Any 
+creature in the area of effect that looks at the 
+traceries of light must make a saving throw or 
+remain in place, transfixed by the patterns. 
+===== PAGE 12 =====
+ SECOND LEVEL ILLUSIONIST SPELLS  | 11
+Details
+The spell can affect a maximum of 25 hit dice 
+worth of creatures.
+The effect continues as long as you choose to 
+continue tracing the patterns in the air.
+ IMPROVED  PHANTASMAL FORCE
+Phantasmal illusion, level 2
+RANGE 60ft + 10ft/illusionist level
+DURATION See below
+AREA OF EFFECT 40 × 40ft square + 10ft 
+square/illusionist level
+COMPONENTS V, S, M
+CASTING TIME 2 segments
+SAVING THROW See below
+This spell allows you to craft a visual illusion of 
+virtually anything that can fit within the spell’s 
+area of effect, together with basic sound ef -
+fects. You must maintain your concentration 
+upon the illusion, or it will evaporate, but while 
+concentrating you are able to make the illusion 
+move and respond to events. 
+The illusion is dispelled if it is struck with a 
+blow, a falling person, etc.
+Details
+There is no saving throw against the illusion if the 
+observer believes it, and the illusion can actually 
+cause damage to such a deceived victim.  A de -
+mon wielding a sword can attack and do dam -
+age, and the appearance of a pit full of spikes 
+can be fatal even though it is not real. 
+If the observer doubts the reality of the illusion, 
+they are permitted a saving throw to see the 
+illusion for what it really is. 
+If one observer disbelieves the illusion and this 
+disbelief is communicated to others, the others 
+will also gain a saving throw at a bonus of +4.
+Speech cannot be created, but clanking noises, 
+rumblings, and other such sounds can be in -
+corporated into the illusion. 
+The spell also allows you to keep the illusion in 
+existence for as long as two rounds after you 
+stop concentrating on it.
+   INVISIBILITY
+Phantasmal illusion, level 2
+RANGE Touch
+DURATION See below
+AREA OF EFFECT One creature
+COMPONENTS V, S
+CASTING TIME 2 segments
+SAVING THROW None
+When the words of this spell are completed, 
+the recipient and all he or she carries fade from 
+sight, becoming invisible. Even infravision can -
+not detect an invisible creature. 
+Details
+The spell remains in effect until (1) the invisible 
+creature attacks someone (including casting 
+a spell that directly causes damage, such as a 
+fireball), (2) the caster ends the spell, or (3) the 
+magic is dispelled. 
+Note that the spell does not make the recipient 
+any more quiet than normal, nor does it elim -
+inate scents. 
+Invisible creatures can see themselves, but the 
+caster (unless they are one and the same) can-
+not. 
+The spell cannot be cast upon an unwilling sub-
+ject.
+ MAGIC MOUTH
+Phantasmal transmutation, level 2
+RANGE Touch
+DURATION Permanent until 
+triggered
+AREA OF EFFECT One object
+COMPONENTS V, S, M
+CASTING TIME 2 segments
+SAVING THROW None
+This spell is cast upon an object, so that when 
+a set of particular conditions are met, a mouth 
+appears in the object and speaks a specific 
+message. The length of the message cannot 
+exceed 25 words. 
+===== PAGE 13 =====
+12 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+Details
+You can set any condition for the appearance 
+of the magic mouth, but your level limits the 
+range at which the mouth can detect the trig -
+gering events. The mouth can “perceive” events 
+at a range of 5ft/Illusionist level, but cannot de-
+tect invisible creatures. It has no perceptions 
+other than visual, although it does not actually 
+see. 
+Obviously, a player cannot try to phrase con -
+ditions using game terms such as “hit dice,” 
+“class,” “level,” etc. but must use terms that 
+would be familiar to the character.
+ MIRROR IMAGE
+Phantasmal illusion, level 2
+RANGE Caster
+DURATION 3 rounds/illusionist 
+level
+AREA OF EFFECT 6ft radius
+COMPONENTS V, S
+CASTING TIME 2 segments
+SAVING THROW None
+The mirror image spell creates 1d4+1 phantas -
+mal images of you, all mirroring your actions. 
+The spell’s 6ft radius also becomes slightly 
+blurred to sight, like the reflection of a slight -
+ly distorted mirror. The combination of these 
+two magical phenomena makes it impossible 
+to distinguish the images from the real person 
+without aid of a magical nature, such as true 
+seeing.
+If an opponent attempts to attack you while 
+you are obscured by this spell, it is randomly 
+determined whether the “to hit” roll is directed 
+toward you or toward one of the images.
+Details
+When an opponent makes a successful hit 
+against one of the images, the image breaks up 
+and disappears (the others remain). 
+At the end of the spell’s duration, the images 
+fade from sight.
+ MISDIRECTION
+Phantasmal illusion, level 2
+RANGE 30ft
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT One object or 
+creature
+COMPONENTS V, S
+CASTING TIME 2 segments
+SAVING THROW See below
+This spell is cast upon an object or creature (in-
+cluding you) to mislead any form of divination 
+spells. 
+Details
+Anyone using any form of divination magic 
+on the targeted object or creature must make 
+a saving throw vs spells when the attempt is 
+made. If the saving throw fails, they will obtain 
+a false result of some kind from the divination: 
+a lie will be detected as truth, the wrong align -
+ment perceived, the wrong location divined, etc.
+ VENTRILOQUISM
+Phantasmal illusion, level 2
+RANGE 10ft/illusionist level, to a 
+maximum of 90ft
+DURATION 4 rounds + 1 round/
+illusionist level
+AREA OF EFFECT One object
+COMPONENTS V, M
+CASTING TIME 2 segments
+SAVING THROW None
+This spell makes your voice (or any sound you 
+can vocalise) seem to issue from someplace 
+else, such as from another creature, a statue, 
+from behind a door, down a passage, etc.
+Details
+For each point of intelligence of the listener 
+over 12, there is a cumulative 10% chance to 
+correctly perceive the source of the sound. 
+Otherwise, they will assume the sound is com -
+ing from the point or object you targeted with 
+the spell.
+===== PAGE 14 =====
+ SECOND LEVEL ILLUSIONIST SPELLS  | 13
+ 1.8.4.3. THIRD LEVEL 
+ILLUSIONIST  SPELLS
+ CONTINUAL DARKNESS
+Phantasmal transmutation, level 3
+RANGE 60ft
+DURATION Permanent
+AREA OF EFFECT 30ft radius sphere
+COMPONENTS V, S
+CASTING TIME 3 segments
+SAVING THROW None
+You create magical darkness, centred on a tar -
+get location, which can be a creature, object, 
+or even a location in thin air. You can eliminate 
+the darkness at will. Light sources, including 
+magical light such as from a glowing sword, do 
+not illuminate the area affected by the spell, 
+but an actual light spell may counteract this 
+spell. Infravision does not work in the affected 
+area.
+Details
+If your target is a light source, then the light is 
+extinguished for the spell’s duration but no ad-
+ditional magical darkness is created. The light 
+source is simply cancelled.
+The darkness is stationary, unless you cast it on 
+a creature or object that moves (you cannot or-
+der the spell effect to move after casting).
+If your target is a creature, then it can choose 
+to roll a saving throw vs spells. The target crea-
+ture applies its Dexterity save modifier, if it has 
+one, to this saving throw. If it passes the saving 
+throw, then your spell produces a stationary 
+point of darkness in the air just behind your 
+target creature, rather than affecting the crea -
+ture itself.
+You can’t have more than three instances of 
+this spell running at the same time. If you cast 
+it again, your earliest cast Continual Darkness 
+spell that’s still in effect ends. At the end of 
+every complete month that the spell has been 
+running, there is a 1 in 12 chance that the spell 
+ends.
+ CONTINUAL LIGHT
+Phantasmal transmutation, level 3
+RANGE 60ft
+DURATION Permanent
+AREA OF EFFECT 60ft radius globe
+COMPONENTS V, S
+CASTING TIME 3 segments
+SAVING THROW See below
+A phantasmal light is created, illuminating the 
+target (a creature, object, or point in space) and 
+everything in a 60ft radius around the target.
+Details
+If your target is an area of magical darkness, 
+both spells (darkness and light) are cancelled.
+The light is stationary, unless you cast it on a 
+creature or object that moves, in which case it 
+moves with that creature or object.
+If your target is a creature’s eyes or other sense 
+organs, then it can roll a saving throw vs spells. 
+The target creature applies its Dexterity save 
+modifier, if it has one, to this saving throw. If 
+it passes the saving throw, then your spell pro-
+duces a stationary light in the air just behind 
+your target creature, rather than affecting the 
+creature itself. If it fails the saving throw it is 
+effectively blinded until the spell ends or is dis-
+pelled.
+You can’t have more than three instances of 
+this spell running at the same time. If you cast 
+it again, your earliest-cast Continual Light spell 
+that’s still in effect ends.
+At the end of every complete month the spell 
+has been running, there is a 1 in 12 chance that 
+the spell ends.
+ DISPEL ILLUSION
+Phantasmal abjuration, level 3
+RANGE 10ft/level
+DURATION Instantaneous
+AREA OF EFFECT One illusion
+COMPONENTS V, S
+CASTING TIME 3 segments
+SAVING THROW None
+===== PAGE 15 =====
+14 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+This spell automatically dispels phantasmal 
+forces cast by non-illusionists. It also dispels 
+most illusion spells and effects (cast by any 
+class or creature), although the success de -
+pends on the relative level of the casters (see 
+below). This spell may be cast on something 
+even if you aren’t sure it’s an illusion.
+Details
+Your base chance of dispelling an illusion de -
+pends on caster level, both yours and that of 
+the caster of the magic to be dispelled. 
+Your caster level is the number of levels you 
+have in the illusionist class. The target’s caster 
+level is the number of levels the caster has in 
+the class they used to cast the spell (if it is a 
+monster, then use its hit dice). 
+• If your caster level is the same or higher than 
+the target’s caster level, then your chance 
+of success is 50%, plus 5% (five percent) for 
+each level of the difference.
+• If your caster level is lower than the target’s 
+caster level, then your chance of success is 
+50%, minus 2% (two percent) for each level 
+of the difference.
+ FEAR
+Phantasmal illusion, level 3
+RANGE Nil
+DURATION See below
+AREA OF EFFECT 5ft × 30ft × 60ft cone
+COMPONENTS V, S
+CASTING TIME 3 segments
+SAVING THROW Negates effect
+This spell causes utter panic in the creatures 
+exposed to the cone-shaped emanation of 
+phantasmal terror you throw forth. If any crea-
+ture, of any level or hit dice, fails its saving 
+throw against the spell, it will move away from 
+you as fast as possible, for as many rounds as 
+you have levels in the illusionist class. 
+Details
+There is a base 60% chance for a creature to 
+drop whatever it is holding (immediately upon 
+failing the saving throw), but this is reduced by 
+5% per HD (or level) of the panicked creature.
+ HALLUCINATORY TERRAIN
+Phantasmal illusion, level 3
+RANGE 20ft + 20ft/illusionist 
+level
+DURATION See below
+AREA OF EFFECT
+40ft × 40ft square 
+area + 10ft square/
+illusionist level
+COMPONENTS V, S, M
+CASTING TIME 3 segments
+SAVING THROW None
+This spell masks the true appearance of an 
+area, making it appear as something else. A 
+road can be made to appear as a river, a forest 
+can be made to appear as a ravine, etc. 
+Details
+The spell’s effect remains until some intelligent 
+being touches the area (or until it is dispelled). 
+The spell is particularly useful for hiding pits, or 
+making cliff edges seem to extend more than 
+they actually do, but it has many other useful 
+applications for the creative player.
+ ILLUSORY SCRIPT
+Phantasmal illusion, level 3
+RANGE Touch
+DURATION Permanent
+AREA OF EFFECT Enchanted script
+COMPONENTS V, S, M
+CASTING TIME 3 segments
+SAVING THROW None
+You cast this spell on a piece of writing, and 
+anyone reading it is affected as if by a confusion 
+spell.
+===== PAGE 16 =====
+ THIRD LEVEL ILLUSIONIST SPELLS  | 15
+Details
+You may specify a particular person, group of 
+people, type of person, etc., that will be allowed 
+to read the script without being affected by the 
+spell. 
+All others perceive the script as an undecipher-
+able language, which causes confusion (as per 
+the level 4 illusionist spell) for 5d4 turns (minus 
+one turn per hit die of the reader). 
+An illusionist will recognise the script as illuso -
+ry, early enough to avoid the confusion effect, 
+but still cannot read the writing.
+   INVISIBILITY, 10FT RADIUS
+Phantasmal illusion, level 3
+RANGE Touch
+DURATION See below
+AREA OF EFFECT 10ft radius around 
+creature touched
+COMPONENTS V, S
+CASTING TIME 3 segments
+SAVING THROW None (willing targets 
+only)
+This spell operates as does the invisibility spell, 
+but affects all willing creatures within 10ft 
+of the touched creature at the time the final 
+words of the spell are uttered. As the caster, 
+you can remain visible, if you choose, by being 
+an “unwilling subject”.
+Details
+If the creature upon which the spell was cast 
+makes an attack (including casting a spell that 
+directly causes damage, such as a fireball), the 
+attack negates the invisibility of all the others. 
+However, if one of the creatures affected by 
+the spell’s radius (not the direct recipient) at -
+tacks, the invisibility only of that one creature 
+is negated thereby. 
+In order to remain invisible, those who were 
+made invisible by virtue of the spell’s radius 
+must remain within 10ft of the creature upon 
+whom the spell is centred. All creatures affect -
+ed can see each other.
+Note that the spell does not make the recipient 
+any more quiet than normal, nor does it elim -
+inate scents. 
+ NON-DETECTION
+Phantasmal abjuration, level 3
+RANGE Caster
+DURATION 1 turn/illusionist level
+AREA OF EFFECT 5ft radius
+COMPONENTS V, S, M
+CASTING TIME 3 segments
+SAVING THROW None
+This spell makes you invisible, inaudible, and 
+undetectable to all divination spells and other 
+means of magical spying, such as crystal balls 
+and thought detection.
+ PARALYSATION
+Phantasmal illusion, level 3
+RANGE 10ft/ illusionist level
+DURATION Permanent
+AREA OF EFFECT 20ft × 20ft
+COMPONENTS V, S
+CASTING TIME 3 segments
+SAVING THROW Negates effect
+A certain number of creatures within the spell’s 
+area of effect are frozen in place, magically con-
+vinced that they cannot move. 
+Details
+You can affect creatures with a total number of 
+hit dice equal to twice your caster level. 
+Each creature is entitled to a saving throw 
+against the spell. You can end the paralysis at 
+any time; otherwise a dispel magic (or dispel il-
+lusion) spell is the only way to remove the pa -
+ralysis.
+===== PAGE 17 =====
+16 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+ ROPE TRICK
+Phantasmal transmutation, level 3
+RANGE Touch
+DURATION 2 turns/illusionist 
+level
+AREA OF EFFECT One piece of rope
+COMPONENTS V, S, M
+CASTING TIME 3 segments
+SAVING THROW None
+This spell enchants a rope, making one end 
+into a portal to an extra-dimensional pocket of 
+unreality opened by the spell. The rope rises in 
+the air and then hangs, suspended by its con -
+nection to the extra-dimensional hideaway. 
+Details
+Up to six medium-size people can climb up and 
+hide in the extra-dimensional space (five, if the 
+rope is to be pulled up and into the space as 
+well). At the spell’s expiration, the inhabitants 
+or contents of the space will fall into normal 
+reality if they have not already departed. True 
+reality is visible through the portal, but cannot 
+be affected from inside.
+ SPECTRAL FORCE
+Phantasmal illusion, level 3
+RANGE 60ft + 10ft/illusionist 
+level
+DURATION Concentration (See 
+below)
+AREA OF EFFECT
+40ft × 40ft square + 
+10ft × 10ft square/
+illusionist level
+COMPONENTS V, S, M
+CASTING TIME 3 segments
+SAVING THROW See below
+This spell allows you to craft a visual illusion of 
+virtually anything that can fit within the spell’s 
+area of effect, together with basic sound ef -
+fects, smells, and changes in temperature. You 
+must maintain your concentration upon the 
+illusion, or it will evaporate, but while concen -
+trating you are able to make the illusion move 
+and respond to events. 
+The illusion is dispelled if it is struck with a 
+blow, a falling person, etc.
+Details
+There is no saving throw against the illusion if the 
+observer believes it, and the illusion can actually 
+cause damage to such a deceived victim.  A de -
+mon wielding a sword can attack and do dam -
+age, and the appearance of a pit full of spikes 
+can be fatal even though it is not real. 
+If the observer doubts the reality of the illusion, 
+they are permitted a saving throw to see the 
+illusion for what it really is. 
+If one observer disbelieves the illusion and this 
+disbelief is communicated to others, the others 
+will also gain a saving throw at a bonus of +4.
+Speech cannot be created, but clanking noises, 
+rumblings, and other such sounds can be in -
+corporated into the illusion. 
+The spell also allows you to keep the illusion in 
+existence for as long as three rounds after you 
+stop concentrating on it.
+ SUGGESTION
+Phantasmal enchantment, level 3
+RANGE 30ft
+DURATION 4 turns + 4 turns/level
+AREA OF EFFECT One creature
+COMPONENTS V, M
+CASTING TIME 3 segments
+SAVING THROW Negates effect
+This spell allows you to make a factual sugges -
+tion or suggest a course of action to the target 
+creature. If the creature fails a saving throw, it 
+adopts and follows the suggestion.
+Details
+The suggestion must be made as soon as the 
+casting time is completed; duration applies to 
+the length of time the creature follows the sug-
+gestion.
+You can make a factual suggestion (“These are 
+not the halflings you seek”), suggest a course of 
+action (“Don’t mention you saw us”), or make a 
+combination of both. 
+===== PAGE 18 =====
+ THIRD LEVEL ILLUSIONIST SPELLS  | 17
+Even a victim who has failed a saving throw 
+against the spell will not undertake a course 
+of action that is unreasonable, but the expe -
+rienced caster can easily phrase his or her re -
+quests in such a way as to avoid this problem. 
+Example: No creature will leap off a cliff for no 
+reason; but the caster might “need to scout 
+the bottom of a chasm” and promise to cast a 
+feather fall spell, or hand the victim a “magical” 
+torch that supposedly permits the power of 
+flight. 
+The creature to be influenced must be able to 
+hear and understand the language spoken by 
+the caster.
+ 1.8.4.4. FOURTH LEVEL 
+ILLUSIONIST  SPELLS
+ CONFUSION
+Phantasmal enchantment, level 4
+RANGE 80ft
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT Up to 40ft × 40ft
+COMPONENTS V, S, M
+CASTING TIME 4 segments
+SAVING THROW See below
+This spell causes creatures to behave strangely 
+and unpredictably. A certain number of crea -
+tures in the spell’s area of effect when the spell 
+is cast must make a saving throw each round in 
+order to avoid becoming confused. The effect 
+persists after they leave the area of effect until 
+the spell’s duration expires.
+Details
+The base number of creatures targeted by 
+the spell is 2d8, but additional creatures may 
+be targeted. Take the hit dice of the strongest 
+creature in the area of effect, and compare it 
+to your illusionist level. If your illusionist level 
+is higher by any number, add that number to 
+the base 2d8, and if it is lower, subtract it. The 
+result is the maximum number of creatures 
+in the area of effect that must make a saving 
+throw. If there are more creatures in the area 
+than this, the ones closest to the caster are af -
+fected first.
+All saving throws are made with a penalty of -2.
+A saving throw is made for each creature each 
+round unless they “meander away,” which con-
+tinues for a full turn but probably takes them 
+out of the area of effect during that time.
+A creature that succeeds at the saving throw 
+but stays in the area of effect must continue to 
+make saving throws each round until the spell 
+ends.
+Creatures that fail their saving throws act ran -
+domly. Roll 1d100 for each creature:
+D100 EFFECT
+01–10 Attacks you or your allies (but 
+not with spells)
+11–20 Acts normally
+21–50 Babbles incoherently and takes 
+no action
+51–70 Meanders away from caster for 
+a full turn at normal speed
+71–00 Attacks nearest creature 
+regardless of allegiance
+ DISPEL EXHAUSTION
+Phantasmal illusion, level 4
+RANGE Touch
+DURATION 3 turns/illusionist 
+level
+AREA OF EFFECT Up to 4 creatures
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW None
+This spell creates a powerful illusion of physical 
+health. Recipients “gain” 50% of any hit points 
+that have been lost, and function for all intents 
+and purposes as if these hit points are real. All 
+creatures under the influence of this spell can 
+move (but not attack) at double the normal 
+speed.
+===== PAGE 19 =====
+18 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+Details
+The illusory hit points are the first to be sub -
+tracted if the character sustains damage. At the 
+end of the spell’s duration, the remaining illuso-
+ry hit points are lost. 
+ EMOTION
+Phantasmal enchantment, level 4
+RANGE 10ft/illusionist level
+DURATION Concentration
+AREA OF EFFECT Up to 40ft × 40ft
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW See below
+By casting this spell, you are able to instil oth -
+ers with one of four powerful emotions. The 
+emotion is chosen when you cast the spell, and 
+each has a different effect.
+Details
+Fear: If you choose to instil fear, the spell’s ef -
+fect is similar to that of the fear spell, but with a 
+-2 penalty applied to saving throws.
+Hate: If you instil hate, the targets gain a +2 to 
+saving throws, attacks, and damage.
+Hopelessness: If you instil hopelessness, the tar-
+get creatures who fail the save wander sadly 
+away, or surrender in the face of a challenge 
+such as a combat.
+Rage: If you instil rage, the affected creatures 
+attack at +1, gain a damage bonus of +3, and 
+gain a bonus of 5 temporary hit points. Tem -
+porary hit points are lost first if the creature 
+incurs damage. The affected creature will not 
+willingly retreat from any combat or any oppo-
+nent.
+ IMPROVED  INVISIBILITY
+Phantasmal illusion, level 4
+RANGE Touch
+DURATION 4 rounds + 1 round/
+illusionist level
+AREA OF EFFECT One creature
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW None (willing subject 
+only)
+When the words of this spell are completed, 
+the recipient (and their equipment) fades from 
+sight, becoming invisible. Even infravision can -
+not detect an invisible creature. 
+Details
+The spell does not end when the invisible creature 
+makes an attack; it remains in effect for the full 
+duration unless dispelled.
+Note that the spell does not make the recipient 
+any more quiet than normal, nor does it elim -
+inate scents. 
+Invisible creatures can see themselves, but the 
+caster (unless they are one and the same) can-
+not. 
+ MASSMORPH
+Phantasmal illusion, level 4
+RANGE 10ft/illusionist level
+DURATION See below
+AREA OF EFFECT Up to 10ft × 10ft/
+illusionist level
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW None
+This spell causes creatures of medium size or 
+smaller to appear like an innocent grove of 
+trees to any observers. Up to 10 creatures may 
+be enchanted in this manner. 
+Details
+The illusion is so powerful that it is main -
+tained even if the massmorphed creatures are 
+touched. The “tree’s” reaction to being stabbed 
+===== PAGE 20 =====
+ THIRD LEVEL ILLUSIONIST SPELLS  | 19
+or hacked at is fairly likely to indicate that it is 
+no normal tree, of course, although the illusion 
+is not actually dispelled by a successful attack. 
+The illusion persists until the caster dies or dis-
+misses it (or it is dispelled).
+ MINOR CREATION
+Phantasmal transmutation, level 4
+RANGE Touch
+DURATION 6 turns/illusionist 
+level
+AREA OF EFFECT 1 cubic ft/illusionist 
+level
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW None
+With a small piece of material, you may use this 
+spell to create an object made of that same ma-
+terial. The base material (a) cannot be alive and 
+(b) must come from a plant. 
+Details
+Within the level-based limit on the item’s vol -
+ume, you could create a basket from a piece of 
+straw, a door or club from a splinter of wood, a 
+cloak from a piece of cotton, etc. The item ex -
+ists only for the duration of the spell, at which 
+time it turns back to the small piece of basic 
+material.
+   PHANTASMAL KILLER
+Phantasmal illusion, level 4
+RANGE 5ft/illusionist level
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT One creature
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW See below
+This spell creates the illusion of a personalised 
+nightmare creature for the spell’s victim, drawn 
+from the victim’s own worst fears. The victim 
+has a chance of dropping dead from fright. 
+Details
+The phantasmal killer attacks as a 4HD mon -
+ster, and can only attack the spell’s target.
+If it hits, the victim is entitled to roll 3d6 and 
+compare the result to their intelligence abili -
+ty score. If the die roll is less than the victim’s 
+intelligence, the victim is unharmed by the at -
+tack. Certain modifiers apply to this roll (note 
+that a negative modifier increases the chance 
+for successfully disbelieving the apparition):
+• -2 if the target is an illusionist
+• +1 if the target is caught by surprise (this 
+only affects the killer’s first attack)
+• -1 if the target has previously been attacked 
+by a phantasmal killer
+• The wisdom bonus against mental attacks 
+also applies (subtract the bonus from the 
+die roll instead of adding it, of course).
+If the die roll is higher than or equal to the tar -
+get’s intelligence score, the target immediately 
+dies from fright. 
+The apparition is not vulnerable to damage and 
+cannot be escaped. It disappears at the end of 
+the spell’s duration, or at any time the caster 
+dismisses it, or when the caster is killed or ren-
+dered unconscious.
+The creature is visible only to the victim and the 
+caster.
+ SHADOW MONSTERS
+Phantasmal illusion, level 4
+RANGE 30ft
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT 20ft × 20ft
+COMPONENTS V, S
+CASTING TIME 4 segments
+SAVING THROW Yes (reduced effect)
+You tap into the quasi-reality of the shadow 
+planes to weave physical reality into an illusion. 
+This spell creates illusory monsters that can 
+still attack (although weakly) even if they are 
+perceived as an illusion.
+===== PAGE 21 =====
+20 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+Details
+The shadow monsters created by the spell are 
+selected by the caster (subject to the GM’s dis-
+cretion). 
+The total hit dice of the monsters cannot ex -
+ceed the caster’s level, and all of them must be 
+the same kind of monster. 
+Shadow monsters have only 20% of normal hit 
+dice (multiply by .2 and round up). 
+Anyone seeing a shadow monster is entitled 
+to a saving throw to realise that the creature is 
+only partially real. 
+• If shadow creatures attack someone who 
+fails the saving throw, they strike and inflict 
+damage as the type of creature they appear 
+to be. Shadow monsters can use their mon-
+ster type’s special attacks (such as a breath 
+weapon or gaze attack), although the sub-
+ject is entitled to saving throws they would 
+normally receive against such attacks.
+• If they attack someone who has succeeded 
+in making a saving throw, they are treated 
+as AC 10 [10] and inflict only 20% (multiply 
+by .2 and round up) of normal damage for 
+that sort of creature. If the shadow monster 
+uses a special attack, not only is the subject 
+is entitled to saving throws they would 
+normally receive against such attacks, there 
+is also only a 20% chance that the special at-
+tack will have any effect. If the special attack 
+passed that 20% test and is real, it inflicts 
+the full effect.
+ 1.8.4.5. FIFTH LEVEL 
+ILLUSIONIST  SPELLS
+   CHAOS
+Phantasmal Enchantment, level 5
+RANGE 5ft/illusionist level
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT Up to 40ft × 40ft
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW See below
+This spell causes creatures in the spell’s area of 
+effect to behave strangely and unpredictably. 
+The effect persists after they leave the area of 
+effect until the spell’s duration expires.
+Details
+All creatures in the spell’s area of effect may 
+become confused (see below for effect), and 
+only illusionists, fighters, and creatures with 
+an intelligence of 4 or lower are entitled to a 
+saving throw at all. All saving throws are made 
+with a penalty of -2.
+Those entitled to a saving throw must check 
+each round, regardless of past results. Crea -
+tures affected by the spell in any given round 
+will act randomly in accordance with the follow-
+ing table:
+D100 ACTION
+01–10 Attacks you or your allies
+11–20 Acts under its own control
+21–50 Babbles incoherently
+51–70 Meanders away from you for a 
+full turn*
+71–00 Attacks nearest creature 
+regardless of allegiance
+*A creature that meanders away is not enti -
+tled to further saving throws , but will be freed 
+from the spell’s effects after taking a full turn of 
+movement (at normal speed) away from you.
+===== PAGE 22 =====
+ FOURTH LEVEL ILLUSIONIST SPELLS  | 21
+ DEMI-SHADOW MONSTERS
+Phantasmal illusion, level 5
+RANGE 30ft
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT 20ft × 20ft
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW Yes (lesser effect)
+This spell creates partially-real illusory mon -
+sters in the same manner as the spell shadow 
+monsters, but the quasi-shadow monsters are 
+more powerful than mere shadow monsters.
+Details
+The demi-shadow monsters created by the 
+spell are selected by the caster (subject to the 
+GM’s discretion). 
+The total hit dice of the monsters cannot ex -
+ceed your illusionist level, and all of them must 
+be the same kind of monster. 
+Demi-shadow monsters have only 40% of nor -
+mal hit dice (multiply by .4 and round up). 
+Anyone seeing a demi-shadow monster is enti-
+tled to a saving throw to realise that the crea -
+ture is only partially real. 
+• If demi-shadow creatures attack someone 
+who fails the saving throw, they strike and 
+inflict damage as the type of creature they 
+appear to be. Demi-shadow monsters can 
+use their monster type’s special attacks 
+(such as a breath weapon or gaze attack), 
+although the subject is entitled to saving 
+throws they would normally receive against 
+such attacks.
+• If they attack someone who has succeeded 
+in making a saving throw, they are treated 
+as AC 8 [12] and inflict only 40% (multiply 
+by .4 and round up) of normal damage for 
+that sort of creature. If the demi-shadow 
+monster uses a special attack, not only 
+is the subject is entitled to saving throws 
+they would normally receive against such 
+attacks, there is also only a 40% chance that 
+the special attack will have any effect. If the 
+special attack passed that 40% test and is 
+real, it inflicts the full effect.
+ MAJOR CREATION
+Phantasmal transmutation, level 5
+RANGE 10ft
+DURATION 6 turns/illusionist 
+level
+AREA OF EFFECT 1 cubic ft/illusionist 
+level
+COMPONENTS V, S, M
+CASTING TIME 1 turn
+SAVING THROW None
+With a small piece of material, you may use this 
+spell to create an object made of that same 
+material. The base material cannot be alive, 
+but unlike minor creation it does not need to be 
+plant matter. 
+Details
+Within the level-based limit on the item’s vol -
+ume, you could create leather armour from a 
+piece of leather, a door or club from a splinter 
+of wood, a sword from a piece of steel, etc. The 
+item exists only for the duration of the spell, at 
+which time it turns back to the small piece of 
+basic material.
+ MAZE
+Phantasmal conjuration/summoning,  
+level 5
+RANGE 5ft/illusionist level
+DURATION See below
+AREA OF EFFECT One creature
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW None
+The targeted creature is trapped by this spell 
+into an interdimensional reality similar to that 
+created by the second level spell rope trick . 
+This wormhole has an entrance, which closes 
+immediately after the target is trapped, and an 
+exit, which is difficult to find in the branching, 
+twisting maze of the dimensional labyrinth. 
+===== PAGE 23 =====
+22 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+Details
+A creature’s intelligence determines the 
+amount of time required to find the way out 
+and emerge back into the material plane:
+• Less than 3: 2d4 turns
+• 3-5: 1d4 turns
+• 6-8: 5d4 rounds
+• 9-11: 4d4 rounds
+• 12-14: 3d4 rounds
+• 15-17: 2d4 rounds
+• 18+: 1d4 rounds
+ PROJECT IMAGE
+Phantasmal illusion, level 5
+RANGE 5ft/illusionist level
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT See below
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW None
+This spell creates an illusory duplicate of you, 
+standing in another place within the spell’s 
+range. The image must remain visible to you or 
+the spell will end. Much like mirror image, the 
+projected image mimics all of your movements, 
+but it is not affected by attacks of any kind. 
+Details
+The image possesses a magical link to you. If 
+desired, you can cast spells originating at the 
+image rather than at your location, as if the im-
+age, rather than you, had cast the spell. Thus, 
+the effective range of an attack spell can be 
+increased, or a spell that would ordinarily cen -
+tre on the caster could be brought into effect 
+around the projected image.
+ SHADOW DOOR
+Phantasmal illusion, level 5
+RANGE 10ft
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT Magic door
+COMPONENTS S
+CASTING TIME 2 segments
+SAVING THROW None
+With a mystical gesture, you create an illusory 
+door (either in a wall or free-standing). If you 
+step toward it, you appear to walk through the 
+door and disappear from sight. If anyone else 
+opens the door, they will perceive a small emp-
+ty room. What actually happens is that you be -
+come invisible (with an unusually powerful type 
+of invisibility) and never actually walk into the 
+illusory room.
+Details
+The caster’s invisibility after passing through 
+the shadow door is particularly powerful and 
+cannot be seen by use of detect invisibility, al-
+though you can be seen with more powerful 
+divination magic. A powerful monster can still 
+detect your presence and approximate location 
+if their hit dice allow them to detect invisibility, 
+but they cannot see you well enough to attack 
+without a -2 penalty (as opposed to the normal 
+-4). More powerful divinations (such as a true 
+seeing spell) will reveal you normally.
+ SHADOW MAGIC
+Phantasmal illusion, level 5
+RANGE 50ft + 10ft/illusionist 
+level
+DURATION See below
+AREA OF EFFECT See below
+COMPONENTS V, S
+CASTING TIME 5 segments
+SAVING THROW Yes (lessened effect)
+This spell employs your ability to draw upon 
+the shadow planes, adding an element of qua -
+===== PAGE 24 =====
+ FOURTH LEVEL ILLUSIONIST SPELLS  | 23
+si-reality to an illusory spell. The “spell” may 
+be one of a limited group: cone of cold, fireball, 
+lightning bolt, or magic missile. 
+Details
+Anyone who would be damaged by the spell is 
+entitled to a saving throw against the illusion, 
+but does not receive a second saving throw 
+against the illusionary spell effect.
+• Anyone who succeeds at the saving throw 
+against the illusion (vs. spells) takes 1 hit 
+point of psychic damage per caster level.
+• Anyone who fails the saving throw takes 
+the full damage that the illusionary spell 
+would inflict, but the damage is psychic 
+damage. Thus, a creature who is immune 
+to fire would still be damaged by a shadow 
+“fireball”.
+ SUMMON SHADOW
+Phantasmal conjuration/summoning,  
+level 5
+RANGE 10ft
+DURATION 1 round + 1 round/
+illusionist level
+AREA OF EFFECT Summoned shadows
+COMPONENTS V, S, M
+CASTING TIME 5 segments
+SAVING THROW None
+This spell summons 1 undead shadow per cast-
+er level from the shadow planes. The shadows 
+are under your mental command.
+Details
+If the shadows are turned or killed, they return 
+to the shadow plane whence they came. Other-
+wise, they disappear when the spell’s duration 
+ends or when you dismiss them.
+You do not need to concentrate to command 
+the shadows.
+ 1.8.4.6. SIXTH LEVEL 
+ILLUSIONIST  SPELLS
+ CONJURE ANIMALS
+Phantasmal conjuration/summoning,  
+level 6
+RANGE 30ft
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT Conjured creatures
+COMPONENTS V, S
+CASTING TIME 6 segments
+SAVING THROW None
+This spell “conjures” animal allies from thin air. 
+You must be able to see the target point.
+Details
+When you cast this spell, you decide the rela -
+tive strength of the creatures you want to call 
+(Weak, Medium, Strong, or Mighty). The stron -
+ger the creature type, the fewer creatures that 
+appear. Your GM then rolls or decides what 
+kinds of creature appear. Some animals appear 
+on more than one table, and this is deliberate.
+ WEAK
+1 creature for each level you have in the illu -
+sionist class
+D20 CREATURE
+1-3 Baboon
+4-9 Dog
+10-16 Giant rat
+17-20 Jackal
+===== PAGE 25 =====
+24 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+ MEDIUM
+1 creature for every 2 levels you have in the il -
+lusionist class, rounding down
+D20 CREATURE
+1-4 Badger
+5-14 Herd animal
+15-20 Horse
+ STRONG
+1 creature for every 3 levels you have in the il -
+lusionist class, rounding down
+D20 CREATURE
+1-2 Boar
+3-5 Camel
+6-7 Giant goat
+8-9 Horse
+10-11 Hyena
+12-13 Leopard
+14-15 Phorusrhacid (Axe Beak)
+16-17 Stag
+18-20 Wolf
+ MIGHTY
+1 creature for every 4 levels you have in the il -
+lusionist class, rounding down
+D20 CREATURE
+1-3 Ape
+4-5 Bear
+6-7 Boar
+8-9 Bull
+10-12 Dire wolf
+13-14 Leopard
+15-16 Lion
+17-18 Sabretooth tiger
+19-20 Tiger
+This spell will fail unless you’re on the Prime 
+Material Plane.
+This spell makes the animals understand your 
+spoken word commands.
+The animals don’t have to obey a command 
+that’s obviously self-destructive.
+The conjured animals are dismissed, and the 
+spell ends, when they’re all killed; when you’re 
+killed; when you use your action to dismiss 
+them; when you leave the plane on which you 
+cast this spell; or when the conjured animals 
+leave the plane.
+Killing or defeating animals conjured by this 
+spell doesn’t award any xp.
+Note: If spacing is an issue on a battlemat or 
+VTT, the GM may determine the spacing of 
+the conjured animals when they appear. As a 
+general approach, each animal appears in an 
+unoccupied “square” of the caster’s choice, in 
+or adjacent to the square containing the tar -
+get point. If there are no unoccupied squares, 
+then the animal doesn’t appear until a suitable 
+square is vacated. If an animal doesn’t appear 
+immediately, the spell’s duration is extended 
+as appropriate for the late-arriving animals.
+
+===== PAGE 26 =====
+ FIFTH LEVEL ILLUSIONIST SPELLS  | 25
+ DEMI-SHADOW MAGIC
+Phantasmal illusion, level 6
+RANGE 60ft + 10ft/illusionist 
+level
+DURATION See below
+AREA OF EFFECT See below
+COMPONENTS V, S
+CASTING TIME 6 segments
+SAVING THROW See below
+This spell allows the illusionist to “cast” a quasi-
+real version of any one of the following arcane 
+spells: cloudkill, cone of cold , magic missile , 
+fireball, lightning bolt, wall of fire, wall of ice. 
+Details
+Anyone who would be damaged by the spell is 
+entitled to a saving throw against the illusion, 
+but does not receive a second saving throw 
+against the illusionary spell effect.
+• Anyone who succeeds at the saving throw 
+against the illusion (vs. spells) takes 2 hit 
+points of psychic damage per caster level 
+from the offensive spells, the wall spells will 
+inflict 1d4 hit points per caster level, and the 
+cloudkill will only kill creatures of fewer than 
+2 hit dice (no saving throw).
+• Anyone who fails the saving throw takes the 
+full damage that the illusionary spell would 
+inflict, but the damage is psychic damage. 
+Thus, a creature who is immune to fire 
+would still be damaged by a demi-shadow 
+“wall of fire”.
+ MASS SUGGESTION
+Phantasmal enchantment, level 6
+RANGE 10ft/illusionist level
+DURATION 4 turns + 4 turns/
+illusionist level
+AREA OF EFFECT
+One creature/
+illusionist level (see 
+below)
+COMPONENTS V, M
+CASTING TIME 6 segments
+SAVING THROW Negates effect
+This spell allows you to make a factual sugges -
+tion or suggest a course of action to the target 
+creatures. If a creature fails the saving throw, it 
+adopts and follows the suggestion. The same 
+suggestion must be made to all the spell’s tar-
+gets.
+Details
+You can focus the entire spell upon a single 
+creature instead of multiple targets. In this case, 
+the saving throw is made at -2.
+The suggestion must be made as soon as the 
+casting time is completed; duration applies to 
+the length of time the creature follows the sug-
+gestion.
+You can make a factual suggestion (“These are 
+not the halflings you seek”), suggest a course of 
+action (“Don’t mention you saw us”), or make a 
+combination of both. 
+Even a victim who has failed a saving throw 
+against the spell will not undertake a course 
+of action that is unreasonable, but the expe -
+rienced caster can easily phrase his or her re -
+quests in such a way as to avoid this problem. 
+Example: No creature will leap off a cliff for no 
+reason; but the caster might “need to scout 
+the bottom of a chasm” and promise to cast a 
+feather fall spell, or hand the victim a “magical” 
+torch that supposedly permits the power of 
+flight. 
+The creatures to be influenced must be able to 
+hear and understand the language spoken by 
+the caster.
+PERMANENT ILLUSION
+Phantasmal illusion, level 6
+RANGE 30ft
+DURATION Permanent
+AREA OF EFFECT
+40 × 40ft square 
++ 10×10ft square/
+illusionist level
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW See below
+Permanent illusion is essentially a spectral force 
+that does not require concentration and does 
+not end until dismissed or dispelled. When you 
+cast the spell, you craft a visual illusion of virtu-
+===== PAGE 27 =====
+26 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+ally anything that can fit within the spell’s area 
+of effect, together with basic sound effects, 
+smells, and changes in temperature. 
+The illusion is dispelled if it is struck with a 
+blow, a falling person, etc.
+Details
+There is no saving throw against the illusion if the 
+observer believes it, and the illusion can actually 
+cause damage to such a deceived victim.  A de -
+mon wielding a sword can attack and do dam -
+age, and the appearance of a pit full of spikes 
+can be fatal even though it is not real. 
+If the observer doubts the reality of the illusion, 
+they are permitted a saving throw to see the 
+illusion for what it really is. 
+If one observer disbelieves the illusion and this 
+disbelief is communicated to others, the others 
+will also gain a saving throw at a bonus of +4.
+Speech cannot be created, but clanking noises, 
+rumblings, and other such sounds can be in -
+corporated into the illusion. 
+ PROGRAMMED ILLUSION
+Phantasmal illusion, level 6
+RANGE 10ft/illusionist level
+DURATION See below
+AREA OF EFFECT
+40ft × 40ft square + 
+10ft × 10ft square/
+illusionist level
+COMPONENTS V, S, M
+CASTING TIME 6 segments
+SAVING THROW See below
+This spell establishes a trigger event for the 
+creation of a spectral force type of illusion. You 
+can set any condition for the appearance of 
+the illusion, but your level limits the range at 
+which the lurking spell can detect the triggering 
+events. The spell trigger can “perceive” events 
+at a range of 5ft/illusionist level, but cannot de-
+tect invisible creatures. It has no perceptions 
+other than visual, although it does not actually 
+see. 
+Once the triggering event takes place, the illu -
+sion appears as you have “programmed” it to 
+do. The spell allows a visual illusion together 
+with basic sound effects, smells, and changes 
+in temperature. You do not need to concen -
+trate or even be present.
+The illusion lasts 1 round per illusionist level of 
+the caster.
+Details
+There is no saving throw against the illusion if the 
+observer believes it, and the illusion can actually 
+cause damage to such a deceived victim.  A de -
+mon wielding a sword can attack and do dam -
+age, and the appearance of a pit full of spikes 
+can be fatal even though it is not real. 
+If the observer doubts the reality of the illusion, 
+they are permitted a saving throw to see the 
+illusion for what it really is. 
+If one observer disbelieves the illusion and this 
+disbelief is communicated to others, the others 
+will also gain a saving throw at a bonus of +4.
+Speech cannot be created, but clanking noises, 
+rumblings, and other such sounds can be in -
+corporated into the illusion. 
+The illusion is dispelled if it is struck with a 
+blow, a falling person, etc.
+ SHADES
+Phantasmal illusion, level 6
+RANGE 30ft
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT 20ft × 20ft
+COMPONENTS V, S
+CASTING TIME 6 segments
+SAVING THROW Yes (Lessened effect)
+This spell creates partially-real, illusory mon -
+sters in the same manner as the spell shadow 
+monsters, but shades have 60% of normal hit 
+dice rather than 20%. If they are detected as 
+only quasi-real, they inflict 60% of normal dam-
+age and are AC 6 [14].
+This spell creates partially-real illusory 
+monsters in the same manner as the spell 
+demi-shadow monsters , but the shades are 
+more powerful.
+===== PAGE 28 =====
+ FIFTH LEVEL ILLUSIONIST SPELLS  | 27
+Details
+The monsters to be created by the spell as 
+shades are selected by the caster (subject to the 
+GM’s discretion). 
+The total hit dice of the monsters cannot ex -
+ceed your illusionist level, and all of them must 
+be the same kind of monster. 
+Shades have 60% of normal hit dice (multiply 
+by .6 and round up).  
+Anyone seeing a shade is entitled to a saving 
+throw to realise that the creature is only par -
+tially real. 
+• If shades attack someone who fails the 
+saving throw, they strike and inflict damage 
+as the type of creature they appear to be. 
+Shades can use their monster type’s special 
+attacks (such as a breath weapon or gaze 
+attack), although the subject is entitled to 
+saving throws they would normally receive 
+against such attacks.
+• If the shades attack someone who has 
+succeeded in making a saving throw, they 
+are treated as AC 6 [14] and inflict only 60% 
+(multiply by .6 and round up) of normal 
+damage for that sort of creature. If the 
+demi-shadow monster uses a special attack, 
+not only is the subject is entitled to saving 
+throws they would normally receive against 
+such attacks, there is also only a 60% 
+chance that the special attack will have any 
+effect. If the special attack passed that 60% 
+test and is real, it inflicts the full effect.
+ TRUE SIGHT
+Phantasmal divination, level 6
+RANGE Touch
+DURATION 1 round/illusionist 
+level
+AREA OF EFFECT 60ft
+COMPONENTS V, S
+CASTING TIME 3 segments
+SAVING THROW None
+This spell has a broad set of effects. The tar -
+get can see things as they truly are within the 
+area of effect. The target knows where illusions 
+and displacements are, but can choose to see 
+through them as if they were translucent or 
+transparent (target’s choice). The target can 
+perceive astral or ethereal creatures and ob -
+jects, and things that are hidden, concealed, 
+or secret. The target knows if any creatures 
+are polymorphed or shapechanged, and can 
+choose whether to see their polymorphed or 
+real forms.
+The target can also see through obfuscations 
+such as darkness, bright light, fog, or mist.
+Details
+Gods and god-like beings, artifacts, and relics, 
+can produce effects that are immune to this 
+spell.
+Unlike the divine spell true seeing, the subject of 
+this spell cannot perceive alignments.
+ VEIL
+Phantasmal illusion, level 6
+RANGE 10ft/level
+DURATION 1 turn/illusionist level
+AREA OF EFFECT 20×20ft/illusionist 
+level
+COMPONENTS V, S
+CASTING TIME 3 segments
+SAVING THROW None
+This spell masks the true appearance of an 
+area, making it appear as something else. A 
+road can be made to appear as a river, a forest 
+can be made to appear as a ravine, etc. Unlike 
+hallucinatory terrain, a veil spell fools affects the 
+sense of touch and is not dispelled by touch.
+Details
+The spell is particularly useful for hiding pits, or 
+making cliff edges seem to extend more than 
+they actually do, but the main benefit of a veil 
+as opposed to hallucinatory terrain is that peo-
+ple and creatures can be hidden behind the 
+false appearance of a veil spell.
+===== PAGE 29 =====
+28 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+ 1.8.4.7. SEVENTH LEVEL 
+ILLUSIONIST  SPELLS
+ ALTER REALITY
+Phantasmal illusion, level 7
+RANGE Unlimited
+DURATION Varies (GM discretion)
+AREA OF EFFECT Varies (GM discretion)
+COMPONENTS Varies (GM discretion)
+CASTING TIME Varies (GM discretion)
+SAVING THROW Varies (GM discretion)
+The first step in casting this spell is to cast a 
+phantasmal force spell. Once this is done, the 
+alter reality spell is cast, focused on the other 
+spell. Alter reality allows you to reshape reality 
+in accordance with your desires, but only to a 
+limited degree, with about the same power as 
+a limited wish. 
+The spell may be used to create minor alter -
+ations in reality (undoing curses, granting small 
+quantities of gold, duplicating the effects of 
+lower-level spells, etc.). The effects of the spell 
+will be permanent for most minor requests, 
+particularly when used to duplicate a lower-lev-
+el spell that has a permanent or instantaneous 
+duration.
+Details
+Alter reality is not powerful enough to bring the 
+dead back to life, grant a level, or permanently 
+change ability scores. In many cases, the GM 
+will be called upon to determine whether the 
+desired alteration is within the power of an 
+alter reality spell or whether the results of the 
+request will be reduced or flawed. Flaws would 
+include limited durations or partial results. The 
+guidelines set forth above should give the GM 
+some assistance in making such determina -
+tions.
+Unlike a limited wish, an illusionist casting alter 
+reality can usually get a sense for how well the 
+spell is working while casting it, and can adjust 
+to a workable alteration within the spell’s pow-
+er on the fly.
+ ASTRAL SPELL
+Phantasmal transmutation, level 7
+RANGE Touch
+DURATION See below
+AREA OF EFFECT One to six creatures
+COMPONENTS V, S
+CASTING TIME 3 turns
+SAVING THROW None
+This spell transports avatars of yourself and up 
+to five other creatures to the Astral Plane, leav-
+ing your physical bodies behind.
+Details
+This spell only transports willing creatures. Un-
+willing creatures are unaffected.
+Most magic items are weakened or suppressed 
+while on the Astral Plane, and some spells work 
+differently.
+Affected creatures retain their physical bodies 
+on the Prime Material Plane. The bodies are 
+unconscious and incapacitated until the spell 
+ends.
+This spell creates astral avatars, which look 
+exactly like your physical bodies on the Prime 
+Material. Each creature’s avatar is connected 
+to its physical body on the Prime Material by 
+a silver cord. The silver cord is invisible and in -
+vulnerable to most kinds of damage, but can 
+be severed by deities and creatures of similar 
+power, by certain rare weather effects on the 
+Astral Plane, and by a very limited number of 
+special weapons and powers. If the silver cord 
+is cut, the creature’s astral avatar disappears 
+and its physical body dies.
+The astral avatar can enter other planes from 
+the Astral, but it can’t enter a plane where you 
+have a physical body (other than to return into 
+the original body).
+===== PAGE 30 =====
+ SIXTH LEVEL ILLUSIONIST SPELLS  | 29
+ PRISMATIC SPRAY
+Phantasmal abjuration, level 7
+RANGE Nil
+DURATION Instantaneous
+AREA OF EFFECT 70ft × 15ft ×5ft spray
+COMPONENTS V, S
+CASTING TIME 7 segments
+SAVING THROW See below
+Holding out your hand, fingers fanned out, you 
+evoke a spray of colours identical to those of 
+the prismatic wall. All creatures in the path of 
+the spell will be struck by one (or possibly 2) 
+of the rays.
+Details
+Roll a d8 below for each creature in the path of 
+the spray to determine the result:
+DIE ROLL COLOUR EFFECT OF COLOUR
+1 Red Deals 20 points of fire damage (saving throw for half damage).
+2 Orange Deals 40 points of magical damage (saving throw for half).
+3 Yellow Deals 80 points of magical damage (saving throw for half).
+4 Green  Poison (saving throw or die).
+5 Blue Turns to stone (saving throw negates).
+6 Indigo Causes insanity (saving throw negates)
+7 Violet Creatures sent to another plane (saving throw negates).
+8 Two colours Roll twice, ignoring this result
+ PRISMATIC WALL
+Phantasmal abjuration, level 7
+RANGE 10ft
+DURATION 1 turn/illusionist level
+AREA OF EFFECT
+Wall, up to 40ft/caster 
+level long, and 20ft/
+caster level tall
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+Prismatic wall  creates a shimmering, multic -
+oloured wall of light that protects those with -
+in it from all forms of attack. The wall flashes 
+with seven colours, each of which has a distinct 
+power and purpose. It is immobile, but you can 
+pass through and remain near it without harm. 
+However, any other creature with fewer than 
+8 HD within 20ft of the wall will be blinded for 
+2d4 rounds by the colours if it looks at them.
+Details
+The wall can be destroyed, colour by colour, in 
+consecutive order, by various magical effects; 
+however, the first colour must be brought 
+down before the second can be affected, and 
+so on. 
+A rod of cancellation destroys a prismatic wall, 
+but an anti-magic shell will fail to penetrate it. 
+Dispel magic cannot dispel the wall or anything 
+beyond it (unless the first six colours have al -
+ready been brought down). Magic resistance is 
+effective against a prismatic wall, but the check 
+must be repeated for each colour present.
+Each colour in the wall has a different effect. 
+The accompanying table shows the seven co -
+lours, the order in which they appear, their ef -
+fects on creatures trying to attack the caster or 
+pass through the wall, and the magic needed to 
+negate each colour.
+===== PAGE 31 =====
+30 | OSRIC 3.0 - ILLUSIONIST SPELLBOOK 
+Most magic-users (and illusionists) will know 
+the correct sequence of spells used to destroy 
+a prismatic wall. Having those spells available is 
+another matter, of course.
+ VISION
+Phantasmal divination, level 7
+RANGE Caster
+DURATION See below
+AREA OF EFFECT Caster
+COMPONENTS V, S, M
+CASTING TIME 7 segments
+SAVING THROW None
+By means of this spell, you gaze beyond reality 
+itself, seeking patterns that will give you the an-
+swer to a question. 3d6 are rolled, and if the re-
+sult is 10 or higher, you gain significant insights 
+about the answer to the question. There are, 
+however, significant risks to casting the spell.
+Details
+Gazing into the patterns beyond reality is a 
+risky proposition. 
+If the result of the die roll is from 2–6, you be -
+come obsessed with performing a task, and 
+are treated as being under a geas spell until the 
+random task is completed. 
+If the roll is from 7–9 there is no result at all 
+from the divination; you discern no useful pat -
+terns, but suffer no ill effects from the attempt.
+As noted, if the result is 10 or higher, you gain 
+insights, as determined by the GM.
+ PRISMATIC WALL EFFECTS (MAGIC USER LEVEL 9)
+COLOUR ORDER EFFECT NEGATED BY
+Red 1st
+Stops nonmagical ranged weapons. Deals 20 
+points of fire damage (saving throw for half 
+damage).
+Cone of cold
+Orange 2nd Stops magical ranged weapons. Deals 40 points of 
+damage (saving throw for half). Gust of wind
+Yellow 3rd Stops poisons, gases, and petrifaction. Deals 80 
+points of damage (saving throw for half). Disintegrate
+Green 4th Stops breath weapons.  Poison (saving throw or 
+die). Passwall
+Blue 5th Stops divination and mental attacks. Turns to 
+stone (saving throw negates). Magic missile
+Indigo 6th Stops all spells. Causes insanity (saving throw 
+negates) Continual light
+Violet 7th Force shield (as per wall of force). Creatures sent to 
+another plane (saving throw negates). Dispel magic
+===== PAGE 32 =====
+ SIXTH LEVEL ILLUSIONIST SPELLS  | 31
+SPELLS
+Alter Reality ..............................................28
+Astral Spell ................................................28
+Audible Glamour ........................................5
+Blindness ....................................................9
+Blur ..............................................................9
+Change Self .................................................5
+Chaos .........................................................20
+Colour Spray ...............................................5
+Confusion..................................................17
+Conjure Animals ......................................23
+Continual Darkness .................................13
+Continual Light .........................................13
+Dancing Lights ............................................6
+Darkness .....................................................6
+Deafness ...................................................10
+Demi-Shadow Magic ...............................25
+Demi-Shadow Monsters .........................21
+Detect Illusion ............................................7
+Detect Invisibility .......................................7
+Detect Magic .............................................10
+Dispel Exhaustion ....................................17
+Dispel Illusion ...........................................13
+Emotion .....................................................18
+Fear ............................................................14
+Fog Cloud ..................................................10
+Gaze Reflection ..........................................7
+Hallucinatory Terrain ..............................14
+Hypnotic Pattern ......................................10
+Hypnotism ..................................................8
+Illusory Script ............................................14
+Improved Invisibility ................................18
+Improved Phantasmal Force ..................11
+Invisibility ..................................................11
+Invisibility, 10ft radius .............................15
+Light .............................................................8
+Magic Mouth ............................................11
+Major Creation .........................................21
+Massmorph ..............................................18
+Mass Suggestion ......................................25
+Maze ..........................................................21
+Minor Creation .........................................19
+Mirror Image ............................................12
+Misdirection ..............................................12
+Non-Detection ..........................................15
+Paralysation ..............................................15
+Permanent Illusion ..................................25
+Phantasmal Force ......................................8
+Phantasmal Killer .....................................19
+Prismatic Spray ........................................29
+Prismatic Wall ...........................................29
+Programmed Illusion ..............................26
+Project Image ...........................................22
+Rope Trick .................................................16
+Shades .......................................................26
+Shadow Door ............................................22
+Shadow Magic ..........................................22
+Shadow Monsters ....................................19
+Spectral Force ..........................................16
+Suggestion ................................................16
+Summon Shadow ....................................23
+True Sight ..................................................27
+Veil .............................................................27
+Ventriloquism ...........................................12
+Vision .........................................................30
+Wall of Fog ..................................................9
+===== PAGE 33 =====
+OSRIC THIRD-PARTY LICENSE VERSION 1.1
+1. Terms. If you adhere to these terms, you may 
+publish third-party material stating compatibility 
+with OSRIC 3.0 (Player Guide and GM Guide) for 
+free or for sale and keep 100% of the profits.
+2. Content. You may freely use and reference the 
+general concepts of OSRIC 3.0, such as the rules 
+and game mechanics. You may use the names of 
+the game’s beings, locations, spells, and items. 
+You may not use the game’s art. You may not print 
+verbatim passages of text (no matter the length) 
+from the game, with the exception of monsters, 
+spells, and magic items.
+3. Logos and Branding. You may use the “Com -
+patible with OSRIC 3.0” logo, although it’s not re -
+quired. You may use the term OSRIC 3.0 in refer -
+ence to compatibility (stating, for example, “This 
+game is compatible with OSRIC 3.0” or another 
+similar phrase). You will not challenge or misuse 
+the trademarked terms “Mythmere Games” or 
+“OSRIC.” You may not use the term “Mythmere 
+Games” in any way that suggests your product is 
+approved or reviewed by Mythmere Games. You 
+may not imply that your publication is an official 
+Mythmere Games product or that you or your 
+publication are affiliated or associated with or 
+approved, sponsored, or endorsed by Mythmere 
+Games.
+4. Legal. Mythmere Games LLC takes no respon -
+sibility for any legal claims against your product 
+and will not be liable to you on any legal theory 
+(including, without limitation, negligence) or oth -
+erwise for any losses, costs, expenses, or damag -
+es arising out of this license or use of the licensed 
+material.
+This license shall be governed by, and interpreted 
+and construed in accordance with, the domestic 
+law of the State of Texas without giving effect to 
+any choice of law provision or rule that would 
+cause the application of laws of any jurisdiction 
+other than the State of Texas. The exclusive ven -
+ue for any dispute related to this license shall be 
+in Houston, Texas. You irrevocably consent to the 
+exercise of personal jurisdiction over you by the 
+state courts of Texas, and federal courts located 
+in Texas. 
+Unless stated otherwise herein, copyright rights 
+and moral rights, such as the right of integrity, are 
+not licensed under this license, nor are publicity, 
+privacy, and/or other similar personality rights. 
+Patent and trademark rights are not licensed un -
+der this license. Mythmere Games LLC reserves all 
+rights not expressly granted herein.
+If any provision of this license is deemed unen -
+forceable, it shall be automatically reformed to 
+the minimum extent necessary to make it en -
+forceable or, if not reformable, severed from this 
+license without affecting the enforceability of the 
+remaining provisions. Nothing in this license is a 
+limitation upon, or waiver of, any privileges and 
+immunities that apply to Mythmere Games LLC, 
+including from the legal processes of any jurisdic -
+tion or authority.
+You must include the following in your publica-
+tion: “[Product Name] is an independent product 
+published under the OSRIC 3.0 Third-Party License 
+and is not affiliated with Mythmere Games LLC.”
+It is also good practice to include the follow -
+ing, to draw in legal protection:  This work in -
+cludes material taken from the System Reference 
+Document 5.1 (“SRD 5.1”) by Wizards of the Coast 
+LLC and available at: https://dnd.wizards.com/
+resources/systems-reference-document. The 
+SRD 5.1 is licensed under the Creative Commons 
+Attribution 4.0 International License available at: 
+https://creativecommons.org/licenses/by/4.0/le -
+galcode.
+===== PAGE 34 =====

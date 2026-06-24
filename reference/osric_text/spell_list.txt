@@ -1,0 +1,461 @@
+Magic-User | 1 | Affect Normal Fires | Arcane transmutation
+Magic-User | 1 | Burning Hands | Arcane transmutation
+Magic-User | 1 | Charm Person | Arcane enchantment
+Magic-User | 1 | Comprehend Languages | Arcane transmutation
+Magic-User | 1 | Confuse Languages | Arcane transmutation
+Magic-User | 1 | Dancing Lights | Arcane transmutation
+Magic-User | 1 | Detect Magic | Arcane divination
+Magic-User | 1 | Enlarge | Arcane transmutation
+Magic-User | 1 | Reduce | Arcane transmutation
+Magic-User | 1 | Erase | Arcane transmutation
+Magic-User | 1 | Feather Fall | Arcane transmutation
+Magic-User | 1 | Find Familiar | Arcane conjuration/summoning
+Magic-User | 1 | Friends | Arcane enchantment
+Magic-User | 1 | Hold Portal | Arcane transmutation
+Magic-User | 1 | Identify | Arcane divination
+Magic-User | 1 | Jump | Arcane transmutation
+Magic-User | 1 | Light | Arcane transmutation
+Magic-User | 1 | Magic Missile | Arcane evocation
+Magic-User | 1 | Mending | Arcane transmutation
+Magic-User | 1 | Message | Arcane transmutation
+Magic-User | 1 | Niam'S Magic Aura | Arcane illusion
+Magic-User | 1 | Protection From Evil | Arcane abjuration
+Magic-User | 1 | Protection From  Good | Arcane abjuration
+Magic-User | 1 | Push | Arcane conjuration/summoning
+Magic-User | 1 | Read Magic | Arcane divination
+Magic-User | 1 | Encrypt Magic | Arcane divination
+Magic-User | 1 | Shield | Arcane evocation
+Magic-User | 1 | Shocking Grasp | Arcane transmutation
+Magic-User | 1 | Sleep | Arcane enchantment
+Magic-User | 1 | Spider Climb | Arcane transmutation
+Magic-User | 1 | Tanzur'S Floating Disk | Arcane evocation
+Magic-User | 1 | Unseen Servant | Arcane conjuration/summoning
+Magic-User | 1 | Ventriloquism | Arcane illusion
+Magic-User | 1 | Write | Arcane evocation
+Magic-User | 2 | Audible Glamour | Arcane illusion
+Magic-User | 2 | Continual Light | Arcane transmutation
+Magic-User | 2 | Detect Evil | Arcane divination
+Magic-User | 2 | Detect  Good | Arcane divination
+Magic-User | 2 | Detect  Invisibility | Arcane divination
+Magic-User | 2 | Esp | Arcane divination
+Magic-User | 2 | Fool'S Gold | Arcane transmutation
+Magic-User | 2 | Forget | Arcane enchantment
+Magic-User | 2 | Invisibility | Arcane illusion
+Magic-User | 2 | False Trap | Arcane illusion
+Magic-User | 2 | Knock | Arcane transmutation
+Magic-User | 2 | Levitate | Arcane transmutation
+Magic-User | 2 | Locate Object | Arcane divination
+Magic-User | 2 | Magic Mouth | Arcane transmutation
+Magic-User | 2 | Mirror Image | Arcane illusion
+Magic-User | 2 | Pyrotechnics | Arcane transmutation
+Magic-User | 2 | Ray Of Enfeeblement | Arcane enchantment
+Magic-User | 2 | Rope Trick | Arcane transmutation
+Magic-User | 2 | Scare | Arcane enchantment
+Magic-User | 2 | Shatter | Arcane transmutation
+Magic-User | 2 | Stinking Cloud | Arcane evocation
+Magic-User | 2 | Strength | Arcane transmutation
+Magic-User | 2 | Web | Arcane evocation
+Magic-User | 2 | Wizard Lock | Arcane transmutation
+Magic-User | 3 | Blink | Arcane transmutation
+Magic-User | 3 | Clairaudience | Arcane divination
+Magic-User | 3 | Clairvoyance | Arcane divination
+Magic-User | 3 | Dispel Magic | Arcane abjuration
+Magic-User | 3 | Explosive Runes | Arcane transmutation
+Magic-User | 3 | Feign Death | Arcane necromancy
+Magic-User | 3 | Fireball | Arcane evocation
+Magic-User | 3 | Flame Arrow | Arcane evocation
+Magic-User | 3 | Fly | Arcane transmutation
+Magic-User | 3 | Gust Of Wind | Arcane evocation
+Magic-User | 3 | Haste | Arcane transmutation
+Magic-User | 3 | Hold Person | Arcane enchantment
+Magic-User | 3 | Infravision | Arcane transmutation
+Magic-User | 3 | Leomondo'S Tiny Hut | Arcane transmutation
+Magic-User | 3 | Lightning Bolt | Arcane evocation
+Magic-User | 3 | Monster Summoning I | Arcane conjuration/summoning
+Magic-User | 3 | Phantasmal Force | Arcane illusion
+Magic-User | 3 | Radius | Arcane abjuration
+Magic-User | 3 | Missiles | Arcane abjuration
+Magic-User | 3 | Slow | Arcane transmutation
+Magic-User | 3 | Suggestion | Arcane enchantment
+Magic-User | 3 | Tongues | Arcane transmutation
+Magic-User | 3 | Babble | Arcane transmutation
+Magic-User | 3 | Water Breathing | Arcane transmutation
+Magic-User | 3 | Air Breathing | Arcane transmutation
+Magic-User | 4 | Charm Monster | Arcane Enchantment
+Magic-User | 4 | Confusion | Arcane enchantment
+Magic-User | 4 | Dig | Arcane evocation
+Magic-User | 4 | Dimension Door | Arcane transmutation
+Magic-User | 4 | Enchanted Weapon | Arcane transmutation
+Magic-User | 4 | Extension I | Arcane transmutation
+Magic-User | 4 | Fear | Arcane illusion
+Magic-User | 4 | Fire Charm | Arcane enchantment
+Magic-User | 4 | Fire Shield | Arcane evocation
+Magic-User | 4 | Fire Trap | Arcane evocation
+Magic-User | 4 | Fumble | Arcane enchantment
+Magic-User | 4 | Hallucinatory Terrain | Arcane illusion
+Magic-User | 4 | Ice Storm | Arcane evocation
+Magic-User | 4 | Massmorph | Arcane illusion
+Magic-User | 4 | Invulnerability | Arcane abjuration
+Magic-User | 4 | Monster Summoning Ii | Arcane conjuration/summoning
+Magic-User | 4 | Plant Growth | Arcane transmutation
+Magic-User | 4 | Polymorph Other | Arcane transmutation
+Magic-User | 4 | Polymorph Self | Arcane transmutation
+Magic-User | 4 | Enhancement | Arcane transmutation
+Magic-User | 4 | Remove Curse | Arcane abjuration
+Magic-User | 3 | Bestow Curse | Divine conjuration
+Magic-User | 4 | Wall Of Fire | Arcane evocation
+Magic-User | 4 | Wall Of Ice | Arcane evocation
+Magic-User | 4 | Wizard Eye | Arcane transmutation
+Magic-User | 5 | Airy Water | Arcane transmutation
+Magic-User | 5 | Animal Growth | Arcane transmutation
+Magic-User | 5 | Reduce Animal | Arcane transmutation
+Magic-User | 5 | Animate Dead | Arcane necromancy
+Magic-User | 5 | Biccby'S Interposing Hand | Arcane evocation
+Magic-User | 5 | Cloudkill | Arcane evocation
+Magic-User | 5 | Cone Of Cold | Arcane evocation
+Magic-User | 5 | Conjure Elemental | Arcane conjuration/summoning
+Magic-User | 5 | Contact Other Plane | Arcane divination
+Magic-User | 5 | Distance Distortion | Arcane transmutation
+Magic-User | 5 | Extension Ii | Arcane transmutation
+Magic-User | 5 | Feeblemind | Arcane enchantment
+Magic-User | 5 | Hold Monster | Arcane enchantment
+Magic-User | 5 | Leomondo'S Secret Chest | Arcane transmutation
+Magic-User | 5 | Magic Jar | Arcane transmutation
+Magic-User | 5 | Monster Summoning Iii | Arcane conjuration/summoning
+Magic-User | 5 | Murkenvain'S Faithful Hound | Arcane conjuration/summoning
+Magic-User | 5 | Passwall | Arcane transmutation
+Magic-User | 5 | Stone Shape | Arcane transmutation
+Magic-User | 5 | Telekinesis | Arcane transmutation
+Magic-User | 5 | Teleport | Arcane transmutation
+Magic-User | 5 | Transmute Rock To Mud | Arcane transmutation
+Magic-User | 5 | Transmute Mud To Rock | Arcane transmutation
+Magic-User | 5 | Wall Of Force | Arcane evocation
+Magic-User | 5 | Wall Of Iron | Arcane evocation
+Magic-User | 5 | Wall Of Stone | Arcane Evocation
+Magic-User | 6 | Anti-Magic Shell | Arcane abjuration
+Magic-User | 6 | Biccby'S Forceful Hand | Arcane evocation
+Magic-User | 6 | Control Weather | Arcane transmutation
+Magic-User | 6 | Death  Spell | Arcane necromancy
+Magic-User | 6 | Disintegrate | Arcane transmutation
+Magic-User | 6 | Enchant An Item | Arcane conjuration/summoning
+Magic-User | 6 | Extension Iii | Arcane transmutation
+Magic-User | 6 | Geas | Arcane enchantment
+Magic-User | 6 | Glasseye | Arcane transmutation
+Magic-User | 6 | Globe Of Invulnerability | Arcane abjuration
+Magic-User | 6 | Guards And Wards | Arcane abjuration
+Magic-User | 6 | Invisible Stalker | Arcane conjuration/summoning
+Magic-User | 6 | Legend Lore | Arcane divination
+Magic-User | 6 | Lower Water | Arcane transmutation
+Magic-User | 6 | Raise Water | Arcane transmutation
+Magic-User | 6 | Monster Summoning Iv | Arcane conjuration/summoning
+Magic-User | 6 | Move Earth | Arcane transmutation
+Magic-User | 6 | Othalak'S Freezing Sphere | Arcane transmutation
+Magic-User | 6 | Part Water | Arcane transmutation
+Magic-User | 6 | Project Image | Arcane illusion
+Magic-User | 6 | Reincarnation | Arcane necromancy
+Magic-User | 6 | Repulsion | Arcane abjuration
+Magic-User | 6 | Spirit-Rack | Arcane abjuration
+Magic-User | 6 | Stone To Flesh | Arcane transmutation
+Magic-User | 6 | Flesh To Stone | Arcane transmutation
+Magic-User | 6 | Tanzur'S Transformation | Arcane transmutation
+Magic-User | 7 | Biccby'S Grasping Hand | Arcane evocation
+Magic-User | 7 | Cacodemon | Arcane conjuration/summoning
+Magic-User | 7 | Charm Plants | Arcane enchantment
+Magic-User | 7 | Delayed Blast Fireball | Arcane evocation
+Magic-User | 7 | Dramijar'S Instant Summons | Arcane conjuration/summoning
+Magic-User | 7 | Duo-Dimension | Arcane transmutation
+Magic-User | 7 | Limited Wish | Arcane conjuration/summoning
+Magic-User | 7 | Mass  Invisibility | Arcane illusion
+Magic-User | 7 | Monster Summoning V | Arcane conjuration/summoning
+Magic-User | 7 | Murkenvain'S Sword | Arcane evocation
+Magic-User | 7 | Phase Door | Arcane transmutation
+Magic-User | 7 | Power Word Stun | Arcane conjuration/summoning
+Magic-User | 7 | Reverse Gravity | Arcane alteration
+Magic-User | 7 | Simulacrum | Arcane illusion
+Magic-User | 7 | Statue | Arcane alteration
+Magic-User | 7 | Vanish | Arcane alteration
+Magic-User | 8 | Antipathy/Sympathy | Arcane enchantment
+Magic-User | 8 | Biccby'S Clenched Fist | Arcane evocation
+Magic-User | 8 | Clone | Arcane necromancy
+Magic-User | 8 | Glass-Steel | Arcane transmutation
+Magic-User | 8 | Incendiary Cloud | Arcane evocation
+Magic-User | 8 | Otho'S Irresistible Dance | Arcane enchantment
+Magic-User | 8 | Mass Charm | Arcane enchantment
+Magic-User | 8 | Maze | Arcane conjuration/summoning
+Magic-User | 8 | Mind Blank | Arcane abjuration
+Magic-User | 8 | Monster Summoning Vi | Arcane conjuration/summoning
+Magic-User | 8 | Permanency | Arcane transmutation
+Magic-User | 8 | Polymorph Object | Arcane transmutation
+Magic-User | 8 | Siartan'S Spell Immunity | Arcane abjuration
+Magic-User | 8 | Symbol | Arcane conjuration/summoning
+Magic-User | 8 | Trap The Soul | Arcane conjuration/summoning
+Magic-User | 9 | Astral Spell | Arcane evocation
+Magic-User | 9 | Biccby'S Crushing Hand | Arcane evocation
+Magic-User | 9 | Gate | Arcane conjuration/summoning
+Magic-User | 9 | Imprisonment | Arcane abjuration
+Magic-User | 9 | Meteor Swarm | Arcane evocation
+Magic-User | 9 | Monster Summoning Vii | Arcane conjuration/summoning
+Magic-User | 9 | Power Word Kill | Arcane conjuration/summoning
+Magic-User | 9 | Prismatic Sphere | Arcane conjuration/summoning
+Magic-User | 9 | Shape Change | Arcane transmutation
+Magic-User | 9 | Temporal Stasis | Arcane transmutation
+Magic-User | 9 | Time Stop | Arcane transmutation
+Magic-User | 9 | Wish | Arcane conjuration/summoning
+Cleric | 1 | Bless | Divine transmutation
+Cleric | 1 | Curse | Divine transmutation
+Cleric | 1 | Command | Divine enchantment
+Cleric | 1 | Create Water | Divine conjuration
+Cleric | 1 | Destroy Water | Divine conjuration
+Cleric | 1 | Cure  Light Wounds | Divine necromancy
+Cleric | 1 | Cause  Light Wounds | Divine necromancy
+Cleric | 1 | Detect Evil | Divine divination
+Cleric | 1 | Detect  Good | Divine divination
+Cleric | 1 | Detect Magic | Divine divination
+Cleric | 1 | Light | Divine transmutation
+Cleric | 1 | Darkness | Divine transmutation
+Cleric | 1 | Protection From Evil | Divine abjuration
+Cleric | 1 | Protection From  Good | Divine abjuration
+Cleric | 1 | Purify Food And Drink | Divine transmutation
+Cleric | 1 | Spoil Food And Drink | Divine transmutation
+Cleric | 1 | Remove Fear | Divine abjuration
+Cleric | 1 | Cause Fear | Divine enchantment
+Cleric | 1 | Resist Cold | Divine abjuration
+Cleric | 1 | Sanctuary | Divine abjuration
+Cleric | 2 | Augury | Divine divination
+Cleric | 2 | Chant | Divine abjuration
+Cleric | 2 | Detect Charm | Divine divination
+Cleric | 2 | Conceal Charm | Divine enchantment
+Cleric | 2 | Find  Traps | Divine divination
+Cleric | 2 | Hold Person | Divine enchantment
+Cleric | 2 | Know Alignment | Divine divination
+Cleric | 2 | Conceal Alignment | Divine abjuration
+Cleric | 2 | Resist Fire | Divine abjuration
+Cleric | 2 | Silence 15 Ft Radius | Divine transmutation
+Cleric | 2 | Slow  Poison | Divine necromancy
+Cleric | 2 | Snake Charm | Divine enchantment
+Cleric | 2 | Speak With Animals | Clerical transmutation
+Cleric | 2 | Spiritual Weapon | Divine conjuration
+Cleric | 3 | Animate Dead | Divine necromancy
+Cleric | 3 | Continual  Light | Divine transmutation
+Cleric | 3 | Continual Darkness | Divine transmutation
+Cleric | 3 | Create Food And Water | Divine conjuration
+Cleric | 3 | Cure Blindness | Divine transmutation
+Cleric | 3 | Cause Blindness | Divine transmutation
+Cleric | 3 | Cure Disease | Divine transmutation
+Cleric | 3 | Cause Disease | Divine transmutation
+Cleric | 3 | Dispel Magic | Divine abjuration
+Cleric | 3 | Feign  Death | Divine necromancy
+Cleric | 3 | Glyph Of Warding | Divine evocation
+Cleric | 3 | Locate Object | Divine divination
+Cleric | 3 | Prayer | Divine abjuration
+Cleric | 3 | Remove Curse | Divine abjuration
+Cleric | 3 | Bestow Curse | Divine conjuration
+Cleric | 3 | Speak With Dead | Divine necromancy
+Cleric | 4 | Cure Serious Wounds | Divine necromancy
+Cleric | 4 | Cause Serious Wounds | Divine necromancy
+Cleric | 4 | Detect Lie | Divine divination
+Cleric | 4 | Glibness | Divine transmutation
+Cleric | 4 | Divination | Divine divination
+Cleric | 4 | Exorcise | Divine abjuration
+Cleric | 4 | Lower Water | Divine transmutation
+Cleric | 4 | Raise Water | Divine transmutation
+Cleric | 4 | Neutralise  Poison | Divine transmutation
+Cleric | 4 | Poison | Divine transmutation
+Cleric | 4 | Speak With Plants | Divine transmutation
+Cleric | 4 | Sticks To Snakes | Divine transmutation
+Cleric | 4 | Snakes To Sticks | Divine transmutation
+Cleric | 4 | Tongues | Divine divination
+Cleric | 4 | Blither | Divine enchantment
+Cleric | 5 | Atonement | Divine abjuration
+Cleric | 5 | Commune | Divine divination
+Cleric | 5 | Cure Critical Wounds | Divine necromancy
+Cleric | 5 | Cause Critical Wounds | Divine necromancy
+Cleric | 5 | Dispel Evil | Divine abjuration
+Cleric | 5 | Dispel  Good | Divine abjuration
+Cleric | 5 | Flame Strike | Divine evocation
+Cleric | 5 | Insect Plague | Divine conjuration
+Cleric | 5 | Plane Shift | Divine conjuration
+Cleric | 5 | Quest | Divine enchantment
+Cleric | 5 | Raise Dead | Divine necromancy
+Cleric | 5 | Slay Living | Divine necromancy
+Cleric | 5 | True Seeing | Divine divination
+Cleric | 5 | False Seeing | Divine divination
+Cleric | 6 | Aerial Servant | Divine conjuration
+Cleric | 6 | Animate Object | Divine transmutation
+Cleric | 6 | Blade Barrier | Divine evocation
+Cleric | 6 | Conjure Animals | Divine conjuration
+Cleric | 6 | Find The Path | Divine divination
+Cleric | 6 | Hide The Path | Divine enchantment
+Cleric | 6 | Heal | Divine necromancy
+Cleric | 6 | Harm | Divine necromancy
+Cleric | 6 | Part Water | Divine transmutation
+Cleric | 6 | Speak With Monsters | Divine divination
+Cleric | 6 | Stone Tell | Divine divination
+Cleric | 6 | Word Of Recall | Divine transmutation
+Cleric | 7 | Astral Spell | Divine transmutation
+Cleric | 7 | Control Weather | Divine conjuration
+Cleric | 7 | Earthquake | Divine transmutation
+Cleric | 7 | Gate | Divine conjuration
+Cleric | 7 | Holy Word | Divine conjuration
+Cleric | 7 | Unholy Word | Divine conjuration
+Cleric | 7 | Regenerate | Divine necromancy
+Cleric | 7 | Wither | Divine necromancy
+Cleric | 7 | Restoration | Divine necromancy
+Cleric | 7 | Energy Drain | Divine necromancy
+Cleric | 7 | Resurrection | Divine necromancy
+Cleric | 7 | Surcease | Divine necromancy
+Cleric | 7 | Symbol | Divine conjuration
+Cleric | 7 | Wind Walk | Divine transmutation
+Druid | 1 | Animal Friendship | Druidic enchantment
+Druid | 1 | Detect Magic | Druidic divination
+Druid | 1 | Detect Pits/Snares | Druidic divination
+Druid | 1 | Entangle | Druidic transmutation
+Druid | 1 | Faerie Fire | Druidic transmutation
+Druid | 1 | Invisibility To Animals | Druidic transmutation
+Druid | 1 | Locate Animals | Druidic divination
+Druid | 1 | Pass Without Trace | Druidic enchantment/charm
+Druid | 1 | Predict Weather | Druidic divination
+Druid | 1 | Purify Water | Druidic transmutation
+Druid | 1 | Contaminate Water | Druidic transmutation
+Druid | 1 | Shillelagh | Druidic transmutation
+Druid | 1 | Speak With Animals | Druidic transmutation
+Druid | 2 | Barkskin | Druidic transmutation
+Druid | 2 | Charm Person/Mammal | Druidic enchantment/charm
+Druid | 2 | Create Water | Druidic transmutation
+Druid | 2 | Cure  Light Wounds | Druidic necromancy
+Druid | 2 | Cause  Light Wounds | Druidic necromancy
+Druid | 2 | Feign  Death | Druidic necromancy
+Druid | 2 | Fire Trap | Druidic evocation
+Druid | 2 | Heat Metal | Druidic transmutation
+Druid | 2 | Chill Metal | Druidic transmutation
+Druid | 2 | Locate Plants | Druidic divination
+Druid | 2 | Obscurement | Druidic transmutation
+Druid | 2 | Produce Flame | Druidic transmutation
+Druid | 2 | Trip | Druidic enchantment
+Druid | 2 | Warp Wood | Druidic transmutation
+Druid | 3 | Call Lightning | Druidic transmutation
+Druid | 3 | Cure Disease | Druidic necromancy
+Druid | 3 | Cause Disease | Druidic necromancy
+Druid | 3 | Hold Animal | Druidic enchantment
+Druid | 3 | Neutralise  Poison | Druidic transmutation
+Druid | 4 | Poison | Druidic transmutation
+Druid | 3 | Plant Growth | Druidic transmutation
+Druid | 3 | Protection From Fire | Druidic abjuration
+Druid | 3 | Pyrotechnics | Druidic transmutation
+Druid | 3 | Snare | Druidic enchantment
+Druid | 3 | Stone Shape | Druidic transmutation
+Druid | 3 | Summon Insects | Druidic conjuration/summoning
+Druid | 3 | Tree | Druidic transmutation
+Druid | 3 | Water Breathing | Druidic transmutation
+Druid | 3 | Air Breathing | Druidic transmutation
+Druid | 4 | Animal Summoning I | Druidic conjuration/summoning
+Druid | 4 | Call Woodland Beings | Druidic conjuration/summoning
+Druid | 4 | Cure Serious Wounds | Druidic necromancy
+Druid | 4 | Cause Serious Wounds | Druidic necromancy
+Druid | 4 | Dispel Magic | Druidic abjuration
+Druid | 4 | Hallucinatory Forest | Druidic illusion
+Druid | 4 | Hold Plant | Druidic enchantment
+Druid | 4 | Plant Door | Druidic transmutation
+Druid | 4 | Produce Fire | Druidic transmutation
+Druid | 4 | Quench Fire | Druidic transmutation
+Druid | 4 | Protection From Lightning | Druidic abjuration
+Druid | 4 | Repel Insects | Druidic abjuration
+Druid | 4 | Speak With Plants | Druidic transmutation
+Druid | 5 | Animal Growth | Druidic transmutation
+Druid | 5 | Reduce Animal | Druidic transmutation
+Druid | 5 | Animal Summoning Ii | Druidic conjuration/summoning
+Druid | 5 | Anti-Plant Shell | Druidic abjuration
+Druid | 5 | Commune With Nature | Druidic divination
+Druid | 5 | Control Winds | Druidic transmutation
+Druid | 5 | Insect Plague | Druidic conjuration/summoning
+Druid | 5 | Pass Plant | Druidic transmutation
+Druid | 5 | Sticks To Snakes | Druidic transmutation
+Druid | 5 | Snakes To Sticks | Druidic transmutation
+Druid | 5 | Transmute Rock To Mud | Druidic transmutation
+Druid | 5 | Transmute Mud To Rock | Druidic transmutation
+Druid | 5 | Wall Of Fire | Druidic evocation
+Druid | 6 | Animal Summoning Iii | Druidic conjuration/summoning
+Druid | 6 | Anti-Animal Shell | Druidic abjuration
+Druid | 6 | Conjure Fire Elemental | Druidic conjuration/summoning
+Druid | 6 | Dismiss Fire Elemental | Druidic conjuration/summoning
+Druid | 6 | Cure Critical Wounds | Druidic necromancy
+Druid | 6 | Cause Critical Wounds | Druidic necromancy
+Druid | 6 | Feeblemind | Druidic enchantment
+Druid | 6 | Fire Seeds | Druidic conjuration
+Druid | 6 | Transport Via Plants | Druidic transmutation
+Druid | 6 | Turn Wood | Druidic transmutation
+Druid | 6 | Wall Of Thorns | Druidic conjuration/summoning
+Druid | 6 | Weather Summoning | Druidic conjuration/summoning
+Druid | 7 | Animate Rock | Druidic transmutation
+Druid | 7 | Chariot Of Fire | Druidic evocation
+Druid | 7 | Confusion | Druidic enchantment
+Druid | 7 | Conjure Earth Elemental | Druidic conjuration/summoning
+Druid | 7 | Dismiss Earth Elemental | Druidic conjuration/summoning
+Druid | 7 | Control Weather | Druidic transmutation
+Druid | 7 | Creeping Doom | Druidic conjuration/summoning
+Druid | 7 | Finger Of  Death | Druidic enchantment
+Druid | 7 | Fire Storm | Druidic evocation
+Druid | 7 | Fire Quench | Druidic evocation
+Druid | 7 | Reincarnate | Druidic necromancy
+Druid | 7 | Transmute Metal To Wood | Druidic transmutation
+Illusionist | 1 | Audible Glamour | Phantasmal illusion
+Illusionist | 1 | Change Self | Phantasmal illusion
+Illusionist | 1 | Colour Spray | Phantasmal transmutation
+Illusionist | 1 | Dancing Lights | Phantasmal transmutation
+Illusionist | 1 | Darkness | Phantasmal transmutation
+Illusionist | 1 | Detect Illusion | Phantasmal divination
+Illusionist | 1 | Detect  Invisibility | Phantasmal divination
+Illusionist | 1 | Gaze Reflection | Phantasmal transmutation
+Illusionist | 1 | Hypnotism | Phantasmal enchantment
+Illusionist | 1 | Light | Phantasmal transmutation
+Illusionist | 1 | Phantasmal Force | Phantasmal illusion
+Illusionist | 1 | Wall Of Fog | Phantasmal transmutation
+Illusionist | 2 | Blindness | Phantasmal illusion
+Illusionist | 2 | Blur | Phantasmal illusion
+Illusionist | 2 | Deafness | Phantasmal illusion
+Illusionist | 2 | Detect Magic | Phantasmal divination
+Illusionist | 2 | Fog Cloud | Phantasmal transmutation
+Illusionist | 2 | Hypnotic Pattern | Phantasmal illusion
+Illusionist | 2 | Improved  Phantasmal Force | Phantasmal illusion
+Illusionist | 2 | Invisibility | Phantasmal illusion
+Illusionist | 2 | Magic Mouth | Phantasmal transmutation
+Illusionist | 2 | Mirror Image | Phantasmal illusion
+Illusionist | 2 | Misdirection | Phantasmal illusion
+Illusionist | 2 | Ventriloquism | Phantasmal illusion
+Illusionist | 3 | Continual Darkness | Phantasmal transmutation
+Illusionist | 3 | Continual Light | Phantasmal transmutation
+Illusionist | 3 | Dispel Illusion | Phantasmal abjuration
+Illusionist | 3 | Fear | Phantasmal illusion
+Illusionist | 3 | Hallucinatory Terrain | Phantasmal illusion
+Illusionist | 3 | Illusory Script | Phantasmal illusion
+Illusionist | 3 | Non-Detection | Phantasmal abjuration
+Illusionist | 3 | Paralysation | Phantasmal illusion
+Illusionist | 3 | Rope Trick | Phantasmal transmutation
+Illusionist | 3 | Spectral Force | Phantasmal illusion
+Illusionist | 3 | Suggestion | Phantasmal enchantment
+Illusionist | 4 | Confusion | Phantasmal enchantment
+Illusionist | 4 | Dispel Exhaustion | Phantasmal illusion
+Illusionist | 4 | Emotion | Phantasmal enchantment
+Illusionist | 4 | Improved  Invisibility | Phantasmal illusion
+Illusionist | 4 | Massmorph | Phantasmal illusion
+Illusionist | 4 | Minor Creation | Phantasmal transmutation
+Illusionist | 4 | Phantasmal Killer | Phantasmal illusion
+Illusionist | 4 | Shadow Monsters | Phantasmal illusion
+Illusionist | 5 | Chaos | Phantasmal Enchantment
+Illusionist | 5 | Demi-Shadow Monsters | Phantasmal illusion
+Illusionist | 5 | Major Creation | Phantasmal transmutation
+Illusionist | 5 | Project Image | Phantasmal illusion
+Illusionist | 5 | Shadow Door | Phantasmal illusion
+Illusionist | 5 | Shadow Magic | Phantasmal illusion
+Illusionist | 6 | Demi-Shadow Magic | Phantasmal illusion
+Illusionist | 6 | Mass Suggestion | Phantasmal enchantment
+Illusionist | 6 | Permanent Illusion | Phantasmal illusion
+Illusionist | 6 | Programmed Illusion | Phantasmal illusion
+Illusionist | 6 | Shades | Phantasmal illusion
+Illusionist | 6 | True Sight | Phantasmal divination
+Illusionist | 6 | Veil | Phantasmal illusion
+Illusionist | 7 | Alter Reality | Phantasmal illusion
+Illusionist | 7 | Astral Spell | Phantasmal transmutation
+Illusionist | 7 | Prismatic Spray | Phantasmal abjuration
+Illusionist | 7 | Prismatic Wall | Phantasmal abjuration
+Illusionist | 7 | Vision | Phantasmal divination
