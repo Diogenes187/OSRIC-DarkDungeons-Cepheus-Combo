@@ -2478,19 +2478,7 @@ class RefereeTools:
                 camp_name = camp["name"] if "name" in camp.keys() else None
         except Exception:
             pass
-        version = None
-        for _tbl in ("event", "events"):
-            try:
-                row = self.repo.conn.execute(
-                    "SELECT COUNT(*) FROM {} WHERE campaign_id=?".format(_tbl),
-                    (self.cid,)).fetchone()
-                if row is not None:
-                    version = row[0]
-                    break
-            except Exception:
-                continue
-        if version is None:
-            version = len(events)
+        version = self._snapshot_version() or len(events)
         import datetime as _dt
         generated_at = _dt.datetime.now(_dt.timezone.utc).isoformat()
 
@@ -2524,15 +2512,69 @@ class RefereeTools:
             "current_scene": current_scene,
         }
 
+    def _snapshot_version(self) -> int:
+        """Monotonic state version = total chronicle events for this campaign."""
+        for _tbl in ("event", "events"):
+            try:
+                row = self.repo.conn.execute(
+                    "SELECT COUNT(*) FROM {} WHERE campaign_id=?".format(_tbl),
+                    (self.cid,)).fetchone()
+                if row is not None:
+                    return int(row[0])
+            except Exception:
+                continue
+        return 0
+
+    def campaign_resume(self, recent: int = 12) -> Dict[str, Any]:
+        """THE single startup call. Returns the full world snapshot PLUS
+        server_version, tool_capabilities (the domains the engine supports), and
+        any active combat -- everything the referee needs to pick the game back
+        up in a fresh chat, in one call. (domain_verb naming: dots are illegal in
+        OpenAI-format tool names, so the convention is campaign_resume / combat_next.)"""
+        snap = self.get_campaign_snapshot(recent=recent)
+        if not isinstance(snap, dict):
+            snap = {}
+        # Capabilities, probed by a representative tool so the advertised list
+        # can never drift from what the engine actually implements.
+        probes = {
+            "combat": "start_combat", "treasure": "generate_treasure",
+            "travel": "journey", "merchant": "market_goods", "trade": "buy_goods",
+            "spells": "cast_spell", "henchmen": "hire_henchman",
+            "exploration": "random_encounter", "weather": "generate_weather",
+            "domain": "found_dominion", "naval": "naval_battle",
+            "magic_items": "roll_magic_item", "dungeon": "search",
+        }
+        snap["server_version"] = "0.9.0"
+        snap["tool_capabilities"] = [
+            d for d, probe in probes.items()
+            if callable(getattr(self, probe, None))]
+        active = None
+        try:
+            cs = self.combat_status()
+            if isinstance(cs, dict) and not cs.get("error"):
+                active = cs
+        except Exception:
+            pass
+        snap["active_combat"] = active
+        return snap
+
     # ---- registry ------------------------------------------------------
     def dispatch(self, name: str, args: Dict[str, Any]) -> Dict[str, Any]:
         fn = getattr(self, name, None)
         if not callable(fn) or name.startswith("_"):
             return {"error": "unknown tool {}".format(name)}
         try:
-            return fn(**(args or {}))
+            result = fn(**(args or {}))
         except Exception as e:   # tools must never crash the turn
             return {"error": "{}: {}".format(type(e).__name__, e)}
+        # Stamp the current snapshot id on EVERY response so the caller can
+        # always tell whether its view of the world is stale.
+        try:
+            if isinstance(result, dict) and "snapshot_version" not in result:
+                result["snapshot_version"] = self._snapshot_version()
+        except Exception:
+            pass
+        return result
 
 
 def specs() -> List[Dict[str, Any]]:
@@ -2931,8 +2973,14 @@ def specs() -> List[Dict[str, Any]]:
         t("get_campaign_snapshot", "ONE consolidated read for resuming play in a "
           "fresh chat: the PC sheet, memorized spells and slots, inventory and "
           "treasure, party position and current location, in-game date, NPCs, "
-          "canon arcs, recent events, and the current scene. Call this FIRST when "
-          "picking the game back up. 'recent' caps the event list (default 12).",
+          "canon arcs, recent events, and the current scene. 'recent' caps the "
+          "event list (default 12).",
+          {"recent": I}),
+        t("campaign_resume", "THE single startup call -- call this FIRST to pick "
+          "the game back up. Returns the full world snapshot PLUS server_version, "
+          "tool_capabilities (the domains the engine supports), and any "
+          "active_combat. You need nothing else before play. 'recent' caps the "
+          "event list (default 12).",
           {"recent": I}),
         t("add_venture", "Register/update a standing enterprise that pays "
           "monthly. yield_gp and upkeep_gp are PER MONTH; net = yield - upkeep. "
