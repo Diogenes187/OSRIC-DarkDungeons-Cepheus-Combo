@@ -109,12 +109,9 @@ _FOOTER = (
 
 def _pc_name() -> str:
     try:
-        for c in (_TOOLS.dispatch("list_characters", {}) or {}).get("characters", []):
-            if not c.get("is_npc"):
-                return c.get("name", "")
+        return _TOOLS._active_pc_name() or ""
     except Exception:
-        pass
-    return ""
+        return ""
 
 def _context() -> str:
     try:

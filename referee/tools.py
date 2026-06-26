@@ -2429,7 +2429,41 @@ class RefereeTools:
                         "turn.".format(name)}
 
     # ---- snapshot ------------------------------------------------------
-    def get_campaign_snapshot(self, recent: int = 12) -> Dict[str, Any]:
+    def _active_pc_name(self, prefer: Optional[str] = None) -> Optional[str]:
+        """Pick the ACTIVE player character, not merely the first one created.
+        Order: an explicit prefer= name; else the PC most recently named in the
+        chronicle; else the most recently created PC; else the first."""
+        try:
+            rows = [r for r in self.repo.list_characters(self.cid)
+                    if not r["is_npc"]]
+        except Exception:
+            rows = []
+        if not rows:
+            return None
+        by_name = {r["name"]: r for r in rows}
+        if prefer and prefer in by_name:
+            return prefer
+        # most recently referenced PC name in the recent chronicle
+        try:
+            low = {r["name"].lower(): r["name"] for r in rows}
+            for e in reversed(list(self.repo.recent_events(self.cid, 50))):
+                keys = e.keys() if hasattr(e, "keys") else []
+                text = " ".join(str(e[k]) for k in keys
+                                if k in ("summary", "detail", "detail_json")
+                                and e[k]).lower()
+                for lname, real in low.items():
+                    if lname and lname in text:
+                        return real
+        except Exception:
+            pass
+        # else the most recently created PC (highest id)
+        try:
+            return max(rows, key=lambda r: r["id"])["name"]
+        except Exception:
+            return rows[0]["name"]
+
+    def get_campaign_snapshot(self, recent: int = 12,
+                              character: Optional[str] = None) -> Dict[str, Any]:
         """One consolidated read for resuming play in a fresh chat. Composed
         from the live tools/repo so it can never drift from the truth: PC sheet,
         memorized spells + slots, inventory, treasure, party position + current
@@ -2442,9 +2476,8 @@ class RefereeTools:
 
         chars_res = _safe(self.list_characters)
         chars = chars_res.get("characters", []) if isinstance(chars_res, dict) else []
-        pcs = [c for c in chars if not c.get("is_npc")]
         npcs = [c for c in chars if c.get("is_npc")]
-        pc_name = pcs[0].get("name") if pcs else None
+        pc_name = self._active_pc_name(character)
 
         pc = _safe(self.get_character, pc_name) if pc_name else {}
         pc = pc if isinstance(pc, dict) else {}
@@ -2529,13 +2562,14 @@ class RefereeTools:
                 continue
         return 0
 
-    def campaign_resume(self, recent: int = 12) -> Dict[str, Any]:
+    def campaign_resume(self, recent: int = 12,
+                        character: Optional[str] = None) -> Dict[str, Any]:
         """THE single startup call. Returns the full world snapshot PLUS
         server_version, tool_capabilities (the domains the engine supports), and
         any active combat -- everything the referee needs to pick the game back
         up in a fresh chat, in one call. (domain_verb naming: dots are illegal in
         OpenAI-format tool names, so the convention is campaign_resume / combat_next.)"""
-        snap = self.get_campaign_snapshot(recent=recent)
+        snap = self.get_campaign_snapshot(recent=recent, character=character)
         if not isinstance(snap, dict):
             snap = {}
         # Capabilities, probed by a representative tool so the advertised list
@@ -3076,14 +3110,14 @@ def specs() -> List[Dict[str, Any]]:
           "fresh chat: the PC sheet, memorized spells and slots, inventory and "
           "treasure, party position and current location, in-game date, NPCs, "
           "canon arcs, recent events, and the current scene. 'recent' caps the "
-          "event list (default 12).",
-          {"recent": I}),
+          "event list; pass character=<name> to force which PC if several exist.",
+          {"recent": I, "character": S}),
         t("campaign_resume", "THE single startup call -- call this FIRST to pick "
           "the game back up. Returns the full world snapshot PLUS server_version, "
           "tool_capabilities (the domains the engine supports), and any "
           "active_combat. You need nothing else before play. 'recent' caps the "
-          "event list (default 12).",
-          {"recent": I}),
+          "event list; pass character=<name> to force which PC if several exist.",
+          {"recent": I, "character": S}),
         t("loot_bodies", "Strip the fallen in ONE transaction -- never do the "
           "arithmetic yourself. Pools coin and gear off matching dead/dying NPCs, "
           "gives it to the PC, and returns the authoritative totals "
