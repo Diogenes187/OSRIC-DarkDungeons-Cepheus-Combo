@@ -1,45 +1,43 @@
-# fly.toml -- remote MCP server for The Known World engine.
-# Single SQLite writer: keep exactly ONE machine (do not scale count > 1)
-# unless you migrate the DB to LiteFS/Postgres (see DEPLOY_FLY.md, phase 2).
+# fly.toml app configuration file generated for tkw-dnd on 2026-06-25T19:46:51-05:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
 
-app = "tkw-dnd"
-primary_region = "ord"   # change to your nearest fly region
+app = 'tkw-dnd'
+primary_region = 'ord'
 
 [build]
-  dockerfile = "Dockerfile"
+  dockerfile = 'Dockerfile'
 
 [env]
-  GREYHAWK_MCP_DB = "/data/campaign.db"
-  GREYHAWK_CAMPAIGN_ID = "1"
-  GREYHAWK_MCP_NAME = "tkw-dnd"
-  # Pass-2 validator provider (model-agnostic). Set the matching *_API_KEY as a
-  # secret (see DEPLOY_FLY.md). Leave provider unset to default to deepseek.
-  GREYHAWK_VALIDATOR_PROVIDER = "deepseek"
+  GREYHAWK_CAMPAIGN_ID = '1'
+  GREYHAWK_MCP_DB = '/data/campaign.db'
+  GREYHAWK_MCP_NAME = 'tkw-dnd'
+  GREYHAWK_VALIDATOR_PROVIDER = 'deepseek'
+
+[[mounts]]
+  source = 'tkw_data'
+  destination = '/data'
 
 [http_service]
   internal_port = 8080
   force_https = true
-  auto_stop_machines = "stop"
+  auto_stop_machines = 'stop'
   auto_start_machines = true
-  min_machines_running = 1          # one writer always warm
-  processes = ["app"]
+  min_machines_running = 1
+  processes = ['app']
 
   [http_service.http_options]
-    # MCP Streamable HTTP keeps long-lived SSE streams; don't let idle close them early.
     [http_service.http_options.response]
       pristine = true
 
   [[http_service.checks]]
-    method = "GET"
-    path = "/health"
-    interval = "15s"
-    timeout = "2s"
-    grace_period = "10s"
-
-[mounts]
-  source = "tkw_data"               # the Fly volume name
-  destination = "/data"             # GREYHAWK_MCP_DB lives here, survives deploys
+    interval = '15s'
+    timeout = '2s'
+    grace_period = '10s'
+    method = 'GET'
+    path = '/health'
 
 [[vm]]
-  size = "shared-cpu-1x"
-  memory = "512mb"
+  size = 'shared-cpu-1x'
+  memory = '512mb'

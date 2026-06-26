@@ -2424,6 +2424,64 @@ class RefereeTools:
                 "note": "{} is on record and will appear in CURRENT STATE next "
                         "turn.".format(name)}
 
+    # ---- snapshot ------------------------------------------------------
+    def get_campaign_snapshot(self, recent: int = 12) -> Dict[str, Any]:
+        """One consolidated read for resuming play in a fresh chat. Composed
+        from the live tools/repo so it can never drift from the truth: PC sheet,
+        memorized spells + slots, inventory, treasure, party position + current
+        location, in-game date, NPCs, canon arcs, recent events, current scene."""
+        def _safe(fn, *a, **k):
+            try:
+                return fn(*a, **k)
+            except Exception as e:
+                return {"error": "{}: {}".format(type(e).__name__, e)}
+
+        chars_res = _safe(self.list_characters)
+        chars = chars_res.get("characters", []) if isinstance(chars_res, dict) else []
+        pcs = [c for c in chars if not c.get("is_npc")]
+        npcs = [c for c in chars if c.get("is_npc")]
+        pc_name = pcs[0].get("name") if pcs else None
+
+        pc = _safe(self.get_character, pc_name) if pc_name else {}
+        pc = pc if isinstance(pc, dict) else {}
+        spells = _safe(self.spells_available, pc_name) if pc_name else {}
+        advancement = _safe(self.get_advancement, pc_name) if pc_name else {}
+
+        locs_res = _safe(self.list_locations)
+        locations = locs_res.get("locations", []) if isinstance(locs_res, dict) else []
+        party = locs_res.get("party", {}) if isinstance(locs_res, dict) else {}
+        here = None
+        if isinstance(party, dict):
+            for L in locations:
+                if L.get("col") == party.get("col") and L.get("row") == party.get("row"):
+                    here = L
+                    break
+
+        events_res = _safe(self.recent_events, recent)
+        events = events_res.get("events", []) if isinstance(events_res, dict) else []
+        current_scene = next((e for e in events if e.get("kind") == "narration"), None)
+
+        canon_res = _safe(self.list_canon)
+        canon = canon_res.get("canon", []) if isinstance(canon_res, dict) else []
+        retainers = _safe(self.list_henchmen)
+
+        return {
+            "campaign_id": self.cid,
+            "date_time": self._date(),
+            "pc": pc,
+            "memorized_spells": {"memorized": pc.get("memorized", []), "slots": spells},
+            "advancement": advancement,
+            "inventory": pc.get("gear", []),
+            "treasure": {"gold": pc.get("gold"), "goods": pc.get("gear", [])},
+            "party": {"position": party, "retainers": retainers},
+            "location": here or {"position": party, "note": "unmapped hex"},
+            "locations_known": locations,
+            "npcs": npcs,
+            "canon": canon,
+            "recent_events": events,
+            "current_scene": current_scene,
+        }
+
     # ---- registry ------------------------------------------------------
     def dispatch(self, name: str, args: Dict[str, Any]) -> Dict[str, Any]:
         fn = getattr(self, name, None)
@@ -2828,6 +2886,12 @@ def specs() -> List[Dict[str, Any]]:
           "truths are hidden unless reveal_secret=true.",
           {"slug": S, "reveal_secret": {"type": "boolean"}}, ["slug"]),
         t("list_canon", "List all locked story-canon entries.", {}),
+        t("get_campaign_snapshot", "ONE consolidated read for resuming play in a "
+          "fresh chat: the PC sheet, memorized spells and slots, inventory and "
+          "treasure, party position and current location, in-game date, NPCs, "
+          "canon arcs, recent events, and the current scene. Call this FIRST when "
+          "picking the game back up. 'recent' caps the event list (default 12).",
+          {"recent": I}),
         t("add_venture", "Register/update a standing enterprise that pays "
           "monthly. yield_gp and upkeep_gp are PER MONTH; net = yield - upkeep. "
           "Upserts by slug; only the fields you pass change.",
