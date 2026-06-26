@@ -26,6 +26,22 @@ WORLD_NAME = "Orruvane"          # the world (the planet)
 CONTINENT_NAME = "The Known World"  # the charted continent the realms share
 CURRENT_YEAR = "211 AS"          # After the Sundering
 
+# ── the calendar (canon) ─────────────────────────────────────────────────────
+# The authoritative implementation lives in engine/calendar.py; this is the
+# documented data form. 364-day year: four 7-day seasonal festivals, each
+# followed by its season's three 28-day months. Dates read "Longlight 13, 211 AS".
+CALENDAR_EPOCH = "AS"            # After the Sundering (Sundering = year 0; before = BS)
+CALENDAR = [
+    {"season": "Winter", "festival": "Emberwake",
+     "months": ["Frostmere", "Ironnight", "Lastfrost"]},
+    {"season": "Spring", "festival": "Greenwake",
+     "months": ["Seedfall", "Rainmoot", "Blossomtide"]},
+    {"season": "Summer", "festival": "Highmere",
+     "months": ["Longlight", "Highsun", "Goldgrass"]},
+    {"season": "Autumn", "festival": "Reckoning",
+     "months": ["Harvestide", "Duskfall", "Greymoot"]},
+]
+
 # ── realms ───────────────────────────────────────────────────────────────────
 # code -> realm record. `terrain` is the default fill for the realm's hexes;
 # feature overrides (mountains, rivers, the Scar) are applied afterward.

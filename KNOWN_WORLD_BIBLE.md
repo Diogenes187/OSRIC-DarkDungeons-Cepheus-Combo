@@ -56,6 +56,17 @@ No single shadow threatens the world today. The danger is that *any* of its cold
 - **The Iron Covenant's crusades** — Karth's militant church pushes outward "by conversion," burning witches and warring on the old faiths and the free clans of the Frostmark.
 - **The Khalassar's restlessness** — the steppe khans are quarreling, and a strong Great Khan could unite them; the last time that happened, the east burned.
 - **The slow drowning of the Tidereach** and the **creeping wild magic of the Scar's edge**, which poisons the marches that border it — like **Halvedd**, where play begins.
+
+### The Calendar
+
+Years are reckoned **After the Sundering (AS)** — the cataclysm is year **0**, the time before it is reckoned **BS**, and play opens in **211 AS**. A year is **364 days**: four seven-day **seasonal festivals**, each followed by its season's three 28-day months. Dates are written like **"Longlight 13, 211 AS."**
+
+- **Winter** — *Emberwake* (festival), then Frostmere, Ironnight, Lastfrost
+- **Spring** — *Greenwake* (festival), then Seedfall, Rainmoot, Blossomtide
+- **Summer** — *Highmere* (festival), then Longlight, Highsun, Goldgrass
+- **Autumn** — *Reckoning* (festival), then Harvestide, Duskfall, Greymoot
+
+*(Canon implementation: `engine/calendar.py`; documented data form: `engine/data/known_world.py` `CALENDAR`.)*
 - **The Serpent's patience** — Qoph schemes as it always has, in centuries rather than years. Most of the north thinks the south's evil is a story. It is not.
 
 The state of **magic** colors everything. Arcane power works, but the educated fear it and the common folk distrust it, and near the Scar it cannot be trusted at all. Clerics and the temple faiths are respected; wizards are tolerated, watched, and in Karth, killed.
