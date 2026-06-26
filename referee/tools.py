@@ -35,7 +35,7 @@ from engine.data import magic_items as magic_mod
 
 # If a campaign was created without an in-game date, seed it here the first time
 # any tool needs the date, so the calendar starts ticking and persists thereafter.
-DEFAULT_START_DATE = "Reaping 1, 576 CY"
+DEFAULT_START_DATE = "Longlight 1, 211 AS"
 from engine.data import encounters as encounters_mod
 from engine.data import weather as weather_mod
 from engine import travel as travel_mod
@@ -448,6 +448,8 @@ class RefereeTools:
     def _advance_calendar(self, days: int) -> Optional[str]:
         camp = self.repo.get_campaign(self.cid)
         cur = (camp["current_date"] if camp else None) or DEFAULT_START_DATE
+        if cal_mod.parse(cur) is None:           # heal a leaked real-world date
+            cur = DEFAULT_START_DATE
         new = cal_mod.advance(cur, int(days)) or cur
         if new:
             self.repo.set_date(self.cid, new)
@@ -2382,7 +2384,9 @@ class RefereeTools:
     def _date(self) -> Optional[str]:
         c = self.repo.get_campaign(self.cid)
         cur = c["current_date"] if c else None
-        if not cur:
+        # Heal a missing OR non-game date (e.g. a leaked real-world "2026-06-26")
+        # back to the Known World default so display + advancement stay valid.
+        if not cur or cal_mod.parse(cur) is None:
             cur = DEFAULT_START_DATE
             try:
                 self.repo.set_date(self.cid, cur)
@@ -2557,6 +2561,104 @@ class RefereeTools:
             pass
         snap["active_combat"] = active
         return snap
+
+    def loot_bodies(self, names=None, group=None, to=None,
+                    keep_bodies: bool = False) -> Dict[str, Any]:
+        """Strip the fallen in ONE transaction -- the engine does all the math.
+        Pools coin + gear off matching dead/dying NPCs, gives it to the PC, and
+        returns the authoritative totals. Target with names=[...] or
+        group=<name substring, e.g. 'Ghoul'>; omit both to loot every fallen NPC."""
+        import collections
+        listing = self.list_characters().get("characters", [])
+        pc_name = to or next((c["name"] for c in listing if not c.get("is_npc")), None)
+        if not pc_name:
+            return {"error": "no recipient PC found; pass to=<name>"}
+
+        ids = {}
+        try:
+            for r in self.repo.list_characters(self.cid):
+                ids[r["name"]] = r["id"]
+        except Exception:
+            pass
+
+        def _is_corpse(c):
+            if not c.get("is_npc"):
+                return False
+            if c.get("alive") is False:
+                return True
+            if (c.get("status") or "").lower() in ("dead", "dying"):
+                return True
+            hp = c.get("hp")
+            return isinstance(hp, (int, float)) and hp <= 0
+
+        corpses = [c for c in listing if _is_corpse(c)]
+        if names:
+            want = {str(n).lower() for n in names}
+            corpses = [c for c in corpses if c.get("name", "").lower() in want]
+        elif group:
+            g = str(group).lower()
+            corpses = [c for c in corpses if g in c.get("name", "").lower()]
+        if not corpses:
+            return {"error": "no matching dead or dying bodies to loot",
+                    "hint": "pass names=[...] or group='Ghoul', or omit both to loot all fallen"}
+
+        total_gp = 0
+        pieces = []
+        looted = []
+        for c in corpses:
+            nm = c.get("name")
+            sheet = self.get_character(nm)
+            if not isinstance(sheet, dict) or sheet.get("error"):
+                continue
+            total_gp += int(sheet.get("gold") or 0)
+            for it in (sheet.get("gear") or []):
+                if isinstance(it, dict):
+                    base = it.get("item", "item")
+                    qty = int(it.get("qty", 1) or 1)
+                    pieces += [base] * max(qty, 1)
+                else:
+                    pieces.append(str(it))
+            looted.append(nm)
+
+        recovered_items = []
+        for disp, n in collections.Counter(pieces).items():
+            recovered_items.append(disp if n == 1 else "{} x{}".format(disp, n))
+
+        # transfer to the PC -- the engine computes the new total, not the caller
+        pc_sheet = self.get_character(pc_name)
+        pc_gold = int(pc_sheet.get("gold") or 0) if isinstance(pc_sheet, dict) else 0
+        if total_gp:
+            self.set_gold(pc_name, pc_gold + total_gp)
+        for label in recovered_items:
+            self.add_gear(pc_name, label)
+
+        # clear the corpses so nothing is ever looted twice
+        for nm in looted:
+            chid = ids.get(nm)
+            if keep_bodies:
+                try:
+                    self.set_gold(nm, 0)
+                except Exception:
+                    pass
+            elif chid:
+                try:
+                    self.repo.delete_character(chid)
+                except Exception:
+                    pass
+
+        try:
+            self.repo.record_event(
+                self.cid, "treasure",
+                "Looted {} fallen: {} gp{}.".format(
+                    len(looted), total_gp,
+                    (" + " + ", ".join(recovered_items)) if recovered_items else ""),
+                in_game_date=self._date())
+        except Exception:
+            pass
+
+        return {"looted": True, "recipient": pc_name, "from": looted,
+                "recovered_gp": total_gp, "recovered_items": recovered_items,
+                "bodies_removed": (not keep_bodies)}
 
     # ---- registry ------------------------------------------------------
     def dispatch(self, name: str, args: Dict[str, Any]) -> Dict[str, Any]:
@@ -2982,6 +3084,14 @@ def specs() -> List[Dict[str, Any]]:
           "active_combat. You need nothing else before play. 'recent' caps the "
           "event list (default 12).",
           {"recent": I}),
+        t("loot_bodies", "Strip the fallen in ONE transaction -- never do the "
+          "arithmetic yourself. Pools coin and gear off matching dead/dying NPCs, "
+          "gives it to the PC, and returns the authoritative totals "
+          "(recovered_gp, recovered_items). Target with names=[...] or "
+          "group='Ghoul' (name substring); omit both to loot ALL fallen NPCs. "
+          "Emptied bodies are removed unless keep_bodies=true.",
+          {"names": {"type": "array", "items": S}, "group": S, "to": S,
+           "keep_bodies": {"type": "boolean"}}),
         t("add_venture", "Register/update a standing enterprise that pays "
           "monthly. yield_gp and upkeep_gp are PER MONTH; net = yield - upkeep. "
           "Upserts by slug; only the fields you pass change.",
