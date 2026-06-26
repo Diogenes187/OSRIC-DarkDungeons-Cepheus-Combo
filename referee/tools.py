@@ -2459,15 +2459,57 @@ class RefereeTools:
 
         events_res = _safe(self.recent_events, recent)
         events = events_res.get("events", []) if isinstance(events_res, dict) else []
-        current_scene = next((e for e in events if e.get("kind") == "narration"), None)
+        # recent_events is oldest->newest; the LATEST narration is the live scene.
+        current_scene = next((e for e in reversed(events)
+                              if e.get("kind") == "narration"), None)
+        last_event = events[-1] if events else None
+        last_saved_turn = (current_scene or last_event or {}).get("summary")
 
         canon_res = _safe(self.list_canon)
         canon = canon_res.get("canon", []) if isinstance(canon_res, dict) else []
         retainers = _safe(self.list_henchmen)
 
+        # Campaign name + a monotonic version (total chronicle events) + a
+        # real-world timestamp -- the at-a-glance "did the right save load?" check.
+        camp_name = None
+        try:
+            camp = self.repo.get_campaign(self.cid)
+            if camp is not None:
+                camp_name = camp["name"] if "name" in camp.keys() else None
+        except Exception:
+            pass
+        version = None
+        for _tbl in ("event", "events"):
+            try:
+                row = self.repo.conn.execute(
+                    "SELECT COUNT(*) FROM {} WHERE campaign_id=?".format(_tbl),
+                    (self.cid,)).fetchone()
+                if row is not None:
+                    version = row[0]
+                    break
+            except Exception:
+                continue
+        if version is None:
+            version = len(events)
+        import datetime as _dt
+        generated_at = _dt.datetime.now(_dt.timezone.utc).isoformat()
+
+        # Where the party actually is, by name -- mapped location, else the
+        # place label set on the party marker, else the bare hex.
+        place = ((here or {}).get("name")
+                 or (party.get("place") if isinstance(party, dict) else None)
+                 or (("hex {},{}".format(party.get("col"), party.get("row")))
+                     if isinstance(party, dict) and party.get("col") is not None
+                     else None))
+
         return {
+            "campaign": camp_name,
             "campaign_id": self.cid,
+            "snapshot_version": version,
+            "generated_at": generated_at,
             "date_time": self._date(),
+            "place": place,
+            "last_saved_turn": last_saved_turn,
             "pc": pc,
             "memorized_spells": {"memorized": pc.get("memorized", []), "slots": spells},
             "advancement": advancement,
