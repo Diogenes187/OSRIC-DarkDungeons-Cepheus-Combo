@@ -122,17 +122,50 @@ def _context() -> str:
     except Exception:
         return ""
 
-def _do_dm_response(narrative: str = "") -> dict:
-    ctx, pc = _context(), _pc_name()
+def _pass1_violations(narrative: str, ctx: str, pc: str) -> list:
     res = _validator.validate_dm_response(narrative, context=ctx, character_name=pc)
-    violations = list(res.get("violations", []))
-    if not violations and _validator.api_available():
+    return list(res.get("violations", []))
+
+def _provider_pass2_violations(narrative: str, ctx: str, pc: str) -> list:
+    out: list = []
+    if _validator.api_available():
         try:
             api = _validator.validate_dm_response_api(narrative, context=ctx, character_name=pc)
-            for r in api.get("rules_failed", []):
-                violations.append({"rule": r, "detail": "Pass-2 (model judgment) flag."})
+            out = [{"rule": r, "detail": "Pass-2 (configured model) flag."}
+                   for r in api.get("rules_failed", [])]
         except Exception:
             pass  # an API hiccup must never block the table
+    return out
+
+async def _sampling_pass2_violations(narrative: str, ctx: str, pc: str):
+    """Pass-2 on the CLIENT'S OWN model via MCP sampling (same model as Pass-1,
+    no server key). Returns a list of violations, or None if the client can't sample."""
+    try:
+        session = server.request_context.session
+    except Exception:
+        return None
+    try:
+        result = await session.create_message(
+            messages=[types.SamplingMessage(
+                role="user",
+                content=types.TextContent(
+                    type="text",
+                    text=_validator.pass2_user_input(narrative, ctx, pc)))],
+            system_prompt=_validator.pass2_system_prompt(),
+            max_tokens=600,
+            temperature=0.0,
+        )
+    except Exception:
+        return None  # client declined / no sampling capability -> caller falls back
+    text = ""
+    content = getattr(result, "content", None)
+    if content is not None:
+        text = getattr(content, "text", "") or ""
+    parsed = _validator.parse_pass2_verdict(text, narrative)
+    return [{"rule": r, "detail": "Pass-2 (client model via sampling) flag."}
+            for r in parsed.get("rules_failed", [])]
+
+def _finish_dm_response(narrative: str, violations: list) -> dict:
     if not violations:
         _ATTEMPT["count"] = 0
         _DELIVERY["method"] = "dm_response"
@@ -148,6 +181,27 @@ def _do_dm_response(narrative: str = "") -> dict:
     return {"status": "rejected", "violations": violations,
             "reason": "Rewrite this beat and resend through dm_response: "
                       + "; ".join(v.get("detail", "") for v in violations)}
+
+def _do_dm_response(narrative: str = "") -> dict:
+    """Sync path (no MCP session): Pass-1 + configured-provider Pass-2."""
+    ctx, pc = _context(), _pc_name()
+    violations = _pass1_violations(narrative, ctx, pc)
+    if not violations:
+        violations += _provider_pass2_violations(narrative, ctx, pc)
+    return _finish_dm_response(narrative, violations)
+
+async def _do_dm_response_async(narrative: str = "") -> dict:
+    """Sampling-first ladder: client's own model (matches Pass-1) ->
+    configured provider -> Pass-1 local checks only."""
+    ctx, pc = _context(), _pc_name()
+    violations = _pass1_violations(narrative, ctx, pc)
+    if not violations:
+        sampled = await _sampling_pass2_violations(narrative, ctx, pc)
+        if sampled is None:
+            violations += _provider_pass2_violations(narrative, ctx, pc)
+        else:
+            violations += sampled
+    return _finish_dm_response(narrative, violations)
 
 def _do_dm_quick(narrative: str = "") -> dict:
     t = (narrative or "").strip()
@@ -311,11 +365,16 @@ async def list_tools() -> list[types.Tool]:
 async def call_tool(name: str, arguments: dict | None) -> list[types.TextContent]:
     # Discipline tools (delivery + validation) are handled here; everything else
     # is an engine tool routed to the deterministic source of truth.
-    handler = _DISCIPLINE_HANDLERS.get(name)
-    if handler is not None:
-        result = handler(**(arguments or {}))
+    if name == "dm_response":
+        # Async so Pass-2 can run on the CLIENT'S model via MCP sampling
+        # (falls back to a configured provider, then to Pass-1 only).
+        result = await _do_dm_response_async(**(arguments or {}))
     else:
-        result = _TOOLS.dispatch(name, arguments or {})
+        handler = _DISCIPLINE_HANDLERS.get(name)
+        if handler is not None:
+            result = handler(**(arguments or {}))
+        else:
+            result = _TOOLS.dispatch(name, arguments or {})
     return [types.TextContent(type="text",
                               text=json.dumps(result, default=str))]
 

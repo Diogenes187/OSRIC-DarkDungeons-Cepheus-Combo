@@ -1,0 +1,23 @@
+# Keep the image small and never bake local state into it.
+.git
+.gitignore
+.pytest_cache
+__pycache__
+**/__pycache__
+*.pyc
+tests
+selfplay_gym.py
+run_tests.py
+
+# Local campaign state + DM-only material stay out of the image
+# (state lives on the Fly volume; modules are loaded at runtime if you add them).
+campaign.db
+canon.json
+*.mcpb
+_DM_ONLY_*
+_DM_PROTOCOL_*
+
+# Big binaries not needed by the server runtime
+The_Known_World_Gazetteer.pdf
+maps/*.png
+maps/pdf_*.png

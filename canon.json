@@ -1,1 +1,40 @@
-{}
+{
+  "1": {
+    "bellweather_priory": {
+      "slug": "bellweather_priory",
+      "created": "2026-06-24",
+      "title": "Bellweather Priory (SCRAPPED)",
+      "kind": "arc",
+      "theme": "A real place first: ruined hospice-priory, occupied, history predates and outlasts the PCs. No plot/chosen-one/puzzle chains.",
+      "public": "VOID -- scrapped (player learned its contents). Replaced by Harrowgate Keep. Do not use.",
+      "secret": "VOID -- scrapped. Ignore all prior Bellweather content.",
+      "status": "scrapped",
+      "notes": "Scrapped and replaced by harrowgate_keep.",
+      "updated": "2026-06-24"
+    },
+    "harrowgate_keep": {
+      "slug": "harrowgate_keep",
+      "created": "2026-06-24",
+      "title": "Harrowgate Keep",
+      "kind": "location-adventure (B1/B2, 4th level, 1-3 PCs)",
+      "theme": "A real place first: a decommissioned march toll-keep, flood-breached and occupied. History predates and outlasts the PCs. No plot/chosen-one/puzzle chains.",
+      "public": "A ruined royal toll-and-watch keep on the old march border, ~a day+ E of Wend on the east road above a river ford (hex ~14,13). Decommissioned ~60 yrs ago when the border was redrawn; later a flood breached its river-wall. Full keyed module saved DM-side: dndTKW/_DM_ONLY_harrowgate_keep.md and _DM_ONLY_harrowgate_map.svg. Keyed for 4th level, 1-3 PCs.",
+      "secret": "Factions: (A) Hobgoblin Fang ~14 + 3 elites + sub-chief GRORM (HD3) holding gate/bailey/keep (rms1-9); raid the east road; won't go below the waterline; warchest in Grorm's chamber (rm4) incl. Potion of Healing + a MU scroll (Web, Mirror Image). (B) 5 GHOULS (\"the drowned dead\") in flooded undercroft/crypt (11,12) -- elves immune to their paralysis. (C) Captive Wend merchant OREN PELK + 2 servants barred in rm6 (ransom/ally; loose-thread tie to the Greywether merchant's-mark if desired). Mysteries (no fixed answer): sealed TOLL-TREASURY bricked in gatehouse strongroom (rm1); why the dead rose (flood+war-dead, not a curse); why hobgoblins fear below. ONE strange feature: WARDFFAN, a +1 longsword in the founder's tomb (rm12, ghoul-guarded). Treasure ~3000-5000 gp + Wardffan + Potion of Healing + Potion of Climbing + a scroll. Approaches: gate, climb crumbled NE tower (9), river-wall breach (15->10/11), cistern drain (13), shrine stair (8->12), parley/ransom. Full key+map in DM-ONLY files. Reveal only what the party discovers; hobgoblins are disciplined (alarm brings numbers); roll surprise/reaction/morale honestly; place persists if ignored.",
+      "status": "active",
+      "notes": "Master key: dndTKW/_DM_ONLY_harrowgate_keep.md ; map: dndTKW/_DM_ONLY_harrowgate_map.svg. Replaces scrapped bellweather_priory.",
+      "updated": "2026-06-24"
+    },
+    "dm_protocol_module_stocking": {
+      "slug": "dm_protocol_module_stocking",
+      "created": "2026-06-25",
+      "title": "DM Protocol: Module Authoring &amp; Stocking (PERMANENT)",
+      "kind": "dm-protocol",
+      "theme": "Standing rules for building and running every dungeon/module in this campaign. Read before building or running any module.",
+      "public": "Internal DM protocol (not player-facing).",
+      "secret": "Use this engine's EXISTING structure, not invented files. Design law: DESIGN_RULES.md + KNOWN_WORLD_BIBLE.md. Modules: one file per location at modules/<Name>.md in the format of modules/Greywether_Grange.md (premise, ASCII map, groups, room key with HP PRE-ROLLED INLINE, the one strange thing 'do not explain', mysteries, d10 rumors, wandering table, DM notes). That module file IS the room store. Secrets/state: canon tools + record_event. Root _DM_ONLY_* files are DEPRECATED/superseded. RULES: (1) design per DESIGN_RULES.md real-place-first, exactly one strange thing; (2) pre-roll all HP inline before play, never roll/spawn at the table; (3) hide -- never print HP/treasure/keys/strange-thing/rosters to chat, reveal only what PCs perceive, rumors are the only pre-play player layer; (4) run by reading the room entry and instantiating with the key's exact HP; (5) persist as modules/<Name>.md + sealed canon, play-state via record_event + a CURRENT STATE header. Full protocol: _DM_PROTOCOL_module_stocking.md. Harrowgate conforms: modules/Harrowgate_Keep.md.",
+      "status": "active",
+      "notes": "Aligned to engine structure (modules/ + DESIGN_RULES.md) after discovering the real format in modules/Greywether_Grange.md.",
+      "updated": "2026-06-25"
+    }
+  }
+}

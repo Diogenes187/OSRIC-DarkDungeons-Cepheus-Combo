@@ -119,14 +119,27 @@ import os
 # present and Pass-2 is actually called. (The original hard-failed at import.)
 _API_CLIENT = None
 
+def _validator_provider() -> str:
+    # Pass-2 runs on whatever model the deployment uses -- model-agnostic.
+    return os.environ.get("GREYHAWK_VALIDATOR_PROVIDER", "deepseek")
+
 def api_available() -> bool:
-    return bool(os.environ.get('ANTHROPIC_API_KEY'))
+    try:
+        from referee.config import get_config
+        cfg = get_config(_validator_provider())
+        return cfg.provider == "ollama" or bool(cfg.api_key)
+    except Exception:
+        return bool(os.environ.get("ANTHROPIC_API_KEY")
+                    or os.environ.get("DEEPSEEK_API_KEY")
+                    or os.environ.get("OPENAI_API_KEY")
+                    or os.environ.get("OPENROUTER_API_KEY"))
 
 def _get_api_client():
     global _API_CLIENT
     if _API_CLIENT is None:
-        import anthropic
-        _API_CLIENT = anthropic.Anthropic()
+        from referee.llm import OpenAICompatibleClient
+        from referee.config import get_config
+        _API_CLIENT = OpenAICompatibleClient(get_config(_validator_provider()))
     return _API_CLIENT
 
 
@@ -397,6 +410,58 @@ _API_RULE_LABELS = (
 )
 
 
+def pass2_system_prompt() -> str:
+    return _API_VALIDATOR_PROMPT
+
+
+def pass2_user_input(narrative: str, context: str = "",
+                     character_name: str = "") -> str:
+    return (
+        f"GAME CONTEXT:\n{context}\n\n"
+        f"CHARACTER: {character_name}\n\n"
+        f"DM NARRATIVE TO CHECK:\n{narrative}"
+    )
+
+
+def parse_pass2_verdict(verdict_text: str, narrative: str = "") -> dict:
+    verdict_text = verdict_text or ""
+    upper = verdict_text.upper()
+    verdict_lines = [ln.strip() for ln in verdict_text.strip().splitlines()
+                     if ln.strip()]
+    final_line = verdict_lines[-1] if verdict_lines else ""
+    is_clean = (
+        "CLEAN" in final_line.upper() or
+        ("VIOLATION" not in final_line.upper()
+         and verdict_text.upper().count("FAIL") == 0)
+    )
+    rules_failed: list[str] = []
+    seen: set[str] = set()
+    for line in verdict_text.splitlines():
+        if "FAIL" not in line.upper():
+            continue
+        for label in _API_RULE_LABELS:
+            if label in line and label not in seen:
+                rules_failed.append(label)
+                seen.add(label)
+    if not rules_failed and "VIOLATION" in upper:
+        m = re.search(r'VIOLATION\s*[—\-:]\s*(.+)', verdict_text)
+        if m:
+            tail = m.group(1)
+            for label in _API_RULE_LABELS:
+                if label in tail and label not in seen:
+                    rules_failed.append(label)
+                    seen.add(label)
+    rules_failed = [r for r in rules_failed if r not in _DISABLED_RULES]
+    is_clean = is_clean or not rules_failed
+    return {
+        "clean":             is_clean,
+        "available":         True,
+        "rules_failed":      rules_failed,
+        "verdict":           verdict_text,
+        "original_response": narrative,
+    }
+
+
 def validate_dm_response_api(
     narrative: str,
     context: str = "",
@@ -424,78 +489,12 @@ def validate_dm_response_api(
     Raises whatever exception the anthropic SDK raises on API failure
     (auth, rate limit, network, 5xx). Hard-fail strict by design.
     """
-    check_input = (
-        f"GAME CONTEXT:\n{context}\n\n"
-        f"CHARACTER: {character_name}\n\n"
-        f"DM NARRATIVE TO CHECK:\n{narrative}"
+    check_input = pass2_user_input(narrative, context, character_name)
+    # Model-agnostic Pass-2 via the OpenAI-compatible client (any provider).
+    _resp = _get_api_client().chat(
+        messages=[
+            {"role": "system", "content": _API_VALIDATOR_PROMPT},
+            {"role": "user", "content": check_input},
+        ],
     )
-
-    result = _get_api_client().messages.create(
-        model="claude-haiku-4-5",
-        # Phase 59: 400 was truncating responses before the "Final verdict"
-        # line landed, which made the new final-line-authoritative parser
-        # mistake a half-printed PASS sequence for a clean verdict.
-        max_tokens=600,
-        system=_API_VALIDATOR_PROMPT,
-        messages=[{"role": "user", "content": check_input}],
-    )
-
-    verdict_text = result.content[0].text
-    upper = verdict_text.upper()
-
-    # Phase 59: trust the FINAL verdict line, not the whole text. Per-rule
-    # explanations frequently contain the word "violation" in their FAIL
-    # reason; the old check (CLEAN in upper AND VIOLATION not in upper)
-    # mis-flagged clean turns whose rule explanations cited violations.
-    # Now: if the final line says CLEAN, it's clean. Otherwise fall back
-    # to "no VIOLATION in final AND no FAIL anywhere" as the all-pass signal.
-    verdict_lines = [
-        ln.strip() for ln in verdict_text.strip().splitlines() if ln.strip()
-    ]
-    final_line = verdict_lines[-1] if verdict_lines else ""
-    is_clean = (
-        "CLEAN" in final_line.upper() or
-        (
-            "VIOLATION" not in final_line.upper()
-            and verdict_text.upper().count("FAIL") == 0
-        )
-    )
-
-    # Parse per-line: Haiku is prompted to output one line per rule with
-    # PASS or FAIL plus a reason. A naive "label in text AND FAIL in text"
-    # check would flag every rule on any failure because all six labels
-    # also appear in the model's listing — so we look for the label AND
-    # the word FAIL on the SAME line.
-    rules_failed: list[str] = []
-    seen: set[str] = set()
-    for line in verdict_text.splitlines():
-        line_upper = line.upper()
-        if "FAIL" not in line_upper:
-            continue
-        for label in _API_RULE_LABELS:
-            if label in line and label not in seen:
-                rules_failed.append(label)
-                seen.add(label)
-    # Fallback: if the verdict line at the end carries "VIOLATION — A, B"
-    # but no per-rule FAIL lines (model collapsed format), parse from there.
-    if not rules_failed and "VIOLATION" in upper:
-        # Look for "VIOLATION — RULE1, RULE2" or "VIOLATION - RULE1, RULE2"
-        m = re.search(r'VIOLATION\s*[—\-:]\s*(.+)', verdict_text)
-        if m:
-            tail = m.group(1)
-            for label in _API_RULE_LABELS:
-                if label in tail and label not in seen:
-                    rules_failed.append(label)
-                    seen.add(label)
-
-    # Drop player-silenced rules; if nothing else failed, the turn is clean.
-    rules_failed = [r for r in rules_failed if r not in _DISABLED_RULES]
-    is_clean = is_clean or not rules_failed
-
-    return {
-        "clean":             is_clean,
-        "available":         True,
-        "rules_failed":      rules_failed,
-        "verdict":           verdict_text,
-        "original_response": narrative,
-    }
+    return parse_pass2_verdict(_resp.text or "", narrative)

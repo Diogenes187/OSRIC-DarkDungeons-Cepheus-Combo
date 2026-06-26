@@ -5,5 +5,7 @@ fastapi
 uvicorn[standard]
 pydantic
 websockets
-mcp>=1.2.0
-anthropic>=0.40.0   # only needed for Pass-2 validation
+mcp>=1.10.0   # Streamable HTTP transport (server/http_server.py) needs a recent SDK
+# anthropic no longer required: Pass-2 validation runs through the model-agnostic
+# OpenAI-compatible client (referee/llm.py). Install only for a native Claude path.
+# anthropic>=0.40.0
