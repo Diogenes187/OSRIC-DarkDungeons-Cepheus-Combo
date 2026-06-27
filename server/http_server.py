@@ -79,7 +79,7 @@ async def _lifespan(_app: Starlette) -> AsyncIterator[None]:
         yield
 
 
-app = Starlette(
+_starlette_app = Starlette(
     debug=False,
     middleware=[
         Middleware(
@@ -98,5 +98,13 @@ app = Starlette(
     lifespan=_lifespan,
 )
 
-# Serve /mcp directly -- no 307 to /mcp/ that would drop the POST body / auth.
-app.router.redirect_slashes = False
+
+async def app(scope, receive, send):
+    """Normalize bare '/mcp' to '/mcp/' before routing, so the Mount serves it
+    directly -- no 307 (which clients drop the POST/Authorization across) and no
+    404. Everything else (lifespan, /health, OAuth routes) passes through."""
+    if scope.get("type") == "http" and scope.get("path") == "/mcp":
+        scope = dict(scope)
+        scope["path"] = "/mcp/"
+        scope["raw_path"] = b"/mcp/"
+    await _starlette_app(scope, receive, send)
