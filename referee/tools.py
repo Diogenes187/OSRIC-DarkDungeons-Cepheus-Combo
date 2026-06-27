@@ -1768,6 +1768,41 @@ class RefereeTools:
                 "movement_from": "party encumbrance" if party_move is not None
                                  else "base_move", "log": log}
 
+    def travel_route(self, legs: List[Dict[str, Any]], miles_per_hex: int = 6,
+                     season: str = "spring", base_move: int = 120,
+                     party: Optional[List[str]] = None,
+                     advance: bool = True) -> Dict[str, Any]:
+        """Resolve an overland route read off the shared map -- the engine does
+        ALL the distance/time math. Each leg is {"terrain": <plains|road|forest|
+        hills|mountains|swamp|desert|...>, "hexes": N} (or "miles": M instead of
+        hexes). The digital Darlene hex overlay is 6 miles/hex. Uses encumbered pace,
+        sums the days, advances the AS calendar, and returns a per-leg breakdown
+        plus the arrival date. Pass party=[names] for true encumbered pace."""
+        import math
+        party_move = self._party_move(party)
+        move = party_move if party_move is not None else int(base_move)
+        out_legs, total_miles, total_days = [], 0, 0
+        for leg in (legs or []):
+            terrain = (leg.get("terrain") or "plains")
+            if leg.get("miles") is not None:
+                miles = int(leg["miles"])
+            else:
+                miles = int(leg.get("hexes", 0)) * int(miles_per_hex)
+            rate = travel_mod.miles_per_day(int(move), terrain)
+            days = max(1, math.ceil(miles / rate)) if miles > 0 else 0
+            total_miles += miles
+            total_days += days
+            out_legs.append({"terrain": terrain, "hexes": leg.get("hexes"),
+                             "miles": miles, "miles_per_day": rate, "days": days})
+        new_date = (self._advance_calendar(total_days)
+                    if (advance and total_days) else self._date())
+        return {"legs": out_legs, "total_miles": total_miles,
+                "total_days": total_days, "miles_per_hex": int(miles_per_hex),
+                "movement_rate": move,
+                "movement_from": "party encumbrance" if party_move is not None
+                                 else "base_move",
+                "arrival_date": new_date}
+
     # ---- trade & vessels ----------------------------------------------
     @staticmethod
     def _econs(s) -> List[str]:
@@ -3126,6 +3161,17 @@ def specs() -> List[Dict[str, Any]]:
           "Emptied bodies are removed unless keep_bodies=true.",
           {"names": {"type": "array", "items": S}, "group": S, "to": S,
            "keep_bodies": {"type": "boolean"}}),
+        t("travel_route", "Resolve an overland route read off the shared Darlene "
+          "map -- the engine does all the distance/time math, you do none. Pass "
+          "legs=[{terrain, hexes}] (or {terrain, miles}); the digital Darlene "
+          "overlay is 6 miles/hex (miles_per_hex default 6). Uses the party's "
+          "encumbered pace, sums the days, advances the calendar, and returns "
+          "per-leg miles/days plus the arrival date. Pass party=[names] for "
+          "true encumbered pace.",
+          {"legs": {"type": "array", "items": {"type": "object"}},
+           "miles_per_hex": I, "season": S, "base_move": I,
+           "party": {"type": "array", "items": S},
+           "advance": {"type": "boolean"}}, ["legs"]),
         t("add_venture", "Register/update a standing enterprise that pays "
           "monthly. yield_gp and upkeep_gp are PER MONTH; net = yield - upkeep. "
           "Upserts by slug; only the fields you pass change.",
