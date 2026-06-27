@@ -35,7 +35,7 @@ from engine.data import magic_items as magic_mod
 
 # If a campaign was created without an in-game date, seed it here the first time
 # any tool needs the date, so the calendar starts ticking and persists thereafter.
-DEFAULT_START_DATE = "Longlight 1, 211 AS"
+DEFAULT_START_DATE = "Reaping 1, 576 CY"
 from engine.data import encounters as encounters_mod
 from engine.data import weather as weather_mod
 from engine import travel as travel_mod
@@ -2387,9 +2387,9 @@ class RefereeTools:
         return out
 
     def seed_world(self) -> Dict[str, Any]:
-        from engine.data import known_world
-        n = known_world.seed_campaign(self.repo, self.cid)
-        return {"seeded": n, "note": "The Known World's anchor locations placed."}
+        from engine.data import flanaess
+        n = flanaess.seed_campaign(self.repo, self.cid)
+        return {"seeded": n, "note": "Flanaess (Greyhawk) anchor locations placed."}
 
     def roll_ability(self, method: str = "4d6", count: int = 6) -> Dict[str, Any]:
         """Generate ability scores with the ENGINE's own roller -- the dice AND

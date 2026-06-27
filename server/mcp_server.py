@@ -71,17 +71,24 @@ def _bind_tools() -> tools_mod.RefereeTools:
     repo = Repo.open(DB_PATH)
     cid = CAMPAIGN_ID
     if not repo.get_campaign(cid):
-        cid = repo.create_campaign("The Known World",
-                                   setting="The Known World (Orruvane), 211 AS",
+        cid = repo.create_campaign("Greyhawk",
+                                   setting="The Flanaess (World of Greyhawk), 576 CY",
                                    allow_race_overrides=True)
-    else:
-        # Anything-goes: ensure racial class/level limits stay OFF.
-        try:
-            repo.conn.execute(
-                "UPDATE campaign SET allow_race_overrides=1 WHERE id=?", (cid,))
-            repo.conn.commit()
-        except Exception:
-            pass
+    # Anything-goes ON; and heal an older (e.g. Known World) campaign to Greyhawk.
+    try:
+        repo.conn.execute(
+            "UPDATE campaign SET allow_race_overrides=1, name='Greyhawk' WHERE id=?",
+            (cid,))
+        repo.conn.commit()
+    except Exception:
+        pass
+    try:
+        repo.conn.execute(
+            "UPDATE campaign SET setting='The Flanaess (World of Greyhawk), 576 CY' "
+            "WHERE id=?", (cid,))
+        repo.conn.commit()
+    except Exception:
+        pass
     return tools_mod.RefereeTools(repo, cid)
 
 

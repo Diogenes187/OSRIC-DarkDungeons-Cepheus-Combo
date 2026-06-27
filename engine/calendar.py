@@ -1,43 +1,32 @@
-"""calendar.py -- The Known World calendar and time advancement.
+"""calendar.py -- the Flanaess (World of Greyhawk) calendar and time advancement.
 
-Years are reckoned After the Sundering (AS): the cataclysm is year 0, "before"
-is BS, and the campaign opens in 211 AS. The year is 364 days -- twelve 28-day
-months with a 7-day festival between each season. Dates read "Longlight 13,
-211 AS". advance() moves a date forward by whole days, rolling through months,
-festivals, and years.
+The Common Year (CY) is 364 days: twelve 28-day months with a 7-day festival
+between each season. Dates read "Reaping 4, 576 CY". advance() moves a date
+forward by whole days, rolling through months, festivals, and years.
 
-Legacy Flanaess month names and the 'CY' suffix still PARSE (they occupy the
-same 16 ordinal slots), so any old saved date converts cleanly into the Known
-World calendar.
+(Stray dates from other reckonings -- e.g. an old 'AS' suffix -- simply fail to
+parse, so callers fall back to the campaign's default start date.)
 """
 from __future__ import annotations
 
 import re
 from typing import Optional, Tuple
 
-# (name, length) in calendar order: a season's festival, then its three months.
+# (name, length) in calendar order.
 MONTHS = [
-    ("Emberwake", 7),  ("Frostmere", 28), ("Ironnight", 28), ("Lastfrost", 28),    # winter
-    ("Greenwake", 7),  ("Seedfall", 28),  ("Rainmoot", 28),  ("Blossomtide", 28),  # spring
-    ("Highmere", 7),   ("Longlight", 28), ("Highsun", 28),   ("Goldgrass", 28),    # summer
-    ("Reckoning", 7),  ("Harvestide", 28),("Duskfall", 28),  ("Greymoot", 28),     # autumn
+    ("Needfest", 7),  ("Fireseek", 28),  ("Readying", 28),   ("Coldeven", 28),
+    ("Growfest", 7),  ("Planting", 28),  ("Flocktime", 28),  ("Wealsun", 28),
+    ("Richfest", 7),  ("Reaping", 28),   ("Goodmonth", 28),  ("Harvester", 28),
+    ("Brewfest", 7),  ("Patchwall", 28), ("Ready'reat", 28), ("Sunsebb", 28),
 ]
 YEAR_DAYS = sum(length for _, length in MONTHS)     # 364
 _INDEX = {name.lower(): i for i, (name, _) in enumerate(MONTHS)}
 
-# Legacy Flanaess names occupy the SAME ordinal slots, so "Reaping 13, 576 CY"
-# parses to the matching Known World month (Longlight) and can be re-dated to AS.
-_LEGACY = ["Needfest", "Fireseek", "Readying", "Coldeven", "Growfest", "Planting",
-           "Flocktime", "Wealsun", "Richfest", "Reaping", "Goodmonth", "Harvester",
-           "Brewfest", "Patchwall", "Ready'reat", "Sunsebb"]
-for _i, _name in enumerate(_LEGACY):
-    _INDEX.setdefault(_name.lower(), _i)
-
-_DATE = re.compile(r"^\s*([A-Za-z'’]+)\s+(\d{1,2})\s*,\s*(\d+)\s*(AS|BS|CY)?\s*$")
+_DATE = re.compile(r"^\s*([A-Za-z'’]+)\s+(\d{1,2})\s*,\s*(\d+)\s*(CY)?\s*$")
 
 
 def parse(date_str: str) -> Optional[Tuple[int, int, int]]:
-    """'Longlight 13, 211 AS' (or a legacy 'Reaping 13, 576 CY') -> (month_index, day, year)."""
+    """'Reaping 4, 576 CY' -> (month_index, day, year), or None."""
     m = _DATE.match(date_str or "")
     if not m:
         return None
@@ -48,7 +37,7 @@ def parse(date_str: str) -> Optional[Tuple[int, int, int]]:
 
 
 def format_date(month_index: int, day: int, year: int) -> str:
-    return "{} {}, {} AS".format(MONTHS[month_index][0], day, year)
+    return "{} {}, {} CY".format(MONTHS[month_index][0], day, year)
 
 
 def advance(date_str: str, days: int) -> Optional[str]:
@@ -57,7 +46,6 @@ def advance(date_str: str, days: int) -> Optional[str]:
     if parsed is None:
         return None
     mi, day, year = parsed
-    # absolute day-of-year (0-based) + days, then re-decompose
     offset = sum(length for _, length in MONTHS[:mi]) + (day - 1) + int(days)
     year += offset // YEAR_DAYS
     doy = offset % YEAR_DAYS
