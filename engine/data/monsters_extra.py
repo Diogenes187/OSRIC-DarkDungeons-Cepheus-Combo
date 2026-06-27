@@ -12,6 +12,22 @@ Columns: name | hit_dice | armour_class | attacks | morale | size | no_enc | xp 
 """
 
 EXTRA = [
+    # --- men (human & demi-human NPC types; GM Guide "Men") ---
+    "Bandit | 1 | 7 [13] | 1 by weapon (1d6) | 50 | Medium | 4d10 | 15 +1/hp | Average (8-10) | Neutral | 120ft",
+    "Brigand | 1 | 6 [14] | 1 by weapon (1d6) | 55 | Medium | 4d10 | 15 +1/hp | Average (8-10) | Chaotic evil | 120ft",
+    "Berserker | 1+1 | 7 [13] | 1 by weapon (1d8), +2 to hit, never checks morale | 100 | Medium | 10d10 | 35 +2/hp | Average (8-10) | Neutral | 120ft",
+    "Buccaneer | 1 | 7 [13] | 1 by weapon (1d6) | 55 | Medium | 3d10 | 15 +1/hp | Average (8-10) | Neutral | 120ft",
+    "Dervish | 1+1 | 5 [15] | 1 by weapon (1d8), fanatic | 100 | Medium | 10d10 | 35 +2/hp | Average (8-10) | Lawful | 120ft",
+    "Nomad | 1 | 8 [12] | 1 by weapon (1d6) | 50 | Medium | 3d10 | 15 +1/hp | Average (8-10) | Neutral | 120ft",
+    "Tradesman | 1 | 9 [11] | 1 by weapon (1d4) | 30 | Medium | 1d10 | 10 +1/hp | Average (8-10) | Neutral | 120ft",
+    "Pilgrim | 1 | 8 [12] | 1 by weapon (1d6) | 50 | Medium | 3d10 | 15 +1/hp | Average (8-10) | Any | 120ft",
+    "Noble | 3 | 4 [16] | 1 by weapon (1d8) | 65 | Medium | 1d10 | 75 +3/hp | Average (8-10) | Any | 120ft",
+    "Caveman | 2 | 8 [12] | 1 by weapon (1d6) | 60 | Medium | 4d10 | 35 +2/hp | Low (5-7) | Neutral | 120ft",
+    "Acolyte | 1 | 8 [12] | 1 by weapon (1d6) | 55 | Medium | 1d10 | 20 +1/hp | Average (8-10) | Any | 120ft",
+    "Cultist | 1 | 8 [12] | 1 by weapon (1d6) | 55 | Medium | 2d6 | 15 +1/hp | Average (8-10) | Chaotic evil | 120ft",
+    "Guardsman | 1 | 5 [15] | 1 by weapon (1d8) | 55 | Medium | 2d6 | 20 +1/hp | Average (8-10) | Any | 120ft",
+    "Footman, Heavy | 1 | 4 [16] | 1 by weapon (1d8) | 55 | Medium | 4d10 | 20 +1/hp | Average (8-10) | Any | 120ft",
+    "Bowman, Long | 1 | 7 [13] | 1 long bow (1d6) or by weapon | 50 | Medium | 4d10 | 20 +1/hp | Average (8-10) | Any | 120ft",
     # --- ogres ---
     "Ogre | 4+1 | 5 [15] | 1 (1d10) or by weapon | 70 | Large (9ft+) |  | 95 +5/hp | Low (5-7) | Chaotic evil | 90ft",
     "Ogre Mage | 5+2 | 4 [16] | 1 (1d12) or by weapon | 75 | Large (9ft+) | 1 | 750 +6/hp | Average (8-10) | Chaotic evil | 90ft; 150ft flying",
