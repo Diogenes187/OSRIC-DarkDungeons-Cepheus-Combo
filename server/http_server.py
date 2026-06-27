@@ -27,6 +27,8 @@ from collections.abc import AsyncIterator
 from starlette.applications import Starlette
 from starlette.routing import Mount, Route
 from starlette.responses import PlainTextResponse
+from starlette.middleware import Middleware
+from starlette.middleware.cors import CORSMiddleware
 from starlette.types import Receive, Scope, Send
 
 from mcp.server.streamable_http_manager import StreamableHTTPSessionManager
@@ -73,6 +75,15 @@ async def _lifespan(_app: Starlette) -> AsyncIterator[None]:
 
 app = Starlette(
     debug=False,
+    middleware=[
+        Middleware(
+            CORSMiddleware,
+            allow_origins=["*"],
+            allow_methods=["*"],
+            allow_headers=["*"],
+            expose_headers=["mcp-session-id"],
+        ),
+    ],
     routes=[
         Route("/health", _health, methods=["GET"]),
         Mount("/mcp", app=_handle_mcp),
