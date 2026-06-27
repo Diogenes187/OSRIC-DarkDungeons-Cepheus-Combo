@@ -227,6 +227,8 @@ def routes() -> list:
     return [
         Route("/.well-known/oauth-protected-resource",
               protected_resource_metadata, methods=["GET"]),
+        Route("/.well-known/oauth-protected-resource/mcp",
+              protected_resource_metadata, methods=["GET"]),
         Route("/.well-known/oauth-authorization-server",
               authorization_server_metadata, methods=["GET"]),
         Route("/register", register, methods=["POST"]),
