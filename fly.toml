@@ -14,6 +14,7 @@ primary_region = 'ord'
   GREYHAWK_MCP_DB = '/data/campaign.db'
   GREYHAWK_MCP_NAME = 'tkw-dnd'
   GREYHAWK_VALIDATOR_PROVIDER = 'deepseek'
+  BASE_URL = 'https://tkw-dnd.fly.dev'
 
 [[mounts]]
   source = 'tkw_data'

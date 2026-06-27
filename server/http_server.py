@@ -36,6 +36,7 @@ from mcp.server.streamable_http_manager import StreamableHTTPSessionManager
 # Reuse the fully-wired server (tools + instructions + handlers). Importing this
 # module also binds the engine to GREYHAWK_MCP_DB, exactly as the stdio build does.
 from server.mcp_server import server  # noqa: E402
+from server import oauth  # noqa: E402
 
 AUTH_TOKEN = os.environ.get("MCP_AUTH_TOKEN", "").strip()
 
@@ -51,14 +52,19 @@ _session_manager = StreamableHTTPSessionManager(
 
 
 async def _handle_mcp(scope: Scope, receive: Receive, send: Send) -> None:
-    if AUTH_TOKEN:
-        headers = dict(scope.get("headers") or [])
-        presented = headers.get(b"authorization", b"").decode()
-        if presented != f"Bearer {AUTH_TOKEN}":
-            await send({"type": "http.response.start", "status": 401,
-                        "headers": [(b"content-type", b"text/plain")]})
-            await send({"type": "http.response.body", "body": b"unauthorized"})
-            return
+    headers = dict(scope.get("headers") or [])
+    presented = headers.get(b"authorization", b"").decode()
+    token = presented[7:].strip() if presented[:7].lower() == "bearer " else ""
+    ok = oauth.validate_token(token) or (AUTH_TOKEN and token == AUTH_TOKEN)
+    if not ok:
+        prm = oauth.BASE_URL + "/.well-known/oauth-protected-resource"
+        await send({"type": "http.response.start", "status": 401, "headers": [
+            (b"content-type", b"application/json"),
+            (b"www-authenticate",
+             ('Bearer resource_metadata="%s"' % prm).encode("ascii"))]})
+        await send({"type": "http.response.body",
+                    "body": b'{"error":"invalid_token"}'})
+        return
     await _session_manager.handle_request(scope, receive, send)
 
 
@@ -86,6 +92,7 @@ app = Starlette(
     ],
     routes=[
         Route("/health", _health, methods=["GET"]),
+        *oauth.routes(),
         Mount("/mcp", app=_handle_mcp),
     ],
     lifespan=_lifespan,
