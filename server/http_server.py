@@ -81,7 +81,6 @@ async def _lifespan(_app: Starlette) -> AsyncIterator[None]:
 
 app = Starlette(
     debug=False,
-    redirect_slashes=False,     # serve /mcp directly -- no 307 that drops the POST
     middleware=[
         Middleware(
             CORSMiddleware,
@@ -98,3 +97,6 @@ app = Starlette(
     ],
     lifespan=_lifespan,
 )
+
+# Serve /mcp directly -- no 307 to /mcp/ that would drop the POST body / auth.
+app.router.redirect_slashes = False
