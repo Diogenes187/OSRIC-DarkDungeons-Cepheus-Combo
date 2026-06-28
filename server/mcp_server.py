@@ -141,26 +141,52 @@ def _provider_pass2_violations(narrative: str, ctx: str, pc: str) -> list:
             pass  # an API hiccup must never block the table
     return out
 
+# dm_response Pass-2 tuning. The client-model sampling call hangs if the connected
+# client doesn't actually answer createMessage, which used to stall dm_response for
+# the full 180s MCP timeout. We now (a) skip sampling when the client never
+# advertised the capability, and (b) hard-bound the call so it fails over to the
+# configured provider -- and finally to Pass-1 local checks -- in seconds.
+# DM_DISABLE_SAMPLING=1 forces Pass-1(+provider) only, no client sampling at all.
+_SAMPLE_TIMEOUT = float(os.environ.get("DM_SAMPLE_TIMEOUT", "8"))
+_SAMPLING_DISABLED = os.environ.get("DM_DISABLE_SAMPLING", "").strip().lower() in (
+    "1", "true", "yes", "on")
+
 async def _sampling_pass2_violations(narrative: str, ctx: str, pc: str):
     """Pass-2 on the CLIENT'S OWN model via MCP sampling (same model as Pass-1,
-    no server key). Returns a list of violations, or None if the client can't sample."""
+    no server key). Returns a list of violations, or None if the client can't /
+    won't sample -- the caller then falls back to the configured provider, and
+    finally to Pass-1 local checks only."""
+    if _SAMPLING_DISABLED:
+        return None
     try:
         session = server.request_context.session
     except Exception:
         return None
+    # If the client positively did NOT advertise the 'sampling' capability, don't
+    # even try -- a createMessage to a client that can't answer it just hangs.
     try:
-        result = await session.create_message(
-            messages=[types.SamplingMessage(
-                role="user",
-                content=types.TextContent(
-                    type="text",
-                    text=_validator.pass2_user_input(narrative, ctx, pc)))],
-            system_prompt=_validator.pass2_system_prompt(),
-            max_tokens=600,
-            temperature=0.0,
+        cp = getattr(session, "client_params", None)
+        caps = getattr(cp, "capabilities", None) if cp is not None else None
+        if caps is not None and getattr(caps, "sampling", None) is None:
+            return None
+    except Exception:
+        pass
+    try:
+        result = await asyncio.wait_for(
+            session.create_message(
+                messages=[types.SamplingMessage(
+                    role="user",
+                    content=types.TextContent(
+                        type="text",
+                        text=_validator.pass2_user_input(narrative, ctx, pc)))],
+                system_prompt=_validator.pass2_system_prompt(),
+                max_tokens=600,
+                temperature=0.0,
+            ),
+            timeout=_SAMPLE_TIMEOUT,
         )
     except Exception:
-        return None  # client declined / no sampling capability -> caller falls back
+        return None  # timeout / declined / no sampling -> caller falls back
     text = ""
     content = getattr(result, "content", None)
     if content is not None:
