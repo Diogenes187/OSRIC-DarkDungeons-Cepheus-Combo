@@ -70,6 +70,55 @@ def test_charisma_flows_into_price():
     assert cb["price_per_ton"] > 0 and db["price_per_ton"] > 0
 
 
+def test_sell_goods_dry_run_quotes_without_mutating():
+    t = _trader(cha=16)
+    t.set_vessel("Faelith", "Wagon")
+    t.buy_goods("Faelith", "Mead", 2, "Agricultural")
+    gold_before = t.get_cargo("Faelith")["gold"]
+    tons_before = t.get_cargo("Faelith")["total_tons"]
+    # Quote the sale: returns price/profit but must change nothing.
+    quote = t.sell_goods("Faelith", "Mead", 2, "Mining, Frontier", dry_run=True)
+    assert "error" not in quote
+    assert quote["dry_run"] is True
+    assert quote["revenue"] > 0 and "profit" in quote
+    assert t.get_cargo("Faelith")["gold"] == gold_before          # gold untouched
+    assert t.get_cargo("Faelith")["total_tons"] == tons_before    # cargo untouched
+    # The real sale yields the IDENTICAL numbers (pricing is deterministic)...
+    real = t.sell_goods("Faelith", "Mead", 2, "Mining, Frontier")
+    assert real["price_per_ton"] == quote["price_per_ton"]
+    assert real["revenue"] == quote["revenue"]
+    assert real["profit"] == quote["profit"]
+    assert "dry_run" not in real                                  # real output unchanged
+    # ...and only the real sale mutates.
+    assert t.get_cargo("Faelith")["total_tons"] == 0
+    assert t.get_cargo("Faelith")["gold"] == gold_before + real["revenue"]
+
+
+def test_sell_market_quotes_all_cargo_without_mutating():
+    t = _trader(cha=16)
+    t.set_vessel("Faelith", "Wagon")               # 2 tons
+    t.buy_goods("Faelith", "Mead", 1, "Agricultural")
+    t.buy_goods("Faelith", "Grain", 1, "Agricultural")
+    gold_before = t.get_cargo("Faelith")["gold"]
+    tons_before = t.get_cargo("Faelith")["total_tons"]
+    q = t.sell_market("Faelith", "Mining, Frontier")
+    assert "error" not in q
+    assert q["dry_run"] is True
+    assert {r["good"] for r in q["cargo_quotes"]} == {"Mead", "Grain"}
+    for r in q["cargo_quotes"]:
+        assert r["tons_held"] == 1 and r["sell_price_per_ton"] > 0
+        assert r["gross_sale_if_all_sold"] == r["sell_price_per_ton"] * r["tons_held"]
+        assert (r["total_profit_if_all_sold"]
+                == r["gross_sale_if_all_sold"] - r["buy_price_per_ton"] * r["tons_held"])
+        # A whole-hold quote must match the per-good sell_goods dry-run number.
+        sg = t.sell_goods("Faelith", r["good"], r["tons_held"],
+                          "Mining, Frontier", dry_run=True)
+        assert sg["price_per_ton"] == r["sell_price_per_ton"]
+    # Nothing changed.
+    assert t.get_cargo("Faelith")["gold"] == gold_before
+    assert t.get_cargo("Faelith")["total_tons"] == tons_before
+
+
 if __name__ == "__main__":
     for name, fn in sorted(globals().items()):
         if name.startswith("test_") and callable(fn):

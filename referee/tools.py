@@ -1934,7 +1934,20 @@ class RefereeTools:
                 "gold": (row["gold"] or 0) - cost, "cargo_tons": used + tons}
 
     def sell_goods(self, trader: str, good: str, tons: int,
-                   economies: Optional[str] = None) -> Dict[str, Any]:
+                   economies: Optional[str] = None,
+                   dry_run: bool = False) -> Dict[str, Any]:
+        """Sell a trader's cargo at the local economy.
+
+        dry_run=False (default): the original behaviour -- removes the sold
+        cargo, adds the gold, and reports profit (one DB write + commit).
+
+        dry_run=True: a QUOTE. Computes the identical price/revenue/profit that
+        a real sale would yield -- same Charisma haggle, same town economy, same
+        buy-basis and tonnage -- but mutates NOTHING: cargo, gold, market, the
+        snapshot version (=event count), and the chronicle are all untouched.
+        Drift is impossible: the sale price comes from the same pure
+        trade.sale_price() used by the live sale.
+        """
         row = self._find_char(trader)
         if not row:
             return {"error": "no character named {}".format(trader)}
@@ -1950,9 +1963,11 @@ class RefereeTools:
         if not q:
             return {"error": "no trade good '{}'".format(good)}
         revenue = q.price_per_ton * int(tons)
-        # remove tons (and track cost basis for profit)
+        # Compute the post-sale cargo and the cost basis for profit. Work on a
+        # COPY so a dry-run can never disturb the trader's real hold.
+        working = [dict(c) for c in cargo]
         remaining, basis = int(tons), 0
-        for c in list(cargo):
+        for c in list(working):
             if remaining <= 0:
                 break
             if c["good"].lower() == good.lower():
@@ -1961,14 +1976,72 @@ class RefereeTools:
                 c["tons"] -= take
                 remaining -= take
                 if c["tons"] <= 0:
-                    cargo.remove(c)
+                    working.remove(c)
+        result = {"trader": trader, "sold": good, "tons": int(tons),
+                  "price_per_ton": q.price_per_ton, "revenue": revenue,
+                  "profit": revenue - basis,
+                  "gold": (row["gold"] or 0) + revenue}
+        if dry_run:
+            # Quote only -- the numbers above are exact, but persist nothing.
+            result["dry_run"] = True
+            result["economies"] = econs
+            if _place:
+                result["at"] = _place
+            return result
         self.repo.conn.execute(
             "UPDATE character SET gold=?, cargo_json=? WHERE id=?",
-            ((row["gold"] or 0) + revenue, json.dumps(cargo), row["id"]))
+            ((row["gold"] or 0) + revenue, json.dumps(working), row["id"]))
         self.repo.conn.commit()
-        return {"trader": trader, "sold": good, "tons": int(tons),
-                "price_per_ton": q.price_per_ton, "revenue": revenue,
-                "profit": revenue - basis, "gold": (row["gold"] or 0) + revenue}
+        return result
+
+    def sell_market(self, trader: str,
+                    economies: Optional[str] = None) -> Dict[str, Any]:
+        """Quote-only sell-side preview (the sell mirror of market_goods).
+
+        Returns what EVERY good in the trader's hold would fetch at the current
+        (or supplied) economy -- buy basis, sell price/ton, gross, and profit --
+        so the player can inspect offers before committing. Mutates nothing: no
+        cargo, gold, market, snapshot, or chronicle change. Prices come from the
+        same pure trade.sale_price() the live sell uses, so a quote can't drift.
+        """
+        row = self._find_char(trader)
+        if not row:
+            return {"error": "no character named {}".format(trader)}
+        economies, _place = self._resolve_economies(economies)
+        if not economies:
+            return {"error": "No economy known for the party location. Pass economies, or set_party_position onto a mapped settlement (add_location auto-derives an economy from kind/terrain)."}
+        econs = self._econs(economies)
+        cha = row["cha_score"] or 10
+        cargo = json.loads(row["cargo_json"] or "[]") if "cargo_json" in row.keys() else []
+        # Pool identical goods (weighting the buy basis by tons) so each good is
+        # quoted once even if it was bought in several lots.
+        pooled: Dict[str, Dict[str, float]] = {}
+        for c in cargo:
+            p = pooled.setdefault(c["good"], {"tons": 0, "basis": 0.0})
+            p["tons"] += c["tons"]
+            p["basis"] += c["tons"] * c.get("buy_price", 0)
+        quotes = []
+        for good, p in pooled.items():
+            q = trade_mod.sale_price(self.dice, good, econs, cha)
+            if not q:
+                continue
+            tons = p["tons"]
+            buy_per_ton = round(p["basis"] / tons) if tons else 0
+            gross = q.price_per_ton * tons
+            quotes.append({
+                "good": good,
+                "tons_held": tons,
+                "buy_price_per_ton": buy_per_ton,
+                "sell_price_per_ton": q.price_per_ton,
+                "gross_sale_if_all_sold": gross,
+                "profit_per_ton": q.price_per_ton - buy_per_ton,
+                "total_profit_if_all_sold": gross - round(p["basis"]),
+            })
+        out = {"trader": trader, "economies": econs,
+               "cargo_quotes": quotes, "dry_run": True}
+        if _place:
+            out["at"] = _place
+        return out
 
     def get_cargo(self, trader: str) -> Dict[str, Any]:
         row = self._find_char(trader)
@@ -3063,9 +3136,18 @@ def specs() -> List[Dict[str, Any]]:
           "capacity).", {"trader": S, "good": S, "tons": I, "economies": S},
           ["trader", "good", "tons"]),
         t("sell_goods", "Sell a trader's cargo at the local economy -- prices use "
-          "Charisma; adds gold and reports profit.",
-          {"trader": S, "good": S, "tons": I, "economies": S},
+          "Charisma; adds gold and reports profit. Pass dry_run=true to QUOTE "
+          "only: returns the exact same price/revenue/profit a real sale would "
+          "yield while changing nothing (no cargo, gold, market, snapshot, or "
+          "chronicle change).",
+          {"trader": S, "good": S, "tons": I, "economies": S,
+           "dry_run": {"type": "boolean"}},
           ["trader", "good", "tons"]),
+        t("sell_market", "Quote-only sell-side preview (the sell mirror of "
+          "market_goods): what every good in a trader's hold would fetch at the "
+          "current (or given) economy -- buy basis, sell price/ton, gross, and "
+          "profit. Inspect offers before committing; mutates nothing.",
+          {"trader": S, "economies": S}, ["trader"]),
         t("get_cargo", "Show a trader's cargo, total tonnage, and vessel capacity.",
           {"trader": S}, ["trader"]),
         t("list_titles", "The nobility ladder (Knight -> Emperor): what each "
